@@ -1,0 +1,145 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium",
+  "items": [
+    {
+      "UUID": "033230cf-3534-40b5-8ea1-f1545caa9209",
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for doors (anodized)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "FEAL d.o.o.",
+      "Register Number": "EPD-FAP-57.0",
+      "Reference Quantity": "1",
+      "Reference": "m",
+      "Density (kg/m3)": "726.06"
+    },
+    {
+      "UUID": "13acb533-34ff-45a4-942d-7e2adc53d639",
+      "Name": "Roof flashing - Roto Frank - Designo roof flashing for recessed installation",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RED-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "13.126"
+    },
+    {
+      "UUID": "1c52eac7-dfa2-4050-963c-061527558bcf",
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for windows (anodized)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "FEAL d.o.o.",
+      "Register Number": "EPD-FAP-57.0",
+      "Reference Quantity": "1",
+      "Reference": "m",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "4dbf5c48-7445-4fdb-be1f-94614ce872fa",
+      "Name": "Roof flashing - Roto Frank - Designo roof flashing for standard installation",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RED-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.015"
+    },
+    {
+      "UUID": "6e32e0ee-d5f1-45eb-97cf-5b0f5352e79f",
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for windows (blank)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "FEAL d.o.o.",
+      "Register Number": "EPD-FAP-57.0",
+      "Reference Quantity": "1",
+      "Reference": "m",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "777e13ee-a0b5-4cef-82d4-5c5d6b28db0f",
+      "Name": "Aluminium wing sash profile, powder coated",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "8fcbc054-8f2d-43a7-9a44-1a490fbfcf96",
+      "Name": "Roof flashing - Roto Frank - RotoQ roof flashing for standard installation",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-REQ-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.456"
+    },
+    {
+      "UUID": "b0544ff7-dd7c-46ac-b5e2-8530c52f7950",
+      "Name": "ALWI-S Profile System",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Systea GmbH",
+      "Register Number": "EPD-SYS-20220089-CBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.85"
+    },
+    {
+      "UUID": "c0068838-fc05-4cfe-a9cb-d80c17137eaf",
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for facades (anodized)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "FEAL d.o.o.",
+      "Register Number": "EPD-FAP-57.0",
+      "Reference Quantity": "1",
+      "Reference": "m",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "cb8c6f43-c2f4-4d72-a716-927a36c75ca6",
+      "Name": "Roof flashing - Roto Frank - RotoQ roof flashing for recessed installation",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-REQ-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.554"
+    },
+    {
+      "UUID": "d0e0f205-2f4d-4c7f-b63a-23a9abd6e60a",
+      "Name": "Aluminium frame profile, powder coated",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "ddbe075c-7cf0-41bb-a366-c33ad358bd2c",
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for facades (blank)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "FEAL d.o.o.",
+      "Register Number": "EPD-FAP-57.0",
+      "Reference Quantity": "1",
+      "Reference": "m",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "e9be77fc-8a29-40f9-b8f7-105606f279d2",
+      "Name": "ST PRO Green RC",
+      "Standard Conformity": "'DIN EN 15804' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210083-IBI1-EN",
+      "Reference Quantity": "4.07",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "56.03"
+    }
+  ]
+}

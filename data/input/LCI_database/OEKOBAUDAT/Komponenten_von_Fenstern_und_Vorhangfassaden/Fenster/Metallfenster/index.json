@@ -1,0 +1,160 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fenster / Metallfenster",
+  "items": [
+    {
+      "UUID": "02c77d20-8370-47db-8c30-a448a290ebc9",
+      "Name": "Windows - heroal-Johann Henkenjohann GmbH & Co. KG - W72 Aluminium window-additional systems (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAF-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "39.0"
+    },
+    {
+      "UUID": "19ca78fb-6c45-4e47-9d20-0abc601fb306",
+      "Name": "Windows - VFF - Steel windows",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-FE-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "38.7"
+    },
+    {
+      "UUID": "2b58ef09-a4cd-42e3-9f90-08fe6e905211",
+      "Name": "Windows - heroal-Johann Henkenjohann GmbH & Co. KG - W77 Aluminium window (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAF-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "44.02"
+    },
+    {
+      "UUID": "38a17e37-f623-4960-b46e-341fdcadee3c",
+      "Name": "Windows - heroal-Johann Henkenjohann GmbH & Co. KG - Aluminium lifting-sliding door / -PSK (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAF-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "40.0"
+    },
+    {
+      "UUID": "430bc64e-bda6-44bb-87f0-53c2dbe562cf",
+      "Name": "Janisol window width x height: 1230mm x 1480mm",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "JANSEN AG",
+      "Register Number": "EPD-JAN-20230539-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "47.69"
+    },
+    {
+      "UUID": "6c0b7739-2399-41e5-ab5e-beef6a297230",
+      "Name": "Windows - Solarlux GmbH - Sliding door system (SL200a) Cero IIIa",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Solarlux GmbH",
+      "Register Number": "EPD-SGS-63.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "62.94"
+    },
+    {
+      "UUID": "896b1257-8f2b-4d5d-a16b-835e20c88f63",
+      "Name": "Windows - heroal-Johann Henkenjohann GmbH & Co. KG - Aluminium sliding doors (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAF-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "14.83"
+    },
+    {
+      "UUID": "8e083988-b4dd-45f2-8248-f52e49c48f5c",
+      "Name": "Lift and slide element - VFF - Aluminium lift and slide element",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-ALF-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "44.31"
+    },
+    {
+      "UUID": "9d4f352c-89a1-4c04-946a-d388fe1a4d37",
+      "Name": "Windows - heroal-Johann Henkenjohann GmbH & Co. KG - W72 / W65 Aluminium windows (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAF-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "35.45"
+    },
+    {
+      "UUID": "b009bb3b-544a-4811-bbe8-7c33afd1cf57",
+      "Name": "Windows - Solarlux GmbH - Glass folding wall system (SL320) Highline",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Solarlux GmbH",
+      "Register Number": "EPD-SGS-63.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "29.04"
+    },
+    {
+      "UUID": "c49f4781-71c6-433e-a95b-dee12efd923c",
+      "Name": "Windows - Solarlux GmbH - All-glass system (SL23) Proline S mega",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Solarlux GmbH",
+      "Register Number": "EPD-SGS-63.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "34.54"
+    },
+    {
+      "UUID": "cd94af0f-70e8-4926-9d51-d3d4bfcde12c",
+      "Name": "Janisol Arte 66 window width x height: 1230mm x 1480mm",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "JANSEN AG",
+      "Register Number": "EPD-JAN-20230115-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "47.69"
+    },
+    {
+      "UUID": "d37635ad-8fa2-4454-ab14-e537d74d257f",
+      "Name": "Windows - VFF - Aluminium windows",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-ALF-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "35.97"
+    },
+    {
+      "UUID": "d7d8d999-642b-4102-9588-b8f07cf51b3d",
+      "Name": "Janisol HI window width x height: 1230 mm x 1480 mm",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "JANSEN AG",
+      "Register Number": "EPD-JAN-20230538-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "47.69"
+    }
+  ]
+}

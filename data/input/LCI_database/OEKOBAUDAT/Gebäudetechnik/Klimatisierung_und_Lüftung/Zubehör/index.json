@@ -1,0 +1,46 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Klimatisierung und Lüftung / Zubehör",
+  "items": [
+    {
+      "UUID": "19386b21-ca9d-48d4-bc27-af87e29e2216",
+      "Name": "Electromechanical accessories - SIEGENIA-AUBI KG - Smarter Sensor",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "SIEGENIA-AUBI KG",
+      "Register Number": "EPD-SMS-75.0.01",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "40edb030-3b81-47f6-a24f-acd8b2be0d20",
+      "Name": "Air ventilation duct (zinc coated steel plate)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "68085831-480f-409d-92ab-62620ae79db6",
+      "Name": "GreenWeave textile-based ventilation duct",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DK",
+      "Declaration owner": "KE Fibertec AS",
+      "Register Number": "EPD-KEF-20230265-CBI1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "500.0"
+    },
+    {
+      "UUID": "d741f800-3177-4681-8095-c21f67a6d0d8",
+      "Name": "EKM90 smoke control damper",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Wildeboer Bauteile GmbH",
+      "Register Number": "EPD-WIL-20230374-ICA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

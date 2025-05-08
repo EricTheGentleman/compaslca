@@ -1,0 +1,60 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Polyethylen / Schaum",
+  "items": [
+    {
+      "UUID": "0347f3ef-4113-4ae9-987f-6f3b324f35c7",
+      "Name": "Hilti CFS-F FX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hilti Aktiengesellschaft",
+      "Register Number": "EPD-HIL-20220211-ICA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1260.0"
+    },
+    {
+      "UUID": "04ca6da2-fdae-405b-9555-ac5e30eb0e09",
+      "Name": "flexen® PE-Stabil",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Adolf Würth GmbH & Co. KG",
+      "Register Number": "EPD-AWU-20230268-IBD1",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "26.7"
+    },
+    {
+      "UUID": "17563d7b-443c-4c1b-84f9-27026241c0b9",
+      "Name": "ArmaPET® Eco50",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell International S.A.",
+      "Register Number": "EPD-ARM-20220389-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "50.0"
+    },
+    {
+      "UUID": "52ac8701-d612-4cc9-8037-b2dc2a293a8c",
+      "Name": "Polyethylene foam",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "6ca63b96-d2a5-44d7-85e3-8455d5b6d1a4",
+      "Name": "flexen® Exzenterblock Compact",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Adolf Würth GmbH & Co. KG",
+      "Register Number": "EPD-AWU-20230267-IBD1",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "34.3"
+    }
+  ]
+}

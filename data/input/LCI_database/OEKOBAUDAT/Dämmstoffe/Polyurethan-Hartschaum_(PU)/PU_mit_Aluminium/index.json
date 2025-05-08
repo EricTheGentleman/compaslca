@@ -1,0 +1,42 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Polyurethan-Hartschaum (PU) / PU mit Aluminium",
+  "items": [
+    {
+      "UUID": "4422fe10-3535-464e-8ff7-58834e62125c",
+      "Name": "Therma? TW56",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230171-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "7.86",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "a23d27be-50e8-47ea-b74c-34e46efd2f44",
+      "Name": "Therma? TR26 / Therma? TT46",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20220298-LT1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "be09780b-8683-47b2-8ee3-b06fde74caff",
+      "Name": "Therma? TW58",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230169-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    }
+  ]
+}

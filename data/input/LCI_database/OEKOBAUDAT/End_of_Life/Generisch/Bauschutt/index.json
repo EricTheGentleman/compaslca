@@ -1,0 +1,33 @@
+{
+  "type": "materials",
+  "path": "End of Life / Generisch / Bauschutt",
+  "items": [
+    {
+      "UUID": "16d08b28-16ca-4918-882f-a3fe11055cb4",
+      "Name": "Inert matter landfill",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "9c1b485e-c801-42ad-bb59-fe209392fc98",
+      "Name": "Construction rubble landfill",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "a28ca150-de06-4a99-9b8e-6dbb381f69e1",
+      "Name": "Construction rubble processing",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

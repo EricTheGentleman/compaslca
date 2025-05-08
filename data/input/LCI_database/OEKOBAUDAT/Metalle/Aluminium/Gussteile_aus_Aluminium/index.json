@@ -1,0 +1,103 @@
+{
+  "type": "materials",
+  "path": "Metalle / Aluminium / Gussteile aus Aluminium",
+  "items": [
+    {
+      "UUID": "30815c46-9429-48ca-8bd1-fd8a30f00ddc",
+      "Name": "Aluminum slugs",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Aluminium-Werke Wutöschingen AG & Co. KG",
+      "Register Number": "EPD-AWW-20230266-IBA2-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2699.0"
+    },
+    {
+      "UUID": "4c2b6d04-f4a7-48b6-90f5-2ce837daad7d",
+      "Name": "Semi-finished products in the form of bars, tubes and profiles (unprocessed)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Aluminium-Werke Wutöschingen AG & Co. KG",
+      "Register Number": "EPD-AWW-20230486-IBA2-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2699.0"
+    },
+    {
+      "UUID": "682a260a-06da-40c4-9e54-b2ffd7486427",
+      "Name": "Aluminium extrusion billets",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Höfer Metall Technik GmbH & Co KG",
+      "Register Number": "EPD-HFE-20220035-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "73fe502b-8a80-4885-a151-2b99e5bc2fb1",
+      "Name": "Components (profiles processed)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Aluminium-Werke Wutöschingen AG & Co. KG",
+      "Register Number": "EPD-AWW-20230485-IBA2-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2699.0"
+    },
+    {
+      "UUID": "760d418e-fb91-469a-9316-aa38a7e98a82",
+      "Name": "connecting technology - Viega - PureFlow Press",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VPF-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "d6736232-1016-46ab-a3f7-acade10da5d3",
+      "Name": "Aluminium billets",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Aluminium GmbH Nachrodt",
+      "Register Number": "EPD-ALU-20210069-IBB1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "d9bfad25-c581-4fe3-b5e3-171ddb59c808",
+      "Name": "4.3.03 Aluminium die-cast parts",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "e79c0209-9df4-41b0-a449-01cc40ee37a2",
+      "Name": "Forging stock",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Aluminium-Werke Wutöschingen AG & Co. KG",
+      "Register Number": "EPD-AWW-20230487-IBA2-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2699.0"
+    },
+    {
+      "UUID": "edaa8643-82ac-4661-a163-dbd020e142ba",
+      "Name": "Aluminum slugs from circuit boards",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Aluminium-Werke Wutöschingen AG & Co. KG",
+      "Register Number": "EPD-AWW-20230489-IBA2-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2699.0"
+    }
+  ]
+}

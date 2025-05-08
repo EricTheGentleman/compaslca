@@ -1,0 +1,139 @@
+{
+  "type": "materials",
+  "path": "Holz / Vollholz / Bau-Schnittholz",
+  "items": [
+    {
+      "UUID": "0b87961e-ea66-4757-b483-229ece59cb97",
+      "Name": "Timber pine (generic, 12% moisture / 10.7% H2O content)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "548.8"
+    },
+    {
+      "UUID": "1121ded4-ec6e-4e09-b4ce-9410b5325688",
+      "Name": "Rubner Sawn Timber, Rubner Sawn Timber kiln dried, Rubner Sawn Timber machine graded",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "Rubner Holding AG - S.p.A.",
+      "Register Number": "EPD-RUB-20230228-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "459.0"
+    },
+    {
+      "UUID": "1549fb80-44c7-42b3-a806-124206bff53d",
+      "Name": "EGGER timber",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20200248-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "365.0"
+    },
+    {
+      "UUID": "17bcb2ce-39fd-400b-baf9-370c63589efd",
+      "Name": "Timber oak (generic, 12% moisture / 10.7% H2O content)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "716.8"
+    },
+    {
+      "UUID": "2bd4c91f-16e5-4e01-b8b5-0c01aac363ce",
+      "Name": "Coniferous lumber - kiln dried (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "484.51"
+    },
+    {
+      "UUID": "4dadfb92-ba5d-48de-bb7b-394c28911a90",
+      "Name": "Planed coniferous lumber (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "485.31"
+    },
+    {
+      "UUID": "67b6c807-3924-4bc5-b983-6aeff6537e45",
+      "Name": "Timber beech (generic, 12% moisture / 10.7% H2O content)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "739.2"
+    },
+    {
+      "UUID": "8bed6eec-b795-4585-b036-77f4344c1cf9",
+      "Name": "Timber cedar (generic, 12% moisture / 10.7% H2O content)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "571.0"
+    },
+    {
+      "UUID": "95f55387-dc02-4c7f-96f1-8fcb3ed86185",
+      "Name": "Sapelli Kiln Dried Timber",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Olam Agri - Congolaise Industrielle des Bois",
+      "Register Number": "EPD-CON-20230314-LT1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "690.0"
+    },
+    {
+      "UUID": "9f6cf0e4-7455-4c31-a99f-552926c4040e",
+      "Name": "Timber larch (generic, 12% moisture / 10.7% H2O content)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "660.8"
+    },
+    {
+      "UUID": "c8f1d599-b130-4ea0-b0fb-9da088e7c061",
+      "Name": "Coniferous lumber - fresh (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "674.74"
+    },
+    {
+      "UUID": "e131431f-4d99-4d7a-ae0a-744a06de3524",
+      "Name": "Hardwood lumber - kiln dried (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "761.6"
+    },
+    {
+      "UUID": "f00557bd-5b73-4624-8c7b-834db8e8b106",
+      "Name": "Timber spruce (generic, 12% moisture / 10.7% H2O content)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "481.6"
+    }
+  ]
+}

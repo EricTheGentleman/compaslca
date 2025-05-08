@@ -1,0 +1,94 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Calciumsilikat / Calcium-Silikathydrat / Calciumsilikat",
+  "items": [
+    {
+      "UUID": "129f826b-d300-47ca-b81f-69dd1372496b",
+      "Name": "PROMATECT®?H",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20230130-IBA2-EN",
+      "Reference Quantity": "21.2",
+      "Reference": "kg",
+      "Density (kg/m3)": "1058.0"
+    },
+    {
+      "UUID": "2e9ece0e-96c6-45ba-b66e-d6d720fe4dcb",
+      "Name": "PROMATECT®-H RWS/HCM",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20230131-IBA2-EN",
+      "Reference Quantity": "30.1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1095.0"
+    },
+    {
+      "UUID": "303beed8-4b9d-4de2-aa97-bc4a77f635f7",
+      "Name": "WINDPANEL Standard and WINDPANEL Premium",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20230132-IBA5-EN",
+      "Reference Quantity": "8.6",
+      "Reference": "kg",
+      "Density (kg/m3)": "1078.0"
+    },
+    {
+      "UUID": "60b31769-fae7-4d5d-ae00-ad5a6a39468a",
+      "Name": "Promatect-MST®, Promatect-MT®, Promarine 450T®, Promarine 640T®, Supalux M1®, Vermiculux T®, Promatect-MLT®, Promasil® 1100 Super and Promasil® 1000L",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20230253-IBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "36.58",
+      "Density (kg/m3)": "750.0"
+    },
+    {
+      "UUID": "96cd2531-1d74-4b36-b0f4-74caad8d085d",
+      "Name": "MASTERBOARD®",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20230128-IBA2-EN",
+      "Reference Quantity": "16.2",
+      "Reference": "kg",
+      "Density (kg/m3)": "1078.0"
+    },
+    {
+      "UUID": "a03ff232-bddf-44ca-b05a-dcc4f8841bb1",
+      "Name": "SUPALUX®",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20230129-IBA2-EN",
+      "Reference Quantity": "12.9",
+      "Reference": "kg",
+      "Density (kg/m3)": "1073.0"
+    },
+    {
+      "UUID": "ad750582-1987-46da-ac51-b309afa38169",
+      "Name": "Microporous calcium silicate thermal insulation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Silca Service- und Vertriebsgesellschaft für Dämmstoffe mbH",
+      "Register Number": "EPD-CAL-20240411-IBC1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "259.0"
+    },
+    {
+      "UUID": "af3510f4-3c5d-45a4-8162-16df43aaca34",
+      "Name": "Calcium silicate board",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "225.0"
+    }
+  ]
+}

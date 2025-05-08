@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Holz / Holzwerkstoffe / OSB-Platte",
+  "items": [
+    {
+      "UUID": "22527f3b-5985-41a7-8028-655142979cfd",
+      "Name": "Oriented Strand Board (OSB)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "Kronospan Luxembourg S.A.",
+      "Register Number": "EPD-KRO-20230157-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "630.0"
+    },
+    {
+      "UUID": "881736f8-1bb1-4e9f-852a-cc9a1f676343",
+      "Name": "Oriented Strand Board",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Sonae Indústria, S.G.P.S., S.A.",
+      "Register Number": "EPD-SON-20220209-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "600.0"
+    },
+    {
+      "UUID": "aab0ed28-e5b0-43d6-a932-4cdc4770c518",
+      "Name": "Oriented Strand Board (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "600.0"
+    }
+  ]
+}

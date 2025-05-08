@@ -1,0 +1,117 @@
+{
+  "type": "materials",
+  "path": "Holz / Holzwerkstoffe / Holzfaserplatten",
+  "items": [
+    {
+      "UUID": "1fe648df-fd53-4231-b43d-fcf26b20978a",
+      "Name": "Unilin Medium Density Fiberboard",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "WEU",
+      "Declaration owner": "Unilin B.V. Division Panels",
+      "Register Number": "EPD-UNI-20230378-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "637.0"
+    },
+    {
+      "UUID": "3d80fcc7-bc1a-42d1-b792-db2ff85f2417",
+      "Name": "PerfectSense Lacquered Chipboards",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20200253-IBC3-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "12.0",
+      "Density (kg/m3)": "655.0"
+    },
+    {
+      "UUID": "5a580331-75c4-43c8-b732-19fc1cc8e97a",
+      "Name": "EGGER DHF",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20200247-IBD1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "615.0"
+    },
+    {
+      "UUID": "b513a7f4-a689-4d5e-8efd-349fb25d21cb",
+      "Name": "Medium density fibreboard (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "737.5"
+    },
+    {
+      "UUID": "bdf06e12-4ed3-4f87-b935-9cbbd23a7f6d",
+      "Name": "best wood FLEX 50",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Holzwerk Gebr. Schneider GmbH",
+      "Register Number": "EPD-HWS-20230343-IBA3-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "50.0"
+    },
+    {
+      "UUID": "c2557c99-bea6-4628-b555-2ec1cd8cf8ec",
+      "Name": "High Density Fibreboard (HDF)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "Kronospan Luxembourg S.A.",
+      "Register Number": "EPD-KRO-20230156-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "889.3"
+    },
+    {
+      "UUID": "d2cc6113-5fd7-48b5-89ad-be53ccbc9fba",
+      "Name": "EGGER Eurodekor - Laminated MDF boards",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20200252-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "13.22",
+      "Density (kg/m3)": "13.22"
+    },
+    {
+      "UUID": "d8f28c30-9229-44c0-b4ae-5a425c542d89",
+      "Name": "Medium Density Fibreboard (MDF)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "Kronospan Luxembourg S.A.",
+      "Register Number": "EPD-KRO-20230159-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "716.7"
+    },
+    {
+      "UUID": "f9e715a9-fbd6-4b5d-ae78-1627cb0d0707",
+      "Name": "PerfectSense lacquered boards",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20200253-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "13.2",
+      "Density (kg/m3)": "754.3"
+    },
+    {
+      "UUID": "f9f40b59-268d-4a0b-8c80-d978ac97608f",
+      "Name": "High density fibreboard (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "849.92"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "type": "materials",
+  "path": "Komposite / Systembauteile / Decken",
+  "items": [
+    {
+      "UUID": "09e1332a-b73f-4c7e-a698-4b9b5b40f4f4",
+      "Name": "AQUAPANEL® Cement Board Rooftop 12,5 mm",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Knauf AQUAPANEL GmbH & Co. KG",
+      "Register Number": "EPD-USG-20210120-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "16.5",
+      "Density (kg/m3)": "1150.0"
+    },
+    {
+      "UUID": "30327e2f-90d3-4703-bd0f-7d610213d805",
+      "Name": "Ceiling system - HT Labor + Hospitaltechnik GmbH - Ceiling for wet room steel sheet, galvanized, powder-coated acoustics",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "HT Labor + Hospitaltechnik GmbH",
+      "Register Number": "EPD-HSD-32.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "9.0"
+    },
+    {
+      "UUID": "44502a7a-8229-421f-b12d-44719c2a026c",
+      "Name": "BRESPA-Decke Typ A26B",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-150530-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "359.043"
+    },
+    {
+      "UUID": "4febee8f-ae5d-4ed3-ada0-dbc08e94dfd7",
+      "Name": "BRESPA-Decke Typ A32V",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-158820-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "437.71"
+    },
+    {
+      "UUID": "6dfa46d3-d8e7-4fb1-9861-dc138daf2c98",
+      "Name": "BRESPA-Decke Typ A20B",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-149203-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "306.4"
+    },
+    {
+      "UUID": "73dece0a-2d2a-4b4e-aa42-88f881c051f0",
+      "Name": "BRESPA-Decke Typ A20Q",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-151681-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "354.11"
+    },
+    {
+      "UUID": "78d81405-a108-455e-b339-2dbac96dcf56",
+      "Name": "BRESPA-Decke Typ A40V",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-154142-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "527.43"
+    },
+    {
+      "UUID": "879756d8-15b1-44d7-a454-29c961b2eab7",
+      "Name": "BRESPA-Decke Typ A15B",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-143155-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "263.23"
+    },
+    {
+      "UUID": "91d4ced9-8bf9-46e6-a2d2-7903d31d4176",
+      "Name": "BRESPA-Decke Typ A26Q",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-158715-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "389.95"
+    },
+    {
+      "UUID": "9ef54bdd-092e-4ff2-8acc-999c0e895010",
+      "Name": "BRESPA-Decke Typ A22B",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "DW Systembau GmbH",
+      "Register Number": "EPD-Kiwa-EE-158821-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "326.27"
+    },
+    {
+      "UUID": "d5c7232a-0171-45c3-b81a-856961713db8",
+      "Name": "Ceiling system - HT Labor + Hospitaltechnik GmbH - Ceiling for wet room steel sheet, galvanized, powder-coated",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "HT Labor + Hospitaltechnik GmbH",
+      "Register Number": "EPD-HSD-32.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "8.0"
+    },
+    {
+      "UUID": "eaaa260d-fb03-4f31-b946-4e85e03c8341",
+      "Name": "ETFE-Membrane",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "PFEIFER Seil- und Hebetechnik GmbH",
+      "Register Number": "EPD-PFE-20220207-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.36"
+    },
+    {
+      "UUID": "f83d4ab5-b65c-4cf1-b586-0942215c08ba",
+      "Name": "AQUAPANEL® Cement Board Rooftop 6 mm",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Knauf AQUAPANEL GmbH & Co. KG",
+      "Register Number": "EPD-USG-20210121-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "9.5",
+      "Density (kg/m3)": "1250.0"
+    }
+  ]
+}

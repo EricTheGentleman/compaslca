@@ -1,0 +1,108 @@
+{
+  "type": "materials",
+  "path": "Beschichtungen / Grundierungen / Grundierungen Farben und Putze",
+  "items": [
+    {
+      "UUID": "3f46d1db-b18a-47e1-840d-e2f73c7a9bd6",
+      "Name": "Dr. Schutz® PU Sealer",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Dr. Schutz GmbH",
+      "Register Number": "EPD-Dr. Schutz-281-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1"
+    },
+    {
+      "UUID": "44eada3f-2004-48b9-8152-22cd045bc3cf",
+      "Name": "5.1.01. Dispersion plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "56251b2e-c726-476f-9eb2-4b4d8222c9cf",
+      "Name": "Waterproof, flexible protective layer under ceramic coverings",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "702f85d0-cf94-4ed5-a968-7ba106bb14e1",
+      "Name": "Dr. Schutz® UV PU Sealer",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Dr. Schutz GmbH",
+      "Register Number": "EPD-Dr. Schutz-282-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1"
+    },
+    {
+      "UUID": "849af6c4-050a-4119-9bb4-9dd64a7a86fc",
+      "Name": "Application primer emulsion, dispersion paint",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "872d0572-94df-4fba-bf44-1adb1b560425",
+      "Name": "Dr. Schutz® PU Resin Sealer",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Dr. Schutz GmbH",
+      "Register Number": "EPD-Dr. Schutz-304-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1"
+    },
+    {
+      "UUID": "b1964649-fd26-49d3-9aca-464fe807f2b2",
+      "Name": "Application primer emulsion, silicate dispersion paint",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "ba652b29-707b-49e8-98ab-508c0ddd13ff",
+      "Name": "Dr. Schutz® PU Anticolor",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Dr. Schutz GmbH",
+      "Register Number": "EPD-Dr. Schutz-279-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1"
+    },
+    {
+      "UUID": "c7de4362-de1c-4aac-a1a3-6adde996e142",
+      "Name": "Passive Purple",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "BJ",
+      "Declaration owner": "Intelligent Membranes Ltd.",
+      "Register Number": "EPD-IntelligentMembranes-249-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.7"
+    },
+    {
+      "UUID": "ef271096-b8dc-4e94-8353-50248c5d888a",
+      "Name": "Dr. Schutz® PU Color",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Dr. Schutz GmbH",
+      "Register Number": "EPD-Dr. Schutz-280-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.2"
+    }
+  ]
+}

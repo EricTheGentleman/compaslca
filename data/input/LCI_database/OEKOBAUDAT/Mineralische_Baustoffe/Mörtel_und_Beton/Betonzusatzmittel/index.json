@@ -1,0 +1,72 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Mörtel und Beton / Betonzusatzmittel",
+  "items": [
+    {
+      "UUID": "19740cf0-617e-4964-a9e4-8b29ba278a51",
+      "Name": "Mixed-in-Place (MIP) Construction material, class 230-360",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BAUER Spezialtiefbau GmbH",
+      "Register Number": "EPD-BAU-20230031-ICC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1900.0"
+    },
+    {
+      "UUID": "2c291e0b-a4e9-4c5a-a62c-df8b487545b1",
+      "Name": "Mixed-in-Place (MIP) Construction material, class 150-230",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BAUER Spezialtiefbau GmbH",
+      "Register Number": "EPD-BAU-20230030-ICC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1900.0"
+    },
+    {
+      "UUID": "7ee35cd7-7a1a-4ea2-b725-40ae5c803565",
+      "Name": "Mixed-in-Place (MIP) Construction material, class 360-520",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BAUER Spezialtiefbau GmbH",
+      "Register Number": "EPD-BAU-20230032-ICC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1900.0"
+    },
+    {
+      "UUID": "8231f9c8-fedd-46f5-aaf0-bd302324718b",
+      "Name": "Mixed-in-Place (MIP) Construction material, class 520-600",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BAUER Spezialtiefbau GmbH",
+      "Register Number": "EPD-BAU-20230033-ICC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1900.0"
+    },
+    {
+      "UUID": "9dcb5787-a6cc-46bd-903c-c34990483499",
+      "Name": "Microsit®20",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BauMineral GmbH",
+      "Register Number": "EPD-BauMineral-169-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2300.0"
+    },
+    {
+      "UUID": "c9e6023f-eee2-41e3-9178-8fcfc00ed768",
+      "Name": "Microsit®10",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BauMineral GmbH",
+      "Register Number": "EPD-BauMineral-168-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2300.0"
+    }
+  ]
+}

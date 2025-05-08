@@ -1,0 +1,31 @@
+{
+  "Material Options": [
+    {
+      "Name": "Chipboard (generic)"
+    },
+    {
+      "Name": "Cement bound particle board (generic)"
+    },
+    {
+      "Name": "Tubular particle board (German average)"
+    },
+    {
+      "Name": "Medium density fibreboard (MDF), uncoated"
+    },
+    {
+      "Name": "Particleboard, coated"
+    },
+    {
+      "Name": "EGGER Eurodekor - Melamine Faced Chipboard"
+    },
+    {
+      "Name": "Eurospan Raw Chipboard"
+    },
+    {
+      "Name": "Particle board - raw (German average)"
+    },
+    {
+      "Name": "Particle board - melamine coated (German average)"
+    }
+  ]
+}

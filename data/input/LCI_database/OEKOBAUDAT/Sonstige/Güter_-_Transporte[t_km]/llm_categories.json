@@ -1,0 +1,16 @@
+{
+  "Material Categories": [
+    {
+      "name": "Bahn"
+    },
+    {
+      "name": "Binnenschiff"
+    },
+    {
+      "name": "LKW"
+    },
+    {
+      "name": "Seeschiff"
+    }
+  ]
+}

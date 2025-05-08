@@ -1,0 +1,79 @@
+{
+  "type": "materials",
+  "path": "Beschichtungen / Innenbeschichtungen / Dispersionsklebstoffe",
+  "items": [
+    {
+      "UUID": "1d9b43c1-d3ab-44e0-922c-a0137df792c9",
+      "Name": "Dispersion-based products, group 2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "FEICA - Association of the European Adhesive and Sealant Industry",
+      "Register Number": "EPD-DBC-20220147-IBF1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "6984ad83-e349-4403-8e07-0d95195bc1d0",
+      "Name": "Fabric Tape",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Uzin Utz SE",
+      "Register Number": "EPD-UZI-20230498-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.348"
+    },
+    {
+      "UUID": "778ff18e-67fe-4aca-a44e-164de984271b",
+      "Name": "Dispersion-based products, group 1",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "FEICA - Association of the European Adhesive and Sealant Industry",
+      "Register Number": "EPD-DBC-20220146-IBF1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "897ba41b-b3c7-4637-a873-836889576865",
+      "Name": "Dispersion-based products, group 3",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "FEICA - Association of the European Adhesive and Sealant Industry",
+      "Register Number": "EPD-DBC-20220148-IBF1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "b9935c75-8f83-41f8-8185-7d00527240a5",
+      "Name": "Dispersion-based products, group 4",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "FEICA - Association of the European Adhesive and Sealant Industry",
+      "Register Number": "EPD-DBC-20220149-IBF1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "e989ee85-bc83-4e8a-b878-8dda00635cc8",
+      "Name": "Skirting Tapes",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Uzin Utz SE",
+      "Register Number": "EPD-UZI-20230497-IBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.462"
+    },
+    {
+      "UUID": "ee525479-d58b-4e87-b7ea-38d73e41807f",
+      "Name": "Film Tapes",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Uzin Utz SE",
+      "Register Number": "EPD-UZI-20230496-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.277"
+    }
+  ]
+}

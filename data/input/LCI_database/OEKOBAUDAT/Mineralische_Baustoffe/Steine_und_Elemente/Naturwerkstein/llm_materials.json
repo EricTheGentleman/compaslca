@@ -1,0 +1,22 @@
+{
+  "Material Options": [
+    {
+      "Name": "Marble slab"
+    },
+    {
+      "Name": "Natural stone slab, flexible, indoor usage, thickness 20 mm"
+    },
+    {
+      "Name": "Natural stone slab, flexible, facade (40 mm)"
+    },
+    {
+      "Name": "Natural stone slab, rigid, indoor usage (20 mm)"
+    },
+    {
+      "Name": "Natural stone slab, rigid, facade (30 mm)"
+    },
+    {
+      "Name": "Natural stone slab, rigid, outdoor usage, thickness 80 mm"
+    }
+  ]
+}

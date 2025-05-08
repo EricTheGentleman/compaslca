@@ -1,0 +1,202 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Folien und Vliese / Folien zur Abdichtung",
+  "items": [
+    {
+      "UUID": "500ed59b-8a5e-4918-81fd-6c1998a1089a",
+      "Name": "Polyfleece SX® 1000",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "an.kox GmbH",
+      "Register Number": "EPD-Kiwa-EE-157098-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.299"
+    },
+    {
+      "UUID": "504c013a-3746-42e4-a44a-dd1100f14898",
+      "Name": "Tyvek® 2506B",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20210186-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.148"
+    },
+    {
+      "UUID": "54523c49-4b74-4a58-a6ca-f03884de5327",
+      "Name": "Tyvek® Monolayer 70 (1570B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20210189-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.069"
+    },
+    {
+      "UUID": "5f0bc680-a252-46d6-a47a-a4b5a05318bc",
+      "Name": "PE foil, dimpled",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.2"
+    },
+    {
+      "UUID": "6da66fb0-0934-4937-9bdf-c26cabf60bf9",
+      "Name": "Polyfleece SX® 100",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "an.kox GmbH",
+      "Register Number": "EPD-Kiwa-EE-144962-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.779"
+    },
+    {
+      "UUID": "7f4825be-3813-49ca-bf76-176d458ba789",
+      "Name": "Tyvek® 2508B",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20210188-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.124"
+    },
+    {
+      "UUID": "80e6b8ba-a350-48c8-bf73-0c7055d46f16",
+      "Name": "Polyfleece SX® 1000 Radon",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "an.kox GmbH",
+      "Register Number": "EPD-Kiwa-EE-157100-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.698"
+    },
+    {
+      "UUID": "a3801d2d-b1bc-40aa-9233-399708507089",
+      "Name": "Polyfleece SX® 1000 Wall",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "an.kox GmbH",
+      "Register Number": "EPD-Kiwa-EE-157101-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.287"
+    },
+    {
+      "UUID": "a5ef3b54-3642-4859-a424-b5dd32d1e28a",
+      "Name": "PVB film (Trosifol®)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kuraray Europe GmbH",
+      "Register Number": "EPD-KUR-20230072-CCI1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.775"
+    },
+    {
+      "UUID": "a62070ae-099f-4ed2-9cb8-322a616ac330",
+      "Name": "Tyvek® 2507B",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20210185-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.145"
+    },
+    {
+      "UUID": "b38b2ec7-fdef-4260-a19b-97e81b8a5572",
+      "Name": "Tyvek® Monolayer 60 (1060B, 1560B, 2460B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20210183-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.058"
+    },
+    {
+      "UUID": "b5fa1f2a-86dd-48ac-8527-2148f6843587",
+      "Name": "Radon barrier_Alpha Fugt og Radonspærre",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Umaras",
+      "Register Number": "EPD-Kiwa-EE-162104-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.25"
+    },
+    {
+      "UUID": "bf9fcef5-5056-4749-9e84-fb2eeb915e57",
+      "Name": "Tyvek® Monolayer 80 (1580B, 2480B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20210184-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.081"
+    },
+    {
+      "UUID": "d6f5ff9f-d108-43e6-b949-25a295b3bf71",
+      "Name": "Tyvek® 2524B",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20210187-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.195"
+    },
+    {
+      "UUID": "ed734c48-a58f-4f92-a9f7-57631b500fdc",
+      "Name": "PE-HD with PP fleece for sealing",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.3"
+    },
+    {
+      "UUID": "f77552e5-5550-4147-b56e-2358730950d3",
+      "Name": "LIP Folie G3",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "LIP Bygningsartikler A/S",
+      "Register Number": "EPD-Kiwa-EE-000371-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.293"
+    },
+    {
+      "UUID": "f7afc095-1d7f-4457-ada0-7e7c6867c458",
+      "Name": "Bostik Tätskiktsfolie Pro LX",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BOSTIK AB",
+      "Register Number": "EPD-Kiwa-EE-000370-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.203"
+    },
+    {
+      "UUID": "fb820fdf-91fd-4408-9778-5e2a655981f4",
+      "Name": "Radon barrier",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kliima",
+      "Register Number": "EPD-Kiwa-EE-163337-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.389"
+    }
+  ]
+}

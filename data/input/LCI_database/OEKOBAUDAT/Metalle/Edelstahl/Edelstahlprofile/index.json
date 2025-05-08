@@ -1,0 +1,26 @@
+{
+  "type": "materials",
+  "path": "Metalle / Edelstahl / Edelstahlprofile",
+  "items": [
+    {
+      "UUID": "719d1e69-de2f-4a35-93d5-e8c4fcdf3255",
+      "Name": "Stainless steel floor drains: Furo 142 (includes Furo 006, Furo 007, Furo 008, Furo 104, Furo 105, Furo 139, Furo 141, Furo 170)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SE",
+      "Declaration owner": "AB Furhoffs Rostfria",
+      "Register Number": "EPD-Kiwa-EE-000343-EN / EPD-Kiwa-EE-343-SE",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "9a10551e-c3e3-47b9-a024-aeadd0a79841",
+      "Name": "Stainless steel floor drains: Furo 165 (includes Furo 152, Furo 140)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SE",
+      "Declaration owner": "AB Furhoffs Rostfria",
+      "Register Number": "EPD-Kiwa-EE-000344-EN / EPD-Kiwa-EE-000344-SE",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

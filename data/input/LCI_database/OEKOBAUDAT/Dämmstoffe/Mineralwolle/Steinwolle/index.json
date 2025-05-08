@@ -1,0 +1,39 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Mineralwolle / Steinwolle",
+  "items": [
+    {
+      "UUID": "15fb59fb-085b-4d66-9240-d098e4724112",
+      "Name": "ROCKWOOL Mineral-wool insulation (low bulk density range)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Deutsche Rockwool Mineralwoll GmbH & Co. OHG",
+      "Register Number": "EPD-DRW-20240315-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "24.0"
+    },
+    {
+      "UUID": "17fd7497-26ba-4442-be48-54f83c0583de",
+      "Name": "ROCKWOOL Mineral-wool insulation (high bulk density range)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Deutsche Rockwool Mineralwoll GmbH & Co. OHG",
+      "Register Number": "EPD-DRW-20240316-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "24.0"
+    },
+    {
+      "UUID": "732dcc2d-1131-4a75-a669-e871675b5ba4",
+      "Name": "ROCKWOOL Mineral-wool insulation (medium bulk density range)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Deutsche Rockwool Mineralwoll GmbH & Co. OHG",
+      "Register Number": "EPD-DRW-20240317-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "24.0"
+    }
+  ]
+}

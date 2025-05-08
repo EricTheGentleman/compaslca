@@ -1,0 +1,302 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Folien und Vliese / Technische Textilien",
+  "items": [
+    {
+      "UUID": "072d6e2d-50a2-479d-87cf-f1e78d1f59d0",
+      "Name": "Tensar® TriAx® geogrid ? TX160",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-145-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.22"
+    },
+    {
+      "UUID": "07cac697-7f6f-4c1a-9554-7d823bf39786",
+      "Name": "Tensar® TriAx® geogrid ? TX180",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-147-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.315"
+    },
+    {
+      "UUID": "1247ef02-12ff-4641-863d-662164eb39f5",
+      "Name": "Vinyplan 6813ECO",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "FI",
+      "Declaration owner": "Oy Scantarp Ab",
+      "Register Number": "EPD-OYS-20210252-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.62"
+    },
+    {
+      "UUID": "29e0729d-13dd-496c-9f91-99d60b45c4e4",
+      "Name": "1m² of Type II technical textile",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Sioen Industries NV",
+      "Register Number": "EPD-SIO-20220324-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.9"
+    },
+    {
+      "UUID": "328bb948-cbdc-4441-b232-64eea40b285d",
+      "Name": "Enka®Grip&Drain",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Freudenberg Performance Materials B.V.",
+      "Register Number": "EPD-Kiwa-EE-170550-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.25"
+    },
+    {
+      "UUID": "3297d37a-3387-45d0-85bb-d65f2154c605",
+      "Name": "Vinyplan 6319",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "FI",
+      "Declaration owner": "Oy Scantarp Ab",
+      "Register Number": "EPD-OYS-20210251-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.7"
+    },
+    {
+      "UUID": "38a40eb5-e49d-41f9-a786-508e2da9a154",
+      "Name": "Tensar® TriAx® geogrid ? TX150",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-144-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.205"
+    },
+    {
+      "UUID": "44a74a65-6425-4b98-9a9c-3f3a89c6a6e1",
+      "Name": "ACEFormer?",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "TW",
+      "Declaration owner": "Gold-Joint Industry Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-158053-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.52"
+    },
+    {
+      "UUID": "59b9157d-c180-4c8e-a7be-d09b86e07b2d",
+      "Name": "Vinyplan H900 6770",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "FI",
+      "Declaration owner": "Oy Scantarp Ab",
+      "Register Number": "EPD-OYS-20210250-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.9"
+    },
+    {
+      "UUID": "6d265707-989e-4057-8fa0-da2a36829914",
+      "Name": "Tensar® TriAx® geogrid ? TX7",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-141-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.27"
+    },
+    {
+      "UUID": "71e11da8-bb86-4eb3-ae59-fc2f3f33333d",
+      "Name": "Tensar® TriAx® geogrid ? TX130S",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-142-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.18"
+    },
+    {
+      "UUID": "72ea0b24-e04b-43df-b64f-a7f7f4e0f757",
+      "Name": "ACETube®",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "TW",
+      "Declaration owner": "Gold-Joint Industry Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-158059-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.285"
+    },
+    {
+      "UUID": "7bb20bbf-173c-4d5b-9638-177ff4014789",
+      "Name": "Polytetrafluoroethylene foil (PTFE)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2200.0"
+    },
+    {
+      "UUID": "85618d31-aaec-4556-9fea-70fa69ae9f89",
+      "Name": "EnkaDrain® and Enka®Break",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Freudenberg Performance Materials B.V.",
+      "Register Number": "EPD-Kiwa-EE-177999-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.05"
+    },
+    {
+      "UUID": "8da465f1-4cc3-4984-b394-1df667dcc36e",
+      "Name": "Sun protection (textile)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.4"
+    },
+    {
+      "UUID": "8ebe2eda-c58f-48c0-8af4-18d81b1d195c",
+      "Name": "Tensar® TriAx® geogrid ? TX5",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-140-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.205"
+    },
+    {
+      "UUID": "96b91067-c197-4a71-bc86-dee77e6607fe",
+      "Name": "VOTEC PP Geosynthetics Vlies",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "TenCate Geosynthetics",
+      "Register Number": "EPD-STR-20210144-CBD1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.195",
+      "Density (kg/m3)": "1.0"
+    },
+    {
+      "UUID": "98775611-4588-49a7-b539-9beb7492fc4f",
+      "Name": "ACEMat?",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "TW",
+      "Declaration owner": "Gold-Joint Industry Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-158056-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.27"
+    },
+    {
+      "UUID": "a1adf5fa-1db4-4bf8-9e8b-4e944d8c2081",
+      "Name": "ACEGrid®",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "TW",
+      "Declaration owner": "Gold-Joint Industry Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-158054-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.24"
+    },
+    {
+      "UUID": "a76b254c-8958-4b45-8932-944097b77fbc",
+      "Name": "EnkaSolutions and XeroFlor vegetation carriers (Freudenberg Performance Materials B.V.)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Freudenberg Performance Materials B.V.",
+      "Register Number": "EPD-Kiwa-EE-172731-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.06"
+    },
+    {
+      "UUID": "ab3ceac3-3235-4c6f-b893-261a0735c8e0",
+      "Name": "ACETex® PP",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "TW",
+      "Declaration owner": "Gold-Joint Industry Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-158058-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.23"
+    },
+    {
+      "UUID": "af6a874f-f9af-4d6c-bbab-0e7c5cc95329",
+      "Name": "Geocomposite",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "TenCate Geosynthetics",
+      "Register Number": "EPD-TNC-20200162-CBB2-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.361"
+    },
+    {
+      "UUID": "b5c0fc71-8be7-4ded-b147-a78fbc5530d5",
+      "Name": "Tensar® TriAx® geogrid ? TX140",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-143-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.175"
+    },
+    {
+      "UUID": "beac529f-2b96-4173-97c7-d2ef9584baaf",
+      "Name": "Tensar® TriAx® geogrid ? TX170",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-146-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.27"
+    },
+    {
+      "UUID": "cf001cae-092a-48a0-beda-bdc7eeb53418",
+      "Name": "ACETex® PET",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "TW",
+      "Declaration owner": "Gold-Joint Industry Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-158168-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.32"
+    },
+    {
+      "UUID": "e411f32f-b2b5-4185-becc-869ea985cdbd",
+      "Name": "Tensar® TriAx® geogrid ? TX190L",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GB",
+      "Declaration owner": "Tensar International Limited",
+      "Register Number": "EPD-TENSAR-148-EN (Rev.1_20.05.2022)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.3"
+    },
+    {
+      "UUID": "f2558d17-3d38-4e5c-b8a1-773aac532f69",
+      "Name": "Enka®Grip",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Freudenberg Performance Materials B.V.",
+      "Register Number": "EPD-Kiwa-EE-170549-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.82"
+    }
+  ]
+}

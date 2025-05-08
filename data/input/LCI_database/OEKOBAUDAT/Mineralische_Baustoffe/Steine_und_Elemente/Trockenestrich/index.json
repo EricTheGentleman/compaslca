@@ -1,0 +1,49 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Trockenestrich",
+  "items": [
+    {
+      "UUID": "94b1c5c8-659a-4585-b0a2-4a4ffc2a64f6",
+      "Name": "Dry floor screed (gypsum fiber board, 25 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "24.07"
+    },
+    {
+      "UUID": "be06a50c-9a4a-4af7-837d-abc46d0d3da9",
+      "Name": "Dry Screed Fibreboard/Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20220091-IAG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "24.0"
+    },
+    {
+      "UUID": "f4ef6362-85e1-4aac-b263-d954d1acbcd1",
+      "Name": "Dry floor screed (gypsum plaster board, 25 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "20.07"
+    },
+    {
+      "UUID": "f6878cee-a4bd-43da-a830-c64b975cb957",
+      "Name": "DRY SCREED PLASTERBOARD / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20210341-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "20.0",
+      "Density (kg/m3)": "680.0"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Material Categories": [
+    {
+      "name": "Bitumen-Dachbahnen"
+    },
+    {
+      "name": "ECB-Dachbahnen (Ethylen-Copolymer-Bitumen)"
+    },
+    {
+      "name": "Elastomer-Dachbahnen"
+    },
+    {
+      "name": "EVA-Dachbahnen (Etylen-Vinylacetat)"
+    },
+    {
+      "name": "PIB-Dachbahnen (Polyisobutylen)"
+    },
+    {
+      "name": "PVC-Dachbahnen"
+    },
+    {
+      "name": "TPO-Dachbahnen (FPO)"
+    }
+  ]
+}

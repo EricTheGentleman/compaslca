@@ -1,0 +1,226 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Füllungen / Transparente Füllungen",
+  "items": [
+    {
+      "UUID": "11fdd0b3-1a9a-43f5-a701-40cec9935d09",
+      "Name": "Glass - Guardian Europe S.à r.l. - Coated flat glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Guardian Europe S.à r.l.",
+      "Register Number": "EPD-GFEV-19.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.5",
+      "Density (kg/m3)": "2500.0"
+    },
+    {
+      "UUID": "1fd9f4eb-e087-49ba-a09d-a5f9f7162c42",
+      "Name": "Flat glass - Bundesverband Flachglas e.V - Insulating glass unit double structure",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Bundesverband Flachglas e.V.",
+      "Register Number": "M-EPD-VMG-001000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "21.21"
+    },
+    {
+      "UUID": "44843ed7-42ef-4ac9-8be1-12bfeeacfa52",
+      "Name": "Transparent building elements - Rodeca GmbH - Light building element 60mm",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Rodeca GmbH",
+      "Register Number": "EPD-RLE-33.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.902"
+    },
+    {
+      "UUID": "49c8eca3-48f1-4875-99bf-525eaf91ac26",
+      "Name": "Transparent building elements - Rodeca GmbH - Light building element 50mm",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Rodeca GmbH",
+      "Register Number": "EPD-RLE-33.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.348"
+    },
+    {
+      "UUID": "4e6d12b9-af77-451e-a69b-d9cb499e650d",
+      "Name": "Flat glass ? PRESS GLASS Holding SA ? Float glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "PRESS GLASS Holding SA",
+      "Register Number": "EPD-FEV-61.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0"
+    },
+    {
+      "UUID": "5477ad1a-daf4-4c10-bdee-df1abe849386",
+      "Name": "Transparent building elements - Rodeca GmbH - Light building element 40mm",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Rodeca GmbH",
+      "Register Number": "EPD-RLE-33.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.837"
+    },
+    {
+      "UUID": "5b8126fe-6d23-4a60-95b1-0fb75b343398",
+      "Name": "Glass - Guardian Europe S.à r.l. - Laminated safety glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Guardian Europe S.à r.l.",
+      "Register Number": "EPD-GFEV-19.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.5",
+      "Density (kg/m3)": "2500.0"
+    },
+    {
+      "UUID": "7ca6b663-d17e-42dd-9cad-8b4df788c352",
+      "Name": "Multi- pane insulating glass (MIG, 3-pane structure) ? PRESS GLASS Holding SA ? Glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "PRESS GLASS Holding SA",
+      "Register Number": "EPD-MIG-61.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "36.58"
+    },
+    {
+      "UUID": "7d80823c-5318-4bb8-9976-533ebe3c1dd9",
+      "Name": "Multi- pane insulating glass (MIG, 3-pane structure) ? PRESS GLASS Holding SA ? Glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "PRESS GLASS Holding SA",
+      "Register Number": "EPD-MIG-61.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "25.72"
+    },
+    {
+      "UUID": "9b7f821b-e6db-450b-b23e-e41f1feab9e0",
+      "Name": "Flat glass - PRESS GLASS SA - thermally toughened safety glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "PRESS GLASS Holding SA",
+      "Register Number": "EPD-FEV-61.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "15.96"
+    },
+    {
+      "UUID": "a2b4475d-baec-4f99-a954-ea3f6c30f209",
+      "Name": "Transparent building elements - Rodeca GmbH - Light building element 30mm",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Rodeca GmbH",
+      "Register Number": "EPD-RLE-33.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.495"
+    },
+    {
+      "UUID": "a835bc20-b9fe-4112-bf74-32caa85712c8",
+      "Name": "Flat glass - Bundesverband Flachglas e.V - Thermally toughened safety glass, heat soaked thermally toughened safety glass and heat strengthened glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Bundesverband Flachglas e.V.",
+      "Register Number": "M-EPD-FEG-001000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.5"
+    },
+    {
+      "UUID": "ba58d8b9-945b-4428-b4e0-aecda8b3df18",
+      "Name": "Insulated glazing, triple pane",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "30.0"
+    },
+    {
+      "UUID": "c07b71e8-111b-4093-b8d8-a521c03c0c99",
+      "Name": "Flat glass - Bundesverband Flachglas e.V - Insulating glass unit triple structure",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Bundesverband Flachglas e.V.",
+      "Register Number": "M-EPD-VMG-001000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "31.34"
+    },
+    {
+      "UUID": "d7bf4202-d1a8-4f3e-8861-c3d78cd2bf70",
+      "Name": "Insulated glazing, double pane",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "20.5"
+    },
+    {
+      "UUID": "dcf38066-e336-46a7-b0a8-b2453dd2872d",
+      "Name": "Window glass, single",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0"
+    },
+    {
+      "UUID": "e39ded2d-dd75-492a-8a24-be3e2403adf2",
+      "Name": "Flat glass - PRESS GLASS SA - laminated safety glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "PRESS GLASS Holding SA",
+      "Register Number": "EPD-FEV-61.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "12.92"
+    },
+    {
+      "UUID": "e94dbfcc-56f2-4e55-8e0e-c2e8a2b576ae",
+      "Name": "Flat glass - Bundesverband Flachglas e.V - Float glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Bundesverband Flachglas e.V.",
+      "Register Number": "M-EPD-FEG-001000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.5"
+    },
+    {
+      "UUID": "ec8ac2c5-9c5f-4ae5-b6f2-c160e878a872",
+      "Name": "Glass - Guardian Europe S.à r.l. - Uncoated flat glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Guardian Europe S.à r.l.",
+      "Register Number": "EPD-GFEV-19.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.5",
+      "Density (kg/m3)": "2500.0"
+    },
+    {
+      "UUID": "f7f14041-760f-4984-b5ae-e5f0033f384e",
+      "Name": "Flat glass - Bundesverband Flachglas e.V - Laminated safety glass",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Bundesverband Flachglas e.V.",
+      "Register Number": "M-EPD-VMG-001000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "31.63"
+    }
+  ]
+}

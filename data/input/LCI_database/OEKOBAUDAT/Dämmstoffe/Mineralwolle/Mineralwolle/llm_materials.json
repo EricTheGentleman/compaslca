@@ -1,0 +1,40 @@
+{
+  "Material Options": [
+    {
+      "Name": "Mineral wool insulation (high bulk density range)"
+    },
+    {
+      "Name": "Mineral wool (facade insulation)"
+    },
+    {
+      "Name": "Mineral wool (flat roof insulation)"
+    },
+    {
+      "Name": "Mineral wool insulation (medium bulk density range)"
+    },
+    {
+      "Name": "Mineral wool (blowable)"
+    },
+    {
+      "Name": "Mineral wool (partition walls insulation)"
+    },
+    {
+      "Name": "Mineral wool (floor insulation)"
+    },
+    {
+      "Name": "Double skin steel faced sandwich panels with a core made of mineral wool"
+    },
+    {
+      "Name": "FFB-VS"
+    },
+    {
+      "Name": "Mineral wool (pitched roof insulation)"
+    },
+    {
+      "Name": "Mineral wool insulation (low bulk density range)"
+    },
+    {
+      "Name": "Sandwich elements with a top layer of steel on both sides and a core of mineral wool"
+    }
+  ]
+}

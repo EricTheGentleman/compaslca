@@ -1,0 +1,39 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Mineralwolle / Glaswolle",
+  "items": [
+    {
+      "UUID": "006c17a5-bfbd-4786-8c96-7546e5317f9c",
+      "Name": "SAGLAN glass wool, bonded with bio-based adhesive +A2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CH",
+      "Declaration owner": "Sager AG",
+      "Register Number": "EPD-SAR-20200274-CBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "9e1a22fd-86f4-4497-a4db-8332cfdbcf62",
+      "Name": "PIPELANE pipe sections +A2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CH",
+      "Declaration owner": "Sager AG",
+      "Register Number": "EPD-SAR-20200271-CBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "ceaaae5b-c6f1-4710-beb9-f38d0d94308c",
+      "Name": "SAGLAN glass wool, bonded with phenolic resin +A2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CH",
+      "Declaration owner": "Sager AG",
+      "Register Number": "EPD-SAR-20200270-CBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "30.0"
+    }
+  ]
+}

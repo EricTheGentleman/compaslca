@@ -1,0 +1,36 @@
+{
+  "type": "materials",
+  "path": "Komposite / Systembauteile / Dachaufbauten",
+  "items": [
+    {
+      "UUID": "4029b66c-591d-4bdf-9842-f34aa74c8f40",
+      "Name": "Green roof intensive with stainless steel railing",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "494.0"
+    },
+    {
+      "UUID": "7d3f45ad-d97f-467e-ae88-80e125400622",
+      "Name": "Green roof extensive (without stainless steel railing)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "113.0"
+    },
+    {
+      "UUID": "c07b726a-507d-4b18-a766-b54b64186174",
+      "Name": "Green roof extensive with stainless steel railing",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "116.0"
+    }
+  ]
+}

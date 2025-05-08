@@ -1,0 +1,46 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dichtmassen / Silikon",
+  "items": [
+    {
+      "UUID": "0df2514a-cf4b-4333-8402-95b889f74a4a",
+      "Name": "Silicone-based products, group 3",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "FEICA - Association of the European Adhesive and Sealant Industry",
+      "Register Number": "EPD-DBC-20220181-IBF1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "9afa2b93-96ee-406c-a445-ef091b862beb",
+      "Name": "Silicone-based products, group 2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "FEICA - Association of the European Adhesive and Sealant Industry",
+      "Register Number": "EPD-DBC-20220180-IBF1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "c5a154b1-c5af-4c43-a1a8-51113f608131",
+      "Name": "Silicone sealing compound",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1100.0"
+    },
+    {
+      "UUID": "ebacaeb0-8fa2-48c9-bba4-bd290f1a681d",
+      "Name": "Silicone-based products, group 1",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "FEICA - Association of the European Adhesive and Sealant Industry",
+      "Register Number": "EPD-DBC-20220179-IBF1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "materials",
+  "path": "Holz / Vollholz / Brettschichtholzplatte",
+  "items": [
+    {
+      "UUID": "06c6f44f-dc14-4095-8e3e-7e483eccf50c",
+      "Name": "Cross laminated timber",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Rubner Holding AG - S.p.A.",
+      "Register Number": "EPD-RUB-20230231-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "461.0"
+    },
+    {
+      "UUID": "5c536009-b0a8-4539-86c2-c3b8247f7f1a",
+      "Name": "TILLY solid wood panel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "Tilly Holzindustrie Gesellschaft m.b.H",
+      "Register Number": "EPD-TIL-20230209-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Area Weight (kg/m2)": "10.4",
+      "Density (kg/m3)": "473.0"
+    },
+    {
+      "UUID": "8c4eb262-9ae6-4ace-8f3d-0b06f2007f3e",
+      "Name": "Cross laminated timber (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "489.41"
+    }
+  ]
+}

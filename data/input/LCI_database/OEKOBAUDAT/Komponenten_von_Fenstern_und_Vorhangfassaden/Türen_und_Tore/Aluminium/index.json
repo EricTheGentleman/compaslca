@@ -1,0 +1,448 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Türen und Tore / Aluminium",
+  "items": [
+    {
+      "UUID": "01cd30b6-3b9f-4367-a41a-4518e11ec172",
+      "Name": "ST PRO Green",
+      "Standard Conformity": "'DIN EN 15804' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210082-IBI1-EN",
+      "Reference Quantity": "4.07",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "50.32"
+    },
+    {
+      "UUID": "04cc7f79-334d-4f91-87df-88a091e7563c",
+      "Name": "Door - heroal-Johann Henkenjohann GmbH & Co. KG - Front door door (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAT-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "28.42"
+    },
+    {
+      "UUID": "0672f6c1-32d3-42c1-a480-bf2fea04597c",
+      "Name": "Crane Manual Revolving Door - AL 1000/2000/3000",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230450-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "0ccfd2d1-817a-409e-88d4-b228a3db9580",
+      "Name": "Door - heroal-Johann Henkenjohann GmbH & Co. KG - Aluminium fire door (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAT-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "46.7"
+    },
+    {
+      "UUID": "0cd05abb-52fd-4b29-9190-a7a94a856254",
+      "Name": "Door - Hörmann KG Eckelhausen - Fire protection door T30",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Hörmann KG Eckelhausen",
+      "Register Number": "EPD-FRA-0.5.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.0"
+    },
+    {
+      "UUID": "1127bef3-30d4-40c0-92a6-3bbc306aebcf",
+      "Name": "Door- Hörmann KG Eckelhausen - Entrance door",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Hörmann KG Eckelhausen",
+      "Register Number": "EPD-HF-0.5.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.0"
+    },
+    {
+      "UUID": "23b3e6ef-20ff-4edd-b3d8-18ad404c3ea5",
+      "Name": "Security Revolving Door Geryon K9",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20240260-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "27324576-c801-4546-86a8-235406efed22",
+      "Name": "Exterior door - VFF - Aluminium exterior door without light cut-out",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-ALT-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "29.19"
+    },
+    {
+      "UUID": "306ce483-52f9-4f45-baf3-c4873f14d4f5",
+      "Name": "AL 401 Series Sliding Door Operator",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AU",
+      "Declaration owner": "dormakaba International Holding AG",
+      "Register Number": "EPD-DOR-20220259-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "328a2049-6692-483c-8012-2d4471d00311",
+      "Name": "ESA 400 Automatic Sliding Door",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding AG",
+      "Register Number": "EPD-DOR-20220217-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "38444b37-76cb-4ae3-80af-9de49c2b0ea5",
+      "Name": "ARGUS AIR sensor barriers",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210315-CBA8-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "3abf9075-75d1-4f86-9f22-73256e081f1a",
+      "Name": "Windows - Sky-Frame AG - Frameless sliding windows Plain powder-coated",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "CH",
+      "Declaration owner": "Sky-Frame AG",
+      "Register Number": "EPD-SFS-27.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "52.68"
+    },
+    {
+      "UUID": "4085dd2a-f8db-437a-b43b-040c31849209",
+      "Name": "EL 301 Series Sliding Door Operator",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AU",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220260-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "40e9f7ea-9258-4aea-889d-f4acc322f739",
+      "Name": "Windows - Sky-Frame AG - Frameless sliding windows Plain anodized",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "CH",
+      "Declaration owner": "Sky-Frame AG",
+      "Register Number": "EPD-SFS-27.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "51.68"
+    },
+    {
+      "UUID": "46b9a316-2df9-42e5-a57a-be488950d531",
+      "Name": "Sliding Door 50 / 50E / 50T / 50ET / 50L / 50 LT",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "KONE Corporation",
+      "Register Number": "EPD-KON-20230580-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4a4d15fd-15ce-418a-b856-bb3541fbe74d",
+      "Name": "Industrial and garage doors - ConDoor Group B.V. - Aluminum panels",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "NL",
+      "Declaration owner": "ConDoor Group B.V.",
+      "Register Number": "EPD-COD-25.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "18.17"
+    },
+    {
+      "UUID": "4a672984-6f4c-454b-a5bf-bc2146efa7cf",
+      "Name": "Automatic Revolving Door KTV A",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "BG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210285-CBA9-EN",
+      "Reference Quantity": "6.6",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "133.0"
+    },
+    {
+      "UUID": "4bd628c6-0a1f-466a-a09a-cafe514a900b",
+      "Name": "Sectional door - Lindab A/S - Sectional door LDP",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DK",
+      "Declaration owner": "Lindab A/S",
+      "Register Number": "EPD-LD-24.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "19.57"
+    },
+    {
+      "UUID": "4d45e1c4-338a-4bd4-81b2-ba028e1047dc",
+      "Name": "ESA 100-300 Automatic Sliding Door",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220211-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "53321062-f8ec-4efb-b2d2-7b12fe83623b",
+      "Name": "Windows - Sky-Frame AG - Frameless sliding windows Classic anodized",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "CH",
+      "Declaration owner": "Sky-Frame AG",
+      "Register Number": "EPD-SFS-27.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "51.06"
+    },
+    {
+      "UUID": "67e0588b-76ec-4a7b-996e-e729c8a1c723",
+      "Name": "Manual Revolving Door KTV M",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220169-CBA6-EN",
+      "Reference Quantity": "4.84",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "132.62"
+    },
+    {
+      "UUID": "6a341eb0-dc2b-4bbd-889f-cd715767f5ce",
+      "Name": "Geryon Security Revolving Door",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220167-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "6fad829b-9448-4b06-9cbf-91ee2b48901b",
+      "Name": "Door - Hörmann KG Eckelhausen - Fire protection door T90",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Hörmann KG Eckelhausen",
+      "Register Number": "EPD-FRA-0.5.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.0"
+    },
+    {
+      "UUID": "835b163b-3a44-4c9f-9fb8-9a2beb20d520",
+      "Name": "Door - heroal-Johann Henkenjohann GmbH & Co. KG - Aluminium commercial door (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HAT-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "36.13"
+    },
+    {
+      "UUID": "8c2c1af3-e1b2-4b2a-b820-31cdd5eaab33",
+      "Name": "Door - EFAFLEX Tor- und Sicherheitssysteme GmbH & Co. KG - High-speed spiral door aluminum",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "EFAFLEX Tor- und Sicherheitssysteme GmbH Co. KG",
+      "Register Number": "EPD-ESS-29.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "88.894"
+    },
+    {
+      "UUID": "8d704158-8c85-49d0-97a6-9a9ea51c3a89",
+      "Name": "Windows - Sky-Frame AG - Frameless sliding windows Classic powder-coated",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "CH",
+      "Declaration owner": "Sky-Frame AG",
+      "Register Number": "EPD-SFS-27.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "51.59"
+    },
+    {
+      "UUID": "b4505a21-9644-47a2-8166-1454e3382579",
+      "Name": "Door - Hörmann KG Eckelhausen - Smoke protection door",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Hörmann KG Eckelhausen",
+      "Register Number": "EPD-FRA-0.5.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.0"
+    },
+    {
+      "UUID": "be53f630-c2a7-4292-8aca-a40ffe3b2ac7",
+      "Name": "ARGUS V60",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230101-CBA4-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "befef99c-63b2-47cf-aecd-8f39f499c582",
+      "Name": "Folding door system 50 / 50E",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "KONE Corporation",
+      "Register Number": "EPD-KON-20230579-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c3cc1a84-4082-46b2-a12c-f3a2189cd444",
+      "Name": "Industrial and garage doors - ConDoor Group B.V. - Panel doors 80 mm",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "NL",
+      "Declaration owner": "ConDoor Group B.V.",
+      "Register Number": "EPD-COD-25.1",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "32.96"
+    },
+    {
+      "UUID": "c4d1acf6-8a7e-4c8d-a800-c950dc3090a9",
+      "Name": "Folding door system FFT FLEX Green",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230070-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c722f0c8-a769-487d-945d-d8d60caeef4d",
+      "Name": "Door - Hörmann KG Brockhagen - Industrial sectional doors in aluminium",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Hörmann KG Brockhagen",
+      "Register Number": "EPD-STA-0.3.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "27.56"
+    },
+    {
+      "UUID": "d003c6be-1977-467a-9179-8a47a1871df4",
+      "Name": "ESA 500 Automatic Sliding Door",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding AG",
+      "Register Number": "EPD-DOR-20220224-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d2c45c20-726f-45af-b960-a00126a55b75",
+      "Name": "Automatic Sliding Door ST FLEX Green",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220359-CBA4-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d37c88c8-5053-471c-b233-90fdee78044b",
+      "Name": "Exterior door - VFF - Aluminium exterior door with light cut-out",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-ALT-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "36.3"
+    },
+    {
+      "UUID": "d3f1f01b-2309-4849-8181-c61fd1148116",
+      "Name": "Rack and pinion door closer TS Match and TS Match X",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220159-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d431eaba-8fc8-489d-8c2f-bae1300765c6",
+      "Name": "Door - EFAFLEX Tor- und Sicherheitssysteme GmbH & Co. KG - High-speed turbo door aluminum",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "EFAFLEX Tor- und Sicherheitssysteme GmbH Co. KG",
+      "Register Number": "EPD-ESS-29.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "85.08"
+    },
+    {
+      "UUID": "dac6bcdf-3b9d-4fd3-96af-d32d3931f633",
+      "Name": "Crane Automatic Revolving Door - AL 1000/2000/3000",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230452-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e490936e-6003-4f93-bc6b-7ac6e75f9a80",
+      "Name": "Charon 20 - Half Height Swing Doors",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220205-CBA5-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e6040bf1-2eef-4a26-8145-acc0441e79f8",
+      "Name": "Sliding Door 30 / 30E / 30T / 30ET / 30L / 30 LT / 60 / 60L",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "KONE Corporation",
+      "Register Number": "EPD-KON-20230581-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f2100a64-5daf-4650-a3e6-b7be47036d64",
+      "Name": "Geryon Security Revolving Door",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20240049-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f26230e4-f688-49aa-b390-ba2a1eb54306",
+      "Name": "Automatic Sliding Door ST FLEX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220358-CBA4-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

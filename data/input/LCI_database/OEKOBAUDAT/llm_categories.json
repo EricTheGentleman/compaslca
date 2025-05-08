@@ -1,0 +1,37 @@
+{
+  "Material Categories": [
+    {
+      "name": "Beschichtungen"
+    },
+    {
+      "name": "Dämmstoffe"
+    },
+    {
+      "name": "End of Life"
+    },
+    {
+      "name": "Gebäudetechnik"
+    },
+    {
+      "name": "Holz"
+    },
+    {
+      "name": "Komponenten von Fenstern und Vorhangfassaden"
+    },
+    {
+      "name": "Komposite"
+    },
+    {
+      "name": "Kunststoffe"
+    },
+    {
+      "name": "Metalle"
+    },
+    {
+      "name": "Mineralische Baustoffe"
+    },
+    {
+      "name": "Sonstige"
+    }
+  ]
+}

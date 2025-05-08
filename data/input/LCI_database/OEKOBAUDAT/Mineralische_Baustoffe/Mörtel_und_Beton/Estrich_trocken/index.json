@@ -1,0 +1,68 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Mörtel und Beton / Estrich trocken",
+  "items": [
+    {
+      "UUID": "3abc810c-ef3a-4ab4-b6d8-0217716e213e",
+      "Name": "Calcium sulfate screed",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1500.0"
+    },
+    {
+      "UUID": "83514986-e053-4b4b-9570-c04f37babb24",
+      "Name": "Synthetic resin screed",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "86d919ee-8f30-4ca4-9b7e-717aecba6ac0",
+      "Name": "Cement screed",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2400.0"
+    },
+    {
+      "UUID": "cc7fcddd-8dcd-4a08-a04b-e7f64c93afa5",
+      "Name": "Light screed floor: PAVI LIGHT",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-342-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "680.0"
+    },
+    {
+      "UUID": "efb9b0b4-1e06-46aa-9398-06f5537016ae",
+      "Name": "Screed Mortar - Calcium Sulphate Screed",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Verband für Dämmsysteme, Putz und Mörtel e.V. (VDPM)",
+      "Register Number": "EPD-VDP-20230397-IBO1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1500.0"
+    },
+    {
+      "UUID": "fe371be5-c72f-4203-8569-a085ef375ba4",
+      "Name": "CALCIUM SULPHATE FLOWING SCREED AND CONVENTIONAL CALCIUM SULPHATE SCREED",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V. / Industriegruppe Estrichstoffe",
+      "Register Number": "EPD-BVG-20230136-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Material Categories": [
+    {
+      "name": "Aluminium"
+    },
+    {
+      "name": "Blei"
+    },
+    {
+      "name": "Edelstahl"
+    },
+    {
+      "name": "Kupfer"
+    },
+    {
+      "name": "Oberflächenbehandlung und Beschichtung von Metallen"
+    },
+    {
+      "name": "Stahl und Eisen"
+    },
+    {
+      "name": "Zink"
+    }
+  ]
+}

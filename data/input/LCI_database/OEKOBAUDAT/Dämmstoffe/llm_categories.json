@@ -1,0 +1,79 @@
+{
+  "Material Categories": [
+    {
+      "name": "Baumwolle"
+    },
+    {
+      "name": "Blähperlit"
+    },
+    {
+      "name": "Calciumsilikat"
+    },
+    {
+      "name": "Dämmelemente"
+    },
+    {
+      "name": "Expandierter Kork"
+    },
+    {
+      "name": "Expandiertes Polystyrol (EPS)"
+    },
+    {
+      "name": "Extrudiertes Polystyrol (XPS)"
+    },
+    {
+      "name": "Flachsfaser"
+    },
+    {
+      "name": "Hanffaser"
+    },
+    {
+      "name": "Harnstoff-Formaldehydharz"
+    },
+    {
+      "name": "Holzfasern"
+    },
+    {
+      "name": "Holzwolleplatten"
+    },
+    {
+      "name": "Kautschuk"
+    },
+    {
+      "name": "Melaminharz"
+    },
+    {
+      "name": "Mineralwolle"
+    },
+    {
+      "name": "Ortschaum"
+    },
+    {
+      "name": "Phenolharz-Hartschaum (PF)"
+    },
+    {
+      "name": "Polyethylen"
+    },
+    {
+      "name": "Polyurethan-Hartschaum (PU)"
+    },
+    {
+      "name": "Schaumbeton"
+    },
+    {
+      "name": "Schaumglas"
+    },
+    {
+      "name": "Siliziumdioxid-basiert"
+    },
+    {
+      "name": "Stroh"
+    },
+    {
+      "name": "Wärmedämmverbundsystem"
+    },
+    {
+      "name": "Zellulosefaser"
+    }
+  ]
+}

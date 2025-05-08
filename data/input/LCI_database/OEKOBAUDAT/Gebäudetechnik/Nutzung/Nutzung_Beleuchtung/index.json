@@ -1,0 +1,15 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Nutzung / Nutzung Beleuchtung",
+  "items": [
+    {
+      "UUID": "b6f3cde6-d925-425e-8c51-e9ef4b49cd80",
+      "Name": "Usage - lighting (1 kWh electricity consumption)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "3.6",
+      "Reference": "MJ"
+    }
+  ]
+}

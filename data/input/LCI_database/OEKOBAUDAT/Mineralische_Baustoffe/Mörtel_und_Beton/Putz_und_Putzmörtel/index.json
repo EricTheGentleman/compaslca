@@ -1,0 +1,314 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Mörtel und Beton / Putz und Putzmörtel",
+  "items": [
+    {
+      "UUID": "004f3f4e-5bb8-4d9e-a104-6999a9e8ad5b",
+      "Name": "Gypsum lime plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "900.0"
+    },
+    {
+      "UUID": "27370a17-b4fe-45f8-9d9d-71f265311c2e",
+      "Name": "Primer (Silicate dispersion)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "2a26078b-9770-4568-bd29-57b847b60e60",
+      "Name": "Asanto universal clay plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "Asanto Lehmbaustoffe Thomas Hagelstein",
+      "Register Number": "UPD_LPM_ASAN 2024001_PKRÜ5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1880.0"
+    },
+    {
+      "UUID": "3501e11c-2909-4e3f-a976-2fa82c86e803",
+      "Name": "ClayTec clay plaster Mineral 20, dry",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "ClayTec GmbH & Co. KG",
+      "Register Number": "UPD_LPM_CLAY2023006_PKRU?5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2000.0"
+    },
+    {
+      "UUID": "35f6a697-d1a9-402f-9bc8-1e6a29d21b71",
+      "Name": "LIME-GYPSUM PLASTER / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20210164-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1100.0"
+    },
+    {
+      "UUID": "3a299261-e380-476a-a93c-a1210b94f79c",
+      "Name": "ClayTec undercoat plaster with straw, earth-moist",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "ClayTec GmbH & Co. KG",
+      "Register Number": "UPD_LPM_CLAY2023006_PKRU?5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "422b2446-8a3f-457d-b47b-4728b2869d86",
+      "Name": "Clay plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "900.0"
+    },
+    {
+      "UUID": "5541250a-f8d8-4c67-9f24-47ab54686c30",
+      "Name": "Synthtic resin plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1700.0"
+    },
+    {
+      "UUID": "5618a4e7-1f60-4205-9869-30c2e9fad094",
+      "Name": "GYPSUM PLASTER/Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20210317-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1050.0"
+    },
+    {
+      "UUID": "785b6f3a-528b-4d7a-b649-569cfbedf546",
+      "Name": "Gypsum plasters Bulgips Start, MP75, MP75 L, MP75 SL and Rotband",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "BG",
+      "Declaration owner": "Knauf Bulgaria EOOD",
+      "Register Number": "EPD-KNB-20210240-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "870.0"
+    },
+    {
+      "UUID": "7e0c008a-009d-4357-92c1-afb2cec3bc0a",
+      "Name": "Gypsum interior plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "900.0"
+    },
+    {
+      "UUID": "7e9cd70e-bbb9-4f17-9080-12c7e8551a7a",
+      "Name": "ClayTec clay topcoat plaster with straw, dy",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "ClayTec GmbH & Co. KG",
+      "Register Number": "UPD_LPM_CLAY2023006_PKRU?5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "86eb98ea-15ee-4b3c-ba73-702aaaa3003f",
+      "Name": "VOLCALITE AIR PLUS",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-323-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "200.0"
+    },
+    {
+      "UUID": "9a670d29-efb9-4fde-95ab-182a0b1e7280",
+      "Name": "Lime gypsum interior plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "900.0"
+    },
+    {
+      "UUID": "a3f4ee73-7784-45ec-a1bd-90b7465647de",
+      "Name": "ARDEX A 828 COMFORT",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ARDEX GmbH",
+      "Register Number": "EPD-ADX-20230247-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1200.0"
+    },
+    {
+      "UUID": "b6306a21-cb84-4992-bf23-8f4992ab132f",
+      "Name": "ClayTec clay plaster Mineral 20, earth-moist",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "ClayTec GmbH & Co. KG",
+      "Register Number": "UPD_LPM_CLAY2023006_PKRU?5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2000.0"
+    },
+    {
+      "UUID": "b6a1574e-41ea-4ed6-8546-04ba10a06124",
+      "Name": "NHL-based mortar: T 200, T 300, FORTE MULTI, FORTE MEC, DRY PLUS, T RIN, STONE",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-324-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "1905.0"
+    },
+    {
+      "UUID": "bfeb1818-e35e-4579-8f9d-07e0bc80cd81",
+      "Name": "ClayTec clay topcoat plaster with straw, earth-moist",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "ClayTec GmbH & Co. KG",
+      "Register Number": "UPD_LPM_CLAY2023006_PKRU?5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "c7db9557-2928-435f-82e2-afcdcbc69715",
+      "Name": "Primer (Silicone resin)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "0.999999999999999",
+      "Reference": "kg",
+      "Density (kg/m3)": "1550.0"
+    },
+    {
+      "UUID": "c7e584a1-d441-4c6e-b8ef-1dceada07eb8",
+      "Name": "ClayTec clay undercoat plaster with straw, dry",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "ClayTec GmbH & Co. KG",
+      "Register Number": "UPD_LPM_CLAY2023006_PKRU?5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "cd9f6260-63fe-44bf-95c0-98ea8c56056b",
+      "Name": "ClayTec clay topcoat plaster fine 06, dry",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "ClayTec GmbH & Co. KG",
+      "Register Number": "UPD_LPM_CLAY2023006_PKRU?5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1700.0"
+    },
+    {
+      "UUID": "dca9f05c-036b-40e5-ae81-c957c2420fd8",
+      "Name": "Lime-cement plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "ddc96ae4-086c-4033-9e45-c5589f1661ba",
+      "Name": "Lime plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "ddecdeb4-35f8-48ee-b52b-22b5de4b6e82",
+      "Name": "Rendering Mortar - Reinforcement Fibre Plaster",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Verband für Dämmsysteme, Putz und Mörtel e.V. (VDPM)",
+      "Register Number": "EPD-VDP-20230401-IBO1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1600.0"
+    },
+    {
+      "UUID": "e0612906-4536-4686-9b38-7dc853e1c71c",
+      "Name": "Levita clay plaster Uni 1.8",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "Egginger Naturbaustoffe GmbH",
+      "Register Number": "UPD_LPM_EGG 2024002_PKRÜ5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1900.0"
+    },
+    {
+      "UUID": "e41f4108-0662-4631-8494-fab7856cd57b",
+      "Name": "NHL-based heavy mortar: INTOCALX, INTOCALX IDRO, INTOCALX FIBRO, FORTE RIPARA, T FLASH",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-325-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "1960.0"
+    },
+    {
+      "UUID": "ea1b700e-af18-42b2-96ca-d1ad49c05a6f",
+      "Name": "Levita clay plaster UP2",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "Egginger Naturbaustoffe GmbH",
+      "Register Number": "UPD_LPM_EGG 2024002_PKRÜ5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1900.0"
+    },
+    {
+      "UUID": "eea7e352-bf1d-4e6d-9029-689d7936e6a7",
+      "Name": "Lime interior plaster",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "900.0"
+    },
+    {
+      "UUID": "f65425e4-7069-4042-966c-3cb5aa447411",
+      "Name": "Levita topcoat plaster OP 1",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "DE",
+      "Declaration owner": "Egginger Naturbaustoffe GmbH",
+      "Register Number": "UPD_LPM_EGG 2024002_PKRÜ5-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1900.0"
+    }
+  ]
+}

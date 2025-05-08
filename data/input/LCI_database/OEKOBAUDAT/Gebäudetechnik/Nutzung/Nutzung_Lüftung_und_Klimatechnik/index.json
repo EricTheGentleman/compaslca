@@ -1,0 +1,42 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Nutzung / Nutzung Lüftung und Klimatechnik",
+  "items": [
+    {
+      "UUID": "007312d2-a91b-48fd-b037-f4632e49b366",
+      "Name": "Usage - multisplit air conditioner < 12 kW (SEER 3,2)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "3.6",
+      "Reference": "MJ"
+    },
+    {
+      "UUID": "2138cf17-1de1-4f40-8358-fc5a8369cf2f",
+      "Name": "Usage - split air conditioner < 12 kW (SEER 3,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "3.6",
+      "Reference": "MJ"
+    },
+    {
+      "UUID": "b0230a76-0440-4c88-afb6-922c1ccdb815",
+      "Name": "Usage - ventilation (1kWh electricity consumption)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "3.6",
+      "Reference": "MJ"
+    },
+    {
+      "UUID": "c079041e-16b1-4deb-b4b2-31d4b5591771",
+      "Name": "Usage - room air conditioner> 12 kW (SEER 4.7)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "3.6",
+      "Reference": "MJ"
+    }
+  ]
+}

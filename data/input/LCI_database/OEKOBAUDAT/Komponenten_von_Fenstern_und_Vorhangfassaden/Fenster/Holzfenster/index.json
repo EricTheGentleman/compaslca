@@ -1,0 +1,248 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fenster / Holzfenster",
+  "items": [
+    {
+      "UUID": "05b5e229-ef33-4eaa-affb-d40d10c2e75d",
+      "Name": "Group Wooden windows IV90: IV90 side-hung, tilt and turn window of overlapping design",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA FLORA",
+      "Register Number": "EPD-Kiwa-EE-358-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "38.6"
+    },
+    {
+      "UUID": "2105571b-1fba-4f73-8260-11a142b5c15f",
+      "Name": "Windows - VFF - Wooden windows",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-HOF-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "46.38"
+    },
+    {
+      "UUID": "227f2f83-68aa-4a12-9ce1-48fbc709b897",
+      "Name": "EPD timber roof window - Roto Frank DST - Designo double glazing",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "PL",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RDH-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "46.63"
+    },
+    {
+      "UUID": "275de2e6-29df-406a-9e4e-7cd58eeb5ef8",
+      "Name": "Group IV Windows and Balcony Doors wooden with 20 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-241-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "43.45"
+    },
+    {
+      "UUID": "2e47d2f0-423e-49c2-ba18-c53efda3f925",
+      "Name": "EPD timber roof window - Roto Frank DST - Designo acoustic glazing",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "PL",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RDH-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "63.68"
+    },
+    {
+      "UUID": "500bb7ff-1a82-419f-b2ad-bb92397d42f5",
+      "Name": "Lift and slide element - VFF - Wooden lift and slide element",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-HOF-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "42.45"
+    },
+    {
+      "UUID": "5d5e0591-d515-4f3d-957f-4bf4d9180055",
+      "Name": "VELUX wooden roof windows (double glazing configuration)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230509-CBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "41.88"
+    },
+    {
+      "UUID": "60eb3258-eb47-4da9-9c84-549f85538e4e",
+      "Name": "Windows outward opened 55 mm sash (BYKO-W55) (Bitus Latvia SIA)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LV",
+      "Declaration owner": "Bitus Latvia SIA",
+      "Register Number": "EPD-Kiwa-EE-000117-EN (Rev.1_23.05.2024)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "40.924"
+    },
+    {
+      "UUID": "68bcc8d5-b1ab-4e30-89b6-e1bb586faa62",
+      "Name": "EPD timber roof window - Roto Frank DST - RotoQ acoustic glazing",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RDH-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "55.9"
+    },
+    {
+      "UUID": "7a7e7ba5-ede9-4592-bd47-b0cc072d7602",
+      "Name": "Windows / fixed windows outward opened 75 mm sash (BYKO ? W75)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LV",
+      "Declaration owner": "Bitus Latvia SIA",
+      "Register Number": "EPD-Kiwa-EE-000119-EN (Rev.1_29.05.2024)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "49.926"
+    },
+    {
+      "UUID": "84d252b2-f96a-476c-8160-31fd88056038",
+      "Name": "Group Wooden windows IV90: IV90 tilt and turn window and (or) fixed window",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA FLORA",
+      "Register Number": "EPD-Kiwa-EE-358-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "37.05"
+    },
+    {
+      "UUID": "8a43b1f8-a737-4f4c-8eb8-813b6f919edc",
+      "Name": "76/105 Group window wooden with 25 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-240-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "50.42"
+    },
+    {
+      "UUID": "9841cb11-cfd7-46b7-b16b-652d57cc1b07",
+      "Name": "EPD timber roof window - Roto Frank DST - RotoQ double glazing",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RDH-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "36.79"
+    },
+    {
+      "UUID": "a557450a-c269-4c05-8db0-295dd8b17f6d",
+      "Name": "76/105 Group window wooden with 15 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-240-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "40.42"
+    },
+    {
+      "UUID": "a616d789-4739-4a70-8e32-550f1d869227",
+      "Name": "Windows outward opened 55 mm sash (BYKO-W55)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LV",
+      "Declaration owner": "SIA BYKO-LAT",
+      "Register Number": "EPD-BYKO-LAT-117-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "40.924"
+    },
+    {
+      "UUID": "b2b3c03e-d439-4944-a9e5-c73917592eb9",
+      "Name": "Group IV Windows and Balcony Doors wooden with 30 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-241-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "53.45"
+    },
+    {
+      "UUID": "c8e3aae6-6824-4add-8e49-3a740b36c85e",
+      "Name": "VELUX roof balcony and terrace window",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230512-CBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "49.58"
+    },
+    {
+      "UUID": "c9c19fec-e10a-4417-8b62-eedbc309a73d",
+      "Name": "EPD timber roof window - Roto Frank DST - RotoQ triple glazing",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RDH-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "44.31"
+    },
+    {
+      "UUID": "d688250d-3cfd-40f3-bac7-b19522d2984d",
+      "Name": "EPD timber roof window - Roto Frank DST - Designo triple glazing",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "PL",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RDH-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "52.05"
+    },
+    {
+      "UUID": "eca947a8-e1af-4989-9050-9c63c13b479a",
+      "Name": "Windows outward opened 65 mm sash (BYKO ? W65)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LV",
+      "Declaration owner": "Bitus Latvia SIA",
+      "Register Number": "EPD-Kiwa-EE-000118-EN (Rev.1_28.05.2024)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "41.923"
+    },
+    {
+      "UUID": "fa9ff216-d708-4bd7-8faf-c0e4744255c5",
+      "Name": "VELUX wooden roof windows (triple glazing configuration)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230510-CBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "47.64"
+    },
+    {
+      "UUID": "fbf5dbfe-7338-4c8d-b195-c68074be581a",
+      "Name": "VELUX wooden roof windows with glazing configuration 62 and 62D",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230511-CBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "55.49"
+    }
+  ]
+}

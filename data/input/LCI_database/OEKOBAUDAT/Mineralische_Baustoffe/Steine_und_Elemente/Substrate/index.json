@@ -1,0 +1,49 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Substrate",
+  "items": [
+    {
+      "UUID": "60916dcf-f432-429f-9828-a0b14f1c4e91",
+      "Name": "floor and path surfaces - GreenWorld Products - TerraWay 30mm",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "RER",
+      "Declaration owner": "GreenWorld Products Ltd.",
+      "Register Number": "EPD-TRW-94.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "52.15"
+    },
+    {
+      "UUID": "6cc5a82c-de6f-4584-b59d-c07041c131aa",
+      "Name": "floor and path surfaces - GreenWorld Products - TerraWay organic 30mm",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "RER",
+      "Declaration owner": "GreenWorld Products Ltd.",
+      "Register Number": "EPD-TRW-94.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.81"
+    },
+    {
+      "UUID": "8bdc6332-4d94-44c1-9975-a236ff7a3349",
+      "Name": "Vegetation substrate",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1400.0"
+    },
+    {
+      "UUID": "98efcb76-f88c-4c5c-b3ce-dde23163513d",
+      "Name": "floor and path surfaces - GreenWorld Products - TerraWay 50mm",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)'",
+      "Country Code": "RER",
+      "Declaration owner": "GreenWorld Products Ltd.",
+      "Register Number": "EPD-TRW-94.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "86.91"
+    }
+  ]
+}

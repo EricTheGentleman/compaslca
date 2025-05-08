@@ -1,0 +1,116 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Tageslichtsysteme und Rauch- / Wärmeabzugsanlagen / Oberlichter",
+  "items": [
+    {
+      "UUID": "215c99b7-70f0-4654-8a98-c3aa71dfa86f",
+      "Name": "Rooflight domes - LAMILUX Heinrich Strunz GmbH - Rooflight F100 SAN (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-LK-11.1.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "25.21"
+    },
+    {
+      "UUID": "26477162-18b8-40be-93e6-259f491a6103",
+      "Name": "Glazing elements - LAMILUX Heinrich Strunz GmbH - Flat roof window FE F3 (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-EG-11.2.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "60.53"
+    },
+    {
+      "UUID": "525dc048-cf4a-44fb-972d-19b9eea3f079",
+      "Name": "Glazing elements - LAMILUX Heinrich Strunz GmbH - Flat roof window FE passive house energysave (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-EG-11.2.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "95.21"
+    },
+    {
+      "UUID": "873d69c8-ca8d-465b-a3e9-7d095bc52a07",
+      "Name": "Glas architecture - LAMILUX Heinrich Strunz GmbH - smoke lift glas roof PR60 (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-GA-11.3.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "75.69"
+    },
+    {
+      "UUID": "a4036aaa-5fca-4c7c-a343-01d50ff244c4",
+      "Name": "Continuous rooflights - LAMILUX Heinrich Strunz GmbH - Continuous rooflight S (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-LB-11.4.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "17.14"
+    },
+    {
+      "UUID": "a42a94b8-6c8b-421c-95a1-70da96cac9b3",
+      "Name": "Glazing elements - LAMILUX Heinrich Strunz GmbH - Flat roof window FE F100G (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-EG-11.2.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "48.74"
+    },
+    {
+      "UUID": "a8d9c376-9859-4b12-b97c-f7f2eace639c",
+      "Name": "Rooflight domes - LAMILUX Heinrich Strunz GmbH - Rooflight F100 PC (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-LK-11.1.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "28.49"
+    },
+    {
+      "UUID": "e129c667-08c2-4a27-a8eb-71719d716660",
+      "Name": "Continuous rooflights - LAMILUX Heinrich Strunz GmbH - Continuous rooflight B (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-LB-11.4.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "7.86"
+    },
+    {
+      "UUID": "e882f76f-8967-46fd-91c1-ee7b278ed2a1",
+      "Name": "Glas architecture - LAMILUX Heinrich Strunz GmbH - Glas roof PR60 (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-GA-11.3.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "63.29"
+    },
+    {
+      "UUID": "fc5116f5-af02-4ad7-a572-ff7734376853",
+      "Name": "Rooflight domes - LAMILUX Heinrich Strunz GmbH - Rooflight F100 PETG (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-LK-11.1.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "28.86"
+    }
+  ]
+}

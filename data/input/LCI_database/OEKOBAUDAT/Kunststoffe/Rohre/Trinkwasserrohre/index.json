@@ -1,0 +1,104 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Rohre / Trinkwasserrohre",
+  "items": [
+    {
+      "UUID": "0aea476b-e08d-4374-8a78-a6abe6bbd74f",
+      "Name": "connecting technology - Viega - ManaBloc (PureFlow)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VPF-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "21b8a44c-9142-451e-b55b-5242036c3fa0",
+      "Name": "connecting technology - Viega - Pex pipe (PureFlow)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VPF-67.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "2c74989f-6441-4a41-9278-fa3206d467f6",
+      "Name": "connecting technology - Viega - Viega Smartpress pipe",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VSM-67.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "6184a5a0-019f-4b91-b8e0-80cf45b44f43",
+      "Name": "connecting technology - Viega - Raxofix pipe",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VRF-67.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "783ffd49-9dfc-42fe-bfe4-16eae46efa10",
+      "Name": "Drinking water pipe PE-X-Alu",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "937cf1c5-c813-4778-90e2-6f1ae84c4aa7",
+      "Name": "Polyethylene piping systems for supply and disposal, industrial applications and cable protection applications",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Gerodur MPM Kunststoffverarbeitung GmbH & Co. KG",
+      "Register Number": "EPD-Kiwa-EE-179667-EN, EPD-Kiwa-EE-184625-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "950.0"
+    },
+    {
+      "UUID": "b3fafd26-e728-4ba3-b57d-670d0df9080c",
+      "Name": "Drinking water pipe PB",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "eb2f1734-7ca9-420d-81bb-e761692573d1",
+      "Name": "Drinking water pipe PE-X",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "ed72e0a3-c3ad-4d05-9936-3023ff0816a8",
+      "Name": "RAUTITAN flex",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "REHAU Industries SE & Co. KG",
+      "Register Number": "EPD-REH-20240084-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "950.0"
+    },
+    {
+      "UUID": "fd0bcead-5067-4b2e-8c0e-235f888f70f4",
+      "Name": "Drinking water pipe PE X-Alu-PE X",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

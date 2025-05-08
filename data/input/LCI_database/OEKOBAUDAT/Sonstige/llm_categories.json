@@ -1,0 +1,16 @@
+{
+  "Material Categories": [
+    {
+      "name": "Baustellenprozesse"
+    },
+    {
+      "name": "Energieträger - Bereitstellung frei Verbraucher"
+    },
+    {
+      "name": "Güter - Transporte[t km]"
+    },
+    {
+      "name": "Personen - Transporte[Personen km]"
+    }
+  ]
+}

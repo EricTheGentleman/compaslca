@@ -1,0 +1,131 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fenster / Sonstige Fenster",
+  "items": [
+    {
+      "UUID": "036793bc-4027-4299-8f63-e2565bde9858",
+      "Name": "Float glass in construction: EUROFLOAT",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Glas Trösch Holding AG",
+      "Register Number": "EPD-GLS-20230184-IBB2-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0"
+    },
+    {
+      "UUID": "24a1470f-b2fd-4c55-9e3a-500e73041319",
+      "Name": "Modulares Glasdach MS78",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-Kiwa-EE-167790-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "87.455"
+    },
+    {
+      "UUID": "296a9b29-7658-4dda-8da1-6794c5c467ca",
+      "Name": "VELUX flat roof window CSP - grid-connected",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220137-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "37e9520e-5b9b-42b0-a5f9-2a145b014566",
+      "Name": "VELUX flat roof window CFP",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220133-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4013dd6f-ca7a-41d3-9d6f-9645af6284e4",
+      "Name": "VELUX flat roof window CXP",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220139-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "71be2c6c-87b1-4ba0-ba1b-2a54094c7d5d",
+      "Name": "VELUX flat roof window CFU",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220142-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "7d689ee1-891f-4b2e-8775-57800526735e",
+      "Name": "Laminated glass",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Tianjin North Glass Industrial Technical Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-139949-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "31.651"
+    },
+    {
+      "UUID": "8285ee5f-464a-4400-ba62-2709367e98d5",
+      "Name": "VELUX flat roof window CVP - grid-connected",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220138-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "befd13c7-524c-4440-8502-a00cb74246d6",
+      "Name": "Insulating glass",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Tianjin North Glass Industrial Technical Co., Ltd.",
+      "Register Number": "EPD-Kiwa-EE-139966-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "30.583"
+    },
+    {
+      "UUID": "c38da3ef-e75e-4d27-8794-58be29cd37ca",
+      "Name": "Laminated safety glass EUROLAMEX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Glas Trösch Holding AG",
+      "Register Number": "EPD-GLS-20230183-IBB3-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "15.4"
+    },
+    {
+      "UUID": "f386197c-fe0f-4672-81a6-e5537ded379c",
+      "Name": "VELUX flat roof window CVU - grid-connected",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220140-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f6eabc0a-442a-4a72-854c-02a72600901b",
+      "Name": "VELUX flat roof window CVU - solar-powered",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220141-IBJ1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

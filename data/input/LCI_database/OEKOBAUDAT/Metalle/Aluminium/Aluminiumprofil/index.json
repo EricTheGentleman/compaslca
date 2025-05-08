@@ -1,0 +1,193 @@
+{
+  "type": "materials",
+  "path": "Metalle / Aluminium / Aluminiumprofil",
+  "items": [
+    {
+      "UUID": "0cb92770-9007-48c6-bc03-466af8894419",
+      "Name": "Aluminum profile, mill finish",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Höfer Metall Technik GmbH & Co KG",
+      "Register Number": "EPD-HFE-20220036-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "3d0008ad-9036-4cdb-8f6b-5e913318627e",
+      "Name": "Metawall® A2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Metawell GmbH",
+      "Register Number": "EPD-MET-20230325-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "9.1"
+    },
+    {
+      "UUID": "3feca796-791b-46d3-8160-95ef243ffb9d",
+      "Name": "Aluminium section",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "46ae537f-ddf7-49bb-8a30-f83d27941260",
+      "Name": "Schüco Low Carbon Aluminium Profile",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Schüco International KG",
+      "Register Number": "EPD-SCH-20230391-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "54a44d9f-f79d-4470-8e09-c31d9774a2c1",
+      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (raw)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "EMERUS d.o.o",
+      "Register Number": "EPD-ELC-GB-62.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "54c74070-fb3c-4a44-a44a-e6a835490d7a",
+      "Name": "semi-finished products - EMERUS d.o.o. - electrostatic powder-coated aluminium profile",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "EMERUS d.o.o",
+      "Register Number": "EPD-EAP-62.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "68dc03ba-e55a-4738-9601-67732f3580e0",
+      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (Electrostatically powder-coated)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "EMERUS d.o.o",
+      "Register Number": "EPD-ELC-GB-62.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "7290c768-0a2c-4503-bd81-a7c27edc4541",
+      "Name": "Aluminium Standing Seam Roofing and Wall Cladding System - Kalzip®",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Kalzip GmbH",
+      "Register Number": "EPD-KAL-20230027-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "13.97"
+    },
+    {
+      "UUID": "76045543-d6d4-4549-8a84-dc2a7a2e2acd",
+      "Name": "Schüco Ultra Low Carbon Aluminium Profile",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Schüco International KG",
+      "Register Number": "EPD-SCH-20230392-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "85b5304f-91bf-4884-b525-c6534476e847",
+      "Name": "Metawell® ceiling/wall panel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Metawell GmbH",
+      "Register Number": "EPD-MET-20230323-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "9.05"
+    },
+    {
+      "UUID": "9af3eb5b-ab01-433c-a891-7d074fbeb3f0",
+      "Name": "Metawall® B1",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Metawell GmbH",
+      "Register Number": "EPD-MET-20230324-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.9"
+    },
+    {
+      "UUID": "a589f092-5c54-42f1-8da6-317549f36e0c",
+      "Name": "semi-finished products - EMERUS d.o.o. - anodized aluminium profile",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "EMERUS d.o.o",
+      "Register Number": "EPD-EAP-62.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "ab2d3b4a-44f6-4fbf-baaa-7928391f0af0",
+      "Name": "Schüco Aluminium Profile",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Schüco International KG",
+      "Register Number": "EPD-SCH-20230390-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "c5982fc9-a486-4f00-82a2-59985d8ab196",
+      "Name": "Aluminium profiles",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Hilti Aktiengesellschaft",
+      "Register Number": "EPD-HIL-20240323-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2.7"
+    },
+    {
+      "UUID": "d409739a-ae3c-4005-8a26-d55fccc1d9e5",
+      "Name": "Aluminium FC Facade System - Kalzip®",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Kalzip GmbH",
+      "Register Number": "EPD-KAL-20230028-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.97",
+      "Density (kg/m3)": "2720.0"
+    },
+    {
+      "UUID": "eddac830-8f5d-4ae9-a0e6-97a3d34af313",
+      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (Anodized)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "EMERUS d.o.o",
+      "Register Number": "EPD-ELC-GB-62.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    },
+    {
+      "UUID": "f9072c8d-516a-43fe-826e-8fbca55317e3",
+      "Name": "semi-finished products - EMERUS d.o.o. - aluminium profile (blank)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "BA",
+      "Declaration owner": "EMERUS d.o.o",
+      "Register Number": "EPD-EAP-62.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0"
+    }
+  ]
+}

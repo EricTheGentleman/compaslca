@@ -1,0 +1,37 @@
+{
+  "Material Options": [
+    {
+      "Name": "Propane (R290)"
+    },
+    {
+      "Name": "Chlorodifluoromethane (R22)"
+    },
+    {
+      "Name": "Ammonia (R717)"
+    },
+    {
+      "Name": "Tetrafluoroethane (R134a)"
+    },
+    {
+      "Name": "Refrigerant R407c"
+    },
+    {
+      "Name": "Carbon dioxide (R744)"
+    },
+    {
+      "Name": "Refrigerant R410a"
+    },
+    {
+      "Name": "Tetrafluoropropene (R1234ze)"
+    },
+    {
+      "Name": "Difluoromethane (R32)"
+    },
+    {
+      "Name": "Refrigerant R404a"
+    },
+    {
+      "Name": "Lithium bromide"
+    }
+  ]
+}

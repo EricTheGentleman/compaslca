@@ -12,8 +12,8 @@ __pycache__/
 *.ifc
 
 # === Ignore all .json and .csv files inside /data, recursively ===
-data/**/*.json
-data/**/*.csv
+data/pipeline/**/*.json
+data/pipeline/**/*.csv
 
 # === Ignore master configuration file with sensitive data (api key) ===
 master_config.yaml

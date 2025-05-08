@@ -1,0 +1,105 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fenster / Holz-Metallfenster",
+  "items": [
+    {
+      "UUID": "3a548942-ca32-479f-9efc-e60fafc7925b",
+      "Name": "Aluminium covered windows outward opened 65 mm sash (BYKO ? WA65)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LV",
+      "Declaration owner": "Bitus Latvia SIA",
+      "Register Number": "EPD-Kiwa-EE-000121-EN (Rev.1_29.05.2024)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "42.704"
+    },
+    {
+      "UUID": "408815ac-3893-4913-8c9c-16753a643388",
+      "Name": "76/105 Group window wooden with aluminium cladding with 15 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-240-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "43.01"
+    },
+    {
+      "UUID": "43a3b19f-0b2b-4546-a360-a9535f852c0e",
+      "Name": "76/105 Group window wooden with aluminium cladding with 25 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-240-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "53.01"
+    },
+    {
+      "UUID": "68d0df6d-734b-43bc-a2db-c23208ec7359",
+      "Name": "Group IV Windows and Balcony Doors wooden with aluminium cladding with 20 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-241-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "44.99"
+    },
+    {
+      "UUID": "7d69f7e2-b235-4e15-ba66-f96a80ddfb1d",
+      "Name": "Windows - VFF - Wood-aluminium windows",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-HMF-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "45.67"
+    },
+    {
+      "UUID": "9b2507ea-f27f-4f23-a0ec-e65bbbc74f41",
+      "Name": "Group IV Windows and Balcony Doors wooden with aluminium cladding with 30 kg wood frame",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA ARBO Windows",
+      "Register Number": "EPD-ArboWindows-241-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "54.99"
+    },
+    {
+      "UUID": "b5f522d9-da3e-4636-bb8a-ae01ef75b7b6",
+      "Name": "Lift and slide element - VFF - Wood-aluminium lift and slide element",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-HMF-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "45.81"
+    },
+    {
+      "UUID": "b8a0bde5-ddc1-4e2d-9e70-e4afd00c8317",
+      "Name": "Aluminium covered windows / fixed windows outward opened 75 mm sash (BYKO ? WA75)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LV",
+      "Declaration owner": "Bitus Latvia SIA",
+      "Register Number": "EPD-Kiwa-EE-000122-EN (Rev.1_29.05.2024)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "50.591"
+    },
+    {
+      "UUID": "dcf5b70b-2cb1-43d9-8a07-2b64f7f48f9c",
+      "Name": "Aluminium covered windows outward opened 55 mm sash (BYKO ? WA55)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LV",
+      "Declaration owner": "Bitus Latvia SIA",
+      "Register Number": "EPD-Kiwa-EE-000120-EN (Rev.1_29.05.2024)",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "41.508"
+    }
+  ]
+}

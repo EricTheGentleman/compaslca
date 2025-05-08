@@ -1,0 +1,62 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Bodenbeläge / PVC-Bodenbeläge",
+  "items": [
+    {
+      "UUID": "3271e27b-6d0c-4cd3-bebe-fe3ed5778660",
+      "Name": "Design flooring Modular ONE Hydron",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Parador GmbH",
+      "Register Number": "EPD-PAR-20210321-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "7.129"
+    },
+    {
+      "UUID": "69810bd2-6ee2-4f3b-b51b-02baba5a920f",
+      "Name": "Luxury Vinyl Tiles (LVT)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Unilin BV, division Flooring",
+      "Register Number": "EPD-UNI-20230479-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "8.6"
+    },
+    {
+      "UUID": "96463adb-1b9c-4c63-92db-e477cf98738a",
+      "Name": "Vinyl design flooring with SPC core board, vinyl for gluing, vinyl made of solid material",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Parador GmbH",
+      "Register Number": "EPD-PAR-20230153-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "7.733",
+      "Density (kg/m3)": "1900.0"
+    },
+    {
+      "UUID": "bf03c42c-70c4-4a4e-8880-7b49e168c5fd",
+      "Name": "Luxury Vinyl Tiles (LVT) FlexForm?/FlexForm? Sound",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Gemeinschaft umweltfreundlicher Teppichboden (GUT) e.V.",
+      "Register Number": "EPD-MIL-20220313-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "8.0",
+      "Density (kg/m3)": "1600.0"
+    },
+    {
+      "UUID": "fde18fdc-ca6b-41d3-9918-aab96177fc24",
+      "Name": "PVC floor covering",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.3"
+    }
+  ]
+}

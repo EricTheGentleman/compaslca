@@ -1,0 +1,28 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fassaden / Vorhangfassade - Pfosten-Riegel-Fassaden",
+  "items": [
+    {
+      "UUID": "4ac84964-0d19-4188-8df3-352cbb4aed9c",
+      "Name": "JANSEN VISS façade width x height: 2500mm x 3200mm",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "JANSEN AG",
+      "Register Number": "EPD-JAN-20230114-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "45.55"
+    },
+    {
+      "UUID": "7afae41d-9b38-407f-a454-7451f572bf92",
+      "Name": "Façades - heroal-Johann Henkenjohann GmbH & Co. KG - C50 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "M-EPD-HFA-38.000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "39.58"
+    }
+  ]
+}

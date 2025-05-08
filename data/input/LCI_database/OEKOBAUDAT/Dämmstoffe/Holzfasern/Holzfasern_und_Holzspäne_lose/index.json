@@ -1,0 +1,17 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Holzfasern / Holzfasern und Holzspäne, lose",
+  "items": [
+    {
+      "UUID": "2ccc8b8a-ea55-4383-9d22-689543ae0cd1",
+      "Name": "best wood FIBRE",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Holzwerk Gebr. Schneider GmbH",
+      "Register Number": "EPD-HWS-20230342-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "35.0"
+    }
+  ]
+}

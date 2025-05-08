@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Holz / Holzböden / Laminat",
+  "items": [
+    {
+      "UUID": "14286caa-6bc1-4aa0-93d6-22d0f5b21195",
+      "Name": "3.3.01. Laminate (DPL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "7.09"
+    },
+    {
+      "UUID": "7439ee69-3cf8-49fc-9acf-e4be4e55543c",
+      "Name": "DPL laminate flooring",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "European Producers of Laminate Flooring (EPLF®)",
+      "Register Number": "EPD-EPL-20210138-CBE1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Density (kg/m3)": "1000.0"
+    },
+    {
+      "UUID": "b28e5049-5dbf-49d6-861a-e6f5c51c0724",
+      "Name": "Kronospan Laminate Flooring",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "Kronospan Luxembourg S.A.",
+      "Register Number": "EPD-KRO-20230158-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.91"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "materials",
+  "path": "Metalle / Zink / Zinkbleche",
+  "items": [
+    {
+      "UUID": "26353b00-6cd3-426d-903b-9fc5b1670398",
+      "Name": "Zinc sheet",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "270534ca-3eef-4c9f-a55c-6be7e0c46f8c",
+      "Name": "NedZink NOVA, NedZink NEO, NedZink NOIR",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "NedZink B.V.",
+      "Register Number": "EPD-NED-20200257-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7200.0"
+    },
+    {
+      "UUID": "43eaba9f-7c2a-4132-83af-054962477a58",
+      "Name": "NedZink Naturel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "NedZink B.V.",
+      "Register Number": "EPD-NED-20200256-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7200.0"
+    },
+    {
+      "UUID": "ceabbb89-ed2f-417f-a23b-e723ad6b9ae1",
+      "Name": "RHEINZINK-prePATINA® blue-grey and graphite-grey",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "RHEINZINK GmbH & Co. KG",
+      "Register Number": "EPD-RHE-20230366-IBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7200.0"
+    },
+    {
+      "UUID": "e3086b26-f996-41c9-a5fb-1c746dc36a05",
+      "Name": "RHEINZINK-CLASSIC® bright-rolled",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "RHEINZINK GmbH & Co. KG",
+      "Register Number": "EPD-RHE-20230365-IBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7200.0"
+    }
+  ]
+}

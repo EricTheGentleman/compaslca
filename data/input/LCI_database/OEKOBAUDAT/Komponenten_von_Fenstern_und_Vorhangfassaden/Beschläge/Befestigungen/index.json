@@ -1,0 +1,292 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Befestigungen",
+  "items": [
+    {
+      "UUID": "06f97760-c2e3-4d01-9ea8-1c72def5df66",
+      "Name": "BEST 9K Cylindrical Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "US",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210340-CBA7-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "1cf38ce1-36f6-4819-9ba7-e39235c41bc9",
+      "Name": "TS 73 V",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220161-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "25295071-852e-4b85-be91-f9901c0a4f7b",
+      "Name": "Fastening systems for rear-ventilated curtain wall facades",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "EJOT BAUBEFESTIGUNGEN GmbH",
+      "Register Number": "EPD-EJO-20210061-IBD1-DE",
+      "Reference Quantity": "not available"
+    },
+    {
+      "UUID": "268bc86a-2d3b-41b7-bc46-b552e51722d9",
+      "Name": "Terminal 96 00",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210209-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "2cfd1b93-cb47-4ccd-934c-eee45283a12d",
+      "Name": "Reversible Single Cylinder - ace JP, ace APAC",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210232-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "2d429f70-485b-47d5-a1f7-351d52325c46",
+      "Name": "TS 92 XEA",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220215-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "3a29b318-f4cb-411b-b13e-8565adae20e7",
+      "Name": "Flat roof fastening systems",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "EJOT BAUBEFESTIGUNGEN GmbH",
+      "Register Number": "EPD-EJO-20210059-IBD1-DE",
+      "Reference Quantity": "not available"
+    },
+    {
+      "UUID": "3fa36a6b-6dce-428e-b622-9a7521ee97ea",
+      "Name": "Fastening solutions for external thermal insulation composite systems",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "EJOT BAUBEFESTIGUNGEN GmbH",
+      "Register Number": "EPD-EJO-20210060-IBD1-DE",
+      "Reference Quantity": "not available"
+    },
+    {
+      "UUID": "44a07da3-eae8-4d97-9909-747d635fb07e",
+      "Name": "TS 83",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220163-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "454898b5-c2d1-48a5-a812-b5e54dd859f0",
+      "Name": "BEST 1C Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "US",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210304-CBA8-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "59ff4420-4b5d-451e-a349-ebf08b2c5cc8",
+      "Name": "TS 71/TS 72",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220164-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "5d28c3d4-4553-4608-966a-c4ccadf8d260",
+      "Name": "ITS 915/ITS 900",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220160-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "5db4f6bd-ea87-400b-b4ac-6a51388fa9d4",
+      "Name": "BEST 47H Mortise Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "US",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220212-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "6557908e-d613-452b-812f-c72c4363c83d",
+      "Name": "BEST T Deadbolt Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RNA",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210320-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "6c46fc8d-6a74-415b-8e6b-b90af72178ac",
+      "Name": "Stainless steel screws",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "7c9336b4-4792-4a21-8fe6-12233b9e32d1",
+      "Name": "TS 91",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220162-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "86610a38-3ad1-44a6-8aa4-f8c49bbca136",
+      "Name": "Ladder Pull TG138 Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RNA",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210203-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "889e2819-01be-4aa4-b7d3-d19e01e75c02",
+      "Name": "Galvanized steel screws",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "98458824-c819-4a31-bf1f-7dec368bba0d",
+      "Name": "Remote reader 91 15",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220214-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "ac1792fd-68bb-4344-b9d8-dd33b7e48be0",
+      "Name": "TS 68/TS 69",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220088-CBA8-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "bbb0e5c6-d9f2-4ad3-a633-671f67e7f91b",
+      "Name": "8600 and 8900 Series door closers",
+      "Standard Conformity": "'DIN EN 15804' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20200384-CBD3-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c7136b6b-c9cc-4f74-bb5a-575bb9edacc3",
+      "Name": "Terminal 97 00",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210284-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c75af9d3-f5f1-4712-a82c-d66bf8282969",
+      "Name": "LA GARD 700",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "MX",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210247-CBA3-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "cdf23e80-b2db-40ea-985b-058ab5f3f681",
+      "Name": "TS 90 Impulse",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220068-CBA7-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d6c4305f-5ae1-45a9-926b-43de195e34a4",
+      "Name": "BEST 1E Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RNA",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210303-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "dd902c86-84dd-47b8-a45a-bab0b054bc72",
+      "Name": "BEST 45H Mortise Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "US",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210335-CBA6-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e044e63f-b7dd-4dd0-9c20-5ada97f5398a",
+      "Name": "Remote reader 91 25",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220258-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f1752f63-92a0-4f29-aa68-2e57c26b9eaf",
+      "Name": "c-lever compact",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210339-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "fd98c183-4cce-4765-8490-f63e13a7bb38",
+      "Name": "Precision 2000 Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "US",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220039-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Stroh / Strohplatten",
+  "items": [
+    {
+      "UUID": "313a4a06-07ce-41e4-a693-a756ec562589",
+      "Name": "Huppenberger-Maxit straw panels gross density 220 kg/m³",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "HempFlax Building Solutions GmbH",
+      "Register Number": "BAU-EPD-MAXHUPP-2023-1-GaBi-Strohplatten",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "220.0"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Gipsplatten",
+  "items": [
+    {
+      "UUID": "04a73d83-f4cb-4d8d-8ca5-60535784d198",
+      "Name": "PERFORATED PLASTERBOARD / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20210342-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "8.5",
+      "Density (kg/m3)": "680.0"
+    },
+    {
+      "UUID": "0773f90c-78ef-4727-a966-3b005c1a1469",
+      "Name": "PLASTERBOARD / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20210344-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0",
+      "Density (kg/m3)": "680.0"
+    },
+    {
+      "UUID": "1b0a3488-9b02-4c98-b421-8c746d350f97",
+      "Name": "Gypsum fibre board (10 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0"
+    },
+    {
+      "UUID": "21ad4bc6-2746-4ce1-8fb9-1019051d3b84",
+      "Name": "Knauf Safeboard GKF",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Knauf Gips KG",
+      "Register Number": "EPD-KNA-20230175-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "17.7"
+    },
+    {
+      "UUID": "2272105e-734d-491d-a36c-d4ba2d759900",
+      "Name": "gypsum fibre board",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20220090-IAG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "15.0"
+    },
+    {
+      "UUID": "29248c83-68d5-4ff6-ae8d-cf91e54dd000",
+      "Name": "Hartgipsplatte EN / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20220302-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "12.8"
+    },
+    {
+      "UUID": "398d138e-8bed-4254-b4a7-adeffb07a48d",
+      "Name": "IMPREGNATED PLASTERBOARD / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20210163-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0",
+      "Density (kg/m3)": "680.0"
+    },
+    {
+      "UUID": "46c055f0-84a2-423b-ae82-5264886e51ad",
+      "Name": "Gypsum plaster board (fire protection, 12.5 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0"
+    },
+    {
+      "UUID": "49151a25-7935-49a4-beca-4422b158c405",
+      "Name": "Massive gypsum blocks according to DIN EN 12859 / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20220073-IAG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "84.0",
+      "Density (kg/m3)": "850.0"
+    },
+    {
+      "UUID": "4c8b93a1-ebed-43fc-80c1-5f6b1394c839",
+      "Name": "Knauf GIFAfloor DB 36 green",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Knauf Gips KG",
+      "Register Number": "EPD-KNA-20220094-CAB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "57.9"
+    },
+    {
+      "UUID": "59d7db4b-b4bc-4274-a509-c041ec002990",
+      "Name": "GRG board EN / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20160303-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.8"
+    },
+    {
+      "UUID": "7b69e7b4-68dd-49a3-b2dc-ae608b66eece",
+      "Name": "Gypsum wallboard (100 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "84.0"
+    },
+    {
+      "UUID": "a38d8a19-56ff-4d87-a6d3-52cb4d7040c4",
+      "Name": "Knauf GIFAfloor DB 40 green",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Knauf Gips KG",
+      "Register Number": "EPD-KNA-20220093-CAB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "64.4"
+    },
+    {
+      "UUID": "ba2a4652-6c91-4759-894f-f5b1ad0a14da",
+      "Name": "Knauf Silentboard GKF",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Knauf Gips KG",
+      "Register Number": "EPD-KNA-20230213-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "17.5"
+    },
+    {
+      "UUID": "deeb0bda-20fa-412a-b945-1a589638db21",
+      "Name": "Gypsum plaster board (impregnated, 12.5 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0"
+    },
+    {
+      "UUID": "e8d30bdc-b914-446c-ab3b-6059327a552b",
+      "Name": "Knauf GIFAfloor DB 30 green",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Knauf Gips KG",
+      "Register Number": "EPD-KNA-20220092-CAB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "48.3"
+    },
+    {
+      "UUID": "edec09e1-c56e-4655-a094-c9a18e1563ac",
+      "Name": "Gypsum plaster board (perforated, 12.5 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "8.5"
+    },
+    {
+      "UUID": "fbde9f28-e9d8-4300-9b21-dea035f5bc15",
+      "Name": "FIRE-RESISTANT PLASTERBOARD / Tool",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Gipsindustrie e.V.",
+      "Register Number": "EPD-BVG-20210343-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.0",
+      "Density (kg/m3)": "800.0"
+    }
+  ]
+}

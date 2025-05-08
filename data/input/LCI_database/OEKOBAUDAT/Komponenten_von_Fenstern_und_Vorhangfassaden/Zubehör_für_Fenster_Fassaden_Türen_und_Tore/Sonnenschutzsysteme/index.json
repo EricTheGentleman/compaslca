@@ -1,0 +1,182 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Zubehör für Fenster, Fassaden, Türen und Tore / Sonnenschutzsysteme",
+  "items": [
+    {
+      "UUID": "0acfd20e-f1ec-490b-a1cc-86bfffe85ac2",
+      "Name": "Ventetain Blinds",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ROMA KG",
+      "Register Number": "EPD-ROM-20240062-CBJ1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.49"
+    },
+    {
+      "UUID": "15007f84-fb7c-4c26-b6d2-5b9cc7ada0c3",
+      "Name": "Shading device - Roto Frank - ZRO S and ZRO F of the Designo",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RAR-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "8.03"
+    },
+    {
+      "UUID": "16f119d5-b1de-431f-bcef-177a4117e82c",
+      "Name": "Roller Shutters",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ROMA KG",
+      "Register Number": "EPD-ROM-20240061-CBJ1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.69"
+    },
+    {
+      "UUID": "29fd4e42-8d34-42ed-846b-fdbae2294572",
+      "Name": "VELUX roller shutter - grid-conntected",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220136-IBJ2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "11.7"
+    },
+    {
+      "UUID": "2c6d54ff-07b8-4e18-9c38-07bf2d7000f5",
+      "Name": "VELUX soft shutter - solar-powered",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220135-IBJ2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "9.72"
+    },
+    {
+      "UUID": "43927b05-b85d-47dd-9ef9-e82c4e209848",
+      "Name": "Shading device - Roto Frank - ZMA F of the Designo and RotoQ model range",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RAM-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.22"
+    },
+    {
+      "UUID": "4a85b86c-bcf7-40c7-b9dd-8621aef94eb4",
+      "Name": "sun protection systems - D&M KG - textile screen",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "D&M KG",
+      "Register Number": "EPD-DMS-70.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "36.47"
+    },
+    {
+      "UUID": "6f26c45e-5719-4cd0-b778-d48ff5be7db3",
+      "Name": "VELUX Interior roller blinds",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230188-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.4"
+    },
+    {
+      "UUID": "96a90d87-bc13-42d4-affe-b4447f1a0220",
+      "Name": "Textilscreens",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ROMA KG",
+      "Register Number": "EPD-ROM-20240060-CBJ1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.27"
+    },
+    {
+      "UUID": "ac5d8f28-762a-4f44-a5cc-2b7570eb3fb7",
+      "Name": "sun protection systems - D&M KG - raffstore",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "D&M KG",
+      "Register Number": "EPD-DMS-70.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "24.91"
+    },
+    {
+      "UUID": "bfc964ca-0016-4b69-a701-597a59aa16f1",
+      "Name": "Shading device - Roto Frank - ZMA E_ of the Designo and RotoQ model range",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RAM-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.14"
+    },
+    {
+      "UUID": "d2d37961-5fb2-4170-a8d5-d08183f8826a",
+      "Name": "Shading device - Roto Frank - ZMA S of the Designo and RotoQ model range",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RAM-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.42"
+    },
+    {
+      "UUID": "dedee87b-e89c-4111-8c85-0264d71baa68",
+      "Name": "Shading device - Roto Frank - ZRO E of the Designo and RotoQ model range",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RAR-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "7.75"
+    },
+    {
+      "UUID": "e297cf8c-4353-44aa-a2fe-f44ec00f595d",
+      "Name": "VELUX roller shutter - solar powered",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220134-IBJ2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "12.3"
+    },
+    {
+      "UUID": "e9423f5e-3f62-41ff-a571-72dec2f151dd",
+      "Name": "Shading device - Roto Frank - ZRO M of the Designo",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Roto Frank DST Produktions-GmbH",
+      "Register Number": "EPD-RAR-76.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "7.47"
+    },
+    {
+      "UUID": "f7507085-6e5b-4ac9-94b1-d7e31fd916ba",
+      "Name": "sun protection systems - D&M KG - roller shutter",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "D&M KG",
+      "Register Number": "EPD-DMS-70.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "28.0"
+    }
+  ]
+}

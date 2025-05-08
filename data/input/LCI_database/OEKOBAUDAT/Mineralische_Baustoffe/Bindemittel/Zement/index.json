@@ -1,0 +1,334 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Bindemittel / Zement",
+  "items": [
+    {
+      "UUID": "00485255-d8a7-4e6d-b2ab-fba929e3cc4a",
+      "Name": "Cement",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "Vereinigung der Österreichischen Zementindustrie (VÖZ)",
+      "Register Number": "EPD-VOZ-20200025-IAG1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3100.0"
+    },
+    {
+      "UUID": "0808539c-0cd5-4561-b4a0-058c6f4c7b04",
+      "Name": "Cement (CEM II 32,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "1f9e860b-307b-47c3-8cb7-83aff71b0494",
+      "Name": "Cement (CEM II 42,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "202fc149-0a84-40c8-a5d3-fbb5cdcb55a8",
+      "Name": "blast furnace cement CEM III/A",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Verein Deutscher Zementwerke e. V.",
+      "Register Number": "EPD-VDZ-20220154-IAG1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "21beec6a-c68c-4bee-9266-e8acb9344e6f",
+      "Name": "NEODUR HE 3 green",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "KORODUR Westphal Hartbeton GmbH & Co. KG",
+      "Register Number": "EPD-Kiwa-EE-163392-EN (Rev.1_10.09.2024), EPD-Kiwa-EE-174071-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "37e62d96-7e02-466e-aaf4-99539b29d9a9",
+      "Name": "CEM I 52,5 R (ft)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240352-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "3be4fe78-86d4-4497-9e9d-173b87f321f4",
+      "Name": "Cement (CEM II/B)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "73c7eefc-060a-41ca-a6c9-ca09ba671737",
+      "Name": "CEM II/A-LL 32,5 R",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240346-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "73f94f3c-83c9-4758-abf4-7a4a03a7a1e9",
+      "Name": "Cement (CEM IV 42,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "75a02ed2-9e8d-4c49-add1-b41b85adf3e7",
+      "Name": "Cement (CEM IV 32,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "810c7598-acf1-4b34-8f2d-d45c7a2afd21",
+      "Name": "CEM II/B-LL 32,5 R (Sackware)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240351-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "823c0674-fd50-4b7d-aef4-14acdaced11d",
+      "Name": "CEM II/B-S 42,5 N",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240350-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "87371640-546c-4d9c-84cc-c13b6be94146",
+      "Name": "Portland cement CEM I",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Verein Deutscher Zementwerke e. V.",
+      "Register Number": "EPD-VDZ-20220153-IAG1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "87b946da-529b-4a87-8cb1-230572854048",
+      "Name": "TECNIRAPID",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-329-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2250.0"
+    },
+    {
+      "UUID": "885893d7-57a4-458c-b6a8-a820e0dce794",
+      "Name": "CEM III/B 42,5 L",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240503-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "8c90eef7-01dd-4ce5-96a6-fb1ca480592a",
+      "Name": "Portland Cement CEM I 52,5 R",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EE",
+      "Declaration owner": "HeidelbergCement AG",
+      "Register Number": "EPD-KNT-20220145-CAA1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "8eb24fb1-7ac5-4e3b-88d7-cc78d7f50d63",
+      "Name": "Mixed inert cement mortar: T FIX HP, T FIX HP FLEX, T LIVEL LOW",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-332-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2100.0"
+    },
+    {
+      "UUID": "8f4e4fdb-fa6c-46b3-8680-57120c4bee5e",
+      "Name": "Cement (CEM III 42,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "962826c3-4b38-4300-af59-f39fad184aaa",
+      "Name": "CEM I 42,5 N (st)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240505-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "9bcd1268-18a6-4e8f-86a8-95169e28ef04",
+      "Name": "CEM I 42,5 R (na)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240504-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "aaaedf41-a759-4756-bd55-cd2af3af17f4",
+      "Name": "Cement (CEM II/A)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "b17d9886-7021-4106-9d66-467115056597",
+      "Name": "CEM II/C-M (S-LL) 42,5 N \"CZ\"",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20230455-CBA2-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "b235845d-0fa8-477b-9498-6b95cefebcbf",
+      "Name": "CEM II/C-M (S-LL) 42,5 N-NA \"CZ\"",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240345-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "b3bfdebd-48ef-4d59-977d-d7e3c5edd335",
+      "Name": "Siliceous inert cement mortar: RENOVA FINISH",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-336-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "1750.0"
+    },
+    {
+      "UUID": "b612f2cd-021b-4ecd-9e0e-6f8f00180527",
+      "Name": "Cement (CEM III 52,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "ba8fb5dd-7228-4ce9-83d1-8be8ada40135",
+      "Name": "CEM III/A 32,5 N-LH (na)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Cemex Deutschland AG",
+      "Register Number": "EPD-CEM-20240340-CAA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "3.01"
+    },
+    {
+      "UUID": "bab201cd-4e21-4da3-a113-7f8b0a8a2a0b",
+      "Name": "Mixed inert heavy cement mortar: T FIX, HYDRO STOP, RENOVA",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-000333-EN (Rev.1_09.10.2024)",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "1600.0"
+    },
+    {
+      "UUID": "d368f4bb-ae22-4e33-b9e4-22a7b27966c6",
+      "Name": "average cement D",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Verein Deutscher Zementwerke e. V.",
+      "Register Number": "EPD-VDZ-20210336-IAG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "db3d0bcc-d7c2-4f06-b5b3-58aaee20f105",
+      "Name": "Portland Composite Cement CEM II/A-M (T-L) 42,5 R",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EE",
+      "Declaration owner": "HeidelbergCement AG",
+      "Register Number": "EPD-KNT-20220144-CAA1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "ecf670be-a509-43a1-91ed-1409fb605228",
+      "Name": "Cement (CEM II 52,5)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "ed4ba86d-f803-4cfe-b345-7f507a1e84f6",
+      "Name": "Blastfurnace cement CEM III/A 42,5 N (na)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Heidelberg Materials AG - Abt. Engineering & Innovation",
+      "Register Number": "EPD-HEI-20230564-CBA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2.96"
+    },
+    {
+      "UUID": "f140d929-49c4-44f9-ac2a-7f8763b0c010",
+      "Name": "Blastfurnace cement CEM III/B 42,5 L-LH/SR (na)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Heidelberg Materials AG - Abt. Engineering & Innovation",
+      "Register Number": "EPD-HEI-20230565-CBA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2.96"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Material Options": [
+    {
+      "Name": "Float glass in construction: EUROFLOAT"
+    },
+    {
+      "Name": "Modulares Glasdach MS78"
+    },
+    {
+      "Name": "VELUX flat roof window CSP - grid-connected"
+    },
+    {
+      "Name": "VELUX flat roof window CFP"
+    },
+    {
+      "Name": "VELUX flat roof window CXP"
+    },
+    {
+      "Name": "VELUX flat roof window CFU"
+    },
+    {
+      "Name": "Laminated glass"
+    },
+    {
+      "Name": "VELUX flat roof window CVP - grid-connected"
+    },
+    {
+      "Name": "Insulating glass"
+    },
+    {
+      "Name": "Laminated safety glass EUROLAMEX"
+    },
+    {
+      "Name": "VELUX flat roof window CVU - grid-connected"
+    },
+    {
+      "Name": "VELUX flat roof window CVU - solar-powered"
+    }
+  ]
+}

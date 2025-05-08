@@ -1,0 +1,421 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Heizung / Wärmeerzeuger",
+  "items": [
+    {
+      "UUID": "056d7d67-4742-40a8-9285-6e2414acec1d",
+      "Name": "Woodchip boiler 120 - 400 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "089248b1-9744-4737-8c32-b50d227ae081",
+      "Name": "Electric heat pump (brine-water, geothermal probe) 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "097902c3-4b7d-42ff-ac58-a03a567589a1",
+      "Name": "Electric heat pump (brine-water, geothermal collector) 70 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "0f77239d-41e8-4eac-8ab3-a8f6d5f3ebf1",
+      "Name": "Pipework for electric heat pump (brine-water, geothermal probe) 10 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "19953f6d-d611-47cc-a4b8-529a7df976a2",
+      "Name": "Pellet boiler < 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "1cd6b257-a4f8-4509-a83b-492cd34c7d98",
+      "Name": "Electric heat pump (air-water) 14 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "230155d8-a5df-4b32-b6e9-46bdbcf526b3",
+      "Name": "Gas low temperature boiler 20-120 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "264c7b26-07cf-4c16-bad7-5d4bb4c3958f",
+      "Name": "Gas low temperature boiler < 20 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "2dfb0a59-e38c-41d3-babc-56c7221d935d",
+      "Name": "Electric heat pump (air-water) 7 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "30cfa154-55f0-4526-bfe8-8b706efd49da",
+      "Name": "Electric heat pump (brine-water, geothermal probe) 70 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "369ccdd7-104d-46a9-b3e3-81bc1a19ac80",
+      "Name": "Pipework for electric heat pump (water-water) 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "3b3ceacf-bf1d-403d-9f28-4394aeabf4ae",
+      "Name": "Woodchip boiler 20-120 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "413ba0ce-2a78-44e2-89d2-d9adfd4e492c",
+      "Name": "Flat solar collector",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "18.27"
+    },
+    {
+      "UUID": "4691706a-aed0-4463-aa29-fa517dd807ae",
+      "Name": "Gas condensing boiler < 20 kW (wall unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "5e4f1e37-6d24-455b-bab5-402b502b3b65",
+      "Name": "Electric heat pump (brine-water, geothermal collector) 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "61aad695-295d-4c24-9ff8-757f8b252134",
+      "Name": "District heating transfer station",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "65f2b726-4866-4d4f-8020-3b0268806860",
+      "Name": "Pipework for electric heat pump (brine-water, geothermal collector) 70 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "73adb551-9f9d-4151-b111-d50b44b22310",
+      "Name": "Oil condensing boiler < 20 kW (wall unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "7790235b-cecd-4345-8cd4-1c5452191163",
+      "Name": "Pipework for electric heat pump (brine-water, geothermal probe) 70 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "78153bf0-abcf-4a5d-8a81-3de1bbc022b5",
+      "Name": "Pipework for electric heat pump (brine-water, geothermal probe) 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "78b3c876-98f6-4b4e-b2bf-28773007486e",
+      "Name": "Oil low temperature boiler 120-400 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "7906ec20-1c90-4bf6-b666-72b13b31588f",
+      "Name": "Electric continuous flow heater (21 kW)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "81dcdea4-4be6-48db-bf89-60f4379492c8",
+      "Name": "Woodchip boiler < 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "872517c5-aeaf-4322-b19a-1d9fa9a33f6b",
+      "Name": "Pellet boiler 20-120 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "88d85c7c-55c7-4746-b0a9-2b1d94e8c2d5",
+      "Name": "Oil low temperature boiler < 20 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8c65bb97-c84d-4094-b6f1-55aace7a4efb",
+      "Name": "Oil condensing boiler 120-400 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8d2d5241-1729-4925-922d-fbebef7f23e4",
+      "Name": "Pipework for electric heat pump (water-water) 10 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8fe044a8-dc7f-49ba-939e-8357b4e2c9b8",
+      "Name": "Pipework for electric heat pump (brine-water, geothermal collector) 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "95622443-d6bc-40ca-a447-2ed599f6d723",
+      "Name": "Pipework for electric heat pump (brine-water, geothermal collector) 10 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "95bab8d2-aeaf-491b-8c3a-c5907e67a5ed",
+      "Name": "Oil low temperature boiler 20-120 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "98471e41-8d40-4f09-8b08-af2a8489f6cf",
+      "Name": "Gas Combined heat and power unit (500 kW)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "9d5885b7-d44a-432d-9ad0-d82874f7cf39",
+      "Name": "Pipework for electric heat pump (water-water) 70 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "a4a7ea2e-0b5e-4bae-a458-3baad826211b",
+      "Name": "Gas low temperature boiler 120-400 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "b5b68b14-f8b8-431f-b205-883b033bce6c",
+      "Name": "Electric heat pump (air-water) 10 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "b670ad50-9a1e-47b8-99d4-f9178b8988cc",
+      "Name": "Electric heat pump (water-water) 10 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c1da3c86-fe16-4fab-803c-6df34290d7ef",
+      "Name": "Electric heat pump (water-water) 20 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c93cfa1e-0b60-403f-a66e-0e4ad88ad567",
+      "Name": "Electric heat pump (brine-water, geothermal probe) 10 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "cdbcfcd4-6072-41ed-8f29-28aa603b9546",
+      "Name": "Electric heat pump (water-water) 70 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "ce333ecb-6cad-441c-9dae-70966acf9333",
+      "Name": "Gas condensing boiler 20-120 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d343ab95-acd3-4478-8226-62b1554da096",
+      "Name": "Gas heat pump (air) 20-70 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e28e6b47-1ac9-4fe1-9211-38f946c17095",
+      "Name": "Electric heat pump (brine-water, geothermal collector) 10 kW",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e2ce4ae2-16b9-44ff-9810-8e56be82300e",
+      "Name": "Oil condensing boiler < 20 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e3eca408-0e59-4bec-aecb-0af7bb5454bc",
+      "Name": "Gas condensing boiler < 20 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e3f55ed3-88bc-4892-8b6a-e336b8aa9754",
+      "Name": "Oil condensing boiler 20-120 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "fd252d52-5d12-46dc-a124-b0276aa86f32",
+      "Name": "Vacuum solar tube",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm"
+    },
+    {
+      "UUID": "fe91b985-60da-45dc-b3fd-29b9e632d49f",
+      "Name": "Gas condensing boiler120-400 kW (upright unit)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

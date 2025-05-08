@@ -1,0 +1,10 @@
+{
+  "Material Options": [
+    {
+      "Name": "Elevator basic component (independent of floor)"
+    },
+    {
+      "Name": "Elevator basic component (dependent of floor)"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "type": "materials",
+  "path": "Beschichtungen / Innenbeschichtungen / Wand- und Deckenbeläge",
+  "items": [
+    {
+      "UUID": "00d981f2-2494-4bb1-bfe3-91b57fc141e4",
+      "Name": "Woven glass fibre wall covering",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Vitrulan Textile Glass GmbH",
+      "Register Number": "EPD-VIT-20230430-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.145"
+    },
+    {
+      "UUID": "105fd89e-fda6-49be-9cac-36128ae6447c",
+      "Name": "EGGER Laminate",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20210049-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.961",
+      "Density (kg/m3)": "1373.0"
+    },
+    {
+      "UUID": "1a8ebb43-2e63-4fb6-a659-37f84dc5613e",
+      "Name": "Nonwoven glass fibre wall covering",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Vitrulan Textile Glass GmbH",
+      "Register Number": "EPD-VIT-20230429-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.124"
+    },
+    {
+      "UUID": "2b88cf4c-c417-4a8a-bec2-8ef36767f4d3",
+      "Name": "Blowerproof® Liquid",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "BE",
+      "Declaration owner": "HEVADEX Group",
+      "Register Number": "EPD-Hevadex-222-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.7"
+    },
+    {
+      "UUID": "379a32f5-ccdc-4d9c-ad49-bc5d906fd9cd",
+      "Name": "Omniguard 110NP",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "BE",
+      "Declaration owner": "HEVADEX Group",
+      "Register Number": "EPD-Hevadex-202-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.6"
+    },
+    {
+      "UUID": "457c1f80-8ca9-451d-a552-36479fc8113c",
+      "Name": "HPL (Decorative High-Pressure Laminates)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "ICDLI aisbl Headoffice",
+      "Register Number": "EPD-ICL-20220238-CBE1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.08",
+      "Density (kg/m3)": "1350.0"
+    },
+    {
+      "UUID": "4b97b317-87d0-4b03-92cc-d38178f2d5e7",
+      "Name": "EGGER Laminate Micro",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20210048-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.238",
+      "Density (kg/m3)": "1360.0"
+    },
+    {
+      "UUID": "51fa051b-38fb-422f-96e2-b2ee6e6f9445",
+      "Name": "Wallcoverings on cellulose fibre base",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "IGI - The Global Wallcoverings Association",
+      "Register Number": "EPD-IGI-20230438-IBG1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.146"
+    },
+    {
+      "UUID": "631208e7-40e1-466a-9fd0-1dd8f9311745",
+      "Name": "Vinyl wallcoverings on non-woven backing",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "IGI - The Global Wallcoverings Association",
+      "Register Number": "EPD-IGI-20230434-IBG1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.223"
+    },
+    {
+      "UUID": "7fdb9884-3810-490d-91f2-6bb136588ec9",
+      "Name": "EGGER Laminate Flammex",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20210050-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.044",
+      "Density (kg/m3)": "1491.4"
+    },
+    {
+      "UUID": "87482767-02eb-4bf7-96fa-c61e6c4fe2cd",
+      "Name": "Wallcoverings on non-woven base",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "IGI - The Global Wallcoverings Association",
+      "Register Number": "EPD-IGI-20230435-IBG1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.178"
+    },
+    {
+      "UUID": "c8940440-0aa0-44c4-9ce8-2701bc0c7456",
+      "Name": "Vinyl wallcoverings on cellulose fibre base",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "IGI - The Global Wallcoverings Association",
+      "Register Number": "EPD-IGI-20230437-IBG1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.251"
+    },
+    {
+      "UUID": "e156c1e1-bd4c-4b09-9435-f14649651242",
+      "Name": "Vinyl wallcoverings on woven textile backing",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "IGI - The Global Wallcoverings Association",
+      "Register Number": "EPD-IGI-20230436-IBG1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.512"
+    },
+    {
+      "UUID": "f872a0be-4a9e-4c77-8eef-915baffa6e48",
+      "Name": "HPL Compact Laminates",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "ICDLI aisbl Headoffice",
+      "Register Number": "EPD-ICL-20220237-CBE1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "10.8",
+      "Density (kg/m3)": "1350.0"
+    }
+  ]
+}

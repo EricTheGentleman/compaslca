@@ -1,0 +1,107 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Expandiertes Polystyrol (EPS) / EPS grau",
+  "items": [
+    {
+      "UUID": "30452630-b12d-43bf-b140-58e0db0ba549",
+      "Name": "Expanded Polystyrene (EPS) Foam Insulation (grey, density 20 to 25 kg/m³)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Industrieverband Hartschaum e.V., IVH",
+      "Register Number": "EPD-IVH-20220128-CBG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "20.94"
+    },
+    {
+      "UUID": "34e9bbb7-a3c6-42fb-9b3d-0341e79def17",
+      "Name": "blaugelb insulation panel EPS",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Meesenburg GmbH & Co. KG",
+      "Register Number": "EPD-MEN-20230040-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "150.0"
+    },
+    {
+      "UUID": "424279d9-397e-4d0f-8aaf-b268991a2634",
+      "Name": "VARTDAL BIOPOR® HVIT",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Vartdal Plastindustri AS",
+      "Register Number": "EPD-VAR-20220220-ICB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.57",
+      "Density (kg/m3)": "15.0"
+    },
+    {
+      "UUID": "447b2043-3c4e-4f7a-b790-390735e70ccb",
+      "Name": "blaugelb sill connection profile EPS",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Meesenburg GmbH & Co. KG",
+      "Register Number": "EPD-MEN-20230043-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "150.0"
+    },
+    {
+      "UUID": "86844442-778d-4899-935f-f12b73b1e7a1",
+      "Name": "blaugelb insulation panel MultiPro EPS",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Meesenburg GmbH & Co. KG",
+      "Register Number": "EPD-MEN-20230042-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "150.0"
+    },
+    {
+      "UUID": "8d304aea-5739-4efc-b443-66f4a0c40ada",
+      "Name": "VARTDAL BIOPOR® GRÅ",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Vartdal Plastindustri AS",
+      "Register Number": "EPD-VAR-20220198-ICB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.47",
+      "Density (kg/m3)": "15.25"
+    },
+    {
+      "UUID": "9d287136-525a-4d37-b698-b834d4cc59ae",
+      "Name": "blaugelb Triotherm+ Profiles",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Meesenburg GmbH & Co. KG",
+      "Register Number": "EPD-MEN-20230041-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "150.0"
+    },
+    {
+      "UUID": "b60d53e5-5ba0-4d9c-bf99-32a3c79513de",
+      "Name": "blaugelb plinth thermal insulation profile EPS",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Meesenburg GmbH & Co. KG",
+      "Register Number": "EPD-MEN-20230044-IBE1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "150.0"
+    },
+    {
+      "UUID": "bd7ae84e-54c4-4dee-bf0e-8c22cecbcf75",
+      "Name": "Expanded Polystyrene (EPS) Foam Insulation (grey, density 15 kg/m³)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Industrieverband Hartschaum e.V., IVH",
+      "Register Number": "EPD-IVH-20220127-CBG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "15.0"
+    }
+  ]
+}

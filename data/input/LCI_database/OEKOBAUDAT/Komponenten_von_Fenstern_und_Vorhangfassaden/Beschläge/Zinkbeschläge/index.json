@@ -1,0 +1,26 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Zinkbeschläge",
+  "items": [
+    {
+      "UUID": "639da311-4225-47b0-973d-7186d2f277b2",
+      "Name": "c-lever pro",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210011-CCA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8ef35f6e-56d5-4982-8907-4a1bcdea1081",
+      "Name": "Cencon ATM Cash Vault Security System",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "US",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220168-CBA5-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

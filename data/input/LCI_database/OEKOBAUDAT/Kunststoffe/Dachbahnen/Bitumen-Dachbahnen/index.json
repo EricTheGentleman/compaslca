@@ -1,0 +1,68 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dachbahnen / Bitumen-Dachbahnen",
+  "items": [
+    {
+      "UUID": "23b67663-f4b0-445e-bbba-b741a59d57e6",
+      "Name": "Bitumen sheets V 60",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "0.999999999999998",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.0"
+    },
+    {
+      "UUID": "25db4367-38c5-4483-b392-4fc071170e5e",
+      "Name": "Bitumen sheets PYE-PV 200 S5 ns (slated)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "0.999999999999997",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.2"
+    },
+    {
+      "UUID": "27ccffb8-02ec-466d-b925-f6db91d4ef71",
+      "Name": "Bitumen sheets G 200 S4",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.0"
+    },
+    {
+      "UUID": "a3cbfec7-6e44-4b0a-b124-afca92a4d934",
+      "Name": "RESITRIX® MB und CL",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "CARLISLE Construction Materials GmbH",
+      "Register Number": "EPD-CCM-20210133-IBB1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.5"
+    },
+    {
+      "UUID": "bbfb702c-6a45-4503-8888-5aeadaed8e25",
+      "Name": "RESITRIX® SK W Full Bond, RESITRIX® SW und RESITRIX® SK Partial Bond",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "CARLISLE Construction Materials GmbH",
+      "Register Number": "EPD-CCM-20200226-IBD1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.75"
+    },
+    {
+      "UUID": "c984526a-18b5-45c1-a2eb-7b95466e8426",
+      "Name": "Bitumen sheets PYE PV 200 S5 (non-slated)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.21"
+    }
+  ]
+}

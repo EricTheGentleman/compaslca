@@ -1,0 +1,26 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Kunststoffbeschläge",
+  "items": [
+    {
+      "UUID": "20c24cbe-4c17-45f6-9539-144d43099b25",
+      "Name": "Access manager 92 00",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210193-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "671a8c95-a3f8-4010-937e-c72940f66504",
+      "Name": "Access manager 92 30",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210181-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "type": "materials",
+  "path": "Metalle / Stahl und Eisen / Stahlprofile",
+  "items": [
+    {
+      "UUID": "1fbc48c9-0cce-446d-8930-5d516e143e0b",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW100 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "20c29cbd-f9a2-4518-a1ce-c681246c29c8",
+      "Name": "Structural Steel: Sections and merchant bars",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "WEU",
+      "Declaration owner": "bauforumstahl e.V.",
+      "Register Number": "EPD-BFS-20230271-IBG1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "231073e3-f6ab-44e1-8117-0d38b9c2e526",
+      "Name": "Drawn Wire - Prestressing Wire and Strand",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20230108-IBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "26d0851b-f26a-452e-88dd-f6a268c8b6f5",
+      "Name": "Rolled wire rod",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20230103-IBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "2984e846-a2f6-4f0b-8bf1-ba1361426323",
+      "Name": "Profile - König GmbH & Co. KG - ceiling profile galvanized Hutdecke 98 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KDV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "326bc0d0-1e01-4f7a-872a-36a2fbe1ca63",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW125 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "38acd5f0-1cb3-4670-8c0c-5db54ca0864a",
+      "Name": "Rail expansion joint - superstructure",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20230456-IBA1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "39bdab63-9875-468a-ae4d-0530c4d76376",
+      "Name": "Profile - König GmbH & Co. KG - Ceiling profile corrosion resistant Hutdecek 98 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KDK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "3dab05f4-58f5-45c5-af52-b3202f127bd7",
+      "Name": "Drawn Wire ? Cold Heading Wire",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20230106-IBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "42de525f-7c48-4722-b503-6f423b39b4f4",
+      "Name": "Galvanized steel profile (electric arc furnace route, high scrap content)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "46c21ee9-602f-4d72-af93-0cbfe689798d",
+      "Name": "XCarb® recycled and renewably produced organic coated steel coils Granite® and Estetic®",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "ArcelorMittal Europe ? Flat Products",
+      "Register Number": "EPD-ARC-20220319-CBA1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "56b1d3ed-fea3-4440-b64e-37050209910c",
+      "Name": "Shaped Wire",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20230107-IBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "5d2ccac4-326e-4c68-b8c9-24a1998ae556",
+      "Name": "PregyMetal AquaBoard - AZ150 galvanized steel profiles with 0,6mm thickness",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20240005-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7500.0"
+    },
+    {
+      "UUID": "5f565343-8ae7-4a62-9271-c242ef666dfc",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW125 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "66dd4d84-4548-47ab-b870-3a7f36e06882",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW50 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "671be705-dd34-47ff-ade2-9a86bab074ac",
+      "Name": "ReUse-Steel",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "NL",
+      "Declaration owner": "ECO-Refit GmbH",
+      "Register Number": "EPD-Kiwa-EE-000356-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "6852cbc1-d149-4cb0-a8ec-6093412ec673",
+      "Name": "Profile - König GmbH & Co. KG - Ceiling profile galvanized CD60/27 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KDV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "6afabf50-122f-4f7e-82ae-a148e3bbdccd",
+      "Name": "Refit-Steel",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ECO-Refit GmbH",
+      "Register Number": "EPD-Kiwa-EE-000357-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "6b75bee7-b123-423e-acff-1cf446864415",
+      "Name": "Galvanized Structural Steel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Give Steel A/S",
+      "Register Number": "EPD-GIV-20220239-IBA1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "6d9ae824-1274-4478-9173-a48fca1237c7",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW75 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "7110e1a5-c072-4e2d-90d4-812650019e5a",
+      "Name": "Profiled steel panels for roof, wall and ceiling structures",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Salzgitter AG",
+      "Register Number": "EPD-SMM-20230037-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "9.7"
+    },
+    {
+      "UUID": "755a481d-a74b-4ba0-b417-cc26767b2d50",
+      "Name": "Steel section",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "7a2c9a05-9de8-4a88-8616-59f5b3703ee6",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW150 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "7ac6fad2-61fb-42a2-9993-54c044ae8b38",
+      "Name": "Welded and zinc coated steel structures",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA MITAU STEEL",
+      "Register Number": "EPD-Kiwa-EE-000367-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "7b43a15d-2662-4a0e-a168-ed43d65e80c3",
+      "Name": "continuous cast steel bloom",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20240109-IBC1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "7e38bb46-2c08-485d-b5b3-bda4730e0b69",
+      "Name": "Zinc coated steel structures",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA BELMAST",
+      "Register Number": "EPD-BELMAST-278-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "8f8c424e-87b3-493a-9007-a217b444c832",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW150 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "92a13cd4-9d7a-4a2f-9d42-01bef3d6ae14",
+      "Name": "PregyMetal - Z100 galvanized steel profiles 1mm thickness",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20240003-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7500.0"
+    },
+    {
+      "UUID": "936189ae-3c72-48a1-97cb-f622e5d9d0d8",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW75 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "9db2875b-1e6e-4940-bf63-953043cfef20",
+      "Name": "Painted Structural Steel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Give Steel A/S",
+      "Register Number": "EPD-GIV-20220233-IBA2-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "a7247562-ee6a-4b99-9dbd-b1d699d55c7c",
+      "Name": "Profile - König GmbH & Co. KG - Ceiling profile corrosion resistant CD60/27 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KDK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "ad911be4-fabd-4ae1-8a81-a4dda81184f3",
+      "Name": "Welded and painted steel structures - beams and box beams",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA MITAU STEEL",
+      "Register Number": "EPD-Kiwa-EE-000366-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "b4d0be41-91e4-4aba-967f-08ec144485e3",
+      "Name": "Annealed wire rod",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20230104-IBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "b6823551-539c-4ad2-94e5-9695bb36eb9e",
+      "Name": "Surface treated wire rod",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20230105-IBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "b743c794-1af8-48e8-823a-31fe951706b1",
+      "Name": "anchor rail",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Wilhelm Modersohn GmbH & Co. KG (Teil von Leviat)",
+      "Register Number": "EPD-WIL-20230187-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "ba8b9e96-e813-4e80-97d7-6a30496a4a47",
+      "Name": "PregyMetal - Z100 galvanized steel profiles 0,6 mm thickness",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20240004-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7500.0"
+    },
+    {
+      "UUID": "bd0e2485-ac77-4e6d-8cec-3c4208a1b125",
+      "Name": "Profile - König GmbH & Co. KG - Ceiling profile corrosion resistant UD28/48 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KDK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "c54a2dae-c691-454f-9c60-1fae16715095",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW50 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "c72f24ff-9562-4527-8191-ed0bda3ebab0",
+      "Name": "Welded and painted steel structures - other steel structures",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA MITAU STEEL",
+      "Register Number": "EPD-Kiwa-EE-000366-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "cacbd190-7acf-4152-8ed3-1e8ef546f49f",
+      "Name": "microZINQ(R) hot-dip galvanized steel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "ZINQ Technologie GmbH",
+      "Register Number": "EPD-ZIN-20210263-IBG1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "da7dfdf4-f821-44a5-b2ee-ca90225df42d",
+      "Name": "Profile - König GmbH & Co. KG - Ceiling profile galvanized UD28/48 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KDV-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "e24b7169-9219-43c7-a7b8-bf6e9f6f1ac1",
+      "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW100 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "König GmbH & Co. KG",
+      "Register Number": "EPD-KWK-26.1",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "f0eaf61a-7561-4140-b860-a2e658dbb9c0",
+      "Name": "Painted steel structures",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIA BELMAST",
+      "Register Number": "EPD-BELMAST-276-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "f1563cf4-2481-42c5-ad8b-915a86226cf9",
+      "Name": "duroZINQ(R) hot-dip galvanized steel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "ZINQ Technologie GmbH",
+      "Register Number": "EPD-ZIN-20210262-IBG1-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "f4cb5dd7-367c-48ff-aa3b-b7831db3cc6f",
+      "Name": "voestalpine rails (update)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20240516-IBC1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7874.0"
+    },
+    {
+      "UUID": "f65e5435-939e-4b4b-8ea7-03f3fba3c290",
+      "Name": "Flanges and butt welded fittings",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DK",
+      "Declaration owner": "INDURA",
+      "Register Number": "EPD-IND-20230122-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "fc70e3f4-bb23-4831-ac05-6f724dd9600a",
+      "Name": "Hot-dip galvanised steel",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ECO-Refit GmbH",
+      "Register Number": "EPD-Kiwa-EE-000355-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    }
+  ]
+}

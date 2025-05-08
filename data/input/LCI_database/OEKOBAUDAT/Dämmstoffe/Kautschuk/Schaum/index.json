@@ -1,0 +1,94 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Kautschuk / Schaum",
+  "items": [
+    {
+      "UUID": "3106ccac-01cc-467f-8bff-8a515c575928",
+      "Name": "AF/ArmaFlex Evo insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20220038-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "52.5"
+    },
+    {
+      "UUID": "5b664dff-a349-4574-a766-ba6fc5db2db2",
+      "Name": "SH/ArmaFlex insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20200221-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "47.5"
+    },
+    {
+      "UUID": "68f6b7a6-7c5f-4cfd-9056-832e06e9bf10",
+      "Name": "AF/ArmaFlex Class O insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20200223-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "52.5"
+    },
+    {
+      "UUID": "9568cebf-246d-4002-a94f-05e26517251d",
+      "Name": "NH/ArmaFlex Smart insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20220037-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "62.5"
+    },
+    {
+      "UUID": "a56fae8f-2c29-410f-95a9-a2793c369c0c",
+      "Name": "NH/ArmaFlex insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20200220-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "62.5"
+    },
+    {
+      "UUID": "ada6f16c-96d9-48a3-a5fd-80f03fb45025",
+      "Name": "AF/ArmaFlex insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20200219-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "52.5"
+    },
+    {
+      "UUID": "b946d5e8-dd2f-42b2-a6cf-bbf4fd318c6d",
+      "Name": "ArmaFlex Ultima insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20200218-IBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "57.5"
+    },
+    {
+      "UUID": "e603a04e-3f1b-4441-97e4-1f47e02fb03b",
+      "Name": "HT/ArmaFlex insulation for industrial and building installation",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Armacell GmbH",
+      "Register Number": "EPD-ARM-20200222-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "75.0"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "type": "materials",
+  "path": "Metalle / Edelstahl / Edelstahl Trinkwasserrohre",
+  "items": [
+    {
+      "UUID": "222632a7-4e3f-45f4-bc0b-924e7e69a199",
+      "Name": "connecting technology - Viega - Prestabo",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VPB-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "237dfd32-2f40-4373-a165-4375b140bec8",
+      "Name": "NiroSan® & NiroTherm® | Stainless Steel Fittings (SANHA GmbH)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "SANHA GmbH & Co. KG",
+      "Register Number": "EPD-Kiwa-EE-185388-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "8000.0"
+    },
+    {
+      "UUID": "412a1c46-5252-468e-bc8b-a8cb8528400e",
+      "Name": "connecting technology - Viega - Sanpress Inox LF press connector",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VSI-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "47decf82-b582-4e14-ab40-ddb026cd1f22",
+      "Name": "Stainless steel drinking water pipe",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "59257d13-efba-4d9f-acbf-4f0018aa0b47",
+      "Name": "connecting technology - Viega - Sanpress Inox press connector",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VSI-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "5b745472-96cf-4486-b17e-5031336c30ab",
+      "Name": "connecting technology - Viega - Sanpress Inox G press connector",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VSI-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "5db94418-aad0-48f6-9759-59051a981f9c",
+      "Name": "connecting technology - Viega - Temponox press connector",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VTN-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "8709271c-f1c7-46a2-8bc3-573edbf216c4",
+      "Name": "connecting technology - Viega - Sanpress Inox pipe",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VSI-67.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "89750d03-54da-44b4-a742-3e063320789e",
+      "Name": "connecting technology - Viega - Sanpress pipe",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VSP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "9e36ae1c-81b1-4420-862a-8b5e69d4f929",
+      "Name": "connecting technology - Viega - Prestabo pipe",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VPB-67.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "f04ffd1e-258e-4f96-a114-0ca023f766f4",
+      "Name": "connecting technology - Viega - Temponox pipe",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VTN-67.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    }
+  ]
+}

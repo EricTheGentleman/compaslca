@@ -1,0 +1,327 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten / -materialien / Dichtprofile",
+  "items": [
+    {
+      "UUID": "0cd7e02c-8c7d-4863-a9f8-96821283bb95",
+      "Name": "Sealing profile - Deventer Profile GmbH - Sealing profiles made of TPE-S",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Deventer Profile GmbH",
+      "Register Number": "EPD-DDT-95.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1090.0"
+    },
+    {
+      "UUID": "1bc8abf9-4545-4bde-a05f-fb7ec32a2570",
+      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of Low Lambda PA 66 GF25",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Technoform Bautec Kunststoffprodukte GmbH",
+      "Register Number": "EPD_TLL-20.1",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1000.0"
+    },
+    {
+      "UUID": "1c610d47-8371-4a68-9b0d-b79a36f9c588",
+      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of recycled PA 66 GF25",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Technoform Bautec Kunststoffprodukte GmbH",
+      "Register Number": "EPD_TIR-20.1",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1300.0"
+    },
+    {
+      "UUID": "24200193-44a1-461f-8fc8-ccf967a33fff",
+      "Name": "insulating bars - Gargiulo GmbH - insulating bars made of PA 66 GF40",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Gargiulo GmbH",
+      "Register Number": "EPD-GPA-90.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1450.0"
+    },
+    {
+      "UUID": "288e42a1-9396-4d99-874e-30a8472ffaf8",
+      "Name": "Collar BDX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220112-CBB2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.14"
+    },
+    {
+      "UUID": "2c1ab142-f266-48a0-98bb-498b6cb9e875",
+      "Name": "insulating bars - Gargiulo GmbH - insulating bars made of LC PA",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Gargiulo GmbH",
+      "Register Number": "EPD-GPA-90.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.0"
+    },
+    {
+      "UUID": "2c6ebeb2-a0d6-4f64-9885-2bebc424f8c3",
+      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of recycled Low Lambda PA 66 GF25",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Technoform Bautec Kunststoffprodukte GmbH",
+      "Register Number": "EPD-TLR-20.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1000.0"
+    },
+    {
+      "UUID": "54f797c3-caa8-47ff-8055-6caef0097d2a",
+      "Name": "EPDM sealing for aluminium section",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "598c31ad-2e1e-424c-954b-d2de5fe113e3",
+      "Name": "sealing systems - Polyschaum - Partition wall/nail sealing tape both sides",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Polyschaum Packtechnik und Isoliermaterial GmbH",
+      "Register Number": "EPD-PDB-72.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "5f091578-7d83-46de-bfba-754087398afe",
+      "Name": "CR profile (chloroprene rubber)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "6617fe30-11e7-4703-8f37-0fed1ddb593a",
+      "Name": "EPDM sealing for aluminium section, thermally separated",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "71305574-6d60-4097-b2ee-eae83ab69b2e",
+      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile PA 66 GF25",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Technoform Bautec Kunststoffprodukte GmbH",
+      "Register Number": "EPD-TIS-20.1",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1300.0"
+    },
+    {
+      "UUID": "72952cc7-9e13-44b0-8e9f-a0d514a9482e",
+      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of PBT GF30",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Technoform Bautec Kunststoffprodukte GmbH",
+      "Register Number": "EPD-TIP-20.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1530.0"
+    },
+    {
+      "UUID": "a55f7fef-ada2-4aa1-9e69-a3c5e8154d97",
+      "Name": "Insulating profile - Ensinger GmbH - insulbar RE made of TECATHERM 66 GF RE",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Ensinger GmbH",
+      "Register Number": "EPD-IBP-14.2",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.3"
+    },
+    {
+      "UUID": "a61e5138-cec4-4f38-8eca-fb6247873088",
+      "Name": "Collar BFX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220111-CBB2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.92"
+    },
+    {
+      "UUID": "a9d73655-f222-4d02-9a42-60a3a0d626ca",
+      "Name": "insulating bars - Gargiulo GmbH - insulating bars made of PA 66 GF25",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Gargiulo GmbH",
+      "Register Number": "EPD-GPA-90.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1300.0"
+    },
+    {
+      "UUID": "b148a673-bda6-44c2-8637-7af36ee68f72",
+      "Name": "Sealing profile - Deventer Profile GmbH - Sealing profiles made of soft PVC",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Deventer Profile GmbH",
+      "Register Number": "EPD-DDT-95.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1260.0"
+    },
+    {
+      "UUID": "b5dd5111-c72a-4895-abea-5ba39c0f746f",
+      "Name": "Flashing EDW",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220113-CBB2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "5.18"
+    },
+    {
+      "UUID": "bc038660-2ed7-4eae-9557-3c6c071f180a",
+      "Name": "Sealing profile - Deventer Profile GmbH - Sealing profiles made of TPE-V",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Deventer Profile GmbH",
+      "Register Number": "EPD-DDT-95.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1140.0"
+    },
+    {
+      "UUID": "bfd3f8dc-206f-4ec1-8b79-8a67848e1ca8",
+      "Name": "Insulating profile - Ensinger GmbH - insulbar ESP made of TECATHERM 66 ESP",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Ensinger GmbH",
+      "Register Number": "EPD-IBP-14.2",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.25"
+    },
+    {
+      "UUID": "c257c652-cf30-47a9-afb1-088f89592bc5",
+      "Name": "Insulating profile - Ensinger GmbH - Coex sealing wire",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Ensinger GmbH",
+      "Register Number": "EPD-IBP-14.2",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.06"
+    },
+    {
+      "UUID": "c45db940-25ea-44f5-a77f-890826a33cba",
+      "Name": "Sealing profile - M.O.L. Gummiverarbeitung - Extruded rubber profiles made of EPDM",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "M.O.L. Gummiverarbeitung GmbH & Co. KG",
+      "Register Number": "EPD-MOL-82.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1300.0"
+    },
+    {
+      "UUID": "c859efb0-d362-451d-81ca-ef90220544b7",
+      "Name": "sealing systems - Polyschaum - Trennfix",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Polyschaum Packtechnik und Isoliermaterial GmbH",
+      "Register Number": "EPD-PDB-72.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "d6299563-2b60-48d8-b759-9b5167f9d950",
+      "Name": "Flashing EDN",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220114-CBB2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.59"
+    },
+    {
+      "UUID": "dd481714-dcde-4b8e-aa13-7388e35e3f25",
+      "Name": "sealing systems - Polyschaum - Mixed fiber fleece 600 g/m² on both sides",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Polyschaum Packtechnik und Isoliermaterial GmbH",
+      "Register Number": "EPD-PDB-72.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "e0d39b76-1643-4e06-ab2c-99de3a51ef45",
+      "Name": "Insulating profile - Ensinger GmbH - insulbar LI-RE made of TECATHERM 66 GF RE",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Ensinger GmbH",
+      "Register Number": "EPD-IBP-14.2",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.0"
+    },
+    {
+      "UUID": "e2d8ae66-a0d9-4eb8-8c31-1f47f7accae4",
+      "Name": "Insulating profile - Ensinger GmbH - insulbar REG made of TECATHERM 6 GF",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Ensinger GmbH",
+      "Register Number": "EPD-IBP-14.2",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.0"
+    },
+    {
+      "UUID": "e51030da-e528-40ab-8fe0-aa4af139d157",
+      "Name": "Insulating profile - Ensinger GmbH - insulbar LI made of TECATHERM 66 GF",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Ensinger GmbH",
+      "Register Number": "EPD-IBP-14.2",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.0"
+    },
+    {
+      "UUID": "eda6640b-aef9-4ccc-aaf4-e29d4370c30f",
+      "Name": "Collar BBX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20220115-CBB2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.89"
+    },
+    {
+      "UUID": "f7793b89-55b7-4323-bdc6-5c48e63449e2",
+      "Name": "Insulating bar - Technoform Bautec Asia Pacific - Insulating bars made from PA66GF25",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "CN",
+      "Declaration owner": "Technoform Bautec Asia Pacific P/L",
+      "Register Number": "EPD-PAT-82.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1300.0"
+    }
+  ]
+}

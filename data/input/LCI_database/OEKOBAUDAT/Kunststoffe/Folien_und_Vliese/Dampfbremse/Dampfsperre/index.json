@@ -1,0 +1,157 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Folien und Vliese / Dampfbremse / Dampfsperre",
+  "items": [
+    {
+      "UUID": "00eba4e3-6243-49a7-8b98-8af497241495",
+      "Name": "Wetguard 200 SA",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "SIGA Cover AG",
+      "Register Number": "EPD-SIG-20220186-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.26"
+    },
+    {
+      "UUID": "28a26228-4acd-4bba-b62c-54a54c35526f",
+      "Name": "Damp insulation, fence strenghtened PET",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.12"
+    },
+    {
+      "UUID": "4af19f87-7019-470a-9663-8c0eff0f3c73",
+      "Name": "Synwer® ? Syn Sd variabel 150",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-229-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.15"
+    },
+    {
+      "UUID": "6869f7c1-1b2b-4f30-afc9-823a0104f1d9",
+      "Name": "Damp insulation PE",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.2"
+    },
+    {
+      "UUID": "9d445672-95f5-4273-9147-1986fd2f5a96",
+      "Name": "DuPont? AirGuard® Air & Vapour Control Layers (5816X)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "LU",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20220296-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1715"
+    },
+    {
+      "UUID": "b036b3f0-6eff-4b14-95cd-266085b41392",
+      "Name": "Synwer® ? Syn J 230 Sd 20",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-233-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.23"
+    },
+    {
+      "UUID": "b06c28b9-c7e5-4451-b621-e61ad09a7dc5",
+      "Name": "DuPont? Tyvek® Airguard® Smart (2009B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20220250-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.092"
+    },
+    {
+      "UUID": "bff03b1c-7d25-41f1-b07d-1820e928d82d",
+      "Name": "Monarflex RUS 300 (BMI Group Holdings UK Limited)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "BMI Group Holdings UK Limited",
+      "Register Number": "EPD-Kiwa-EE-184935-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.32"
+    },
+    {
+      "UUID": "c4293a12-5023-4e57-bdcd-9b52fbfa6a58",
+      "Name": "Damp insulation PA",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.08"
+    },
+    {
+      "UUID": "c434e6ef-ab4a-4832-9741-bc698196c993",
+      "Name": "Synwer® ? Syn U 120 Sd 2",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-234-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.12"
+    },
+    {
+      "UUID": "d132ea77-3d77-41bc-a6b5-4504a1a60748",
+      "Name": "Synwer® ? Syn Sd 20/100",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-231-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1"
+    },
+    {
+      "UUID": "d3a7f5a2-ce1a-416e-ac24-8c4e36ce7c78",
+      "Name": "Synwer® ? Syn Sd variabel 100",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-228-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1"
+    },
+    {
+      "UUID": "e51d7fbe-3abf-4b82-be50-13b10acd2a81",
+      "Name": "Synwer® ? Syn Sd 2/100",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-230-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.1"
+    },
+    {
+      "UUID": "ef7ff28c-5fb4-4e45-88ab-2bfd3a5b201e",
+      "Name": "Synwer® ? Syn J 230 Sd 2",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-232-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.23"
+    }
+  ]
+}

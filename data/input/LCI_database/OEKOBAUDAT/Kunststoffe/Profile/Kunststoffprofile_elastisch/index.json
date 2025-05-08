@@ -1,0 +1,97 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Profile / Kunststoffprofile elastisch",
+  "items": [
+    {
+      "UUID": "01726dcb-d5e9-44d2-b1df-f7fabc350723",
+      "Name": "Plastic profile SBR",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "400.0"
+    },
+    {
+      "UUID": "2630158e-fc89-4b2d-bb7d-4a193fb58324",
+      "Name": "Plastic profile CR (chloroprene-rubber)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "432e4b39-301e-4154-ac8a-ac635d6c36ad",
+      "Name": "Plastic profile EPDM",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "400.0"
+    },
+    {
+      "UUID": "673b7b69-7e6b-4361-bf14-f3001e42ca7e",
+      "Name": "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPP molded part",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Kunststoffwerk Katzbach GmbH & Co. KG",
+      "Register Number": "EPD-KKF-56.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "150.0"
+    },
+    {
+      "UUID": "7091bebb-3c82-4b48-991d-08be78992f57",
+      "Name": "Plastic profile silicone",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "a632df4b-08f4-4b10-95bc-73e92d7255b6",
+      "Name": "6.4.02. Polypropylene plastic profile with glass fibre components",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "a7242f91-8912-4756-8f01-a3db1a1e457f",
+      "Name": "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPS molded part",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Kunststoffwerk Katzbach GmbH & Co. KG",
+      "Register Number": "EPD-KKF-56.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "70.0"
+    },
+    {
+      "UUID": "b1e44c15-122d-4834-aef5-8fa759aee19f",
+      "Name": "Injection moulded polypropylene products",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DK",
+      "Declaration owner": "Kima Accessories Aps",
+      "Register Number": "EPD-KIM-20230121-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "0.9"
+    },
+    {
+      "UUID": "eff098c0-bfee-4482-987e-19bcd245990d",
+      "Name": "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPE molded part",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Kunststoffwerk Katzbach GmbH & Co. KG",
+      "Register Number": "EPD-KKF-56.0",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "70.0"
+    }
+  ]
+}

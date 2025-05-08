@@ -1,0 +1,78 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Leichtbeton",
+  "items": [
+    {
+      "UUID": "1c681356-2541-43e7-b1d4-9c4d0a936a08",
+      "Name": "Expanded clay hollow concrete block partition wall",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1601.0"
+    },
+    {
+      "UUID": "1f4de7a9-5da3-4924-a2e0-07f04b5a0058",
+      "Name": "klimaVER lightweight concrete wall",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "H+L Baustoff GmbH",
+      "Register Number": "EPD-HLB-20230185-CBB1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "164.25",
+      "Density (kg/m3)": "450.0"
+    },
+    {
+      "UUID": "23fc083c-960d-4d31-a509-f383e01c3179",
+      "Name": "Expanded clay concrete block outer wall",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "501.0"
+    },
+    {
+      "UUID": "2ad3b93b-b559-404e-8b63-99c69d472896",
+      "Name": "Granulated slag brick",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1400.0"
+    },
+    {
+      "UUID": "2e31cc41-fa94-442a-b19b-48d82c3555d8",
+      "Name": "Pumice stone (SFK-4)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "900.0"
+    },
+    {
+      "UUID": "5c400482-2153-45e8-a4d2-e10a9338909b",
+      "Name": "Expanded clay concrete block inner wall",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "701.0"
+    },
+    {
+      "UUID": "a1deced7-6fa9-4266-bc86-da75b3653b06",
+      "Name": "Lightweight concrete block from 100% natural pumice",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "500.0"
+    }
+  ]
+}

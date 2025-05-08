@@ -1,0 +1,18 @@
+{
+  "type": "materials",
+  "path": "Komposite / Systembauteile / Böden",
+  "items": [
+    {
+      "UUID": "1598f156-ab6f-4419-9381-adc14634997f",
+      "Name": "Green Roof System",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "ZinCo GmbH",
+      "Register Number": "EPD-ZIC-20200082-CCA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "102.7035",
+      "Density (kg/m3)": "102.7035"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fassaden / Sonstige Fassaden",
+  "items": [
+    {
+      "UUID": "45cda457-be74-4d08-90e1-e9827640b365",
+      "Name": "Curtain walling - VFF - Curtain walling in wood-metall profiles",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-HFA-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "61.4"
+    },
+    {
+      "UUID": "5106158c-4497-4ccd-8688-dbd0c787ce9b",
+      "Name": "Curtain walling - VFF - Curtain walling in steel profiles",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-FA-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "52.12"
+    },
+    {
+      "UUID": "740f5a3b-614d-42a3-a44e-ee9601ed6592",
+      "Name": "Curtain walling - VFF - Curtain walling in aluminium profiles",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-AFA-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "71.04"
+    },
+    {
+      "UUID": "d57300ee-720d-435f-a68f-13e0fc2a5ed4",
+      "Name": "Exterior wall cladding - AGROB Buchtal GmbH - KeraTwin ceramic facade system",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "AGROB Buchtal GmbH",
+      "Register Number": "EPD-KFA-84.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "31.8"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "materials",
+  "path": "Holz / Holzwerkstoffe / Spanplatten",
+  "items": [
+    {
+      "UUID": "0f2f2410-d9e2-4e0f-837a-987cb3186d81",
+      "Name": "Chipboard (generic)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3"
+    },
+    {
+      "UUID": "268829ec-c8d9-4c6e-abdd-542acc494dd1",
+      "Name": "Cement bound particle board (generic)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1200.0"
+    },
+    {
+      "UUID": "2c0860dd-08b0-43d7-acbd-b4a37e028296",
+      "Name": "Tubular particle board (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "272.0"
+    },
+    {
+      "UUID": "397c2798-c713-4fe1-9a9c-f597317e7998",
+      "Name": "Medium density fibreboard (MDF), uncoated",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Sonae Arauco, S.A.",
+      "Register Number": "EPD-SON-20230518-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "800.0"
+    },
+    {
+      "UUID": "3a523b2a-d2b1-4ef9-bdb5-9c13c9f6fcef",
+      "Name": "Particleboard, coated",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Sonae Arauco, S.A.",
+      "Register Number": "EPD-SON-20230516-IBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "11.1",
+      "Density (kg/m3)": "650.0"
+    },
+    {
+      "UUID": "b9ea94bf-c9cc-4603-9768-e445580f2744",
+      "Name": "EGGER Eurodekor - Melamine Faced Chipboard",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20200251-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "11.57",
+      "Density (kg/m3)": "655.0"
+    },
+    {
+      "UUID": "da3bb9b5-ffef-4b54-8559-bb3a4b05af70",
+      "Name": "Eurospan Raw Chipboard",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Fritz EGGER GmbH & Co. OG",
+      "Register Number": "EPD-EGG-20200249-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "655.0"
+    },
+    {
+      "UUID": "dce28570-db4a-4997-a05c-1fa0d75201c8",
+      "Name": "Particle board - raw (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "633.31"
+    },
+    {
+      "UUID": "ff5343ea-d28e-4c1c-ab30-6438c1df7fa8",
+      "Name": "Particle board - melamine coated (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "633.29"
+    }
+  ]
+}

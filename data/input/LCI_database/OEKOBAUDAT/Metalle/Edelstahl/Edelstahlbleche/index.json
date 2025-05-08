@@ -1,0 +1,16 @@
+{
+  "type": "materials",
+  "path": "Metalle / Edelstahl / Edelstahlbleche",
+  "items": [
+    {
+      "UUID": "deae7522-47b9-47a8-b9a3-176db7c250ae",
+      "Name": "Stainless steel sheet",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7900.0"
+    }
+  ]
+}

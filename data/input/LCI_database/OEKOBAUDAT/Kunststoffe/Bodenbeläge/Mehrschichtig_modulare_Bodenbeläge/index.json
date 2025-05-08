@@ -1,0 +1,106 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Bodenbeläge / Mehrschichtig modulare Bodenbeläge",
+  "items": [
+    {
+      "UUID": "1ea38afe-ecbf-43b6-8112-40cd5d1e770b",
+      "Name": "EcoWorx S? Carpet Tile with EcoSolution Q®, Solution Q®, or Solution Q Extreme® Face Fibre",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Shaw Contract (Shaw Europe Ltd.)",
+      "Register Number": "EPD-SHA-20230441-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.718"
+    },
+    {
+      "UUID": "28dcb89f-be15-465a-8341-41d741d94d13",
+      "Name": "Gradus Carpet Tile with Nylon Face Fibre",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Gradus Ltd.",
+      "Register Number": "EPD-SHA-20230476-CBA3-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.896"
+    },
+    {
+      "UUID": "55655099-d117-4e13-b173-c173122c928f",
+      "Name": "TaskWorx® Carpet Tile with EcoSolution Q®, Solution Q®, or Solution Q Extreme® Face Fibre",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Shaw Contract (Shaw Europe Ltd.)",
+      "Register Number": "EPD-SHA-20230443-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.292"
+    },
+    {
+      "UUID": "5f4ef6e1-47eb-4d80-98fb-a198e02bb318",
+      "Name": "EcoWorx S? Carpet Tile with EcoSolution Q100? Face Fibre",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Shaw Contract (Shaw Europe Ltd.)",
+      "Register Number": "EPD-SHA-20230447-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.718"
+    },
+    {
+      "UUID": "6eb06e28-c04b-4241-a065-2f11ec26f038",
+      "Name": "Micodur - Resilient Floor Covering",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Li&Co AG",
+      "Register Number": "EPD-LIC-20230312-CCA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "12.94"
+    },
+    {
+      "UUID": "6ff74e15-81a3-4edd-84ae-2dcc503a8546",
+      "Name": "Vinyl design flooring with HDF core board",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Parador GmbH",
+      "Register Number": "EPD-PAR-20230152-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "8.716",
+      "Density (kg/m3)": "950.0"
+    },
+    {
+      "UUID": "7ee2591b-29a8-4e2e-9fdc-09f9ad2630e6",
+      "Name": "STS Carpet Tile with Nylon Face Fibre",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "STS",
+      "Register Number": "EPD-SHA-20230445-CBA6-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.896"
+    },
+    {
+      "UUID": "ae0ccd6d-d452-4b95-a1ea-3ff5e02af2df",
+      "Name": "TaskWorx® Carpet Tile with Polyamide 6 (Aquafil) Face Fibre",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Shaw Contract (Shaw Europe Ltd.)",
+      "Register Number": "EPD-SHA-20230448-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.901"
+    },
+    {
+      "UUID": "b6cd48fb-91b6-4982-8323-da8caca0f7d5",
+      "Name": "ComfortWorx® Carpet Tile with EcoSolution Q®, Solution Q®, or Solution Q Extreme® Face Fibre",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Shaw Contract (Shaw Europe Ltd.)",
+      "Register Number": "EPD-SHA-20230442-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.743"
+    }
+  ]
+}

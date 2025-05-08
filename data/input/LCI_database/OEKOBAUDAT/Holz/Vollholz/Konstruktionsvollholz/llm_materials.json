@@ -1,0 +1,22 @@
+{
+  "Material Options": [
+    {
+      "Name": "Structural finger jointed solid timber"
+    },
+    {
+      "Name": "Solid construction timber (generic, 15% moisture / 13% H2O content)"
+    },
+    {
+      "Name": "Structural finger jointed solid timber & GLT® ? Girder Longitudinally Tensiletested"
+    },
+    {
+      "Name": "KVH structural timber (German average)"
+    },
+    {
+      "Name": "Cross-laminated timber"
+    },
+    {
+      "Name": "holzius ? solid wood slab elements"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Aluminiumbeschläge",
+  "items": [
+    {
+      "UUID": "789daaf4-7ef9-473d-87d0-75ae66481c65",
+      "Name": "Window fitting for horizontal sliding window",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "93b2e57a-cb78-49e4-8f95-152863f992cc",
+      "Name": "Window fitting for double sash window",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "b30999ac-b5a1-4ccd-bfcf-b9310b458db6",
+      "Name": "Window fitting for tilt and turn window",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "ee51a65b-991f-453f-bfbc-4d45fcbafe17",
+      "Name": "Window fitting for vertical sliding window",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

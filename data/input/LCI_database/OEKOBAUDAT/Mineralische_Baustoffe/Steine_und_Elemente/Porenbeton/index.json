@@ -1,0 +1,90 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Porenbeton",
+  "items": [
+    {
+      "UUID": "01f45a03-460d-4e55-b5c9-72d3e8eda18e",
+      "Name": "Aerated concrete granulate",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "400.0"
+    },
+    {
+      "UUID": "0bc73361-b7cf-4901-a7a8-926238ff2874",
+      "Name": "Hebel autoclaved aerated concrete, reinforced",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Xella Deutschland GmbH",
+      "Register Number": "EPD-XEL-20230353-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "528.0"
+    },
+    {
+      "UUID": "45e2894f-09e7-4152-a4bd-8a13f6d5b0c3",
+      "Name": "Aerated concrete P4 05 reinforced",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "500.0"
+    },
+    {
+      "UUID": "75d70011-b0c7-46b1-9fa2-4d9cdbdf8c1a",
+      "Name": "partition kits made of autoclaved aerated concrete",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "NL",
+      "Declaration owner": "Xella Deutschland GmbH",
+      "Register Number": "EPD-XEL-20240036-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "528.0"
+    },
+    {
+      "UUID": "80b2a264-25e6-4202-bfd0-553998815eb4",
+      "Name": "reinforced elements made of autoclaved aerated concrete",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Xella Deutschland GmbH",
+      "Register Number": "EPD-XEL-20230353-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "550.0"
+    },
+    {
+      "UUID": "c5310f2b-23a1-4059-ba25-80d9b3e933f5",
+      "Name": "Aerated concrete P2 04 non-reinforced",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "380.0"
+    },
+    {
+      "UUID": "e6819670-eb6c-4104-adea-f7f8bb2f49e6",
+      "Name": "autoclaved aerated concrete units",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband Porenbetonindustrie e.V.",
+      "Register Number": "EPD-BPV-20230453-IBG3-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "428.0"
+    },
+    {
+      "UUID": "f1e6c40e-3f2e-4435-9fd8-abc2dd96c38c",
+      "Name": "Aerated concrete P4 05 non-reinforced",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "472.0"
+    }
+  ]
+}

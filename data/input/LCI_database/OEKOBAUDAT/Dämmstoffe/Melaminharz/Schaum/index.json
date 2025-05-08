@@ -1,0 +1,16 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Melaminharz / Schaum",
+  "items": [
+    {
+      "UUID": "5383d573-9730-4786-9fe5-15d5fab0ec5c",
+      "Name": "Melamin resin foam",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "10.0"
+    }
+  ]
+}

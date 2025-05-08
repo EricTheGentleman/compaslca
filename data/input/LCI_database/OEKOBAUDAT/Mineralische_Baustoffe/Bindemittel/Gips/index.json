@@ -1,0 +1,77 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Bindemittel / Gips",
+  "items": [
+    {
+      "UUID": "11b74208-356f-43f7-ad62-ad2372798d06",
+      "Name": "Mixed inert NHL-based mortar: T LIVEL ECO, STONE COVER",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Miniera San Romedio Srl",
+      "Register Number": "EPD-Kiwa-EE-334-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "1855.0"
+    },
+    {
+      "UUID": "1d9ca1d8-7ff3-4533-b828-a4c96bf31066",
+      "Name": "gypsum fibre board",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "James Hardie Europe GmbH",
+      "Register Number": "EPD-JAM-20220071-CBD1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "14.75",
+      "Density (kg/m3)": "1180.0"
+    },
+    {
+      "UUID": "69a2614b-ef34-4c3c-9221-963676658172",
+      "Name": "Gypsum (CaSO4 beta hemihydrate)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "96045987-0862-4f29-b4ec-798c2e14f23a",
+      "Name": "Anhydrite (CaSO4)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "d142da3c-dd3c-4b95-b500-9be21295b1d9",
+      "Name": "Gypsum stone (CaSO4-Dihydrate)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "e6c2de31-b1a6-4c5d-ba5e-df252391321b",
+      "Name": "Gypsum (CaSO4 alpha semihydrate)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "f622a9af-864c-4343-8ce7-8f33c8754488",
+      "Name": "flooring elements",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "James Hardie Europe GmbH",
+      "Register Number": "EPD-JAM-20220072-CBD1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "29.5",
+      "Density (kg/m3)": "1180.0"
+    }
+  ]
+}

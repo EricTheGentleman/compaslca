@@ -1,0 +1,56 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Messingbeschläge",
+  "items": [
+    {
+      "UUID": "15cfb4a0-b879-460a-b96f-26e6649a008f",
+      "Name": "Double cylinder - star cross, star, 20 and 8",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CH",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210151-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4c68bef2-8a45-40b9-8a3e-f657801d16b3",
+      "Name": "Reversible Single Cylinder - star plus, neo, primo",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "JP",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210196-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "826ff8ce-2738-4106-abb8-5dddac64c41f",
+      "Name": "Reversible Double Cylinder - penta, quattro, gemini, expert, matrix",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210182-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "863d4924-9320-4a67-8b7c-5ff0fa371c07",
+      "Name": "Digital cylinder",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230097-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "fc6eb091-abbf-47ec-a17c-0517ae80701b",
+      "Name": "Serrated Double Cylinder - pextra Q, pextra+, pextra, AP 2000",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210194-CBC7-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

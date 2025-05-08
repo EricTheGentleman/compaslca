@@ -1,0 +1,61 @@
+{
+  "Material Categories": [
+    {
+      "name": "Betonfertigteile und Betonwaren"
+    },
+    {
+      "name": "Dachsteine"
+    },
+    {
+      "name": "Dachziegel"
+    },
+    {
+      "name": "Deckenplatten"
+    },
+    {
+      "name": "Faserzement"
+    },
+    {
+      "name": "Fliesen und Platten"
+    },
+    {
+      "name": "Gipsplatten"
+    },
+    {
+      "name": "Glasbausteine"
+    },
+    {
+      "name": "Kalksandstein"
+    },
+    {
+      "name": "Kunststein"
+    },
+    {
+      "name": "Lehmsteine"
+    },
+    {
+      "name": "Leichtbeton"
+    },
+    {
+      "name": "Naturwerkstein"
+    },
+    {
+      "name": "Porenbeton"
+    },
+    {
+      "name": "Schiefer"
+    },
+    {
+      "name": "Steinzeug"
+    },
+    {
+      "name": "Substrate"
+    },
+    {
+      "name": "Trockenestrich"
+    },
+    {
+      "name": "Ziegel"
+    }
+  ]
+}

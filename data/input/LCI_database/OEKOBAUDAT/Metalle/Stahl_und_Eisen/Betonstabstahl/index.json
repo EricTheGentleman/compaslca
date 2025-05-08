@@ -1,0 +1,226 @@
+{
+  "type": "materials",
+  "path": "Metalle / Stahl und Eisen / Betonstabstahl",
+  "items": [
+    {
+      "UUID": "06894083-4e59-4191-962e-d67bfcacef10",
+      "Name": "Wire rod",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ESF Elbe-Stahlwerke Feralpi GmbH",
+      "Register Number": "EPD-ESF Elbe-Stahlwerke Feralpi-308-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "19cba88b-5844-4ec5-bafa-fc84e663bc13",
+      "Name": "SAS 835/1035",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Stahlwerk Annahütte Max Aicher GmbH & Co. KG",
+      "Register Number": "EPD-Kiwa-EE-000365-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "1dd31347-9ece-44c5-8a84-5dc1595d6ae4",
+      "Name": "Reinforcing stabilized three and seven-wire strands with and without dents with a nominal tensile strength of 1670÷1860 N /mm2 with a diameter of 6.5÷15.7 mm (PC-strand)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "UA",
+      "Declaration owner": "PJSC \"STALKANAT\"",
+      "Register Number": "EPD-Kiwa-EE-162692-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "1fa429e6-921d-4db7-9c91-a742cd0bdab9",
+      "Name": "Reinforcing steel in coils",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ESF Elbe-Stahlwerke Feralpi GmbH",
+      "Register Number": "EPD-ESF Elbe-Stahlwerke Feralpi-310-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "266ed46b-5a1c-46f8-a66d-391b0d18112f",
+      "Name": "Steel fiber: waved(undulated), with hooked ends, with flattened ends",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "UA",
+      "Declaration owner": "PJSC \"STALKANAT\"",
+      "Register Number": "EPD-Kiwa-EE-169636-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "4a213dd2-6651-4125-b808-2a7ff2a69a96",
+      "Name": "Hot Rolled concrete reinforcing bars",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "FR",
+      "Declaration owner": "RIVA ACIER S.A.S",
+      "Register Number": "EPD-RIVA ACIER-175-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "8941afb6-f909-48de-826c-63a6addc2a79",
+      "Name": "Reinforcing steel bars",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Lech-Stahlwerke GmbH",
+      "Register Number": "EPD-LSW-237-DE (Rev.2_11.12.2023)",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "8a431dd2-7c2d-4e2b-b5d0-c68458a516c9",
+      "Name": "Weldable hot rolled reinforcing steel bars",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "UZ",
+      "Declaration owner": "LI DA METAL TECHNOLOGY LLC",
+      "Register Number": "EPD-Kiwa-EE-313-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "a71fef7d-c88a-4004-91a5-986a7a1d2871",
+      "Name": "Hot Rolled Concrete Reinforcing Coils",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "BE",
+      "Declaration owner": "RIVA Thy Marcinelle S.A.",
+      "Register Number": "EPD-RIVA Thy Marcinelle-299-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "a74d29ca-755a-48e2-88c2-e791760dfc18",
+      "Name": "Wire Rods",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "FR",
+      "Declaration owner": "RIVA ACIER S.A.S",
+      "Register Number": "EPD-RIVA ACIER-196-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "a8ebf8f2-2fcc-4431-b730-93bf5efd8111",
+      "Name": "Reinforcing steel in bars",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "ESF Elbe-Stahlwerke Feralpi GmbH",
+      "Register Number": "EPD-ESF Elbe-Stahlwerke Feralpi 309-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "b0f9f31c-c9a8-465e-aa7d-9485448843a1",
+      "Name": "SAS thread bar (SAS E360, SAS 450/700, SAS 650/800, SAS 670/800, SAS 750/875 FS, SAS 900/1100 FA, SAS 900/1100 FX, SAS 950/1050, SAS 1100/1320)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Stahlwerk Annahütte Max Aicher GmbH & Co. KG",
+      "Register Number": "EPD-Kiwa-EE-364-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "b14811fa-c9ad-4073-9d8f-68ad1fcd4d1d",
+      "Name": "Reinforcing Steel Coils & Bars",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Baustahlgewebe GmbH",
+      "Register Number": "EPD-BSW-20210265-CBA1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "b14a6f65-b3b8-4fc8-9259-33e33501f407",
+      "Name": "Hot rolled concrete reinforcing stretched coils",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "RIVA Stahl GmbH",
+      "Register Number": "EPD-KIWA-EE-000132-EN, EPD-RIVA-132-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "c269589f-1224-487b-8280-b0a6407edae7",
+      "Name": "COMAX Reinforcement Continuity System",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BETOMAX systems GmbH & Co. KG",
+      "Register Number": "EPD-BET-20220197-ICC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "c89cadcf-c1b7-429f-82e8-75c38626e933",
+      "Name": "SAS thread bar (SAS 500/550, SAS 500/600 ULTS, SAS 500/700, SAS 550/620, SAS 555/700, SAS 670/800, SAS 800/950 FL, SAS 900/1050 FC, SAS 900/1050 SN)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Stahlwerk Annahütte Max Aicher GmbH & Co. KG",
+      "Register Number": "EPD-Kiwa-EE-363-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "c937002d-c6f9-4a6d-b92d-5ad217b7b568",
+      "Name": "Wire Rod",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "BE",
+      "Declaration owner": "RIVA Thy Marcinelle S.A.",
+      "Register Number": "EPD-RIVA Thy Marcinelle-298-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "f57ae3ed-2d49-4a71-bfae-fc55e00a4bec",
+      "Name": "Steel rebar B500B/ K500C-T/ K500B-T/ B500NC",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "UZ",
+      "Declaration owner": "Uzmetkombinat",
+      "Register Number": "EPD-Kiwa-EE-165926-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "f805ce55-6f7f-4a77-b782-9398aa5b2f00",
+      "Name": "Hot Rolled concrete reinforcing coils",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "FR",
+      "Declaration owner": "RIVA ACIER S.A.S",
+      "Register Number": "EPD-RIVA ACIER-197-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "f9f2e974-1f5e-4773-a0ec-e99334c3328a",
+      "Name": "Wire rod",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "RIVA Stahl GmbH",
+      "Register Number": "EPD-KIWA-EE-000130-EN, EPD-RIVA-130-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    }
+  ]
+}

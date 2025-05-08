@@ -1,0 +1,40 @@
+{
+  "Material Options": [
+    {
+      "Name": "Ventilation centralized with heat recovery per 5000 m3/h"
+    },
+    {
+      "Name": "Ventilation centralized per 5000 m3/h"
+    },
+    {
+      "Name": "Ventilation centralized per 10000 m3/h"
+    },
+    {
+      "Name": "Ventilation centralized with heat recovery per 1000 m3/h"
+    },
+    {
+      "Name": "Ventilation centralized with heat recovery per 10000 m3/h"
+    },
+    {
+      "Name": "Decentralized ventilation units - SIEGENIA-AUBI KG - AEROMAT VT system (2 fans)"
+    },
+    {
+      "Name": "Ventilation centralized per 30000 m3/h"
+    },
+    {
+      "Name": "MultiWeave textile-based ventilation duct"
+    },
+    {
+      "Name": "BKP-EN"
+    },
+    {
+      "Name": "Ventilation decentralized (wall, ceiling) 60 m3/h"
+    },
+    {
+      "Name": "Fire Damper BSK-RPR"
+    },
+    {
+      "Name": "Ventilation decentralized with heat recovery (wall, ceiling) 60 m3/h"
+    }
+  ]
+}

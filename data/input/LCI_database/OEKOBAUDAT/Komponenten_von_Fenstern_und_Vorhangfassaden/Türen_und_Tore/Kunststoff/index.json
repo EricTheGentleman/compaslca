@@ -1,0 +1,39 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Türen und Tore / Kunststoff",
+  "items": [
+    {
+      "UUID": "621a52d8-4cad-4f0a-af43-60cebebb3f0c",
+      "Name": "Exterior door - VFF - PVC exterior door with light cut-out",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-KST-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "39.85"
+    },
+    {
+      "UUID": "6d963c68-07fc-48ab-92ae-c011b5ff6f00",
+      "Name": "Door - Hörmann KG Brockhagen - Industrial sectional doors in polyurethane",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Hörmann KG Brockhagen",
+      "Register Number": "EPD-STPU-0.3.2",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "25.84"
+    },
+    {
+      "UUID": "efe61c5a-ff60-4c5c-ba33-8b2dc2a4523a",
+      "Name": "Exterior door - VFF - PVC exterior door without light cut-out",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "Verband Fenster + Fassade",
+      "Register Number": "M-EPD-KST-1000",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "24.87"
+    }
+  ]
+}

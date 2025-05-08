@@ -1,0 +1,83 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium thermisch getrennt",
+  "items": [
+    {
+      "UUID": "22185222-4f46-4180-b940-46f23408057e",
+      "Name": "Frame Profiles for Windows - heroal-Johann Henkenjohann GmbH & Co. KG - lifting-sliding elements (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "EPD-AFT-38.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "4b3adfcf-18b6-43fd-ad5b-ff9781bc081f",
+      "Name": "Aluminium casement frame section, thermally separated, powder coated",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "78b0d28b-3fe2-463a-825c-9af8e4548e23",
+      "Name": "Frame Profiles for Doors - heroal-Johann Henkenjohann GmbH & Co. KG - door (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "EPD-AFT-38.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "9f5180f4-6f40-4bca-8202-29b1d4665525",
+      "Name": "Frame Profiles for Windows - heroal-Johann Henkenjohann GmbH & Co. KG - windows (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH Co. KG",
+      "Register Number": "EPD-AFT-38.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "c104fddf-7504-4b2a-9b9f-a706191ee5aa",
+      "Name": "Aluminium frame section, thermally separated, powder coated",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "cf347228-891b-44a6-89c5-a5a6a76713dc",
+      "Name": "Frame profiles for façades - heroal-Johann Henkenjohann GmbH & Co. KG - C50 (EN 15804+A2)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "heroal-Johann Henkenjohann GmbH & Co. KG",
+      "Register Number": "EPD-AFA-38.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "d6165976-4580-4ecb-9168-3f62de9d5022",
+      "Name": "Aluminium mullion-transom system with triple glazing",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "16.5"
+    },
+    {
+      "UUID": "f18ac191-cfcc-4068-a6c5-38ba25442d9b",
+      "Name": "Aluminium mullion-transom system",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    }
+  ]
+}

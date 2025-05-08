@@ -1,0 +1,25 @@
+{
+  "Material Categories": [
+    {
+      "name": "Beförderung"
+    },
+    {
+      "name": "Brandschutz"
+    },
+    {
+      "name": "Elektro"
+    },
+    {
+      "name": "Heizung"
+    },
+    {
+      "name": "Klimatisierung und Lüftung"
+    },
+    {
+      "name": "Nutzung"
+    },
+    {
+      "name": "Sanitär"
+    }
+  ]
+}

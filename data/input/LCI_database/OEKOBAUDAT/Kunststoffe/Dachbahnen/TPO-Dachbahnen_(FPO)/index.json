@@ -1,0 +1,62 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dachbahnen / TPO-Dachbahnen (FPO)",
+  "items": [
+    {
+      "UUID": "010b169d-881a-47d8-83ea-e74930c4d424",
+      "Name": "Polyfin® 3020 roofing and sealing membranes",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "POLYFIN AG",
+      "Register Number": "EPD-POL-20230126-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.14"
+    },
+    {
+      "UUID": "4b0f5c51-622e-4af8-81f0-c9f13ea7b6b0",
+      "Name": "BauderTHERMOPLEX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Paul Bauder GmbH & Co. KG",
+      "Register Number": "EPD-BAU-20220196-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.94"
+    },
+    {
+      "UUID": "770c6ffb-fbdf-4c61-810b-20bcf2f8fbd6",
+      "Name": "TPO/FPO Dach-und Dichtungsbahn",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "KÖSTER BAUCHEMIE AG",
+      "Register Number": "EPD-KBC-20210162-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.505",
+      "Density (kg/m3)": "1.505"
+    },
+    {
+      "UUID": "c7a23482-c7ee-4b2f-b807-6c34bbea495b",
+      "Name": "BauderTHERMOPLAN",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Paul Bauder GmbH & Co. KG",
+      "Register Number": "EPD-BAU-20220195-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.2"
+    },
+    {
+      "UUID": "fdba1500-af16-4bdb-ae7f-28537dabb80e",
+      "Name": "BauderTHERMOFIN",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Paul Bauder GmbH & Co. KG",
+      "Register Number": "EPD-BAU-20220194-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.93"
+    }
+  ]
+}

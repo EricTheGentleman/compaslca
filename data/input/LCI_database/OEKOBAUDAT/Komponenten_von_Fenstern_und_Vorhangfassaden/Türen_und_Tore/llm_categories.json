@@ -1,0 +1,16 @@
+{
+  "Material Categories": [
+    {
+      "name": "Aluminium"
+    },
+    {
+      "name": "Holz"
+    },
+    {
+      "name": "Kunststoff"
+    },
+    {
+      "name": "Stahl"
+    }
+  ]
+}

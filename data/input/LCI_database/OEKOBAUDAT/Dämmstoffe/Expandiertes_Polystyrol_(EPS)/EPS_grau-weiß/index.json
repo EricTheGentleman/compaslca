@@ -1,0 +1,39 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Expandiertes Polystyrol (EPS) / EPS grau-weiß",
+  "items": [
+    {
+      "UUID": "1246d584-26c0-466c-b1a9-444a6ec911ef",
+      "Name": "Dalmatiner EPS Boards 032",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "CAPAROL Farben Lacke Bautenschutz",
+      "Register Number": "EPD-CPL-20230411-CBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "14.5"
+    },
+    {
+      "UUID": "29396128-5d81-454b-8e78-64e30345257b",
+      "Name": "SAGEX expanded polystyrene",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CH",
+      "Declaration owner": "Sager AG",
+      "Register Number": "EPD-SAR-20230219-CBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "20.0"
+    },
+    {
+      "UUID": "cbd992c2-218c-4066-94b2-169c39a26f47",
+      "Name": "Dalmatiner EPS Boards 034",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "CAPAROL Farben Lacke Bautenschutz",
+      "Register Number": "EPD-CPL-20230412-CBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "14.5"
+    }
+  ]
+}

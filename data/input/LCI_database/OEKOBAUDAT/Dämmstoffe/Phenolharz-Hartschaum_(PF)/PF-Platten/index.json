@@ -1,0 +1,160 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Phenolharz-Hartschaum (PF) / PF-Platten",
+  "items": [
+    {
+      "UUID": "2a7b2942-ff5d-4dca-8365-d4ffc28d013d",
+      "Name": "Kooltherm® K15 C",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20200303-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.5",
+      "Density (kg/m3)": "35.0"
+    },
+    {
+      "UUID": "412ad711-7828-47f0-99fb-70f42cda755c",
+      "Name": "Kooltherm® K17",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20210042-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "12.9",
+      "Density (kg/m3)": "103.1"
+    },
+    {
+      "UUID": "41346ec4-a2fa-454b-9c78-a0267326ccfa",
+      "Name": "Kooltherm® K8",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20200286-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.5",
+      "Density (kg/m3)": "35.0"
+    },
+    {
+      "UUID": "4da47295-f607-4254-ab06-6925e3d5fc07",
+      "Name": "Phenolic resin foam",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "40.0"
+    },
+    {
+      "UUID": "5aaa49cc-c5ee-4664-8a1d-6f6dbee613b1",
+      "Name": "Kooltherm® K3",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20210041-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.8",
+      "Density (kg/m3)": "35.0"
+    },
+    {
+      "UUID": "6136bc06-715a-4ec8-b198-335771bc752f",
+      "Name": "Kooltherm® K12",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20210043-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.5",
+      "Density (kg/m3)": "35.0"
+    },
+    {
+      "UUID": "7726d871-0497-4460-8c87-7dcbc0a01820",
+      "Name": "Kooltherm® K8 Plus",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20210039-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.092",
+      "Density (kg/m3)": "34.1"
+    },
+    {
+      "UUID": "7874a8f3-108e-4c82-824d-5a4d51dfd4b8",
+      "Name": "Kooltherm® K10",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20210045-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.8",
+      "Density (kg/m3)": "35.0"
+    },
+    {
+      "UUID": "906a624c-2360-4a27-8493-c10fe7d398b2",
+      "Name": "Kooltherm® K15",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20210047-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.5",
+      "Density (kg/m3)": "35.0"
+    },
+    {
+      "UUID": "92284a25-9c23-4259-a19f-5363a818abd7",
+      "Name": "Kooltherm® K8 D Plus",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20230167-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.092",
+      "Density (kg/m3)": "34.1"
+    },
+    {
+      "UUID": "a6b0c08a-cf53-435b-bd27-0020ea20d184",
+      "Name": "Austrotherm Resolution® Facade",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "Austrotherm GmbH",
+      "Register Number": "EPD-AUS-20220214-CBA2-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.75",
+      "Density (kg/m3)": "37.5"
+    },
+    {
+      "UUID": "b1281fe1-f1b3-4e37-a541-743845c7637b",
+      "Name": "Kooltherm® K8 D",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KSI-20230168-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.5",
+      "Density (kg/m3)": "35.0"
+    },
+    {
+      "UUID": "d07a1fef-6a6c-405c-84bc-ab82634f9490",
+      "Name": "Kooltherm® K20",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KSI-20210046-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.8",
+      "Density (kg/m3)": "35.0"
+    }
+  ]
+}

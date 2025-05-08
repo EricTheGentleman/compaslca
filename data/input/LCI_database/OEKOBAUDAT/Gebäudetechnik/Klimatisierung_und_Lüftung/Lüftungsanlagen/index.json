@@ -1,0 +1,121 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Klimatisierung und Lüftung / Lüftungsanlagen",
+  "items": [
+    {
+      "UUID": "100d4bca-1913-4750-a816-c5ff0926f6d8",
+      "Name": "Ventilation centralized with heat recovery per 5000 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "214f9360-6b24-496c-afaa-07348538b790",
+      "Name": "Ventilation centralized per 5000 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "32448dea-291a-44df-9fe6-955187c75959",
+      "Name": "Ventilation centralized per 10000 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "690f1fb5-b209-4530-8b5e-2ca5acfe30d2",
+      "Name": "Ventilation centralized with heat recovery per 1000 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "7ac9df40-2e57-4211-94e5-f7f9d43c091c",
+      "Name": "Ventilation centralized with heat recovery per 10000 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8159a95f-3224-4b8a-8eab-1590eeaefe6a",
+      "Name": "Decentralized ventilation units - SIEGENIA-AUBI KG - AEROMAT VT system (2 fans)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "SIEGENIA-AUBI KG",
+      "Register Number": "EPD-SIL-75.0.02",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "859c3c83-2654-44a9-9f90-6f01f3f203d8",
+      "Name": "Ventilation centralized per 30000 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8f7441ce-d42f-4e3e-b700-73acecc2fdec",
+      "Name": "MultiWeave textile-based ventilation duct",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DK",
+      "Declaration owner": "KE Fibertec AS",
+      "Register Number": "EPD-KEF-20230264-CBI1-EN",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "500.0"
+    },
+    {
+      "UUID": "95a62086-58ff-48d7-8aa5-f0f1b3a4f8ff",
+      "Name": "BKP-EN",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "SCHAKO Ferdinand Schad KG",
+      "Register Number": "EPD-SCA-20210175-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "pcs.",
+      "Density (kg/m3)": "7.53"
+    },
+    {
+      "UUID": "d33c929c-b924-413a-9720-4395c7398741",
+      "Name": "Ventilation decentralized (wall, ceiling) 60 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e8f279e9-d72d-4645-bb33-5651d9ec07c0",
+      "Name": "Fire Damper BSK-RPR",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "SCHAKO Ferdinand Schad KG",
+      "Register Number": "EPD-SCA-20200193-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "pcs.",
+      "Density (kg/m3)": "6.827"
+    },
+    {
+      "UUID": "fe10a2a5-6d69-493e-b12a-dc23d3bab80b",
+      "Name": "Ventilation decentralized with heat recovery (wall, ceiling) 60 m3/h",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

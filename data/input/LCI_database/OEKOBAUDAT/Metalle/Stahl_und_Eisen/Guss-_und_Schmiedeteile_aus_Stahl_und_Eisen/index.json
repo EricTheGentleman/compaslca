@@ -1,0 +1,307 @@
+{
+  "type": "materials",
+  "path": "Metalle / Stahl und Eisen / Guss- und Schmiedeteile aus Stahl und Eisen",
+  "items": [
+    {
+      "UUID": "04a5ee66-d6be-4b69-bcbc-f6ec63dd5189",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "0f3cab27-60ab-40d4-b4ed-66c978386bca",
+      "Name": "connecting technology - Viega - Megapress Stainless 316",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "1021c6e8-ad88-446a-b1fd-648ae5b55b64",
+      "Name": "connecting technology - Viega - MegaPress FKM (USA)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "21593e3c-caeb-4008-b958-a1f698677e10",
+      "Name": "connecting technology - Viega - MegaPress 316 FKM (USA)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "247cd921-2d9b-4730-bd6a-783a7cdc85e5",
+      "Name": "connecting technology - Viega - MegaPress CuNiFe (USA)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "39332287-3527-4a69-bee4-287800cc858a",
+      "Name": "EEW Structural pipe",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "EEW Pipe Production Erndtebrueck GmbH & Co.KG",
+      "Register Number": "EPD-EEW-251-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "40740e30-44b6-4f55-9325-c6e6e6dff83c",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "40d1ca52-3d7d-486d-846f-b311b37fe26b",
+      "Name": "connecting technology - Viega - Prestabo LF",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VPB-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "59b22a91-1241-49ec-ac78-69725bbc870a",
+      "Name": "Connecting technology - Viega GmbH & Co. KG - Valves (US)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VAR-81.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "5fb1eda5-16b7-4f4d-9ff9-27d2bdb3f8e4",
+      "Name": "connecting technology - Viega - Megapress S",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "6692491d-3b1d-4a73-8057-2bb5dcfdf6f4",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "6c9b5ab3-556c-4eca-870c-5705e24a8413",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "6d5aa8f9-2425-4d12-a1c4-cc33a2cef5e2",
+      "Name": "Seamless steel tubes of voestalpine Tubulars GmbH & Co KG",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "voestalpine AG",
+      "Register Number": "EPD-VOE-20220001-IBC1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "7743e415-0e43-477f-9d8d-023eb7acdc54",
+      "Name": "connecting technology - Viega - MegaPress G (USA)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "7c18fec9-7193-41fd-bccf-6b369ff5adc4",
+      "Name": "Rain drain pipe SML",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "95070b35-2cbe-4f3e-b12e-33c3b879d406",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "985b1fb3-932c-4009-95fa-12462ffeee04",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "9ba3a136-f22b-4c63-bd56-8c45c2033f88",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "a70d7d77-f721-4fe3-8baf-5636008163da",
+      "Name": "connecting technology - Viega - Megapress",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "a9268770-5d37-4167-81b9-66f2695449d6",
+      "Name": "connecting technology - Viega - Megapress G",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "aa089b30-7862-4001-9286-9cb41058dba0",
+      "Name": "Ductile iron pipes",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "vonRoll production (deutschland) Gmbh & Co. KG",
+      "Register Number": "EPD-VRL-20230045-IBC1-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "20.0"
+    },
+    {
+      "UUID": "b8a652dc-48f0-4bc5-b60c-caec8d576fa4",
+      "Name": "Grey cast iron part",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "bacfad2f-e9be-4ed0-b807-16307419ebc5",
+      "Name": "Connecting technology - Viega GmbH & Co. KG - Gas valves",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VAR-81.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "d08267c6-2bf6-4e5b-81a9-e681798e7b0b",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "d49a0487-e2c0-45db-8db9-bb09e53d0db8",
+      "Name": "connecting technology - Viega - MegaPress 304 FKM (USA)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "e0fef4a8-9553-4a36-9320-79d5a84e949c",
+      "Name": "connecting technology - Viega - MegaPress 316 (USA)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "e29c06cd-c34d-4282-af18-a208897ac8ba",
+      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "TRM-Tiroler Rohre GmbH",
+      "Register Number": "Bau EPD-TRM- 2022-1-ECOINVENT-Pfahlsysteme",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "f595f738-673f-4665-9db9-8d31b4468512",
+      "Name": "Connecting technology - Viega GmbH & Co. KG - Easytop system faucets",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VAR-81.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "f848bd34-ac63-4b06-8ff6-080d310e414f",
+      "Name": "Steel forging part",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0"
+    },
+    {
+      "UUID": "fd3fe1fa-a42c-4e0b-9750-b6d49486136b",
+      "Name": "connecting technology - Viega - MegaPress (USA)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "GLO",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VMP-67.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

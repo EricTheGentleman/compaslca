@@ -1,0 +1,36 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Zubehör für Fenster, Fassaden, Türen und Tore / Fingerschutzsysteme",
+  "items": [
+    {
+      "UUID": "369ec7dc-5efa-4738-8a22-c085ff2737de",
+      "Name": "Finger protection systems - athmer oHG - Finger protection roller blind",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "athmer oHG",
+      "Register Number": "EPD-FSS-87.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "b86a3de0-e1cf-4812-bb25-0a7c1e1b042d",
+      "Name": "Finger protection systems - athmer oHG - Protective profiles on the hinge side",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "athmer oHG",
+      "Register Number": "EPD-FSS-87.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "cc4a3242-6d33-449f-8392-18e75e51ec1c",
+      "Name": "Finger protection systems - athmer oHG - Integrated finger protection system",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "athmer oHG",
+      "Register Number": "EPD-FSS-87.0",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    }
+  ]
+}

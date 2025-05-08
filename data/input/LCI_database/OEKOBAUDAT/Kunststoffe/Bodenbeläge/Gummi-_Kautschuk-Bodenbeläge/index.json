@@ -1,0 +1,107 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Bodenbeläge / Gummi-/Kautschuk-Bodenbeläge",
+  "items": [
+    {
+      "UUID": "0076d763-304a-4d3c-8773-e767c8a56cf9",
+      "Name": "REGUPOL rolls and sheets",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "REGUPOL BSW GmbH",
+      "Register Number": "EPD-REG-20230194-IBC1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.88"
+    },
+    {
+      "UUID": "2fbd1f22-2a0d-4dfb-bfa6-52a861d320f2",
+      "Name": "6.2.02. Tufted carpet tiles (PA 6), LC3",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.8"
+    },
+    {
+      "UUID": "6113aee0-3bdb-4b31-ab4c-4299aadef8b0",
+      "Name": "norament® 928 ed",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "nora systems GmbH",
+      "Register Number": "EPD-NOR-2022004-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.8",
+      "Density (kg/m3)": "4.8"
+    },
+    {
+      "UUID": "665ebd38-a8b0-4f78-b627-b351cfaa2ae3",
+      "Name": "Rubber floor covering with foam coating EN 1816 (4 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.82"
+    },
+    {
+      "UUID": "c40e2bef-8a2b-4d10-8a97-09a5c31f1610",
+      "Name": "noraplan® ed",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "nora systems GmbH",
+      "Register Number": "EPD-NOR-2022008-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.95",
+      "Density (kg/m3)": "2.95"
+    },
+    {
+      "UUID": "ca5488a4-2ad3-4c34-957e-c5577d0f18fb",
+      "Name": "noraplan® acoustic",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "nora systems GmbH",
+      "Register Number": "EPD-NOR-2022007-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.94",
+      "Density (kg/m3)": "3.94"
+    },
+    {
+      "UUID": "ef9fb0ef-36d3-480b-a8fe-83379dd36bbf",
+      "Name": "noraplan® ultra grip",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "nora systems GmbH",
+      "Register Number": "EPD-NOR-2022005-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.36",
+      "Density (kg/m3)": "3.36"
+    },
+    {
+      "UUID": "f5a8b0c6-0b46-4e1c-901b-643197c38ae2",
+      "Name": "Rubber floor covering profiled EN 12199 (3,55 mm)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.82"
+    },
+    {
+      "UUID": "fcfbdffd-7b36-4a2c-ac89-6e99e5ea6670",
+      "Name": "noraplan® uni",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "nora systems GmbH",
+      "Register Number": "EPD-NOR-2022006-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.36",
+      "Density (kg/m3)": "3.36"
+    }
+  ]
+}

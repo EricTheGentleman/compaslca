@@ -1,0 +1,332 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Folien und Vliese / Unterspannbahn",
+  "items": [
+    {
+      "UUID": "13656d8f-5534-4d95-a648-b164ebbd1c8a",
+      "Name": "Synwer® ? Head J 170",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-190-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.17"
+    },
+    {
+      "UUID": "15a6d41b-2a63-4cf2-a69a-98cc32a10917",
+      "Name": "Synwer® ? Head J 235 NV",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-193-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.235"
+    },
+    {
+      "UUID": "1d6be2f4-3c85-4318-a712-1ee0198168eb",
+      "Name": "Underroof membrane PUR on PET fleece",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.2"
+    },
+    {
+      "UUID": "339ab192-e5ca-4850-9d7f-ab561b3a602a",
+      "Name": "Divoroll Duo Maximum (BMI Group Holdings UK Limited)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "BMI Group Holdings UK Limited",
+      "Register Number": "EPD-Kiwa-EE-187122-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.236"
+    },
+    {
+      "UUID": "33e9d5d0-51e8-441a-94bd-6d1c2b5c69be",
+      "Name": "Synwer® ? Head Protector 200/FH200",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-178-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.2"
+    },
+    {
+      "UUID": "3c6b2708-9707-4a94-addd-9db5b45d8395",
+      "Name": "Synwer® ? Head J 150",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-189-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.15"
+    },
+    {
+      "UUID": "40ad02e5-3f20-4868-bb15-bf76371eed43",
+      "Name": "Synwer® ? Head J 120",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-187-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.12"
+    },
+    {
+      "UUID": "578edb35-d005-4dff-a0e8-a9d1b5ce4bc8",
+      "Name": "Synwer® ? Head Protector FH 330",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-180-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.34"
+    },
+    {
+      "UUID": "602ecb2b-25ec-49ff-b1c8-b1bdd14cb3bd",
+      "Name": "Synwer® ? Head K 280 NV",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-195-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.265"
+    },
+    {
+      "UUID": "68d8c380-b082-4878-84e2-270b23c3de57",
+      "Name": "Synwer® ? Head J 135/ 135 FH",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-188-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.135"
+    },
+    {
+      "UUID": "717b32dd-283b-426f-a18b-dea6782b6e73",
+      "Name": "Synwer® ? Head K 230 NV",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-194-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.23"
+    },
+    {
+      "UUID": "83028e97-ddb9-4b6b-948c-4fb54f93603a",
+      "Name": "Synwer® ? Head Protector FH 155",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-176-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.15"
+    },
+    {
+      "UUID": "8d0ee729-dbb3-4a45-ab4a-3e9acf2ba858",
+      "Name": "Underroof membrane reinforced PE fabric",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.14"
+    },
+    {
+      "UUID": "976b44a7-d3b1-4b84-b1c4-f61c55df62ba",
+      "Name": "Divoroll Standard + (BMI Group Holdings UK Limited)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "BMI Group Holdings UK Limited",
+      "Register Number": "EPD-Kiwa-EE-187723-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.153"
+    },
+    {
+      "UUID": "979c544d-47ff-447a-a491-5d85728e157e",
+      "Name": "DuPont? Tyvek® laminated (2523B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20220251-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.165"
+    },
+    {
+      "UUID": "9c9ab421-9f43-4f36-97a8-227a43df7ede",
+      "Name": "Synwer® ? Head J 230",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-192-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.23"
+    },
+    {
+      "UUID": "a0978051-8b63-44ea-973c-cc9340887458",
+      "Name": "Foil for green roof",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "1.13"
+    },
+    {
+      "UUID": "a1027332-3580-4521-a8a1-34ee644a6f5c",
+      "Name": "Synwer® ? Head Protector Silver 230",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-182-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.23"
+    },
+    {
+      "UUID": "a26b0a8f-b243-4424-b9aa-131b4b1c8b16",
+      "Name": "Synwer® ? Head SL 185",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-184-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.185"
+    },
+    {
+      "UUID": "a50ea854-ea09-4b89-b623-ac5840303904",
+      "Name": "Synwer® ? Head SL 230 NV",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-185-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.235"
+    },
+    {
+      "UUID": "a8eec051-d1d3-48f8-b2f2-337d5f694fb7",
+      "Name": "Synwer® ? Head Protector FH 230",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-179-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.24"
+    },
+    {
+      "UUID": "b4634111-dc95-4873-8614-9ab38bd11d42",
+      "Name": "Underroof membrane PP",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.15"
+    },
+    {
+      "UUID": "ba5eca55-4df3-4f71-be50-8c380482a79c",
+      "Name": "DuPont? Tyvek® Firecurb? (2566B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20220249-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.066"
+    },
+    {
+      "UUID": "bca339df-b6b8-4f5f-bf11-a4e429d9260b",
+      "Name": "Synwer® ? Head Protector Gold 330",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-181-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.34"
+    },
+    {
+      "UUID": "c2528811-5aa2-4349-8203-c96872f465f8",
+      "Name": "Synwer® ? Head SL 235",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-186-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.235"
+    },
+    {
+      "UUID": "cc02689b-2846-4633-99a5-8b8c49524322",
+      "Name": "Synwer® ? Head J 185",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-191-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.185"
+    },
+    {
+      "UUID": "dd84f4af-708e-4ee5-98a4-bc7dfb58974d",
+      "Name": "Synwer® ? Head Protector FH 170",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-177-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.17"
+    },
+    {
+      "UUID": "f840abd4-cbda-4041-b624-751face684eb",
+      "Name": "DuPont? Tyvek® laminated (2528B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20220252-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.206"
+    },
+    {
+      "UUID": "f8466fdd-6193-4dcf-b31b-28602d66ca41",
+      "Name": "DuPont? Tyvek® Firecurb? (2066B)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "DuPont de Nemours (Luxembourg) s.à r.l.",
+      "Register Number": "EPD-DUP-20220248-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.068"
+    },
+    {
+      "UUID": "fb5e351d-688e-4860-be68-e9d272e4000f",
+      "Name": "Synwer® ? Head SL 155",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Synwer GmbH",
+      "Register Number": "EPD-Synwer-183-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.155"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Heizung / Speicher",
+  "items": [
+    {
+      "UUID": "06f15a8b-ce68-4591-a723-2e86cea95c8b",
+      "Name": "Buffer storage (steel)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "0edf7a98-0624-4a38-88ce-52b52d4d0fe1",
+      "Name": "Oil tank PE-HD (1000l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "16e93957-5041-4d81-8651-9c68b4fe7bab",
+      "Name": "Oil tank polyamide (1500l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "1aa165a1-32ca-461a-a006-3736d3c9c8e2",
+      "Name": "Buffer storage (stainless steel)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "240c3d60-815c-46e9-8ad5-1a96f17e001b",
+      "Name": "Liquefied gas tank 4850 l / 2,1 t (above ground)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "280f657e-7ea6-45da-aeb7-7f04d9397360",
+      "Name": "Liquefied gas tank 4850 l / 2,1 t (underground)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "48504085-a7f3-47fd-b917-ca17df9dce47",
+      "Name": "Oil tank PE-HD (1500l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "61d6ff55-d5e6-4d38-bc57-3a003f7af0cf",
+      "Name": "Liquefied gas tank 6400 l / 2,9 t (above ground)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "632ab612-f9ab-424e-964b-cc3104a44e32",
+      "Name": "Circulating pump < 50W",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "6ba7997f-6ec0-4b15-b6de-47498ba15c73",
+      "Name": "Circulating pump 250-1000W",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "9989f74b-c0c4-459d-972b-d9068974c012",
+      "Name": "Liquefied gas tank 2700 l / 1,2 t (above ground)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "a96577bf-b144-4ae4-8a5c-8b89b16e1033",
+      "Name": "Oil tank steel/PE-HD (double wall tank, 1000l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "b0ba5886-a611-4eb1-8b8e-3423d81d7140",
+      "Name": "Chimney polypropylene (PP)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "b8a54471-8347-4824-b272-1e6875c052d0",
+      "Name": "Liquefied gas tank 6400 l / 2,9 t (underground)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c7bdc2ee-7d0b-4ec3-b7ef-c38a753a0100",
+      "Name": "Oil tank polyamide (750l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c838125d-2371-4443-b90a-95f974ac239c",
+      "Name": "Oil tank polyamide (1000l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "cc75592c-6f69-4db2-9e82-f264ac01a62b",
+      "Name": "Liquefied gas tank 2700 l / 1,2 t (underground)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e1310412-32fc-4b89-83c7-203a72b60a1a",
+      "Name": "Oil tank PE-HD (750l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e226132d-846b-4e46-8693-dfb238d35897",
+      "Name": "Brick chimney single-duct",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "e421b0a4-d318-4945-aded-b55178541806",
+      "Name": "Oil tank steel/PE-HD (double wall tank, 750l)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "eb087314-031d-4bbf-b526-1fb20e9b7735",
+      "Name": "Circulating pump 50-250W",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f45f5435-9150-44db-b297-23f1e4efb62a",
+      "Name": "Brick chimney double-duct",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m"
+    },
+    {
+      "UUID": "fb691b3c-83f6-4a33-a3f4-a36dcaae88a3",
+      "Name": "Chimney stainless steel (single wall)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

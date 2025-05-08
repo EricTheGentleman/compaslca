@@ -1,0 +1,270 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Elektro / Beleuchtung",
+  "items": [
+    {
+      "UUID": "0408350a-5473-4d6b-bba9-c6669071e4b7",
+      "Name": "Downlight cabinet 18W (CFL, G24D))",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "08790652-66ef-4b6f-bd13-30cc0f115bad",
+      "Name": "Louvrelight integrated into ceiling 3x T8-18W (LFL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "0d8f4d50-c623-4986-b5da-2b95b2d231c8",
+      "Name": "RS PRO 5100/5150 SC (Steinel GmbH)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Steinel GmbH",
+      "Register Number": "EPD-Kiwa-EE-175737-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "0e2e98a9-5664-4b67-9bb2-cdb2ed805cb1",
+      "Name": "LED office luminaire",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "0eedaa76-b07c-4f66-b5c0-c099948a0303",
+      "Name": "Electronic control gear",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "185f34be-3e4b-4956-8b58-0000b8858406",
+      "Name": "RS PRO S-Series (Steinel GmbH)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Steinel GmbH",
+      "Register Number": "EPD-Kiwa-EE-175739-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "27b1b323-93ff-4ae1-b098-e75a240ef345",
+      "Name": "Fluorescent lamp socket T8-36W (LFL) (LFL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "2c7c8fe1-30e0-4900-88c0-9d9474cfd531",
+      "Name": "Piatello A",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "GMR ENLIGHTS s.r.l.",
+      "Register Number": "EPD-GMR-200-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "31b3765c-c538-4657-ac6f-cbaa920ed70d",
+      "Name": "Fluorescent lamp socket T8-18W (LFL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "359f583d-40b4-44ee-9bdb-5a71eeb89367",
+      "Name": "ORN 500",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "GMR ENLIGHTS s.r.l.",
+      "Register Number": "EPD-GMR-199-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "3e43e07a-0015-4232-acf5-e80ed2caef24",
+      "Name": "Tarus 400",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "GMR ENLIGHTS s.r.l.",
+      "Register Number": "EPD-GMR-201-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4923c96c-bd75-4f91-a286-b7bf57d8ba3f",
+      "Name": "Coray CMR",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Ansorg GmbH",
+      "Register Number": "EPD-Kiwa-EE-161565-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4e3dc3b5-fdba-4f8a-9ee9-c3a1adc23d6e",
+      "Name": "Reactive (low-loss) control gear",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4f99181e-1b4d-43a2-8ae0-cd0d68f778d6",
+      "Name": "Fluorescent lamp T5-14W",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "5f0cafe0-c174-4313-9fc7-16ae59cd6826",
+      "Name": "Compact fluorescent lamp 18W (excluding control gear)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "6293ec16-2f99-4620-a032-fd6e57912a6c",
+      "Name": "Louvrelight 2x T8-36W (LFL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "636467b6-7d9b-4e3e-9e2e-773dca264f8f",
+      "Name": "Punta PXR",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Ansorg GmbH",
+      "Register Number": "EPD-Kiwa-EE-161567-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "6fb34a73-9388-4b40-b04b-6435a823fe2f",
+      "Name": "Louvrelight integrated into ceiling 2x T5-28W (LFL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8c93b1c6-1076-41cc-a4a3-24e5fac256a1",
+      "Name": "Fluorescent lamp T5-28W",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "a2d093ee-fbb2-46f6-a040-a3ae277d2627",
+      "Name": "Louvrelight integrated into ceiling 3x T5-14W (LFL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "bd924dad-1dbb-47f6-8661-36d1f726841a",
+      "Name": "Diffuser (damp room) T8-36W (LFL)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c959bd4c-8b31-4142-905b-4bc2446c43b9",
+      "Name": "RS PRO 5100/5150 C (Steinel GmbH)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Steinel GmbH",
+      "Register Number": "EPD-Kiwa-EE-175736-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "cbd2e78d-8930-4214-9715-553cee8e376e",
+      "Name": "RS PRO R-Series (Steinel GmbH)",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "Steinel GmbH",
+      "Register Number": "EPD-Kiwa-EE-175738-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d0b42240-f8a9-43b8-9785-774f3584637d",
+      "Name": "LUNA BL (PRACHT Industry GmbH)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "PRACHT Industry GmbH",
+      "Register Number": "EPD-Kiwa-EE-184659-EN, EPD-Kiwa-EE-192213-DE",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d1e8a149-7d1f-4e81-b845-fe1f230e3a7a",
+      "Name": "Fluorescent lamp T8-36W",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d844529c-2d0a-4d15-83c8-f836b8b562d6",
+      "Name": "Iqona IMT",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Ansorg GmbH",
+      "Register Number": "EPD-Kiwa-EE-161566-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f3cadb1a-4b24-4c97-92e5-ce122716805f",
+      "Name": "Fluorescent lamp T8-18W",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "fe6655c6-d25c-4bbd-b3b0-aa574a3fa0b0",
+      "Name": "APOLLO G2 (PRACHT Industry GmbH)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Country Code": "EU-27",
+      "Declaration owner": "PRACHT Industry GmbH",
+      "Register Number": "EPD-Kiwa-EE-181105-EN, EPD-Kiwa-EE-192212-DE",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

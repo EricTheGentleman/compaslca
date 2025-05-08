@@ -1,0 +1,22 @@
+{
+  "Material Categories": [
+    {
+      "name": "Aussenwände"
+    },
+    {
+      "name": "Bewehrung"
+    },
+    {
+      "name": "Böden"
+    },
+    {
+      "name": "Dachaufbauten"
+    },
+    {
+      "name": "Decken"
+    },
+    {
+      "name": "Innenwände"
+    }
+  ]
+}

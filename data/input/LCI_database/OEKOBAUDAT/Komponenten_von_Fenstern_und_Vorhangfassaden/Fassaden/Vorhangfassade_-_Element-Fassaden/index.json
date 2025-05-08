@@ -1,0 +1,28 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fassaden / Vorhangfassade - Element-Fassaden",
+  "items": [
+    {
+      "UUID": "0e9fd868-9656-489e-be6c-8251b3d43283",
+      "Name": "Façades - Moeding Keramikfassaden GmbH - Alphaton",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Moeding Keramikfassaden GmbH",
+      "Register Number": "EPD-MFA-48.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "52.95"
+    },
+    {
+      "UUID": "3c582662-b61f-4898-8600-b6256c84fbdb",
+      "Name": "Façades - Moeding Keramikfassaden GmbH - Longoton",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Moeding Keramikfassaden GmbH",
+      "Register Number": "EPD-MFA-48.0",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "46.76"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Stahlbeschläge",
+  "items": [
+    {
+      "UUID": "0c0b287d-eb50-41a9-88f4-5f16b4981ddc",
+      "Name": "BEST EHD9000",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220320-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "470855a9-4a1c-4987-a775-4e540ebbdae0",
+      "Name": "Door closer TS 92 Contur",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20240088-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4e478c15-c240-4c50-a0b9-49365e2e7992",
+      "Name": "The lift & slide drives are installed in the timber, PVC and aluminum lift & slide elements.",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "SIEGENIA-AUBI KG",
+      "Register Number": "EPD-SHS-75.0.01",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "6d9cf0c0-eec7-4c61-a8c1-f79914d7f4f6",
+      "Name": "ASSA ABLOY PULSE",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "Europe",
+      "Declaration owner": "ASSA ABLOY Opening Solutions Sweden AB",
+      "Register Number": "EPD-ASA-20210013-ICB-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs.",
+      "Density (kg/m3)": "0.249"
+    },
+    {
+      "UUID": "7730689d-1aa7-46ae-aada-a562f2764f0a",
+      "Name": "BEST HD8000",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "SG",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210152-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "77fd90f6-030e-4801-bf7a-2bf7991e7f8d",
+      "Name": "Mortise Lock Saflok Quantum Pixel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20240126-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "869a5d98-bf9d-491b-85b1-670f482ff87f",
+      "Name": "Steel window fitting",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8a27a9c1-276a-467e-9bdb-326df59d105b",
+      "Name": "Mortise Lock - DL Series 2xxx-9xxx",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220206-CBA11-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "90917b4c-181a-413a-8f3f-7ff791fa82f7",
+      "Name": "Electromechanical locks and striking plates - SIEGENIA-AUBI KG - Mechatronic drive unit for entrance doors and access control systems",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "KFV Karl Fliether GmbH & Co. KG",
+      "Register Number": "EPD-SME-75.0.01",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "9e10bb36-94df-4052-9e2a-ff5b316cde47",
+      "Name": "Locks and hardware for windows, doors and gates - SIEGENIA-AUBI KG - Mechanical window hardware for aluminum tilt and turn windows",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "SIEGENIA-AUBI KG",
+      "Register Number": "EPD-SSF-75.0.01",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "a6a1634e-3d8c-4c82-8dbd-337f4f1ce404",
+      "Name": "Locks and fittings for windows, doors and gates - SIEGENIA-AUBI KG - Multi-point locks",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "KFV Karl Fliether GmbH & Co. KG",
+      "Register Number": "EPD-SMF-75.0.01",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "ef468016-bb24-426f-a0db-2ff892be2dee",
+      "Name": "DL 200/300",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CN",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220158-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

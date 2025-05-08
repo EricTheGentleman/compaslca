@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Calciumsilikat / Calcium-Silikathydrat",
+  "items": [
+    {
+      "name": "Calciumsilikat",
+      "path": "Calciumsilikat/index.json"
+    },
+    {
+      "name": "Porenbeton",
+      "path": "Porenbeton/index.json"
+    }
+  ]
+}

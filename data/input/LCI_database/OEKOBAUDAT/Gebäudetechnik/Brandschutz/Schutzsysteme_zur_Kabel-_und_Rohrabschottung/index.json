@@ -1,0 +1,26 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Brandschutz / Schutzsysteme zur Kabel- und Rohrabschottung",
+  "items": [
+    {
+      "UUID": "7175573d-ee7f-4dd2-996f-9d4232ed43da",
+      "Name": "Fire protection element - EAS Technischer Brandschutz GmbH - Fire protection housing",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "EAS Technischer Brandschutz GmbH",
+      "Register Number": "EPD-RBE-83.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "e1252a7f-ea97-4045-b93f-0a9269969e74",
+      "Name": "Fire protection element - EAS Technischer Brandschutz GmbH - Revision closures",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "EAS Technischer Brandschutz GmbH",
+      "Register Number": "EPD-RBE-83.0",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

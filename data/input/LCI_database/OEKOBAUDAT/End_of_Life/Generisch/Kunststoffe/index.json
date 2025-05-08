@@ -1,0 +1,33 @@
+{
+  "type": "materials",
+  "path": "End of Life / Generisch / Kunststoffe",
+  "items": [
+    {
+      "UUID": "2b354644-639c-4878-a3aa-daf6fd5052e0",
+      "Name": "Incineration plastics in municipal solid waste plant (incl. credits)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "886739f5-7f3d-45e3-b1a3-7b443b7b848b",
+      "Name": "Incineration used carpet in municipal solid waste plant (incl. credits)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "8a3a537c-68ad-4561-a24d-dc1ded7ade93",
+      "Name": "Incineration polystyrene (PS) in municipal solid waste plant (incl. credits)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

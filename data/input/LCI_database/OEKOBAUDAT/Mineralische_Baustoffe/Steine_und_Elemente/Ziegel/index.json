@@ -1,0 +1,139 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Ziegel",
+  "items": [
+    {
+      "UUID": "05057e7f-0522-4091-8148-75033a5755ab",
+      "Name": "Clinker",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Hagemeister GmbH & Co. KG",
+      "Register Number": "EPD-HAG-20220315-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1925.0"
+    },
+    {
+      "UUID": "127a23f5-d954-41c9-8f8a-ecca18aca691",
+      "Name": "Facing bricks",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Deutschen Ziegelindustrie e.V.",
+      "Register Number": "EPD-BDZ-20230091-ICG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "159.0",
+      "Density (kg/m3)": "1700.0"
+    },
+    {
+      "UUID": "12bc74ba-14b6-4382-8610-b706ce6898e7",
+      "Name": "Wienerberger-02-Protected bricks and ceiling tiles",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.0)' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "Bau EPD GmbH",
+      "Register Number": "BAU-EPD-WienerbergerÖ-2024-01-Ecoinvent-Ziegelprodukte",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "1600.0"
+    },
+    {
+      "UUID": "1401638f-b9d7-4b33-9444-b072e2756f49",
+      "Name": "Facing brick",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1800.0"
+    },
+    {
+      "UUID": "1a365e34-0b95-4c5c-973d-11a038eb7414",
+      "Name": "Facade clinker",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "2000.0"
+    },
+    {
+      "UUID": "2ef1b9f0-3e4f-4bca-9ea0-a26a05bd039a",
+      "Name": "Urban cladding tile",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "CH",
+      "Declaration owner": "Zürcher Ziegeleien AG",
+      "Register Number": "EPD-ZZW-20200283-CBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "47.74",
+      "Density (kg/m3)": "1770.0"
+    },
+    {
+      "UUID": "30514538-fcb4-483b-b5d5-c108d2037536",
+      "Name": "Brick (unfilled)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Deutschen Ziegelindustrie e.V.",
+      "Register Number": "EPD-BDZ-20210066-ICG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "575.0"
+    },
+    {
+      "UUID": "8dcabeaa-4206-4cb8-bf47-d9974257ca55",
+      "Name": "Recycling-clinker",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Hagemeister GmbH & Co. KG",
+      "Register Number": "EPD-HAG-20220316-IBC2-DE",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1925.0"
+    },
+    {
+      "UUID": "a9141bc2-9a57-40cc-9a5d-f6345af7bf4e",
+      "Name": "Brick Slips",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Deutschen Ziegelindustrie e.V.",
+      "Register Number": "EPD-BDZ-20230090-ICG3-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "24.0",
+      "Density (kg/m3)": "2100.0"
+    },
+    {
+      "UUID": "b822aa09-3cb6-49a3-98f6-a3ebf325a70b",
+      "Name": "1.3.02. Plan bricks (filled with polystyrene)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "605.0"
+    },
+    {
+      "UUID": "ccee13d3-1e5b-41e2-a867-0d844ee6c1bf",
+      "Name": "Brick (filled with insulating material)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Deutschen Ziegelindustrie e.V.",
+      "Register Number": "EPD-BDZ-20210071-ICG1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "575.0"
+    },
+    {
+      "UUID": "feaaff18-9f56-437b-aef1-3f63928c1138",
+      "Name": "Pavers",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Bundesverband der Deutschen Ziegelindustrie e.V.",
+      "Register Number": "EPD-BDZ-20230089-ICG3-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "182.0",
+      "Density (kg/m3)": "2000.0"
+    }
+  ]
+}

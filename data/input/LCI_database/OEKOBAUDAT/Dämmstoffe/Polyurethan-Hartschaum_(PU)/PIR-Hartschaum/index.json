@@ -1,0 +1,160 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Polyurethan-Hartschaum (PU) / PIR-Hartschaum",
+  "items": [
+    {
+      "UUID": "18d34698-e723-4407-90ce-b8765b987510",
+      "Name": "Therma? TW50 / Therma? TW50 EUR",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230015-CBD2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "1dfd137d-9e32-4151-b3cb-a3ee1725ba8b",
+      "Name": "Therma? TR20 / Therma? TT40",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230009-CBD2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "24c28d10-5e75-4b76-8a48-e5d41920b231",
+      "Name": "Stiferite Class SK120",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Stiferite",
+      "Register Number": "EPD-STF-20220150-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "4.11",
+      "Density (kg/m3)": "34.24"
+    },
+    {
+      "UUID": "355dbd58-78dc-45cc-be8a-43d66d117e15",
+      "Name": "PIR high-density foam",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "250.0"
+    },
+    {
+      "UUID": "58d85baf-bd82-40ff-84c3-d7710761a972",
+      "Name": "Kingspan Sauna-Satu®",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation",
+      "Register Number": "EPD-KIN-20230016-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "0.9",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "5b79200f-fa22-4bfe-af3c-5f8f571a8efd",
+      "Name": "Therma? TP10",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230011-CBD2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "5bcc84f2-2991-43c1-be92-bb596a4bba00",
+      "Name": "Sandwich elements with a top layer of steel on both sides and a core of polyurethane foam",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "FALK Salzgitter GmbH",
+      "Register Number": "EPD-SMM-20230035-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "13.1",
+      "Density (kg/m3)": "38.0"
+    },
+    {
+      "UUID": "8346403f-4b92-4db9-a8d6-317f0a37284e",
+      "Name": "Therma? TR27 / Therma? TT47",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230013-CBD1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "94765d97-dac9-4da8-8894-ac50a29e94fd",
+      "Name": "Stiferite FIRE B average thick panel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Stiferite",
+      "Register Number": "EPD-STF-20220332-CBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.63",
+      "Density (kg/m3)": "38.6"
+    },
+    {
+      "UUID": "a1d3cc75-8d30-43bc-b6e9-3332ee7d7bfb",
+      "Name": "Therma? TW55",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230012-CBD2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "a67a85c0-8ccd-4c00-b56d-9cd1729ed697",
+      "Name": "Therma? TR24",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230014-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    },
+    {
+      "UUID": "aaab855d-2743-452a-bd53-1f0940bdae63",
+      "Name": "Stiferite CLASS SK average thick panel",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "Stiferite",
+      "Register Number": "EPD-STF-20220325-CBC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "2.88",
+      "Density (kg/m3)": "34.7"
+    },
+    {
+      "UUID": "ec719bef-e101-450f-93e1-2f51569ebf2b",
+      "Name": "Therma? TF70",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Register Number": "EPD-KIN-20230010-CBD2-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "3.6",
+      "Density (kg/m3)": "30.0"
+    }
+  ]
+}

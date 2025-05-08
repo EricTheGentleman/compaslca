@@ -1,0 +1,207 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Antriebssysteme / elektrisch",
+  "items": [
+    {
+      "UUID": "22cfb204-8185-499c-b764-e53cd419bcca",
+      "Name": "Window operator for VELUX GGL/GGU (KMG 100K) and control system (KUX 110), mains connected",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230051-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "282f6f8e-e050-47e7-9e76-c12067e981f5",
+      "Name": "Window operator for VELUX INTEGRA GPU, top-hung window",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230050-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "2b928ab3-2188-41ff-ba5c-ca092e4a7391",
+      "Name": "FAAC A952 Drive for swing doors",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "IT",
+      "Declaration owner": "FAAC S.p.A. Soc. Unipersonale",
+      "Register Number": "EPD-FAA-20220003-CBB1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "3206d976-6872-41f5-a82f-23a4a0acbfb5",
+      "Name": "Saffire LX Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230248-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "559aeda4-9701-4c6a-bc82-8c81176d0fc0",
+      "Name": "ED 100/250",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220318-CBA3-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "5801aa93-0fe8-465f-9c9d-d515ae8c1893",
+      "Name": "Mortise Lock Saflok RT Plus",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20240050-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "58385585-9b78-4629-a7d4-a5968a7ca9be",
+      "Name": "UniDrive 20",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "KONE Corporation",
+      "Register Number": "EPD-KON-20230578-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "914bce79-0696-47d5-b011-fcd9e6819ae0",
+      "Name": "Safe Lock Auditcon",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20240051-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "981b3bfb-c42f-44c3-b86d-013b55a72762",
+      "Name": "Automatic Swing Door Operator ED 900",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20240077-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "9a9ac92f-5a80-48d7-a6e5-0e79db59a0a5",
+      "Name": "ES 400 System - Sliding Door Operator",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210283-CBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "a37bf5c9-3793-4318-ab65-4ead3c045e85",
+      "Name": "ES 200",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230053-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "b167f5ee-b627-4801-be85-26e61fb26c3c",
+      "Name": "KTV Atrium Flex",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20220356-CBA3-EN",
+      "Reference Quantity": "6.6",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "244.8"
+    },
+    {
+      "UUID": "cbd142cc-2114-4ac9-9865-769b8482aa4c",
+      "Name": "SafeRoute",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230098-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d4fcff70-0ea9-4991-9593-6b20f1939156",
+      "Name": "UniSwing Compact / Robust / Fire",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "KONE Corporation",
+      "Register Number": "EPD-KON-20230582-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "db714f59-b5f7-4f93-9ed3-d6075be233b7",
+      "Name": "Window operator for VELUX pivot hinged windows and KSX 100K (for retrofitting), solar powered",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230049-IBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "eb8a572e-27af-4079-b605-2c5df9ddd498",
+      "Name": "MTL Hybrid Lock Series",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230249-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f5abf65a-c77c-45d9-ab18-98b58017c71b",
+      "Name": "Automatic revolving door KTC 2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230214-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f79f5bbd-eee5-486d-803b-9f769c6daccb",
+      "Name": "Window operator for VELUX INTEGRA GGL/GGU, mains connected",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "VELUX Group",
+      "Register Number": "EPD-VEL-20230048-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f7b47562-bec7-470e-baf3-6a78827ebc1a",
+      "Name": "Drives for window, door and/or gate systems - SIEGENIA-AUBI KG - Lift and slide drives",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "RER",
+      "Declaration owner": "SIEGENIA-AUBI KG",
+      "Register Number": "EPD-SHA-75.0.01",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "fd92f98e-d715-40c8-9fc4-8c91d5521f21",
+      "Name": "Motor Locks SVx 2000(F)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20230099-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

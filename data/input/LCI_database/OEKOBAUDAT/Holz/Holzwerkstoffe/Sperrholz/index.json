@@ -1,0 +1,48 @@
+{
+  "type": "materials",
+  "path": "Holz / Holzwerkstoffe / Sperrholz",
+  "items": [
+    {
+      "UUID": "1c01243d-fd22-4655-bfaf-484dc024d620",
+      "Name": "Veneer plywood (German average)",
+      "Standard Conformity": "'EN 15804+A2' / 'EN 16485'",
+      "Country Code": "DE",
+      "Declaration owner": "Thünen-Institut für Holzforschung",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "823.93"
+    },
+    {
+      "UUID": "21efc00f-e115-47ec-be4c-8e129491dab0",
+      "Name": "best wood CLT BOX",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Holzwerk Gebr. Schneider GmbH",
+      "Register Number": "EPD-HWS-20240042-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "200.58"
+    },
+    {
+      "UUID": "24b673e5-b737-4fe9-ab51-ca68391ccdd3",
+      "Name": "Plywood board (generic)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "490.6"
+    },
+    {
+      "UUID": "e0141b25-f5ce-480d-b902-493cde18835a",
+      "Name": "best wood CLT",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Holzwerk Gebr. Schneider GmbH",
+      "Register Number": "EPD-HWS-20240043-IBA1-DE",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "430.0"
+    }
+  ]
+}

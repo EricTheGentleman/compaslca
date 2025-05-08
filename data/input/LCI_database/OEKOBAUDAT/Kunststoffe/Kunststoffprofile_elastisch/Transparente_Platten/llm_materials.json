@@ -1,0 +1,16 @@
+{
+  "Material Options": [
+    {
+      "Name": "Transparent board PVC"
+    },
+    {
+      "Name": "Transparent board PMMA, extruded"
+    },
+    {
+      "Name": "Transparent board PC"
+    },
+    {
+      "Name": "Transparent board PMMA, cast"
+    }
+  ]
+}

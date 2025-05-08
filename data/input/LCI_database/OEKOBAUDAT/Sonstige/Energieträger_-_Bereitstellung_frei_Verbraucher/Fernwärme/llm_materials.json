@@ -1,0 +1,28 @@
+{
+  "Material Options": [
+    {
+      "Name": "District heating from lignite"
+    },
+    {
+      "Name": "District heating from waste"
+    },
+    {
+      "Name": "District heating from light fuel oil"
+    },
+    {
+      "Name": "District heating from biomass (solid)"
+    },
+    {
+      "Name": "District heating from natural gas"
+    },
+    {
+      "Name": "District heating mix Germany"
+    },
+    {
+      "Name": "District heating from biogas"
+    },
+    {
+      "Name": "District heating from hard coal"
+    }
+  ]
+}

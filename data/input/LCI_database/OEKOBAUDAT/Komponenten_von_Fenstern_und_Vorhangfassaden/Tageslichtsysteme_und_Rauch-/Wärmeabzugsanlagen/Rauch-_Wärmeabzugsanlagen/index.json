@@ -1,0 +1,100 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Tageslichtsysteme und Rauch- / Wärmeabzugsanlagen / Rauch-/Wärmeabzugsanlagen",
+  "items": [
+    {
+      "UUID": "03114985-3459-469b-a137-cdbf3cdec404",
+      "Name": "Components for smoke and heat control systems - Verband Fensterautomation und Entrauchung e.V. - Pneumatic cylinders",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Verband Fensterautomation und Entrauchung e.V.",
+      "Register Number": "M-EPD-AZR-2.000",
+      "Reference Quantity": "0.0476",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "523df305-6c1f-4d1a-9236-ad8560523365",
+      "Name": "Continuous rooflights - LAMILUX Heinrich Strunz GmbH - Continuous rooflight B smoke lift (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-LB-11.4.3",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "17.73"
+    },
+    {
+      "UUID": "5f7fc0c7-3f8c-4b2b-96bc-a24ac66a7775",
+      "Name": "Components for smoke and heat control systems - Verband Fensterautomation und Entrauchung e.V. - Pneumatic valves",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Verband Fensterautomation und Entrauchung e.V.",
+      "Register Number": "M-EPD-SVR-2.000",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "7139de3c-8b83-4a94-ad9e-ec6473d42e9b",
+      "Name": "Rooflight domes - LAMILUX Heinrich Strunz GmbH - Smoke lift rooflight F100 RWA PETG (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-RLK-11.5",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "33.4"
+    },
+    {
+      "UUID": "74f81c68-9e91-428a-934a-9cb96777855b",
+      "Name": "Components for smoke and heat control systems - Verband Fensterautomation und Entrauchung e.V. - Electrical control panels",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Verband Fensterautomation und Entrauchung e.V.",
+      "Register Number": "M-EPD-SVR-2.000",
+      "Reference Quantity": "0.052",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "77e8e167-796b-47ab-a04f-3ec4c4a211be",
+      "Name": "Rooflight domes - LAMILUX Heinrich Strunz GmbH - Smoke lift rooflight F100 RWA PC (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-RLK-11.5",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "33.03"
+    },
+    {
+      "UUID": "b5928b77-fe98-4b04-994a-4baae5674c2e",
+      "Name": "Rooflight domes - LAMILUX Heinrich Strunz GmbH - Smoke lift rooflight F100 RWA SAN (2025)",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "LAMILUX Heinrich Strunz GmbH",
+      "Register Number": "EPD-RLK-11.5",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "30.11"
+    },
+    {
+      "UUID": "e398d7f7-7d6d-474f-ab9b-0cb43faafbce",
+      "Name": "Components for smoke and heat control systems - Verband Fensterautomation und Entrauchung e.V. - Electrical drives",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Verband Fensterautomation und Entrauchung e.V.",
+      "Register Number": "M-EPD-AZR-2.000",
+      "Reference Quantity": "0.0876",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "ef7c0203-d2d0-4d53-a6cb-fc97fc3c78c3",
+      "Name": "Components for smoke and heat control systems - Verband Fensterautomation und Entrauchung e.V. - Alarm stations",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Verband Fensterautomation und Entrauchung e.V.",
+      "Register Number": "M-EPD-SVR-2.000",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

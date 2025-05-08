@@ -1,0 +1,16 @@
+{
+  "Material Options": [
+    {
+      "Name": "Usage - multisplit air conditioner < 12 kW (SEER 3,2)"
+    },
+    {
+      "Name": "Usage - split air conditioner < 12 kW (SEER 3,5)"
+    },
+    {
+      "Name": "Usage - ventilation (1kWh electricity consumption)"
+    },
+    {
+      "Name": "Usage - room air conditioner> 12 kW (SEER 4.7)"
+    }
+  ]
+}

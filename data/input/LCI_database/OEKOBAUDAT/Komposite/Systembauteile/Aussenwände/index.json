@@ -1,0 +1,99 @@
+{
+  "type": "materials",
+  "path": "Komposite / Systembauteile / Aussenwände",
+  "items": [
+    {
+      "UUID": "17268809-56c9-40bf-9266-33bea77ff987",
+      "Name": "QuadCore insulating panels (ems-isolier QuadCore EM and KS EM QuadCore)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Kingspan GmbH",
+      "Register Number": "EPD-KSP-20230113-IBD1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "15.2",
+      "Density (kg/m3)": "38.0"
+    },
+    {
+      "UUID": "1f7d7833-7309-4387-9609-8be234332f68",
+      "Name": "Duripanel A2",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20200284-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "26.1",
+      "Density (kg/m3)": "1373.0"
+    },
+    {
+      "UUID": "4bac7ff4-b18c-4132-9658-6cbc4139152e",
+      "Name": "QuadCore insulating panels (ems-isolier QuadCore EMV and KS AWP-C)",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Kingspan GmbH",
+      "Register Number": "EPD-KSP-20230112-IBD1-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "15.7",
+      "Density (kg/m3)": "38.0"
+    },
+    {
+      "UUID": "886fa502-bfa8-4f2b-a17f-1480e6318b88",
+      "Name": "StoVentec Carrier Board S",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Sto SE & Co. KGaA",
+      "Register Number": "EPD-STO-20230193-IBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "6.42",
+      "Density (kg/m3)": "535.0"
+    },
+    {
+      "UUID": "8919e142-2706-42ea-bcb5-7c1d06789f2a",
+      "Name": "StoVentec Glass A",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "RER",
+      "Declaration owner": "Sto SE & Co. KGaA",
+      "Register Number": "EPD-STO-20230192-CBA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "29.1"
+    },
+    {
+      "UUID": "9591148a-69d2-4824-9935-f258913f531e",
+      "Name": "Duripanel B1",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Etex Building Performance International",
+      "Register Number": "EPD-ETE-20200285-IBC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "22.7",
+      "Density (kg/m3)": "1263.0"
+    },
+    {
+      "UUID": "99436649-2149-4ea2-a8dd-22699be38444",
+      "Name": "Texlon®-System",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "Vector Foiltec GmbH",
+      "Register Number": "EPD-DVN-20210122-IBJ2-DE",
+      "Reference Quantity": "1",
+      "Reference": "qm"
+    },
+    {
+      "UUID": "a2b5912b-baa6-470d-8af5-374979cd57af",
+      "Name": "AQUAPANEL® Cement Board Outdoor - Site Volos",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GR",
+      "Declaration owner": "Knauf AQUAPANEL GmbH & Co. KG",
+      "Register Number": "EPD-USG-20220126-IAA1-EN",
+      "Reference Quantity": "1",
+      "Reference": "qm",
+      "Area Weight (kg/m2)": "16.0",
+      "Density (kg/m3)": "1150.0"
+    }
+  ]
+}

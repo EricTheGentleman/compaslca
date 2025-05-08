@@ -1,0 +1,87 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Zuschläge / Kraftwerksnebenprodukte",
+  "items": [
+    {
+      "UUID": "03aa150e-aacb-4262-892d-6451d65679ce",
+      "Name": "EFA-Füller®",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BauMineral GmbH",
+      "Register Number": "EPD-Kiwa-EE-154810-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "170eb4e5-7b84-47a3-9668-decce1de7225",
+      "Name": "EFA-Füller® S-MA",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BauMineral GmbH",
+      "Register Number": "EPD-Kiwa-EE-157618-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "38b91399-b79d-491a-b172-2343d7b65c0d",
+      "Name": "Furnace bottom ash",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1300.0"
+    },
+    {
+      "UUID": "45d8ad9e-ed2d-4487-adb8-129fec7a4044",
+      "Name": "Crane® Spheres 10",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "KRAHN Chemie Germany GmbH",
+      "Register Number": "EPD-KRAHN-219-EN, EPD-KRAHN-219-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2300.0"
+    },
+    {
+      "UUID": "736ac815-a211-478d-939a-fe19433c538d",
+      "Name": "Grobalith®",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "BauMineral GmbH",
+      "Register Number": "EPD-Kiwa-EE-155676-EN",
+      "Reference Quantity": "1000",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "88435dab-218f-43a8-99c1-6d03df124f68",
+      "Name": "Slag-tap granulate",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    },
+    {
+      "UUID": "90bd318e-7e72-47e7-bdfb-ed6c9309d68a",
+      "Name": "Hard coal fly ash",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2250.0"
+    },
+    {
+      "UUID": "d6d0c261-6e76-4de9-9da5-e9465597c120",
+      "Name": "Crane® Spheres 20",
+      "Standard Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "KRAHN Chemie Germany GmbH",
+      "Register Number": "EPD-KRAHN-220-EN, EPD-KRAHN-220-DE",
+      "Reference Quantity": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "2300.0"
+    }
+  ]
+}

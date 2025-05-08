@@ -1,0 +1,15 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Baumwolle / Baumwolle konventionell",
+  "items": [
+    {
+      "UUID": "52d4092b-b220-4850-9179-4f11094da94e",
+      "Name": "Cotton, conventional",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "kg"
+    }
+  ]
+}

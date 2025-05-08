@@ -1,0 +1,217 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Sanitär / Armaturen",
+  "items": [
+    {
+      "UUID": "0e88daad-6e36-468a-b86c-45af14bcf796",
+      "Name": "Shower hoses",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20210262-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs.",
+      "Density (kg/m3)": "0.374"
+    },
+    {
+      "UUID": "1fadd6a2-37a9-4eae-9089-d9ef8a744fe8",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Accessories",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "36b263e1-0863-4c1c-a9fc-43210a39eec7",
+      "Name": "Basic Sets",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20230025-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "37b4961f-9a06-4ad0-8580-03033ebc1502",
+      "Name": "Showerpipes",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20230022-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "4c248e73-3c17-4c94-9592-1cb58ce29dd3",
+      "Name": "Hand Showers",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20230021-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "5aeac94d-f116-4f5c-acbf-3ea89c0cf7d7",
+      "Name": "Basin Faucets",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe AG",
+      "Register Number": "EPD-HAN-20220300-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "69e405e9-cae0-411a-a3f9-f1bc02ef1400",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Shower channels",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "737d6b2c-b34c-46c9-851a-1841414fed46",
+      "Name": "Kitchen Faucets",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20230024-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "762d74e1-5175-44cc-b131-1265ddc9256d",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for sinks, spouts and appliances",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "8fa3542a-1149-494d-8013-8a9b87945e66",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for washbasins and bidets",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "90c19f43-6ed4-400d-940a-9151c0319513",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for urinals",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "a1d7384f-f96f-4393-a8da-78d777d67c57",
+      "Name": "Overhead Showers",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20230020-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "b7eb9588-9dfa-40a5-89db-0a3b2157d3b1",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Bathroom and balcony drains",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c2c11f0a-b27f-4ca8-9803-a6efcc3e82bc",
+      "Name": "Shower and Bath Faucets",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20230026-ICC2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "c4fa6391-8b32-43d9-bcd4-ae90881742b6",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Backwater valves",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "cefae3dc-25b8-4701-9a33-ebb08959588f",
+      "Name": "E3 Valve",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "AT",
+      "Declaration owner": "E. Hawle Armaturenwerke GmbH",
+      "Register Number": "EPD-HAW-20230068-IBA3-DE",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "cf460a07-a1cc-44e0-873d-dc2915223fe7",
+      "Name": "Thermostats",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "GLO",
+      "Declaration owner": "Hansgrohe Group",
+      "Register Number": "EPD-HAN-20230023-ICC1-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "d9e76f97-d76a-4f4d-af88-cade661dc530",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for bathtubs and shower trays",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e00a14af-213a-409d-bfd1-ce25e91dcb7e",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Electronic mixing unit",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "e3c543fc-e275-4196-85bf-b415515818f1",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Grates for shower channels",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    },
+    {
+      "UUID": "f498b3c8-85d1-473d-91e3-3c9da5726523",
+      "Name": "Drainage technology - Viega GmbH & Co. KG - Floor and cellar drains",
+      "Standard Conformity": "'EN 15804+A2'",
+      "Country Code": "DE",
+      "Declaration owner": "Viega GmbH & Co. KG",
+      "Register Number": "EPD-VET-67.0",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "materials",
+  "path": "Holz / Modifiziertes Holz / Thermisch behandeltes Holz",
+  "items": [
+    {
+      "UUID": "ee8691c4-00f9-4724-bb79-8043c62ce41e",
+      "Name": "Thermally treated wood (1 m3, 409 kg/m3)",
+      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Country Code": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Reference Quantity": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "409.0"
+    }
+  ]
+}

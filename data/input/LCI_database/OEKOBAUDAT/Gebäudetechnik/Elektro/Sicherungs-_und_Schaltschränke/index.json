@@ -1,0 +1,16 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Elektro / Sicherungs- und Schaltschränke",
+  "items": [
+    {
+      "UUID": "1d1b24a0-3a43-458e-8be7-6bc8aabe4f41",
+      "Name": "Extension module 90 30 / 90 31",
+      "Standard Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Country Code": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Register Number": "EPD-DOR-20210195-CBA2-EN",
+      "Reference Quantity": "1",
+      "Reference": "pcs."
+    }
+  ]
+}
