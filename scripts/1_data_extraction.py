@@ -1,0 +1,1 @@
+from lca_pipeline.m_1_data_extraction.m_1a_extract_all.main_extract_all import extract_all

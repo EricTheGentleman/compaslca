@@ -1,0 +1,19 @@
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# System & environment files
+.DS_Store
+.env/
+.venv/
+.vscode/
+
+# Ignore IFC files
+*.ifc
+
+# === Ignore all .json and .csv files inside /data, recursively ===
+data/**/*.json
+data/**/*.csv
+
+# === Ignore master configuration file with sensitive data (api key) ===
+master_config.yaml

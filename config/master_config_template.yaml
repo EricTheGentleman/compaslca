@@ -1,0 +1,103 @@
+##############################################
+# === COMPAS-LCA Master Configuration File ===
+##############################################
+
+# === Database Settings ===
+database_config:
+
+  # Which database should be used for the material matching & LCA calculation?
+  database: "kbob" # choose between "kbob" or "oekobaudat"
+
+
+# === Inference Settings ===
+inference_config:
+
+  company: "OpenAI"
+
+  model: "gpt-4"
+
+  # insert the API key in single quotation marks (')
+  api_key: 'YOUR_API_KEY_HERE'
+
+  max_tokens: 2048
+
+  temperature: 0.2
+
+# === Prompt Variables ===
+  
+
+prompt_variables:
+
+  # decide if the density (if available) of a material entry should be included in the LCI database passed to the LLM
+  include_density: true  # choose between true or false
+
+# === Extraction Settings ===
+# Depending on the availability of the IFC quantities, the BREP calculation can be disabeled
+# It would also mean that any bounding-box, geometric complexity and ratios are not included
+# It is recommended to enable the brep calculation, but specify brep calculation timeout for high complexity elements
+extraction_config:
+
+  # If the IFC entities should be specified, refer to following YAML config file:
+  entity_config_path: config/step_01_data_extraction/extraction_config.yaml
+
+  # Specify maximum elements that should be extracted ("None" for all elements)
+  max_elements: 5
+
+  # Calculate BREP related quantities (area, volume) with compas_occ
+  brep_enabled: true
+
+  # Specify maximum time (seconds) for BREP processing
+  brep_timeout: 30
+
+
+
+# === IfcBuilding Element Data Filtering ===
+# The software package extracts all "possibly" relevant data from each BIM element.
+# In order to minimize tokens & navigate the LLM inference, these data sheets can be altered.
+# The settings below allow for filtering the JSON files / IFC data sheets.
+filter_config:
+
+  # Choose either "custom" or "preset". Custom allows for user-based configuration of what should be included.
+  mode: "preset"
+
+  # Choose data Level of Information (LOI) preset. Used only if mode is "preset"; must be one of: low_LOI, medium_LOI, high_LOI
+  preset: "medium_LOI"
+
+  # Used only if mode is "custom"; this is the folder that contains both customizable YAML files
+  custom_path: "config/step_01_data_extraction/filter_custom"
+
+  # Used to remove "empty" or "unknown" key-value pairs (minimizes tokens). Set to "false" to maintain.
+  remove_empty_values: true
+
+  # Reordering of keys. Maintain the name and the indent, only change order!
+  # LLMs can be sensitive to the order of data. Especially data in the "middle" tends to get lost, according to some academic literature.
+  # The presets below are a good basis (i.e., you can also just leave as-is)
+
+  # Key order for the "IfcBuildingElement" data sheets
+  element_key_order:
+    - Element Metadata
+    - Element Material Data
+    - Element Geometry Data
+    - Element Property Sets
+    - Element Relationships
+    - Element Location
+    - CompilationGroupID
+
+  # Key order for the dissected layer sheets of multi-layer elements
+  target_layer_key_order:
+    - Target Layer of Material Inference
+    - Building Element Context
+    - CompilationGroupID
+
+  # Key order for the dissected layer sheets of multi-layer elements
+  building_element_context_key_order:
+    - Element Metadata
+    - Other Material Layers
+    - Layer Set Metadata
+    - Element Geometry Data
+    - Element Property Sets
+    - Element Relationships
+    - Element Location
+
+
+

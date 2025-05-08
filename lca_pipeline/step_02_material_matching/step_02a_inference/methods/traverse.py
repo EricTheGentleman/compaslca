@@ -1,0 +1,129 @@
+import os
+import json
+import time
+from methods.utils import load_json
+from methods.llm_interface import category_inference, material_inference
+
+def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, mode, step=1, path_trace=None):
+    path_trace = path_trace or []
+
+    category_file = os.path.join(current_dir, "llm_categories.json")
+    materials_file = os.path.join(current_dir, "llm_materials.json")
+    index_file = os.path.join(current_dir, "index.json")
+
+    if not os.path.exists(index_file):
+        raise FileNotFoundError(f"Missing index.json in {current_dir}")
+
+    index_data = load_json(index_file)
+
+    # === Category Inference ===
+    if os.path.exists(category_file):
+        lci_data = load_json(category_file)
+
+        # Actual inference
+        start_time = time.time()
+        llm_response, token_usage = category_inference(bim_element, lci_data, mode)
+        end_time = time.time()
+        processing_time = round(end_time - start_time, 3)
+
+        # Get match name
+        category_name = llm_response.get("Matched Material Category")
+        if category_name in [None, "None", "", []]:
+            category_name = None
+
+        # Append metadata
+        metadata = {
+            "step": step,
+            "matched_type": "category",
+            "matched_path": str(current_dir),
+            "trace": path_trace,
+            "message": "Match successful" if category_name else "No match found",
+            "token_usage": token_usage.to_dict(),
+            "processing_time": processing_time
+        }
+
+        result = {
+            "llm_response": llm_response,
+            "llm_metadata": metadata
+        }
+
+        result_path = os.path.join(results_dir, f"step_{step}_category.json")
+        with open(result_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+
+        if not category_name:
+            return result
+
+        match = next((item for item in index_data["items"] if item["name"] == category_name), None)
+        if not match:
+            result["llm_metadata"]["matched_type"] = "none"
+            result["llm_metadata"]["message"] = f"No match for '{category_name}' in index.json"
+            return result
+
+        next_dir = os.path.join(current_dir, os.path.dirname(match["path"]))
+        return traverse_lci_hierarchy(
+            bim_element=bim_element,
+            current_dir=next_dir,
+            lci_base_dir=lci_base_dir,
+            results_dir=results_dir,
+            mode=mode,
+            step=step + 1,
+            path_trace=path_trace + [category_name]
+        )
+
+    # === Material inference (leaf node) ===
+    elif os.path.exists(materials_file):
+        lci_data = load_json(materials_file)
+
+        start_time = time.time()
+        llm_response, token_usage = material_inference(bim_element, lci_data, mode)
+        end_time = time.time()
+        processing_time = round(end_time - start_time, 3)
+
+        matched_name = llm_response.get("Matched Material Name")
+        if matched_name in [None, "None", "", []]:
+            matched_name = None
+
+        # Append metadata
+        metadata = {
+            "step": step,
+            "matched_type": "material",
+            "matched_path": str(current_dir),
+            "trace": path_trace,
+            "message": "Match successful" if matched_name else "No match found",
+            "token_usage": token_usage.to_dict(),
+            "processing_time": processing_time
+        }
+
+        result = {
+            "llm_response": llm_response,
+            "llm_metadata": metadata
+        }
+
+        result_path = os.path.join(results_dir, f"step_{step}_material_match.json")
+        with open(result_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+
+        return result
+
+    # Gracefully handle if matching inference file found
+    else:
+        result = {
+            "llm_response": {},
+            "llm_metadata": {
+                "step": step,
+                "matched_type": "none",
+                "matched_name": None,
+                "matched_path": str(current_dir),
+                "trace": path_trace,
+                "message": "No llm_categories.json or llm_materials.json found in directory",
+                "token_usage": {},
+                "processing_time": 0.0
+            }
+        }
+
+        result_path = os.path.join(results_dir, f"step_{step}_no_match.json")
+        with open(result_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+
+        return result
