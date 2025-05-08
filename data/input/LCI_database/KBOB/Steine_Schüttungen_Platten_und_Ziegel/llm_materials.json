@@ -1,0 +1,70 @@
+{
+  "Material Options": [
+    {
+      "Name": "Betongranulat 1"
+    },
+    {
+      "Name": "Betonziegel"
+    },
+    {
+      "Name": "Faserzement-Dachschindel"
+    },
+    {
+      "Name": "Faserzementplatte gross"
+    },
+    {
+      "Name": "Faserzement-Wellplatte"
+    },
+    {
+      "Name": "Flachglas beschichtet"
+    },
+    {
+      "Name": "Flachglas unbeschichtet"
+    },
+    {
+      "Name": "Gipsfaserplatte"
+    },
+    {
+      "Name": "Gipsfaserplatte Fermacell"
+    },
+    {
+      "Name": "Gipskartonplatte"
+    },
+    {
+      "Name": "Gips-Wandbauplatte / Vollgipsplatte"
+    },
+    {
+      "Name": "Glasfaserbeton Ecomur"
+    },
+    {
+      "Name": "Hartsandsteinplatte"
+    },
+    {
+      "Name": "Kalksteinplatte"
+    },
+    {
+      "Name": "Keramik-/Steinzeugplatte"
+    },
+    {
+      "Name": "Kies gebrochen 1"
+    },
+    {
+      "Name": "Mischgranulat 1"
+    },
+    {
+      "Name": "Rundkies 1"
+    },
+    {
+      "Name": "Sand 1"
+    },
+    {
+      "Name": "Sanitärkeramik"
+    },
+    {
+      "Name": "Stampflehm"
+    },
+    {
+      "Name": "Tonziegel"
+    }
+  ]
+}

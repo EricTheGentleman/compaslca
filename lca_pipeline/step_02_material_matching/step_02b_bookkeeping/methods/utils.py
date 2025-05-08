@@ -1,9 +1,11 @@
 import os
 import json
+import yaml
 
-# Define paths
-inference_root = "data/pipeline/step_02_material_matching/step_02a_inference/Target_Layers"
-source_root = "data/pipeline/step_01_data_extraction/step_01c_dissect_layers/Target_Layers"
+def load_yaml_config(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
 
 # Universal method to find GlobalID/GroupID regardless of element/target layer data format
 def recursive_finder(data, target_keys):
@@ -23,7 +25,6 @@ def recursive_finder(data, target_keys):
     return None
 
 
-
 # Find GlobalId or GroupId and append to inference files
 def append_id(inference_root, source_root):
     for filename in os.listdir(inference_root):
@@ -35,7 +36,6 @@ def append_id(inference_root, source_root):
         source_file_path = os.path.join(source_root, f"{element_name}.json")
 
         if not os.path.exists(source_file_path):
-            print(f"⚠️ Source file not found for: {element_name}")
             continue
 
         # Load source data to extract the ID
@@ -44,7 +44,6 @@ def append_id(inference_root, source_root):
 
         result = recursive_finder(source_data, ["CompilationGroupID", "GlobalId"])
         if not result:
-            print(f"⚠️ No ID found in source file for: {element_name}")
             continue
 
         id_key, id_value = result
@@ -60,6 +59,4 @@ def append_id(inference_root, source_root):
 
         # Save back to the same file
         with open(inference_file_path, "w", encoding="utf-8") as f:
-            json.dump(inference_data, f, ensure_ascii=False, indent=2)
-
-        print(f"✅ Appended {id_key} to {filename}")
+            json.dump(updated_data, f, ensure_ascii=False, indent=2)
