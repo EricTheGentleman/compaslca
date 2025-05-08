@@ -1,35 +1,81 @@
-##############################################
-# === COMPAS-LCA Master Configuration File ===
-##############################################
+########################################
+# COMPAS-LCA Master Configuration File #
+########################################
 
 # === Database Settings ===
 database_config:
 
   # Which database should be used for the material matching & LCA calculation?
-  database: "kbob" # choose between "kbob" or "oekobaudat"
+  database: "kbob" # ("kbob"/"oekobaudat")
 
 
-# === Inference Settings ===
-inference_config:
+# === Category Inference Settings ===
+category_inference_config:
 
   company: "OpenAI"
 
-  model: "gpt-4"
+  model: "gpt-4o"
 
-  # insert the API key in single quotation marks (')
-  api_key: 'YOUR_API_KEY_HERE'
-
+  api_key: # Replace with your actual API key
+  
   max_tokens: 2048
 
-  temperature: 0.2
+  temperature: 0
 
-# === Prompt Variables ===
+
+# === Material Inference Settings ===
+material_inference_config:
+
+  company: "OpenAI"
   
+  model: "gpt-4o"
 
-prompt_variables:
+  # insert the API key in single quotation marks (')
+  api_key: # Replace with your actual API key
+  
+  max_tokens: 2048
+
+  temperature: 0
+
+
+# === Category Prompt Variables ===
+category_prompt_variables:
+
+  # Expert Reasoning
+  include_expert_reasoning: false #(false/true)
+
+  # Chain of Thought Reasoning
+  include_cot: false #(false/true)
+
+  # Specify if the LLM should justify its decision in the output
+  decision_justification: false #(false/true)
+
+
+# === Material Prompt Variables ===
+material_prompt_variables:
+
+  # Matching Strictness Phrasing. Specifies how many materials entries the LLM should try to match
+  matching_strictness: "Mid" #("Low"/"Mid"/"High")
+
+  # This boolean includes the instruction to prioritize the suistainable materials that would fit the IfcBuildingElement / Target Layer
+  prioritize_suistainability: false #(false/true)
 
   # decide if the density (if available) of a material entry should be included in the LCI database passed to the LLM
-  include_density: true  # choose between true or false
+  # Can increase token usage, especially for large material lists like in the Oekobaudat!
+  include_density: false #(false/true)
+
+  # Expert Reasoning
+  include_expert_reasoning: false #(false/true)
+
+  # Chain of Thought Reasoning
+  include_cot: false #(false/true)
+
+  # Specify if the LLM should justify its decision in the output
+  decision_justification: false #(false/true)
+
+
+
+
 
 # === Extraction Settings ===
 # Depending on the availability of the IFC quantities, the BREP calculation can be disabeled
@@ -40,8 +86,8 @@ extraction_config:
   # If the IFC entities should be specified, refer to following YAML config file:
   entity_config_path: config/step_01_data_extraction/extraction_config.yaml
 
-  # Specify maximum elements that should be extracted ("None" for all elements)
-  max_elements: 5
+  # Specify maximum elements that should be extracted (null for all elements)
+  max_elements: null
 
   # Calculate BREP related quantities (area, volume) with compas_occ
   brep_enabled: true
@@ -87,6 +133,8 @@ filter_config:
   target_layer_key_order:
     - Target Layer of Material Inference
     - Building Element Context
+
+
     - CompilationGroupID
 
   # Key order for the dissected layer sheets of multi-layer elements
@@ -98,6 +146,10 @@ filter_config:
     - Element Property Sets
     - Element Relationships
     - Element Location
+
+
+
+
 
 
 
