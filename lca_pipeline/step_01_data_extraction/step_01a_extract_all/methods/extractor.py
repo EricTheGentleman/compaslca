@@ -70,6 +70,7 @@ def extractor(brep_toggle, brep_timeout, input_file, model, out_directory_elemen
             # --- ELEMENT METADATA ---
             metadata = {}
             metadata["Name"] = meta.name(element)
+            metadata["Description"] = meta.description(element)
             metadata["UID"] = meta.uid(element)
             metadata["GlobalId"] = meta.globalid(element)
             metadata["Type"] = meta.entity(element)

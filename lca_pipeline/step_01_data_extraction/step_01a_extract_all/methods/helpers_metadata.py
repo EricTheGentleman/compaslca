@@ -28,6 +28,8 @@ def objecttype(element):
     except Exception:
         return "Not defined"
 
+def description(element):
+    return getattr(element, "Description", None) or "Unknown"
 
 # Function to extract classification information using IfcRelAssociatesClassification
 # The relationship is used to assign a classification notation or a classification reference to objects.
