@@ -45,6 +45,8 @@ def extractor(brep_toggle, brep_timeout, input_file, model, out_directory_elemen
     # Get File Metadata for overview sheet
     file_metadata = file_meta.get_file_metadata(input_file, model, formatted_units)
 
+    # Some IFC files have identical names for elements. Keep track of used names
+    used_names = {}
 
     # Iterate over all IfcBuildingElements
     for element in elements:
@@ -126,14 +128,22 @@ def extractor(brep_toggle, brep_timeout, input_file, model, out_directory_elemen
             element_data["Element Location"] = location_data
 
             # --- EXPORT ---
-            element_name = meta.name(element)
+            base_name = meta.name(element) or "Unnamed"
+
+            if base_name not in used_names:
+                used_names[base_name] = 0
+                final_name = base_name
+            else:
+                used_names[base_name] += 1
+                final_name = f"{base_name}_{used_names[base_name]}"
+
 
             # Choose directory based on is_decompsed_by
             if is_decomposed_by:
-                inout.save_individual_json(element_data, out_directory_compositions, element_name)
+                inout.save_individual_json(element_data, out_directory_compositions, final_name)
                 count_composition_elements += 1
             else:     
-                inout.save_individual_json(element_data, out_directory_elements, element_name)
+                inout.save_individual_json(element_data, out_directory_elements, final_name)
                 count_single_elements += 1
 
         except Exception as e:
