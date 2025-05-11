@@ -107,16 +107,15 @@ def get_mesh(element):
         return None, None
 
 
-def quantities_compas(element):
+def quantities_compas(brep, lc_factor):
     quantities = {}
     try:
-        brep = element.geometry
         if brep is not None:
-            volume = brep.volume
+            volume = brep.volume * (lc_factor ** 3)
             if volume is not None:
                 quantities["Net Volume"] = round(volume, 4)
                 quantities["Net Volume unit"] = "CUBIC_METRE"
-            area = brep.area
+            area = brep.area * (lc_factor ** 2)
             if area is not None:
                 quantities["Entire Surface Area"] = round(area, 4)
                 quantities["Entire Surface Area unit"] = "SQUARE_METRE"
@@ -193,10 +192,9 @@ def bounding_box_volume(obb_dimensions):
             volume = None
         return volume
 
-def real_volume_to_bounding_box_ratio(element, obb_volume):
-    brep = element.geometry
+def real_volume_to_bounding_box_ratio(brep, obb_volume, lc_factor):
     if brep is not None:
-        actual_volume = brep.volume
+        actual_volume = brep.volume * (lc_factor ** 3)
     try:
         if actual_volume is None or obb_volume is None:
             return None
@@ -239,12 +237,13 @@ def compute_brep_geometry_data(element, lc_factor):
     try:
         geometry_data = {}
         mesh, obb = get_mesh(element)
-        geometry_data["Quantities (COMPAS)"] = quantities_compas(element)
+        brep = element.geometry
+        geometry_data["Quantities (COMPAS)"] = quantities_compas(brep, lc_factor)
         obb_dimensions = bounding_box_dimensions(obb, lc_factor)
         geometry_data["Bounding Box Dimensions (OBB - local frame)"] = obb_dimensions
         obb_volume = bounding_box_volume(obb_dimensions)
         geometry_data["Bounding Box Volume"] = obb_volume
-        geometry_data["Real Volume to Bounding Box Volume Ratio"] = real_volume_to_bounding_box_ratio(element, obb_volume)
+        geometry_data["Real Volume to Bounding Box Volume Ratio"] = real_volume_to_bounding_box_ratio(brep, obb_volume, lc_factor)
         geometry_data["Face Count (tessellated element)"] = face_count(mesh)
         geometry_data["Vertex Count (tessellated element)"] = vertex_count(mesh)
         geometry_data["Edge Count (tessellated element)"] = edge_count(mesh)

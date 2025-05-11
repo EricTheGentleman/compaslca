@@ -103,6 +103,7 @@ def extractor(brep_toggle, brep_timeout, input_file, model, out_directory_elemen
                             "Name": meta.name(element),
                             "GlobalId": meta.globalid(element)
                         })
+                        # add future finished and effective break
             element_data["Element Geometry Data"] = geometry_data
 
             # --- PROPERTY SETS ---
