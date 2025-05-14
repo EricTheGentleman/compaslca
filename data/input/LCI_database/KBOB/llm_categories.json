@@ -1,17 +1,19 @@
-[
-  "Beton",
-  "Mauersteine",
-  "Mineralische Platten, Schüttungen, Steine und Ziegel",
-  "Mörtel und Putze",
-  "Fenster, Sonnenschutz, Fassadenplatten",
-  "Metallbaustoffe",
-  "Holz und Holzwerkstoffe",
-  "Klebstoffe, Fugendichtungsmassen",
-  "Dichtungsbahnen, Schutzfolien",
-  "Wärmedämmstoffe",
-  "Bodenbeläge",
-  "Türen",
-  "Rohre",
-  "Anstrichstoffe, Beschichtungen",
-  "Kunststoffe"
-]
+{
+  "categories": [
+    "Anstrichstoffe, Beschichtungen",
+    "Beton",
+    "Bodenbeläge",
+    "Dichtungsbahnen, Schutzfolien",
+    "Fenster, Sonnenschutz, Fassadenplatten",
+    "Holz und Holzwerkstoffe",
+    "Klebstoffe, Fugendichtungsmassen",
+    "Kunststoffe",
+    "Mauersteine",
+    "Metallbaustoffe",
+    "Mineralische Platten, Schüttungen, Steine und Ziegel",
+    "Mörtel und Putze",
+    "Rohre",
+    "Türen",
+    "Wärmedämmstoffe"
+  ]
+}

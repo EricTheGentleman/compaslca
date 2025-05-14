@@ -93,14 +93,19 @@ def simplify_category_list(category_index_path):
     
     # Extract just the names into a list of strings
     category_names = [item["name"] for item in db_index.get("items", [])]
-    
-    # Save to a JSON file if needed
+
+    # Deduplicate and sort
+    category_names = sorted(set(category_names), key=str.casefold)
+
+    # Save as JSON object with a key
     base_dir = os.path.dirname(category_index_path)
     output_path = os.path.join(base_dir, "llm_categories.json")
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(category_names, f, indent=2, ensure_ascii=False)
-    
+        json.dump({"categories": category_names}, f, indent=2, ensure_ascii=False)
+
     return category_names
+
+
 
 
 # Recursively traverses the material database and returns/writes a flat list of material names
@@ -127,14 +132,17 @@ def simplify_material_lists(base_dir):
             item.get("Name") for item in data.get("items", []) if item.get("Name")
         ]
 
+        material_names = sorted(set(material_names), key=str.casefold)
+
         try:
             with open(output_path, 'w', encoding='utf-8') as out_f:
-                json.dump(material_names, out_f, indent=2, ensure_ascii=False)
+                json.dump({"material_options": material_names}, out_f, indent=2, ensure_ascii=False)
             processed_paths.append(root)
         except Exception:
             pass
 
     return processed_paths
+
 
 # ====IMPORTANT: UPDATE BRANCH LOGIC LATER!!!====
 # Recursively traverses a material database directory structure and creates LLM-friendly list of material entries from an index.json

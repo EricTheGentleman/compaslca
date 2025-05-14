@@ -1,7 +1,9 @@
-[
-  "Plexiglas (PMMA, Acrylglas)",
-  "Polyamid (PA) glasfaserverstärkt",
-  "Polycarbonat (PC)",
-  "Polyester (UP) glasfaserverstärkt",
-  "Polystyrol (PS)"
-]
+{
+  "material_options": [
+    "Plexiglas (PMMA, Acrylglas)",
+    "Polyamid (PA) glasfaserverstärkt",
+    "Polycarbonat (PC)",
+    "Polyester (UP) glasfaserverstärkt",
+    "Polystyrol (PS)"
+  ]
+}
