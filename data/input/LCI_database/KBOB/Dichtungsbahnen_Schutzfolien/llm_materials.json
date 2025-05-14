@@ -1,61 +1,13 @@
-{
-  "Material Options": [
-    {
-      "Name": "Dampfbremse bituminös"
-    },
-    {
-      "Name": "Dampfbremse Polyethylen (PE)"
-    },
-    {
-      "Name": "Dichtungsbahn bituminös"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP"
-    },
-    {
-      "Name": "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO"
-    },
-    {
-      "Name": "Dichtungsbahn Gummi (EPDM)"
-    },
-    {
-      "Name": "Dichtungsbahn Polyolefin (FPO)"
-    },
-    {
-      "Name": "Kraftpapier"
-    },
-    {
-      "Name": "Polyethylenfolie (PE)"
-    },
-    {
-      "Name": "Polyethylenvlies (PE)"
-    }
-  ]
-}
+[
+  "Dampfbremse bituminös",
+  "Dampfbremse Polyethylen (PE)",
+  "Dichtungsbahn bituminös",
+  "Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",
+  "Bituminöse Dichtungsbahn, swissporBIKUTOP",
+  "Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",
+  "Dichtungsbahn Gummi (EPDM)",
+  "Dichtungsbahn Polyolefin (FPO)",
+  "Kraftpapier",
+  "Polyethylenfolie (PE)",
+  "Polyethylenvlies (PE)"
+]

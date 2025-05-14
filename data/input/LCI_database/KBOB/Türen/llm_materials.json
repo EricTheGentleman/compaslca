@@ -1,40 +1,14 @@
-{
-  "Material Options": [
-    {
-      "Name": "Aussentüre, Aluminium, Glaseinsatz"
-    },
-    {
-      "Name": "Aussentüre, Aluminium, Paneelfüllung"
-    },
-    {
-      "Name": "Aussentüre, Holz"
-    },
-    {
-      "Name": "Aussentüre, Holz, aluminiumbeplankt"
-    },
-    {
-      "Name": "Aussentüre, Holz, Glaseinsatz"
-    },
-    {
-      "Name": "Innentüre, Aluminium, Glaseinsatz"
-    },
-    {
-      "Name": "Innentüre, Funktionstüre, Holz, Holzrahmen"
-    },
-    {
-      "Name": "Innentüre, Funktionstüre, Holz, Stahlzarge"
-    },
-    {
-      "Name": "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen"
-    },
-    {
-      "Name": "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge"
-    },
-    {
-      "Name": "Innentüre, Zimmertüre, Holz, Holzrahmen"
-    },
-    {
-      "Name": "Innentüre, Zimmertüre, Holz, Stahlzarge"
-    }
-  ]
-}
+[
+  "Aussentüre, Aluminium, Glaseinsatz",
+  "Aussentüre, Aluminium, Paneelfüllung",
+  "Aussentüre, Holz",
+  "Aussentüre, Holz, aluminiumbeplankt",
+  "Aussentüre, Holz, Glaseinsatz",
+  "Innentüre, Aluminium, Glaseinsatz",
+  "Innentüre, Funktionstüre, Holz, Holzrahmen",
+  "Innentüre, Funktionstüre, Holz, Stahlzarge",
+  "Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",
+  "Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",
+  "Innentüre, Zimmertüre, Holz, Holzrahmen",
+  "Innentüre, Zimmertüre, Holz, Stahlzarge"
+]

@@ -10,16 +10,16 @@
       "path": "Mauersteine/index.json"
     },
     {
-      "name": "Steine, Schüttungen, Platten und Ziegel",
-      "path": "Steine_Schüttungen_Platten_und_Ziegel/index.json"
+      "name": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+      "path": "Mineralische_Platten_Schüttungen_Steine_und_Ziegel/index.json"
     },
     {
       "name": "Mörtel und Putze",
       "path": "Mörtel_und_Putze/index.json"
     },
     {
-      "name": "Fenster, Sonnenschutz, Fassadenverkleidungen",
-      "path": "Fenster_Sonnenschutz_Fassadenverkleidungen/index.json"
+      "name": "Fenster, Sonnenschutz, Fassadenplatten",
+      "path": "Fenster_Sonnenschutz_Fassadenplatten/index.json"
     },
     {
       "name": "Metallbaustoffe",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Holz und Holzwerkstoffe",
-      "path": "Holz/index.json"
+      "path": "Holz_und_Holzwerkstoffe/index.json"
     },
     {
       "name": "Klebstoffe, Fugendichtungsmassen",

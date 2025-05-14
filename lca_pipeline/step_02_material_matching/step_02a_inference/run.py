@@ -48,12 +48,12 @@ def material_matcher():
         lci_base_dir = Path("data/input/LCI_database/KBOB")
         category_index_path = Path("data/input/LCI_database/KBOB/index.json")
         simplify_category_list(category_index_path) # make LLM friendly (minimize tokens)
-        simplify_material_lists(lci_base_dir, var_include_density) # make LLM friendly (customizable, with include_density)
+        simplify_material_lists(lci_base_dir) # make LLM friendly (customizable, with include_density)
 
     else:
         lci_base_dir = Path("data/input/LCI_database/OEKOBAUDAT")
         category_index_path = Path("data/input/LCI_database/OEKOBAUDAT/index.json")
-        simplify_lci_lists(lci_base_dir, var_include_density)
+        simplify_lci_lists(lci_base_dir)
         #simplify_category_list(category_index_path) # make LLM friendly (minimize tokens)
         #simplify_material_lists(lci_base_dir, var_include_density) # make LLM friendly (customizable, with include_density) 
 

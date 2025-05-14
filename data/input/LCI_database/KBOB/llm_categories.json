@@ -1,49 +1,17 @@
-{
-  "Material Categories": [
-    {
-      "name": "Beton"
-    },
-    {
-      "name": "Mauersteine"
-    },
-    {
-      "name": "Steine, Schüttungen, Platten und Ziegel"
-    },
-    {
-      "name": "Mörtel und Putze"
-    },
-    {
-      "name": "Fenster, Sonnenschutz, Fassadenverkleidungen"
-    },
-    {
-      "name": "Metallbaustoffe"
-    },
-    {
-      "name": "Holz und Holzwerkstoffe"
-    },
-    {
-      "name": "Klebstoffe, Fugendichtungsmassen"
-    },
-    {
-      "name": "Dichtungsbahnen, Schutzfolien"
-    },
-    {
-      "name": "Wärmedämmstoffe"
-    },
-    {
-      "name": "Bodenbeläge"
-    },
-    {
-      "name": "Türen"
-    },
-    {
-      "name": "Rohre"
-    },
-    {
-      "name": "Anstrichstoffe, Beschichtungen"
-    },
-    {
-      "name": "Kunststoffe"
-    }
-  ]
-}
+[
+  "Beton",
+  "Mauersteine",
+  "Mineralische Platten, Schüttungen, Steine und Ziegel",
+  "Mörtel und Putze",
+  "Fenster, Sonnenschutz, Fassadenplatten",
+  "Metallbaustoffe",
+  "Holz und Holzwerkstoffe",
+  "Klebstoffe, Fugendichtungsmassen",
+  "Dichtungsbahnen, Schutzfolien",
+  "Wärmedämmstoffe",
+  "Bodenbeläge",
+  "Türen",
+  "Rohre",
+  "Anstrichstoffe, Beschichtungen",
+  "Kunststoffe"
+]

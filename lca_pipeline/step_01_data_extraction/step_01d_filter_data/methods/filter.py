@@ -1,5 +1,6 @@
 import yaml
 import json
+import os
 
 def load_yaml_config(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -33,6 +34,24 @@ def clean_dict(data, preserve_keys_at_root=None, empty_values=None, level=0):
 
     else:
         return data
+
+import json
+
+def decode_unicode(directory_path, recursive=False):
+    for root, dirs, files in os.walk(directory_path):
+        for file in files:
+            if file.endswith(".json"):
+                file_path = os.path.join(root, file)
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        json.dump(data, f, indent=2, ensure_ascii=False)
+                except Exception as e:
+                    pass
+        if not recursive:
+            break
+
 
 def reorder_keys(data: dict, preferred_order: list) -> dict:
     ordered = {}

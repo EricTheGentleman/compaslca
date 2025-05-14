@@ -31,28 +31,28 @@ Mauersteine,Porenbetonstein,2.006,500,kg,573,531,42.5,0.0709,0.0687,0.00221,0.86
 Mauersteine,Zementstein,2.007,1700,kg,214,172,42.5,0.0263,0.0241,0.00221,0.225,0.173,0.0526,0.126,0.114,0.0127,0
 Mauersteine,"Erdstein, aus gepresster Erde, Terrabloc",02.007.01,1850,kg,136,84,51.6,0.01,0.01,0,0.142,0.129,0.013,0.057,0.054,0.003,0
 Mauersteine,"Hanfsteine, Schönthaler AG",02.007.02,300,kg,824,751,72.1,1.81,1.8,0.00431,1.91,1.77,0.145,0.372,0.338,0.0334,0.15
-"Steine, Schüttungen, Platten und Ziegel",Betongranulat 1,3.021,1500,kg,43.3,3.16,40.2,0.00374,0.00148,0.00226,0.0616,0.00905,0.0526,0.014,0.00132,0.0126,0
-"Steine, Schüttungen, Platten und Ziegel",Betonziegel,3.001,2300,kg,326,284,42.5,0.038,0.0358,0.00221,0.468,0.416,0.0526,0.209,0.196,0.0127,0
-"Steine, Schüttungen, Platten und Ziegel",Faserzement-Dachschindel,3.002,1800,kg,1100,1030,67.8,0.496,0.495,0.0016,2.16,2.11,0.0528,0.699,0.686,0.0132,0
-"Steine, Schüttungen, Platten und Ziegel",Faserzementplatte gross,3.003,1800,kg,1510,1450,67.8,0.62,0.619,0.0016,2.92,2.87,0.0528,1.03,1.02,0.0132,0
-"Steine, Schüttungen, Platten und Ziegel",Faserzement-Wellplatte,3.004,1800,kg,1060,991,67.8,0.557,0.556,0.0016,1.78,1.72,0.0528,0.649,0.636,0.0132,0
-"Steine, Schüttungen, Platten und Ziegel",Flachglas beschichtet,3.005,2500,kg,1990,1920,68.8,0.263,0.251,0.0121,4.64,4.53,0.109,1.2,1.18,0.0191,0
-"Steine, Schüttungen, Platten und Ziegel",Flachglas unbeschichtet,3.006,2500,kg,1790,1720,68.8,0.143,0.131,0.0121,4.08,3.97,0.109,1.14,1.12,0.0191,0
-"Steine, Schüttungen, Platten und Ziegel",Gipsfaserplatte,3.007,1200,kg,873,801,71.5,0.098,0.0938,0.00418,2.47,2.39,0.0781,0.552,0.533,0.0186,0.0449
-"Steine, Schüttungen, Platten und Ziegel",Gipsfaserplatte Fermacell,03.007.01,1180,kg,596,524,71.4,0.69,0.686,0.0041,1.47,1.4,0.0781,0.335,0.317,0.0186,0.0617
-"Steine, Schüttungen, Platten und Ziegel",Gipskartonplatte,3.008,850,kg,523,452,71.7,0.089,0.0848,0.00417,1.33,1.25,0.0778,0.301,0.283,0.0187,0.018
-"Steine, Schüttungen, Platten und Ziegel",Gips-Wandbauplatte / Vollgipsplatte,3.016,1000,kg,531,459,71.3,0.0323,0.0281,0.00419,1.45,1.37,0.0783,0.317,0.298,0.0185,0
-"Steine, Schüttungen, Platten und Ziegel",Glasfaserbeton Ecomur,03.023.01,2240,kg,1335.9,1300,35.9,0.51092,0.509,0.00192,2.2022,2.15,0.0522,0.8858,0.873,0.0128,0
-"Steine, Schüttungen, Platten und Ziegel",Hartsandsteinplatte,3.009,2500,kg,112,69.3,42.5,0.046,0.0438,0.00221,0.275,0.223,0.0526,0.0406,0.028,0.0127,0
-"Steine, Schüttungen, Platten und Ziegel",Kalksteinplatte,3.017,2500,kg,141,98.3,42.5,0.0261,0.0239,0.00221,0.338,0.286,0.0526,0.0736,0.061,0.0127,0
-"Steine, Schüttungen, Platten und Ziegel",Keramik-/Steinzeugplatte,3.01,2600,kg,4100,4060,42.5,0.212,0.21,0.00221,3.72,3.67,0.0526,0.793,0.78,0.0127,0
-"Steine, Schüttungen, Platten und Ziegel",Kies gebrochen 1,3.011,1450,kg,64.8,24.6,40.2,0.00776,0.0055,0.00226,0.0847,0.0321,0.0526,0.0176,0.00501,0.0126,0
-"Steine, Schüttungen, Platten und Ziegel",Mischgranulat 1,3.022,1600,kg,41,0.828,40.2,0.00233,0.0000665,0.00226,0.053,0.000456,0.0526,0.0133,0.00071,0.0126,0
-"Steine, Schüttungen, Platten und Ziegel",Rundkies 1,3.012,1650,kg,59.4,19.2,40.2,0.00405,0.00179,0.00226,0.0682,0.0156,0.0526,0.0157,0.00305,0.0126,0
-"Steine, Schüttungen, Platten und Ziegel",Sand 1,3.013,1500,kg,59.4,19.2,40.2,0.00405,0.00179,0.00226,0.0682,0.0156,0.0526,0.0157,0.00305,0.0126,0
-"Steine, Schüttungen, Platten und Ziegel",Sanitärkeramik,3.014,2000,kg,4680,4640,42.5,0.367,0.365,0.00221,11.1,11.1,0.0526,2.38,2.37,0.0127,0
-"Steine, Schüttungen, Platten und Ziegel",Stampflehm,3.02,2000,kg,80.1,32,48.2,0.00514,0.00487,0.00027,0.0795,0.0745,0.00496,0.0194,0.0183,0.00115,0
-"Steine, Schüttungen, Platten und Ziegel",Tonziegel,3.015,1700,kg,514,479,35.6,0.0357,0.0338,0.00193,1.11,1.06,0.052,0.385,0.373,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Betongranulat 1,3.021,1500,kg,43.3,3.16,40.2,0.00374,0.00148,0.00226,0.0616,0.00905,0.0526,0.014,0.00132,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Betonziegel,3.001,2300,kg,326,284,42.5,0.038,0.0358,0.00221,0.468,0.416,0.0526,0.209,0.196,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Faserzement-Dachschindel,3.002,1800,kg,1100,1030,67.8,0.496,0.495,0.0016,2.16,2.11,0.0528,0.699,0.686,0.0132,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Faserzementplatte gross,3.003,1800,kg,1510,1450,67.8,0.62,0.619,0.0016,2.92,2.87,0.0528,1.03,1.02,0.0132,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Faserzement-Wellplatte,3.004,1800,kg,1060,991,67.8,0.557,0.556,0.0016,1.78,1.72,0.0528,0.649,0.636,0.0132,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Flachglas beschichtet,3.005,2500,kg,1990,1920,68.8,0.263,0.251,0.0121,4.64,4.53,0.109,1.2,1.18,0.0191,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Flachglas unbeschichtet,3.006,2500,kg,1790,1720,68.8,0.143,0.131,0.0121,4.08,3.97,0.109,1.14,1.12,0.0191,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gipsfaserplatte,3.007,1200,kg,873,801,71.5,0.098,0.0938,0.00418,2.47,2.39,0.0781,0.552,0.533,0.0186,0.0449
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gipsfaserplatte Fermacell,03.007.01,1180,kg,596,524,71.4,0.69,0.686,0.0041,1.47,1.4,0.0781,0.335,0.317,0.0186,0.0617
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gipskartonplatte,3.008,850,kg,523,452,71.7,0.089,0.0848,0.00417,1.33,1.25,0.0778,0.301,0.283,0.0187,0.018
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gips-Wandbauplatte / Vollgipsplatte,3.016,1000,kg,531,459,71.3,0.0323,0.0281,0.00419,1.45,1.37,0.0783,0.317,0.298,0.0185,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Glasfaserbeton Ecomur,03.023.01,2240,kg,1335.9,1300,35.9,0.51092,0.509,0.00192,2.2022,2.15,0.0522,0.8858,0.873,0.0128,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Hartsandsteinplatte,3.009,2500,kg,112,69.3,42.5,0.046,0.0438,0.00221,0.275,0.223,0.0526,0.0406,0.028,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Kalksteinplatte,3.017,2500,kg,141,98.3,42.5,0.0261,0.0239,0.00221,0.338,0.286,0.0526,0.0736,0.061,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Keramik-/Steinzeugplatte,3.01,2600,kg,4100,4060,42.5,0.212,0.21,0.00221,3.72,3.67,0.0526,0.793,0.78,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Kies gebrochen 1,3.011,1450,kg,64.8,24.6,40.2,0.00776,0.0055,0.00226,0.0847,0.0321,0.0526,0.0176,0.00501,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Mischgranulat 1,3.022,1600,kg,41,0.828,40.2,0.00233,0.0000665,0.00226,0.053,0.000456,0.0526,0.0133,0.00071,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Rundkies 1,3.012,1650,kg,59.4,19.2,40.2,0.00405,0.00179,0.00226,0.0682,0.0156,0.0526,0.0157,0.00305,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Sand 1,3.013,1500,kg,59.4,19.2,40.2,0.00405,0.00179,0.00226,0.0682,0.0156,0.0526,0.0157,0.00305,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Sanitärkeramik,3.014,2000,kg,4680,4640,42.5,0.367,0.365,0.00221,11.1,11.1,0.0526,2.38,2.37,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Stampflehm,3.02,2000,kg,80.1,32,48.2,0.00514,0.00487,0.00027,0.0795,0.0745,0.00496,0.0194,0.0183,0.00115,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Tonziegel,3.015,1700,kg,514,479,35.6,0.0357,0.0338,0.00193,1.11,1.06,0.052,0.385,0.373,0.0127,0
 Mörtel und Putze,Baukleber/Einbettmörtel mineralisch,4.008,1400,kg,633,590,42.5,0.175,0.173,0.00208,1.53,1.47,0.0524,0.406,0.393,0.0127,0
 Mörtel und Putze,Baukleber/Einbettmörtel mineralisch Leichtzuschlag,4.01,1100,kg,638,595,42.5,0.154,0.152,0.00208,1.61,1.56,0.0524,0.426,0.414,0.0127,0
 Mörtel und Putze,Baukleber/Einbettmörtel organisch,4.002,1670,kg,1390,1350,42.5,0.163,0.161,0.00208,4.15,4.1,0.0524,0.777,0.764,0.0127,0
@@ -70,38 +70,38 @@ Mörtel und Putze,"Unterlagsboden Zement, 85 mm",4.006,1850,kg,206,163,42.5,0.03
 Mörtel und Putze,Wärmedämmputz EPS,4.007,250,kg,964,921,42.5,0.151,0.148,0.00208,1.79,1.74,0.0524,0.727,0.714,0.0127,0
 Mörtel und Putze,Weisszementputz,4.014,1550,kg,507,464,42.5,0.141,0.139,0.00208,0.901,0.848,0.0524,0.353,0.341,0.0127,0
 Mörtel und Putze,Zementputz,4.009,1550,kg,391,348,42.5,0.128,0.126,0.00208,0.654,0.602,0.0524,0.261,0.248,0.0127,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fassade, Pfosten-Riegel, Alu/Glas",5.008,,qm,329000,313000,15500,73.2,72.8,0.49,703,698,5.23,182,169,13.1,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fassadenplatte, Aluverbund, 4 mm",5.022,,qm,74900,66600,8270,24,24,0.0511,192,192,0.87,43.3,35.7,7.65,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fassadenplatte, Glasfaserbeton Ecomur, 15mm",05.028.01,,qm,44886.24,43680,1206.24,17.166912,17.1024,0.064512,73.99392,72.24,1.75392,29.76288,29.3328,0.43008,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fassadenplatte, Glasfaserbeton Ecomur, 18mm",05.028.02,,qm,53836.77,52390,1446.77,20.590076,20.5127,0.077376,88.74866,86.645,2.10366,35.69774,35.1819,0.51584,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fassadenplatte, Hochdrucklaminatplatte (HPL), 8.1 mm",5.023,,qm,73400,58400,15000,84.4,84.2,0.205,198,195,3.05,46,33.3,12.6,3.28
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fassadenplatte, Kalkstein, 30 mm",5.025,,qm,11000,7670,3310,2.04,1.87,0.172,26.4,22.3,4.1,5.74,4.75,0.989,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fassadenplatte, Kunststoff glasfaserverstärkt (GFK), 1.6 mm",5.024,,qm,31700,25700,6000,3.63,3.6,0.0291,75.4,74.7,0.654,22.1,16.6,5.51,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen",Fensterrahmen Aluminium,5.004,,qm,246000,230000,16200,77.5,77.4,0.107,553,551,1.98,132,117,14.9,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fensterrahmen Aluminium, WICLINE 75evo, hergestellt mit Hydro CIRCAL 75R",05.004.01,,qm,177000,171000,6240,53.9,53.9,0.0156,193,193,0.48,55.6,49.6,5.98,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen",Fensterrahmen Holz,5.005,,qm,77700,70600,7120,190,190,0.0357,172,170,2,36.2,30.3,5.89,7.5
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fensterrahmen Holz, Saphir integral 67/55, G. Baumgartner AG",05.005.01,,qm,59300,55400,3960,114,114,0.0221,139,138,1.23,25.4,22,3.36,4.11
-"Fenster, Sonnenschutz, Fassadenverkleidungen",Fensterrahmen Holz-Metall,5.006,,qm,134000,126000,8230,179,179,0.0369,300,298,1.89,65.7,58.6,7.11,6.25
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Fensterrahmen Holz-Metall, Saphir integral 55/55, G. Baumgartner AG",05.006.01,,qm,79600,71900,7640,113,113,0.0309,193,191,1.46,38,31.1,6.9,3.81
-"Fenster, Sonnenschutz, Fassadenverkleidungen",Fensterrahmen Kunststoff/PVC ,5.007,,qm,115000,103000,11800,15.6,15.1,0.494,328,323,5.31,63.4,53.2,10.2,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",5.001,,qm,70700,65800,4910,10.5,10.2,0.277,167,165,2.66,44.3,40.7,3.6,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",5.009,,qm,78900,74800,4090,13.2,12.9,0.272,195,192,2.58,48.6,45.7,2.84,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",5.01,,qm,87000,82100,4910,18.9,18.7,0.277,216,214,2.66,52.1,48.5,3.6,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",5.002,,qm,128000,119000,8730,21.7,21.2,0.424,324,320,4.12,79.3,72.6,6.68,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",5.011,,qm,144000,136000,8730,30.1,29.7,0.424,373,369,4.12,87.1,80.4,6.68,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 3-fach, Ug-Wert 0.5 W/m2K, Dicke 36 mm",5.003,,qm,128000,121000,6830,23.3,22.9,0.412,320,316,3.93,78.3,73.4,4.92,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",5.012,,qm,110000,102000,7680,16.5,16.1,0.417,255,251,4.02,67.8,62.1,5.7,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",5.013,,qm,143000,135000,7680,33.5,33.1,0.417,353,349,4.02,83.3,77.6,5.7,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 3-fach, ESG/ESG/ESG, Ug-Wert 0.6 W/m2K",5.014,,qm,159000,151000,7680,41.9,41.5,0.417,402,398,4.02,91.1,85.4,5.7,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K",5.015,,qm,168000,156000,11500,27.5,27,0.564,412,406,5.48,103,94,8.78,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",5.016,,qm,185000,174000,11500,36.3,35.7,0.564,464,459,5.48,111,103,8.78,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen",Putzträgerplatte kunstharzgebunden 13 mm,5.02,,qm,16600,16400,268,3.61,3.6,0.0139,44.3,44,0.331,8.11,8.03,0.0799,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen",Putzträgerplatte mineralisch gebunden 12.5 mm,5.021,,qm,9910,9300,612,2.44,2.41,0.0318,19.1,18.3,0.757,6.31,6.12,0.183,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Rahmenverbreiterung, PVC",5.026,,qm,99700,66500,33300,42,41,1.06,306,294,12.5,69.7,39.5,30.1,0.778
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Rahmenverbreiterung, Spanplatte",5.027,,qm,43500,35900,7590,94.5,94.4,0.123,124,121,3.52,26.1,19.5,6.59,6.68
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Sonnenschutz, Ausstellstoren motorisiert",5.018,,qm,150000,148000,2110,35.9,35.9,0.0296,283,282,0.542,67.8,65.9,1.91,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Sonnenschutz, Lamellenstoren motorisiert",5.017,,qm,133000,131000,1620,32.3,32.2,0.0259,249,248,0.434,59.9,58.5,1.47,0
-"Fenster, Sonnenschutz, Fassadenverkleidungen","Sonnenschutz, Rollladen motorisiert",5.019,,qm,168000,167000,800,44.3,44.3,0.022,313,313,0.406,74.7,74,0.694,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassade, Pfosten-Riegel, Alu/Glas",5.008,,qm,329000,313000,15500,73.2,72.8,0.49,703,698,5.23,182,169,13.1,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Aluverbund, 4 mm",5.022,,qm,74900,66600,8270,24,24,0.0511,192,192,0.87,43.3,35.7,7.65,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Glasfaserbeton Ecomur, 15mm",05.028.01,,qm,44886.24,43680,1206.24,17.166912,17.1024,0.064512,73.99392,72.24,1.75392,29.76288,29.3328,0.43008,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Glasfaserbeton Ecomur, 18mm",05.028.02,,qm,53836.77,52390,1446.77,20.590076,20.5127,0.077376,88.74866,86.645,2.10366,35.69774,35.1819,0.51584,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Hochdrucklaminatplatte (HPL), 8.1 mm",5.023,,qm,73400,58400,15000,84.4,84.2,0.205,198,195,3.05,46,33.3,12.6,3.28
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Kalkstein, 30 mm",5.025,,qm,11000,7670,3310,2.04,1.87,0.172,26.4,22.3,4.1,5.74,4.75,0.989,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Kunststoff glasfaserverstärkt (GFK), 1.6 mm",5.024,,qm,31700,25700,6000,3.63,3.6,0.0291,75.4,74.7,0.654,22.1,16.6,5.51,0
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Aluminium,5.004,,qm,246000,230000,16200,77.5,77.4,0.107,553,551,1.98,132,117,14.9,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fensterrahmen Aluminium, WICLINE 75evo, hergestellt mit Hydro CIRCAL 75R",05.004.01,,qm,177000,171000,6240,53.9,53.9,0.0156,193,193,0.48,55.6,49.6,5.98,0
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Holz,5.005,,qm,77700,70600,7120,190,190,0.0357,172,170,2,36.2,30.3,5.89,7.5
+"Fenster, Sonnenschutz, Fassadenplatten","Fensterrahmen Holz, Saphir integral 67/55, G. Baumgartner AG",05.005.01,,qm,59300,55400,3960,114,114,0.0221,139,138,1.23,25.4,22,3.36,4.11
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Holz-Metall,5.006,,qm,134000,126000,8230,179,179,0.0369,300,298,1.89,65.7,58.6,7.11,6.25
+"Fenster, Sonnenschutz, Fassadenplatten","Fensterrahmen Holz-Metall, Saphir integral 55/55, G. Baumgartner AG",05.006.01,,qm,79600,71900,7640,113,113,0.0309,193,191,1.46,38,31.1,6.9,3.81
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Kunststoff/PVC ,5.007,,qm,115000,103000,11800,15.6,15.1,0.494,328,323,5.31,63.4,53.2,10.2,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",5.001,,qm,70700,65800,4910,10.5,10.2,0.277,167,165,2.66,44.3,40.7,3.6,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",5.009,,qm,78900,74800,4090,13.2,12.9,0.272,195,192,2.58,48.6,45.7,2.84,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",5.01,,qm,87000,82100,4910,18.9,18.7,0.277,216,214,2.66,52.1,48.5,3.6,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",5.002,,qm,128000,119000,8730,21.7,21.2,0.424,324,320,4.12,79.3,72.6,6.68,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",5.011,,qm,144000,136000,8730,30.1,29.7,0.424,373,369,4.12,87.1,80.4,6.68,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, Ug-Wert 0.5 W/m2K, Dicke 36 mm",5.003,,qm,128000,121000,6830,23.3,22.9,0.412,320,316,3.93,78.3,73.4,4.92,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",5.012,,qm,110000,102000,7680,16.5,16.1,0.417,255,251,4.02,67.8,62.1,5.7,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",5.013,,qm,143000,135000,7680,33.5,33.1,0.417,353,349,4.02,83.3,77.6,5.7,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, ESG/ESG/ESG, Ug-Wert 0.6 W/m2K",5.014,,qm,159000,151000,7680,41.9,41.5,0.417,402,398,4.02,91.1,85.4,5.7,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K",5.015,,qm,168000,156000,11500,27.5,27,0.564,412,406,5.48,103,94,8.78,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",5.016,,qm,185000,174000,11500,36.3,35.7,0.564,464,459,5.48,111,103,8.78,0
+"Fenster, Sonnenschutz, Fassadenplatten",Putzträgerplatte kunstharzgebunden 13 mm,5.02,,qm,16600,16400,268,3.61,3.6,0.0139,44.3,44,0.331,8.11,8.03,0.0799,0
+"Fenster, Sonnenschutz, Fassadenplatten",Putzträgerplatte mineralisch gebunden 12.5 mm,5.021,,qm,9910,9300,612,2.44,2.41,0.0318,19.1,18.3,0.757,6.31,6.12,0.183,0
+"Fenster, Sonnenschutz, Fassadenplatten","Rahmenverbreiterung, PVC",5.026,,qm,99700,66500,33300,42,41,1.06,306,294,12.5,69.7,39.5,30.1,0.778
+"Fenster, Sonnenschutz, Fassadenplatten","Rahmenverbreiterung, Spanplatte",5.027,,qm,43500,35900,7590,94.5,94.4,0.123,124,121,3.52,26.1,19.5,6.59,6.68
+"Fenster, Sonnenschutz, Fassadenplatten","Sonnenschutz, Ausstellstoren motorisiert",5.018,,qm,150000,148000,2110,35.9,35.9,0.0296,283,282,0.542,67.8,65.9,1.91,0
+"Fenster, Sonnenschutz, Fassadenplatten","Sonnenschutz, Lamellenstoren motorisiert",5.017,,qm,133000,131000,1620,32.3,32.2,0.0259,249,248,0.434,59.9,58.5,1.47,0
+"Fenster, Sonnenschutz, Fassadenplatten","Sonnenschutz, Rollladen motorisiert",5.019,,qm,168000,167000,800,44.3,44.3,0.022,313,313,0.406,74.7,74,0.694,0
 Metallbaustoffe,"Aluminiumblech, blank",6.001,2690,kg,12500,12500,19.8,5.23,5.23,0.000788,24.8,24.8,0.0314,5.58,5.57,0.00792,0
 Metallbaustoffe,"Aluminiumprofil, blank",6.002,2690,kg,11500,11400,19.8,5.27,5.26,0.000788,25.6,25.6,0.0314,5.7,5.69,0.00792,0
 Metallbaustoffe,"Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",06.002.01,2690,kg,12700,12700,19.8,4.26,4.26,0.000788,8.88,8.85,0.0314,2.67,2.66,0.00792,0
@@ -122,10 +122,6 @@ Holz und Holzwerkstoffe,3- und 5-Schicht Massivholzplatte,7.001,453,kg,1010,932,
 Holz und Holzwerkstoffe,Balkenschichtholz,7.021,439,kg,790,716,73.8,8.59,8.58,0.00615,1.56,1.47,0.091,0.342,0.293,0.0492,0.446
 Holz und Holzwerkstoffe,Brettschichtholz,7.003,439,kg,769,696,73.8,8.14,8.14,0.00615,1.53,1.44,0.091,0.335,0.286,0.0492,0.446
 Holz und Holzwerkstoffe,"Brettschichtholz, Produktion Schweiz",07.003.01,439,kg,681,607,73.8,8.01,8,0.00615,1.2,1.11,0.091,0.253,0.204,0.0492,0.447
-Holz und Holzwerkstoffe,Brettschichtholz,7.002,439,kg,769,696,73.8,8.14,8.14,0.00615,1.53,1.44,0.091,0.335,0.286,0.0492,0.446
-Holz und Holzwerkstoffe,"Brettschichtholz, Produktion Schweiz",07.002.01,439,kg,681,607,73.8,8.01,8,0.00615,1.2,1.11,0.091,0.253,0.204,0.0492,0.447
-Holz und Holzwerkstoffe,Brettsperrholz,7.02,436,kg,882,776,106,8.12,8.11,0.00624,1.82,1.72,0.0977,0.395,0.316,0.0798,0.449
-Holz und Holzwerkstoffe,"Brettsperrholz, Produktion Schweiz",07.020.01,424,kg,744,638,106,5.67,5.66,0.00624,1.6,1.51,0.0977,0.281,0.201,0.0798,0.448
 Holz und Holzwerkstoffe,Furniersperrholz,7.022,823,kg,1970,1870,106,9.25,9.25,0.00624,5.08,4.98,0.0977,1.02,0.942,0.0798,0.41
 Holz und Holzwerkstoffe,Hartfaserplatte,7.004,955,kg,1770,1700,68.4,7.05,7.04,0.00614,4.12,4.04,0.0899,1.07,1.03,0.0441,0.455
 Holz und Holzwerkstoffe,"Holzwolle-Leichtbauplatte, zementgebunden",7.005,400,kg,770,685,85.2,2.04,2.03,0.00977,1.27,1.1,0.17,0.534,0.498,0.0357,0.138
@@ -163,14 +159,6 @@ Holz und Holzwerkstoffe,"Stabschichtholz, Buche, fagus",07.019.01,700,kg,1010,92
 "Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",09.003.11,1267,kg,3510,1080,2430,0.224,0.209,0.0148,6.13,5.86,0.266,2.92,0.588,2.33,0
 "Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP",09.003.01,1269,kg,4060,1630,2430,0.242,0.227,0.0148,10.3,10,0.266,3.24,0.907,2.33,0
 "Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",09.003.02,1256,kg,3420,983,2430,0.221,0.206,0.0148,5.54,5.27,0.266,2.88,0.55,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP",09.003.03,1269,kg,4060,1630,2430,0.242,0.227,0.0148,10.3,10,0.266,3.24,0.907,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",09.003.04,1256,kg,3420,983,2430,0.221,0.206,0.0148,5.54,5.27,0.266,2.88,0.55,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP",09.003.05,1269,kg,4060,1630,2430,0.242,0.227,0.0148,10.3,10,0.266,3.24,0.907,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",09.003.06,1256,kg,3420,983,2430,0.221,0.206,0.0148,5.54,5.27,0.266,2.88,0.55,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP",09.003.07,1269,kg,4060,1630,2430,0.242,0.227,0.0148,10.3,10,0.266,3.24,0.907,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",09.003.08,1256,kg,3420,983,2430,0.221,0.206,0.0148,5.54,5.27,0.266,2.88,0.55,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP",09.003.09,1269,kg,4060,1630,2430,0.242,0.227,0.0148,10.3,10,0.266,3.24,0.907,2.33,0
-"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",09.003.10,1256,kg,3420,983,2430,0.221,0.206,0.0148,5.54,5.27,0.266,2.88,0.55,2.33,0
 "Dichtungsbahnen, Schutzfolien",Dichtungsbahn Gummi (EPDM),9.004,1100,kg,8110,4860,3240,0.844,0.83,0.0133,24.7,24.4,0.224,5.84,2.74,3.1,0
 "Dichtungsbahnen, Schutzfolien",Dichtungsbahn Polyolefin (FPO),9.005,1000,kg,7880,5070,2810,0.421,0.41,0.0111,23.1,22.9,0.209,5.18,2.52,2.67,0
 "Dichtungsbahnen, Schutzfolien",Kraftpapier,9.006,650,kg,3450,3250,206,13,13,0.0128,7.73,7.56,0.172,1.67,1.61,0.058,0.404

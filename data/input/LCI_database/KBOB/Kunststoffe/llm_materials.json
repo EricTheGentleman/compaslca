@@ -1,19 +1,7 @@
-{
-  "Material Options": [
-    {
-      "Name": "Plexiglas (PMMA, Acrylglas)"
-    },
-    {
-      "Name": "Polyamid (PA) glasfaserverstärkt"
-    },
-    {
-      "Name": "Polycarbonat (PC)"
-    },
-    {
-      "Name": "Polyester (UP) glasfaserverstärkt"
-    },
-    {
-      "Name": "Polystyrol (PS)"
-    }
-  ]
-}
+[
+  "Plexiglas (PMMA, Acrylglas)",
+  "Polyamid (PA) glasfaserverstärkt",
+  "Polycarbonat (PC)",
+  "Polyester (UP) glasfaserverstärkt",
+  "Polystyrol (PS)"
+]

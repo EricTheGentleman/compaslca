@@ -1,19 +1,7 @@
-{
-  "Material Options": [
-    {
-      "Name": "Acrylnitril-Butadien-Styrol (ABS)"
-    },
-    {
-      "Name": "Gusseisen"
-    },
-    {
-      "Name": "Polyethylen (PE)"
-    },
-    {
-      "Name": "Polypropylen (PP)"
-    },
-    {
-      "Name": "Polyvinylchlorid (PVC)"
-    }
-  ]
-}
+[
+  "Acrylnitril-Butadien-Styrol (ABS)",
+  "Gusseisen",
+  "Polyethylen (PE)",
+  "Polypropylen (PP)",
+  "Polyvinylchlorid (PVC)"
+]

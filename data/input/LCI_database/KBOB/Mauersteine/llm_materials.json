@@ -1,40 +1,14 @@
-{
-  "Material Options": [
-    {
-      "Name": "Backstein"
-    },
-    {
-      "Name": "Backstein, perlitgefüllt, zzwancor"
-    },
-    {
-      "Name": "Kalksandstein"
-    },
-    {
-      "Name": "Kalksandstein, FBB"
-    },
-    {
-      "Name": "Kalksandstein, Hunziker Kalksandstein AG"
-    },
-    {
-      "Name": "Leichtlehmstein"
-    },
-    {
-      "Name": "Leichtzementstein, Blähton"
-    },
-    {
-      "Name": "Leichtzementstein, Naturbims"
-    },
-    {
-      "Name": "Porenbetonstein"
-    },
-    {
-      "Name": "Zementstein"
-    },
-    {
-      "Name": "Erdstein, aus gepresster Erde, Terrabloc"
-    },
-    {
-      "Name": "Hanfsteine, Schönthaler AG"
-    }
-  ]
-}
+[
+  "Backstein",
+  "Backstein, perlitgefüllt, zzwancor",
+  "Kalksandstein",
+  "Kalksandstein, FBB",
+  "Kalksandstein, Hunziker Kalksandstein AG",
+  "Leichtlehmstein",
+  "Leichtzementstein, Blähton",
+  "Leichtzementstein, Naturbims",
+  "Porenbetonstein",
+  "Zementstein",
+  "Erdstein, aus gepresster Erde, Terrabloc",
+  "Hanfsteine, Schönthaler AG"
+]

@@ -86,22 +86,59 @@ def simplify_lci_lists(base_dir, include_density=False):
 
 
 
-
-# Extracts a simplified, LLM-friendly list of material categories from an index.json
+# Extracts a simplified, Pythonic list of material categories
 def simplify_category_list(category_index_path):
     with open(category_index_path, 'r', encoding='utf-8') as f:
         db_index = json.load(f)
-    category_items = [{"name": item["name"]} for item in db_index.get("items", [])]
-    llm_format = {"Material Categories": category_items}
+    
+    # Extract just the names into a list of strings
+    category_names = [item["name"] for item in db_index.get("items", [])]
+    
+    # Save to a JSON file if needed
     base_dir = os.path.dirname(category_index_path)
     output_path = os.path.join(base_dir, "llm_categories.json")
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(llm_format, f, indent=2, ensure_ascii=False)
-    return category_items
+        json.dump(category_names, f, indent=2, ensure_ascii=False)
+    
+    return category_names
 
 
+# Recursively traverses the material database and returns/writes a flat list of material names
+def simplify_material_lists(base_dir):
+    processed_paths = []
+
+    for root, dirs, files in os.walk(base_dir):
+        # Skip non-leaf directories
+        if dirs:
+            continue
+        if "index.json" not in files:
+            continue
+
+        index_path = os.path.join(root, "index.json")
+        output_path = os.path.join(root, "llm_materials.json")
+
+        try:
+            with open(index_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        except Exception:
+            continue
+
+        material_names = [
+            item.get("Name") for item in data.get("items", []) if item.get("Name")
+        ]
+
+        try:
+            with open(output_path, 'w', encoding='utf-8') as out_f:
+                json.dump(material_names, out_f, indent=2, ensure_ascii=False)
+            processed_paths.append(root)
+        except Exception:
+            pass
+
+    return processed_paths
+
+# ====IMPORTANT: UPDATE BRANCH LOGIC LATER!!!====
 # Recursively traverses a material database directory structure and creates LLM-friendly list of material entries from an index.json
-def simplify_material_lists(base_dir, include_density=False):
+def simplify_material_lists_density(base_dir, include_density=False):
     processed_paths = []
 
     for root, dirs, files in os.walk(base_dir):
@@ -141,4 +178,3 @@ def simplify_material_lists(base_dir, include_density=False):
         except Exception as e:
             pass
     return processed_paths
-

@@ -1,28 +1,10 @@
-{
-  "Material Options": [
-    {
-      "Name": "Anstrich, lösemittelverdünnbar, 2 Anstriche"
-    },
-    {
-      "Name": "Anstrich, wasserverdünnbar, 2 Anstriche"
-    },
-    {
-      "Name": "Bitumenemulsion, 1 Anstrich"
-    },
-    {
-      "Name": "Emaillieren, Metall"
-    },
-    {
-      "Name": "Pulverbeschichten, Aluminium"
-    },
-    {
-      "Name": "Pulverbeschichten, Stahl"
-    },
-    {
-      "Name": "Verchromen, Stahl"
-    },
-    {
-      "Name": "Verzinken, Stahl"
-    }
-  ]
-}
+[
+  "Anstrich, lösemittelverdünnbar, 2 Anstriche",
+  "Anstrich, wasserverdünnbar, 2 Anstriche",
+  "Bitumenemulsion, 1 Anstrich",
+  "Emaillieren, Metall",
+  "Pulverbeschichten, Aluminium",
+  "Pulverbeschichten, Stahl",
+  "Verchromen, Stahl",
+  "Verzinken, Stahl"
+]

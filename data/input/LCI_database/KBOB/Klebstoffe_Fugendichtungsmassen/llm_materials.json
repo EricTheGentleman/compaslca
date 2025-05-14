@@ -1,19 +1,7 @@
-{
-  "Material Options": [
-    {
-      "Name": "2-Komponenten Klebstoff"
-    },
-    {
-      "Name": "Heissbitumen"
-    },
-    {
-      "Name": "Kautschukdichtungsmasse"
-    },
-    {
-      "Name": "Polysulfiddichtungsmasse"
-    },
-    {
-      "Name": "Silicon-Fugenmasse"
-    }
-  ]
-}
+[
+  "2-Komponenten Klebstoff",
+  "Heissbitumen",
+  "Kautschukdichtungsmasse",
+  "Polysulfiddichtungsmasse",
+  "Silicon-Fugenmasse"
+]

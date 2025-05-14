@@ -1,91 +1,31 @@
-{
-  "Material Options": [
-    {
-      "Name": "Aerogel-Vlies"
-    },
-    {
-      "Name": "Blähperlit"
-    },
-    {
-      "Name": "Blähvermiculit"
-    },
-    {
-      "Name": "Flachsfasern"
-    },
-    {
-      "Name": "Flachsfasern, MAGRIPOL, Premium"
-    },
-    {
-      "Name": "Flachsfasern, feuerfest"
-    },
-    {
-      "Name": "Flachsfasern, feuerfest, MAGRIPOL, Premium+"
-    },
-    {
-      "Name": "Glaswolle"
-    },
-    {
-      "Name": "Glaswolle, Isover, phenolbasiertes Bindemittel"
-    },
-    {
-      "Name": "Glaswolle, Isover, pflanzliches Bindemittel"
-    },
-    {
-      "Name": "Glaswolle, SUPAFIL"
-    },
-    {
-      "Name": "Korkplatte"
-    },
-    {
-      "Name": "Phenolharz (PF)"
-    },
-    {
-      "Name": "Polystyrol expandiert (EPS)"
-    },
-    {
-      "Name": "Polystyrol expandiert, SwissporEPS"
-    },
-    {
-      "Name": "Polystyrol extrudiert (XPS)"
-    },
-    {
-      "Name": "Polystyrol extrudiert, SwissporXPS"
-    },
-    {
-      "Name": "Polyurethan (PUR/PIR)"
-    },
-    {
-      "Name": "Polyurethan, SwissporPIR"
-    },
-    {
-      "Name": "Schaumglas"
-    },
-    {
-      "Name": "Schaumglas, GLAPOR"
-    },
-    {
-      "Name": "Schaumglasschotter"
-    },
-    {
-      "Name": "Schaumglasschotter, Misapor"
-    },
-    {
-      "Name": "Steinwolle"
-    },
-    {
-      "Name": "Steinwolle, Flumroc"
-    },
-    {
-      "Name": "Strohballenwand"
-    },
-    {
-      "Name": "Weichfaserplatte"
-    },
-    {
-      "Name": "Zellulosefasern"
-    },
-    {
-      "Name": "Zellulosefasern, Isofloc"
-    }
-  ]
-}
+[
+  "Aerogel-Vlies",
+  "Blähperlit",
+  "Blähvermiculit",
+  "Flachsfasern",
+  "Flachsfasern, MAGRIPOL, Premium",
+  "Flachsfasern, feuerfest",
+  "Flachsfasern, feuerfest, MAGRIPOL, Premium+",
+  "Glaswolle",
+  "Glaswolle, Isover, phenolbasiertes Bindemittel",
+  "Glaswolle, Isover, pflanzliches Bindemittel",
+  "Glaswolle, SUPAFIL",
+  "Korkplatte",
+  "Phenolharz (PF)",
+  "Polystyrol expandiert (EPS)",
+  "Polystyrol expandiert, SwissporEPS",
+  "Polystyrol extrudiert (XPS)",
+  "Polystyrol extrudiert, SwissporXPS",
+  "Polyurethan (PUR/PIR)",
+  "Polyurethan, SwissporPIR",
+  "Schaumglas",
+  "Schaumglas, GLAPOR",
+  "Schaumglasschotter",
+  "Schaumglasschotter, Misapor",
+  "Steinwolle",
+  "Steinwolle, Flumroc",
+  "Strohballenwand",
+  "Weichfaserplatte",
+  "Zellulosefasern",
+  "Zellulosefasern, Isofloc"
+]

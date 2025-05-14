@@ -1,55 +1,19 @@
-{
-  "Material Options": [
-    {
-      "Name": "Baukleber/Einbettmörtel mineralisch"
-    },
-    {
-      "Name": "Baukleber/Einbettmörtel mineralisch Leichtzuschlag"
-    },
-    {
-      "Name": "Baukleber/Einbettmörtel organisch"
-    },
-    {
-      "Name": "Gips-Kalk-Putz"
-    },
-    {
-      "Name": "Gips-/Weissputz"
-    },
-    {
-      "Name": "Kunststoffputz (Dispersionsputz)"
-    },
-    {
-      "Name": "Kalk-Zement/Zement-Kalk-Putz"
-    },
-    {
-      "Name": "Lehmputz"
-    },
-    {
-      "Name": "Leichtputz mineralisch"
-    },
-    {
-      "Name": "Silikatputz (Dispersionssilikatputz)"
-    },
-    {
-      "Name": "Silikonharzputz"
-    },
-    {
-      "Name": "Sumpfkalkputz"
-    },
-    {
-      "Name": "Unterlagsboden Anhydrit, 60 mm"
-    },
-    {
-      "Name": "Unterlagsboden Zement, 85 mm"
-    },
-    {
-      "Name": "Wärmedämmputz EPS"
-    },
-    {
-      "Name": "Weisszementputz"
-    },
-    {
-      "Name": "Zementputz"
-    }
-  ]
-}
+[
+  "Baukleber/Einbettmörtel mineralisch",
+  "Baukleber/Einbettmörtel mineralisch Leichtzuschlag",
+  "Baukleber/Einbettmörtel organisch",
+  "Gips-Kalk-Putz",
+  "Gips-/Weissputz",
+  "Kunststoffputz (Dispersionsputz)",
+  "Kalk-Zement/Zement-Kalk-Putz",
+  "Lehmputz",
+  "Leichtputz mineralisch",
+  "Silikatputz (Dispersionssilikatputz)",
+  "Silikonharzputz",
+  "Sumpfkalkputz",
+  "Unterlagsboden Anhydrit, 60 mm",
+  "Unterlagsboden Zement, 85 mm",
+  "Wärmedämmputz EPS",
+  "Weisszementputz",
+  "Zementputz"
+]

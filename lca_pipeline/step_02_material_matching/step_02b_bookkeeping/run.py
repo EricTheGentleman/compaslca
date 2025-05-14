@@ -29,3 +29,5 @@ def bookkeeper():
 
 if __name__ == "__main__":
     bookkeeper()
+
+# IMPORTANT: APPEND MODEL AND PARAMETERS USED!!!

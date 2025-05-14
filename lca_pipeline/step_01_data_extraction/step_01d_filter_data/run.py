@@ -2,7 +2,8 @@ from pathlib import Path
 from methods.filter import (
     load_yaml_config, load_json, save_json,
     filter_element_json, reorder_keys,
-    filter_target_layer_json, reorder_keys_target_layer
+    filter_target_layer_json, reorder_keys_target_layer,
+    decode_unicode
 )
 
 def filter_data_sheets():
@@ -31,6 +32,10 @@ def filter_data_sheets():
 
     target_layer_input_dir = Path("data/pipeline/step_01_data_extraction/step_01c_dissect_layers/Target_Layers")
     target_layer_output_dir = Path("data/pipeline/step_01_data_extraction/step_01d_filter_data/Target_Layers_high_LOI")
+
+    # Decode any weird strings (especially in Psets)
+    decode_unicode(str(element_input_dir))
+    decode_unicode(str(target_layer_input_dir))
 
     # Load YAML filters
     config_element = load_yaml_config(yaml_path_element)
