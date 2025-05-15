@@ -16,7 +16,7 @@ category_inference_config:
 
   model: "gpt-4o"
 
-  api_key: # Replace with your actual API key
+  api_key:   # Replace with your actual API key
   
   max_tokens: 2048
 
@@ -31,7 +31,7 @@ material_inference_config:
   model: "gpt-4o"
 
   # insert the API key in single quotation marks (')
-  api_key: # Replace with your actual API key
+  api_key:   # Replace with your actual API key
   
   max_tokens: 2048
 
@@ -103,6 +103,14 @@ extraction_config:
 # The settings below allow for filtering the JSON files / IFC data sheets.
 filter_config:
 
+  # Only include the psets in the list config/step_01_data_extraction/pset_selection.py (can be altered!)
+  # This minimizes token usage alot, but the list of psets is very tailored (specific) to the sampeled IFC models!
+  # If there is no prior knowledge of exact pset key names (or relevancy for inference), set to false
+  use_pset_filter: true
+
+  # Path to the pset key file if use_pset_filter: true (can add and remove keys!)
+  pset_key_file: "config/step_01_data_extraction/pset_selection.py"
+
   # Choose either "custom" or "preset". Custom allows for user-based configuration of what should be included.
   mode: "preset"
 
@@ -133,8 +141,6 @@ filter_config:
   target_layer_key_order:
     - Target Layer of Material Inference
     - Building Element Context
-
-
     - CompilationGroupID
 
   # Key order for the dissected layer sheets of multi-layer elements
@@ -146,6 +152,8 @@ filter_config:
     - Element Property Sets
     - Element Relationships
     - Element Location
+
+
 
 
 

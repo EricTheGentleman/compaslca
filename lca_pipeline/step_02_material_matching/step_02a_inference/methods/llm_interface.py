@@ -40,10 +40,10 @@ mat_client = OpenAI(api_key=mat_key)
 def material_inference(bim_element, material_data, mode):
     prompt = build_material_prompt(bim_element, material_data, mode)
     response = mat_client.chat.completions.create(
-        model=cat_inference_config.get("model"),
+        model=mat_inference_config.get("model"),
         messages=[{"role": "user", "content": prompt}],
-        temperature=cat_inference_config.get("temperature"),
-        max_tokens=cat_inference_config.get("max_tokens")
+        temperature=mat_inference_config.get("temperature"),
+        max_tokens=mat_inference_config.get("max_tokens")
     )
     response_text = response.choices[0].message.content
     response_cleaned = re.sub(r"```json|```", "", response_text).strip()
