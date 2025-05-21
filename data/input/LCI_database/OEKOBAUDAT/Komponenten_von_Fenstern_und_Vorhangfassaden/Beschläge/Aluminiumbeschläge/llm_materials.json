@@ -1,16 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Window fitting for horizontal sliding window"
-    },
-    {
-      "Name": "Window fitting for double sash window"
-    },
-    {
-      "Name": "Window fitting for tilt and turn window"
-    },
-    {
-      "Name": "Window fitting for vertical sliding window"
-    }
+    "Window fitting for double sash window",
+    "Window fitting for horizontal sliding window",
+    "Window fitting for tilt and turn window",
+    "Window fitting for vertical sliding window"
   ]
 }

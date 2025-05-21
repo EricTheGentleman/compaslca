@@ -3,20 +3,20 @@
   "path": "Sonstige",
   "items": [
     {
-      "name": "Baustellenprozesse",
-      "path": "Baustellenprozesse/index.json"
+      "name": "Güter - Transporte[t km]",
+      "path": "Güter_-_Transporte[t_km]/index.json"
     },
     {
       "name": "Energieträger - Bereitstellung frei Verbraucher",
       "path": "Energieträger_-_Bereitstellung_frei_Verbraucher/index.json"
     },
     {
-      "name": "Güter - Transporte[t km]",
-      "path": "Güter_-_Transporte[t_km]/index.json"
-    },
-    {
       "name": "Personen - Transporte[Personen km]",
       "path": "Personen_-_Transporte[Personen_km]/index.json"
+    },
+    {
+      "name": "Baustellenprozesse",
+      "path": "Baustellenprozesse/index.json"
     }
   ]
 }

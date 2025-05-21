@@ -1,19 +1,9 @@
 {
   "Material Categories": [
-    {
-      "name": "Aluminium thermisch getrennt"
-    },
-    {
-      "name": "Aluminium"
-    },
-    {
-      "name": "Holz"
-    },
-    {
-      "name": "PVC"
-    },
-    {
-      "name": "Stahl"
-    }
+    "Aluminium",
+    "Aluminium thermisch getrennt",
+    "Stahl",
+    "PVC",
+    "Holz"
   ]
 }

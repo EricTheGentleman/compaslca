@@ -5,22 +5,39 @@ Bitte führe die folgende Aufgabe aus:
 - Du erhälst zwei Eingaben:
   1. Die erste Eingabe beschreibt ein **IfcBuildingElement**.
   2. Die zweite Eingabe enthält eine Liste von 'material_options' aus einer LCA-Datenbank.
-- Identifiziere alle 'material_options', die **geeignete Entsprechungen** für das IfcBuildingElement aus der ersten Eingabe darstellen. 
-- Geeignete Entsprechungen können **plausible Annäherungen** einschließen; eine exakte semantische Übereinstimmung ist nicht erforderlich.
+- Identifiziere nur solche 'Materialoptionen', die eine **eindeutige und direkte Übereinstimmung** für das IfcBuildingElement aus der ersten Eingabe darstellen. 
+- Die Übereinstimmung muss eine **hohe semantische, funktionale oder stoffliche Ähnlichkeit** zeigen. Annäherungen sollen nur erfolgen, wenn sie ausdrücklich durch die Beschreibung der IFC-Daten gerechtfertigt sind.
 - Falls keine geeigneten Entsprechungen gefunden werden, ordne keine Materialien zu.
 - Stütze deine Entscheidung auf **alle relevanten Kontextinformationen** aus der ersten Eingabe (z.B. material data, element name, element type, psets).
+- Priorisiere Optionen, die auf Grundlage ihrer Umweltwirkungen als **besonders nachhaltig** eingeschätzt werden.
+
+**Zuerst Schlüsselinformationen extrahieren**
+- In der ersten Eingabe, die die IFC-Daten beschreibt, gibt es viele Informationen, die für die Materialzuodrnung nicht relevant sein könnten.
+- Bevor Materialoptionen zugeordnet werden, extrahiere die Schlüsselinformationen, die für die Materialzuordnung relevant sein könnten.
+- Schreibe eine kurze Zusammenfassung der Schlüsselinformationen in das Feld "Key Information Summary" im geforderten Ausgabeformat.
+
+
+**Iterative Selbstverbesserung**
+- Erstelle zuerst eine Ausgabe im Feld "Preliminary Selection".
+- Analysiere dann deine eigene Ausgabe kritisch.
+- Überarbeite abschließend deine Antwort zu einer verbesserten Endversion im Feld "Matched Materials".
+
 
 ### **Erforderliches JSON-Ausgabeformat:**
 **KEINE** zusätzliche Erklärungen, Kommentare, oder Markdown-Formatierungen
 Antworte ausschliesslich mit **gültigem JSON**, und zwar **genau im unten gezeigten Format*:
 ```json
 {{
+"Key Information Summary": "<Kurze Zusammenfassung der Schlüsselinformationen>",
+"Preliminary Selection": ["<Option 1>", "<Option 2>", ...],
 "Matched Materials": ["<Option 1>", "<Option 2>", ...]
 }}
 ```
 Wenn keine geeigneten Entsprechungen gefunden werden, gib eine **leere Liste** im JSON-Format zurück:
 ```json
 {{
+"Key Information Summary": "<Short summary of Key Information>",
+"Preliminary Selection": [],
 "Matched Materials": []
 }}
 ```

@@ -3,16 +3,16 @@
   "path": "Beschichtungen / Fassadenfarben",
   "items": [
     {
-      "name": "Dispersion",
-      "path": "Dispersion/index.json"
+      "name": "Silikonharz",
+      "path": "Silikonharz/index.json"
     },
     {
       "name": "Silikat-Dispersion",
       "path": "Silikat-Dispersion/index.json"
     },
     {
-      "name": "Silikonharz",
-      "path": "Silikonharz/index.json"
+      "name": "Dispersion",
+      "path": "Dispersion/index.json"
     }
   ]
 }

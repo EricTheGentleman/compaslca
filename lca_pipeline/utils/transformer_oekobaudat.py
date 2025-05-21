@@ -3,7 +3,7 @@ import csv
 import os
 import json
 
-csv_file_path = "data/input/LCI_database/csv/oekobaudat.csv"
+csv_file_path = "data/input/LCI_database/csv/oekobaudat_indicators_cleaned_6.csv"
 output_base_dir = "data/input/LCI_database/OEKOBAUDAT"
 index_filename = 'index.json'
 

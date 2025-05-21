@@ -1,10 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Wood-based products incineration in municipal solid waste plant"
-    },
-    {
-      "Name": "Natural wood incineration in municipal solid waste plant"
-    }
+    "Natural wood incineration in municipal solid waste plant",
+    "Wood-based products incineration in municipal solid waste plant"
   ]
 }

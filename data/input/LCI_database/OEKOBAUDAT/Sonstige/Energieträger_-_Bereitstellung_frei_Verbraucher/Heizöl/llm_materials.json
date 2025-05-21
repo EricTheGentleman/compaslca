@@ -1,13 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "Heavy fuel oil"
-    },
-    {
-      "Name": "Thermal energy from light fuel oil"
-    },
-    {
-      "Name": "Light fuel oil"
-    }
+    "Heavy fuel oil",
+    "Light fuel oil",
+    "Thermal energy from light fuel oil"
   ]
 }

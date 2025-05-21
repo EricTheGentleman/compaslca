@@ -1,14 +1,25 @@
 material_prompt_components = {
 
+
+# ===================================
+# === TASK FRAMING ==================
+# ===================================
+
+    "task_fr_low_1": "- Identify all 'Material Options' that are **viable matches**",
+    "task_fr_low_2": "- Viable matches may include **reasonable approximations**; exact semantic alignment is not required.",
+    "task_fr_mid_1": "- Identify all 'Material Options' that are **viable and contextually appropriate** matches",
+    "task_fr_mid_2": "- Prioritize materials that share **core characteristics** with the described IFC data, but **limited approximations** are acceptable if well-justified.",
+    "task_fr_high_1": "- Identify only those 'Material Options' that are **clear and direct matches**",
+    "task_fr_high_2": "- Matches must demonstrate a **high degree of semantic or functional alignment** with the described IFC data.",
+    "prio_sustainability": "- Prioritize options that are assessed as **particularly sustainable** based on their environmental impacts.",
+
 # ===================================
 # === PROMPT REASONING STRATEGIES ===
 # ===================================
 
-    # VARIABLE 3: Chain of Thought Reasoning
     # Should the LLM be instructed to think "step-by-step"
     "chain_of_thought": "- Include Chain-of-Thought Reasoning. Analyze all possible material options and think step by step before making your decision.",
 
-    # VARIABLE 4: Extract-Then-Reason
     # Should the LLM identify and summarize the key information for material inference first?
     "extract_then_reason": '''
 **Extract Key Information First**
@@ -17,7 +28,6 @@ material_prompt_components = {
 - Write the a concise summary of the key information in the "Key Information Summary" field in the required output format.
 ''',
 
-    # VARIBLE 5: Iterative Self-Refinement
     # Should the LLM give a preliminary answer first, and then evaluate it / improve upon its answer?
     "iterative_self_refinement": '''
 **Iterative Self Refinement**
@@ -263,6 +273,19 @@ If no viable matches are found, return an **empty list** in JSON format:
 
 
 material_prompt_components_ger = {
+
+# ===================================
+# === TASK FRAMING ==================
+# ===================================
+
+    "task_fr_low_1": "- Identifiziere alle 'material_options', die **geeignete Entsprechungen**",
+    "task_fr_low_2": "- Geeignete Entsprechungen können **plausible Annäherungen** einschließen; eine exakte semantische Übereinstimmung ist nicht erforderlich.",
+    "task_fr_mid_1": "- Identifiziere alle 'Materialoptionen', die **kontextuell angemessen und grundsätzlich passend**",
+    "task_fr_mid_2": "- Bevorzuge Materialien mit **ähnlicher Zusammensetzung, Funktion oder Dichte**. Moderate Annäherungen sind erlaubt, wenn sie nachvollziehbar begründet werden können.",
+    "task_fr_high_1": "- Identifiziere nur solche 'Materialoptionen', die eine **eindeutige und direkte Übereinstimmung**",
+    "task_fr_high_2": "- Die Übereinstimmung muss eine **hohe semantische, funktionale oder stoffliche Ähnlichkeit** zeigen. Annäherungen sollen nur erfolgen, wenn sie ausdrücklich durch die Beschreibung der IFC-Daten gerechtfertigt sind.",
+    "prio_sustainability": "- Priorisiere Optionen, die auf Grundlage ihrer Umweltwirkungen als **besonders nachhaltig** eingeschätzt werden.",
+
 
 # ===================================
 # === PROMPT REASONING STRATEGIES ===

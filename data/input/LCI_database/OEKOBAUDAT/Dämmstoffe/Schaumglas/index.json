@@ -3,12 +3,12 @@
   "path": "Dämmstoffe / Schaumglas",
   "items": [
     {
-      "name": "Granulat",
-      "path": "Granulat/index.json"
-    },
-    {
       "name": "Platten",
       "path": "Platten/index.json"
+    },
+    {
+      "name": "Granulat",
+      "path": "Granulat/index.json"
     }
   ]
 }

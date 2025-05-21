@@ -2,7 +2,7 @@
 import os
 import json
 from pathlib import Path
-from methods.utils import create_inference_folders, load_yaml_config, simplify_lci_lists, simplify_category_list, simplify_material_lists, simplify_material_lists_density
+from methods.utils import create_inference_folders, load_yaml_config, simplify_category_list, simplify_material_lists, simplify_material_lists_density, simplify_lci_lists_oekobaudat
 from methods.traverse import traverse_lci_hierarchy
 
 def match_bim_files(input_dir, output_dir, lci_base_dir, mode_label, config):
@@ -46,24 +46,20 @@ def material_matcher():
     config_database = master_config.get("database_config", {}).get("database")
     var_include_density = master_config.get("material_prompt_variables", {}).get("include_density")
 
+    # Simplify Index lists and make them LLM friendly (by minimizing tokens and irrelevant information)
     if config_database == "kbob":
         lci_base_dir = Path("data/input/LCI_database/KBOB")
         category_index_path = Path("data/input/LCI_database/KBOB/index.json")
-        simplify_category_list(category_index_path) # make LLM friendly (minimize tokens)
+        simplify_category_list(category_index_path) 
         if var_include_density: 
             simplify_material_lists_density(lci_base_dir)
         else:
-            simplify_material_lists(lci_base_dir) # make LLM friendly (customizable, with include_density)
-
+            simplify_material_lists(lci_base_dir)
     else:
         lci_base_dir = Path("data/input/LCI_database/OEKOBAUDAT")
         category_index_path = Path("data/input/LCI_database/OEKOBAUDAT/index.json")
-        if var_include_density: 
-            simplify_material_lists_density(lci_base_dir)
-        else:
-            simplify_material_lists(lci_base_dir) # make LLM friendly (customizable, with include_density)        
-        # simplify_lci_lists(lci_base_dir) # requires different logic and needs a cap to minimize tokens 
-
+        simplify_lci_lists_oekobaudat(lci_base_dir, var_include_density)
+    
     # Match elements
     match_bim_files(
         input_dir=input_elements,

@@ -1,40 +1,12 @@
 {
   "Material Options": [
-    {
-      "Name": "Schilliger Glued Laminated Timber according to EN 14080",
-      "Density [kg/m³]": 424.0
-    },
-    {
-      "Name": "best wood BSH",
-      "Density [kg/m³]": 430.0
-    },
-    {
-      "Name": "HASSLACHER CROSS LAMINATED TIMBER",
-      "Density [kg/m³]": 470.0
-    },
-    {
-      "Name": "Glued laminated timber - straight shapes (German average)",
-      "Density [kg/m³]": 507.11
-    },
-    {
-      "Name": "Laminated timber planks coniferous wood (generic)",
-      "Density [kg/m³]": 515.2
-    },
-    {
-      "Name": "Glued laminated timber",
-      "Density [kg/m³]": 466.0
-    },
-    {
-      "Name": "Glued laminated timber - special shapes (German average)",
-      "Density [kg/m³]": 508.43
-    },
-    {
-      "Name": "Glued laminated timber, glued solid timber, block glued glulam, special components",
-      "Density [kg/m³]": 470.0
-    },
-    {
-      "Name": "Glued laminated timber",
-      "Density [kg/m³]": 464.0
-    }
+    "Glued laminated timber",
+    "Glued laminated timber - special shapes (German average)",
+    "Glued laminated timber - straight shapes (German average)",
+    "Glued laminated timber, glued solid timber, block glued glulam, special components",
+    "HASSLACHER CROSS LAMINATED TIMBER",
+    "Laminated timber planks coniferous wood (generic)",
+    "Schilliger Glued Laminated Timber according to EN 14080",
+    "best wood BSH"
   ]
 }

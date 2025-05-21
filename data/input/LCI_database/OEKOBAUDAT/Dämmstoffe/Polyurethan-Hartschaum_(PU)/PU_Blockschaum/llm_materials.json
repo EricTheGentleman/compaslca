@@ -1,15 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "Therma? TR29 / Therma? TT49",
-      "Density [kg/m³]": 60.0
-    },
-    {
-      "Name": "PUR rigid foam",
-      "Density [kg/m³]": 30.0
-    },
-    {
-      "Name": "Double skin steel faced sandwich panels with a core made of polyurethane"
-    }
+    "Double skin steel faced sandwich panels with a core made of polyurethane",
+    "PUR rigid foam",
+    "Therma? TR29 / Therma? TT49"
   ]
 }

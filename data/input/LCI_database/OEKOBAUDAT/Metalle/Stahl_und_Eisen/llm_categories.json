@@ -1,22 +1,10 @@
 {
   "Material Categories": [
-    {
-      "name": "Befestigungsmittel"
-    },
-    {
-      "name": "Betonstabstahl"
-    },
-    {
-      "name": "Betonstahlmatten"
-    },
-    {
-      "name": "Guss- und Schmiedeteile aus Stahl und Eisen"
-    },
-    {
-      "name": "Stahlbleche"
-    },
-    {
-      "name": "Stahlprofile"
-    }
+    "Stahlprofile",
+    "Stahlbleche",
+    "Betonstabstahl",
+    "Befestigungsmittel",
+    "Guss- und Schmiedeteile aus Stahl und Eisen",
+    "Betonstahlmatten"
   ]
 }

@@ -1,28 +1,12 @@
 {
   "Material Categories": [
-    {
-      "name": "3- und 5-Schichtplatten"
-    },
-    {
-      "name": "Elemente aus Holzwerkstoffen"
-    },
-    {
-      "name": "Funierschichtholz"
-    },
-    {
-      "name": "Holzfaserplatten"
-    },
-    {
-      "name": "OSB-Platte"
-    },
-    {
-      "name": "Spanplatten"
-    },
-    {
-      "name": "Sperrholz"
-    },
-    {
-      "name": "Wood-Plastic-Composites"
-    }
+    "3- und 5-Schichtplatten",
+    "Wood-Plastic-Composites",
+    "Funierschichtholz",
+    "Spanplatten",
+    "Holzfaserplatten",
+    "Elemente aus Holzwerkstoffen",
+    "OSB-Platte",
+    "Sperrholz"
   ]
 }

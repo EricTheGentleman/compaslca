@@ -1,10 +1,6 @@
 {
   "Material Categories": [
-    {
-      "name": "Opake Füllungen"
-    },
-    {
-      "name": "Transparente Füllungen"
-    }
+    "Transparente Füllungen",
+    "Opake Füllungen"
   ]
 }

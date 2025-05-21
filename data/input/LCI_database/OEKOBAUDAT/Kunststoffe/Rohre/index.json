@@ -7,12 +7,12 @@
       "path": "Abwasserrohre/index.json"
     },
     {
-      "name": "Regen-/Grauwasserrohre",
-      "path": "Regen-_Grauwasserrohre/index.json"
-    },
-    {
       "name": "Trinkwasserrohre",
       "path": "Trinkwasserrohre/index.json"
+    },
+    {
+      "name": "Regen-/Grauwasserrohre",
+      "path": "Regen-_Grauwasserrohre/index.json"
     }
   ]
 }

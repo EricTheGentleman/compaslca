@@ -1,25 +1,11 @@
 {
   "Material Categories": [
-    {
-      "name": "Acrylat"
-    },
-    {
-      "name": "Bitumen"
-    },
-    {
-      "name": "Kautschuk"
-    },
-    {
-      "name": "Polysulfid"
-    },
-    {
-      "name": "PUR"
-    },
-    {
-      "name": "PVC"
-    },
-    {
-      "name": "Silikon"
-    }
+    "Polysulfid",
+    "Acrylat",
+    "Bitumen",
+    "PUR",
+    "PVC",
+    "Kautschuk",
+    "Silikon"
   ]
 }

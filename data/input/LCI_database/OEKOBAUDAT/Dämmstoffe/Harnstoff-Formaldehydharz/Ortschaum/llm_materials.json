@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Urea formaldehyde resin in-situ foam",
-      "Density [kg/m³]": 10.0
-    }
+    "Urea formaldehyde resin in-situ foam"
   ]
 }

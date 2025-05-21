@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "Abwasserrohre"
-    },
-    {
-      "name": "Regen-/Grauwasserrohre"
-    },
-    {
-      "name": "Trinkwasserrohre"
-    }
+    "Abwasserrohre",
+    "Trinkwasserrohre",
+    "Regen-/Grauwasserrohre"
   ]
 }

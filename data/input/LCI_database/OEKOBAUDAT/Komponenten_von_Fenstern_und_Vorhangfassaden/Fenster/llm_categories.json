@@ -1,19 +1,9 @@
 {
   "Material Categories": [
-    {
-      "name": "Holz-Metallfenster"
-    },
-    {
-      "name": "Holzfenster"
-    },
-    {
-      "name": "Kunststofffenster"
-    },
-    {
-      "name": "Metallfenster"
-    },
-    {
-      "name": "Sonstige Fenster"
-    }
+    "Holzfenster",
+    "Holz-Metallfenster",
+    "Kunststofffenster",
+    "Sonstige Fenster",
+    "Metallfenster"
   ]
 }

@@ -1,113 +1,34 @@
 {
   "Material Options": [
-    {
-      "Name": "Sealing profile - Deventer Profile GmbH - Sealing profiles made of TPE-S",
-      "Density [kg/m³]": 1090.0
-    },
-    {
-      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of Low Lambda PA 66 GF25",
-      "Density [kg/m³]": 1000.0
-    },
-    {
-      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of recycled PA 66 GF25",
-      "Density [kg/m³]": 1300.0
-    },
-    {
-      "Name": "insulating bars - Gargiulo GmbH - insulating bars made of PA 66 GF40",
-      "Density [kg/m³]": 1450.0
-    },
-    {
-      "Name": "Collar BDX"
-    },
-    {
-      "Name": "insulating bars - Gargiulo GmbH - insulating bars made of LC PA",
-      "Density [kg/m³]": 1.0
-    },
-    {
-      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of recycled Low Lambda PA 66 GF25",
-      "Density [kg/m³]": 1000.0
-    },
-    {
-      "Name": "EPDM sealing for aluminium section"
-    },
-    {
-      "Name": "sealing systems - Polyschaum - Partition wall/nail sealing tape both sides"
-    },
-    {
-      "Name": "CR profile (chloroprene rubber)"
-    },
-    {
-      "Name": "EPDM sealing for aluminium section, thermally separated"
-    },
-    {
-      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile PA 66 GF25",
-      "Density [kg/m³]": 1300.0
-    },
-    {
-      "Name": "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of PBT GF30",
-      "Density [kg/m³]": 1530.0
-    },
-    {
-      "Name": "Insulating profile - Ensinger GmbH - insulbar RE made of TECATHERM 66 GF RE",
-      "Density [kg/m³]": 1.3
-    },
-    {
-      "Name": "Collar BFX"
-    },
-    {
-      "Name": "insulating bars - Gargiulo GmbH - insulating bars made of PA 66 GF25",
-      "Density [kg/m³]": 1300.0
-    },
-    {
-      "Name": "Sealing profile - Deventer Profile GmbH - Sealing profiles made of soft PVC",
-      "Density [kg/m³]": 1260.0
-    },
-    {
-      "Name": "Flashing EDW"
-    },
-    {
-      "Name": "Sealing profile - Deventer Profile GmbH - Sealing profiles made of TPE-V",
-      "Density [kg/m³]": 1140.0
-    },
-    {
-      "Name": "Insulating profile - Ensinger GmbH - insulbar ESP made of TECATHERM 66 ESP",
-      "Density [kg/m³]": 1.25
-    },
-    {
-      "Name": "Insulating profile - Ensinger GmbH - Coex sealing wire",
-      "Density [kg/m³]": 1.06
-    },
-    {
-      "Name": "Sealing profile - M.O.L. Gummiverarbeitung - Extruded rubber profiles made of EPDM",
-      "Density [kg/m³]": 1300.0
-    },
-    {
-      "Name": "sealing systems - Polyschaum - Trennfix"
-    },
-    {
-      "Name": "Flashing EDN"
-    },
-    {
-      "Name": "sealing systems - Polyschaum - Mixed fiber fleece 600 g/m² on both sides"
-    },
-    {
-      "Name": "Insulating profile - Ensinger GmbH - insulbar LI-RE made of TECATHERM 66 GF RE",
-      "Density [kg/m³]": 1.0
-    },
-    {
-      "Name": "Insulating profile - Ensinger GmbH - insulbar REG made of TECATHERM 6 GF",
-      "Density [kg/m³]": 1.0
-    },
-    {
-      "Name": "Insulating profile - Ensinger GmbH - insulbar LI made of TECATHERM 66 GF",
-      "Density [kg/m³]": 1.0
-    },
-    {
-      "Name": "Collar BBX"
-    },
-    {
-      "Name": "Insulating bar - Technoform Bautec Asia Pacific - Insulating bars made from PA66GF25",
-      "Density [kg/m³]": 1300.0
-    }
+    "CR profile (chloroprene rubber)",
+    "Collar BBX",
+    "Collar BDX",
+    "Collar BFX",
+    "EPDM sealing for aluminium section",
+    "EPDM sealing for aluminium section, thermally separated",
+    "Flashing EDN",
+    "Flashing EDW",
+    "Insulating bar - Technoform Bautec Asia Pacific - Insulating bars made from PA66GF25",
+    "Insulating profile - Ensinger GmbH - Coex sealing wire",
+    "Insulating profile - Ensinger GmbH - insulbar ESP made of TECATHERM 66 ESP",
+    "Insulating profile - Ensinger GmbH - insulbar LI made of TECATHERM 66 GF",
+    "Insulating profile - Ensinger GmbH - insulbar LI-RE made of TECATHERM 66 GF RE",
+    "Insulating profile - Ensinger GmbH - insulbar RE made of TECATHERM 66 GF RE",
+    "Insulating profile - Ensinger GmbH - insulbar REG made of TECATHERM 6 GF",
+    "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile PA 66 GF25",
+    "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of Low Lambda PA 66 GF25",
+    "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of PBT GF30",
+    "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of recycled Low Lambda PA 66 GF25",
+    "Insulating profile - Technoform Bautec Kunststoffprodukte GmbH - Insulating profile made of recycled PA 66 GF25",
+    "Sealing profile - Deventer Profile GmbH - Sealing profiles made of TPE-S",
+    "Sealing profile - Deventer Profile GmbH - Sealing profiles made of TPE-V",
+    "Sealing profile - Deventer Profile GmbH - Sealing profiles made of soft PVC",
+    "Sealing profile - M.O.L. Gummiverarbeitung - Extruded rubber profiles made of EPDM",
+    "insulating bars - Gargiulo GmbH - insulating bars made of LC PA",
+    "insulating bars - Gargiulo GmbH - insulating bars made of PA 66 GF25",
+    "insulating bars - Gargiulo GmbH - insulating bars made of PA 66 GF40",
+    "sealing systems - Polyschaum - Mixed fiber fleece 600 g/m² on both sides",
+    "sealing systems - Polyschaum - Partition wall/nail sealing tape both sides",
+    "sealing systems - Polyschaum - Trennfix"
   ]
 }

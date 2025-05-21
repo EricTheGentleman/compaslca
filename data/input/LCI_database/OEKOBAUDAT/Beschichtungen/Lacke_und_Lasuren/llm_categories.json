@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Lacksysteme Holzfassade"
-    },
-    {
-      "name": "Lacksysteme Holzfenster"
-    },
-    {
-      "name": "Lacksysteme Metall"
-    },
-    {
-      "name": "Parkettlack"
-    }
+    "Lacksysteme Holzfassade",
+    "Lacksysteme Holzfenster",
+    "Lacksysteme Metall",
+    "Parkettlack"
   ]
 }

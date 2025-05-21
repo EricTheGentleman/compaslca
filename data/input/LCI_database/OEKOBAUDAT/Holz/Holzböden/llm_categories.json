@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Kork"
-    },
-    {
-      "name": "Laminat"
-    },
-    {
-      "name": "Mehrschichtig modulare Bodenbeläge"
-    },
-    {
-      "name": "Parkett"
-    }
+    "Laminat",
+    "Mehrschichtig modulare Bodenbeläge",
+    "Kork",
+    "Parkett"
   ]
 }

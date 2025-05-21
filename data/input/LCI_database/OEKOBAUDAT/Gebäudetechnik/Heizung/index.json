@@ -3,16 +3,16 @@
   "path": "Gebäudetechnik / Heizung",
   "items": [
     {
+      "name": "Wärmeverteilung und Abgabe",
+      "path": "Wärmeverteilung_und_Abgabe/index.json"
+    },
+    {
       "name": "Speicher",
       "path": "Speicher/index.json"
     },
     {
       "name": "Wärmeerzeuger",
       "path": "Wärmeerzeuger/index.json"
-    },
-    {
-      "name": "Wärmeverteilung und Abgabe",
-      "path": "Wärmeverteilung_und_Abgabe/index.json"
     }
   ]
 }

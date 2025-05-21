@@ -1,28 +1,9 @@
 {
   "Material Options": [
-    {
-      "Name": "Steel Welded Fabrics & Lattice Girders",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Welded Mesh",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Reinforcing steel mesh",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Welded Mesh",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Reinforcement steel wire",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Meshes",
-      "Density [kg/m³]": 7850.0
-    }
+    "Meshes",
+    "Reinforcement steel wire",
+    "Reinforcing steel mesh",
+    "Steel Welded Fabrics & Lattice Girders",
+    "Welded Mesh"
   ]
 }

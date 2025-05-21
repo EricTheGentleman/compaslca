@@ -1,34 +1,14 @@
 {
   "Material Categories": [
-    {
-      "name": "Antriebssysteme"
-    },
-    {
-      "name": "Beschläge"
-    },
-    {
-      "name": "Dichtungskomponenten"
-    },
-    {
-      "name": "Fassaden"
-    },
-    {
-      "name": "Fenster"
-    },
-    {
-      "name": "Füllungen"
-    },
-    {
-      "name": "Rahmen"
-    },
-    {
-      "name": "Tageslichtsysteme und Rauch-"
-    },
-    {
-      "name": "Türen und Tore"
-    },
-    {
-      "name": "Zubehör für Fenster, Fassaden, Türen und Tore"
-    }
+    "Türen und Tore",
+    "Fenster",
+    "Beschläge",
+    "Rahmen",
+    "Antriebssysteme",
+    "Dichtungskomponenten",
+    "Tageslichtsysteme und Rauch-",
+    "Fassaden",
+    "Zubehör für Fenster, Fassaden, Türen und Tore",
+    "Füllungen"
   ]
 }

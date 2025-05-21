@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Airium cement-based insulation foam",
-      "Density [kg/m³]": 100.0
-    }
+    "Airium cement-based insulation foam"
   ]
 }

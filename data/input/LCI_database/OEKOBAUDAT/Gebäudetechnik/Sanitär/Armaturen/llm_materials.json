@@ -1,68 +1,25 @@
 {
   "Material Options": [
-    {
-      "Name": "Shower hoses",
-      "Density [kg/m³]": 0.374
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Accessories"
-    },
-    {
-      "Name": "Basic Sets"
-    },
-    {
-      "Name": "Showerpipes"
-    },
-    {
-      "Name": "Hand Showers"
-    },
-    {
-      "Name": "Basin Faucets"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Shower channels"
-    },
-    {
-      "Name": "Kitchen Faucets"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for sinks, spouts and appliances"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for washbasins and bidets"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for urinals"
-    },
-    {
-      "Name": "Overhead Showers"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Bathroom and balcony drains"
-    },
-    {
-      "Name": "Shower and Bath Faucets"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Backwater valves"
-    },
-    {
-      "Name": "E3 Valve"
-    },
-    {
-      "Name": "Thermostats"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Drains for bathtubs and shower trays"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Electronic mixing unit"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Grates for shower channels"
-    },
-    {
-      "Name": "Drainage technology - Viega GmbH & Co. KG - Floor and cellar drains"
-    }
+    "Basic Sets",
+    "Basin Faucets",
+    "Drainage technology - Viega GmbH & Co. KG - Accessories",
+    "Drainage technology - Viega GmbH & Co. KG - Backwater valves",
+    "Drainage technology - Viega GmbH & Co. KG - Bathroom and balcony drains",
+    "Drainage technology - Viega GmbH & Co. KG - Drains for bathtubs and shower trays",
+    "Drainage technology - Viega GmbH & Co. KG - Drains for sinks, spouts and appliances",
+    "Drainage technology - Viega GmbH & Co. KG - Drains for urinals",
+    "Drainage technology - Viega GmbH & Co. KG - Drains for washbasins and bidets",
+    "Drainage technology - Viega GmbH & Co. KG - Electronic mixing unit",
+    "Drainage technology - Viega GmbH & Co. KG - Floor and cellar drains",
+    "Drainage technology - Viega GmbH & Co. KG - Grates for shower channels",
+    "Drainage technology - Viega GmbH & Co. KG - Shower channels",
+    "E3 Valve",
+    "Hand Showers",
+    "Kitchen Faucets",
+    "Overhead Showers",
+    "Shower and Bath Faucets",
+    "Shower hoses",
+    "Showerpipes",
+    "Thermostats"
   ]
 }

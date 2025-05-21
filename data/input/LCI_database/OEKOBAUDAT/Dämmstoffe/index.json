@@ -3,48 +3,28 @@
   "path": "Dämmstoffe",
   "items": [
     {
-      "name": "Baumwolle",
-      "path": "Baumwolle/index.json"
-    },
-    {
-      "name": "Blähperlit",
-      "path": "Blähperlit/index.json"
-    },
-    {
-      "name": "Calciumsilikat",
-      "path": "Calciumsilikat/index.json"
-    },
-    {
-      "name": "Dämmelemente",
-      "path": "Dämmelemente/index.json"
-    },
-    {
-      "name": "Expandierter Kork",
-      "path": "Expandierter_Kork/index.json"
+      "name": "Holzfasern",
+      "path": "Holzfasern/index.json"
     },
     {
       "name": "Expandiertes Polystyrol (EPS)",
       "path": "Expandiertes_Polystyrol_(EPS)/index.json"
     },
     {
-      "name": "Extrudiertes Polystyrol (XPS)",
-      "path": "Extrudiertes_Polystyrol_(XPS)/index.json"
+      "name": "Calciumsilikat",
+      "path": "Calciumsilikat/index.json"
     },
     {
-      "name": "Flachsfaser",
-      "path": "Flachsfaser/index.json"
+      "name": "Stroh",
+      "path": "Stroh/index.json"
     },
     {
-      "name": "Hanffaser",
-      "path": "Hanffaser/index.json"
+      "name": "Siliziumdioxid-basiert",
+      "path": "Siliziumdioxid-basiert/index.json"
     },
     {
-      "name": "Harnstoff-Formaldehydharz",
-      "path": "Harnstoff-Formaldehydharz/index.json"
-    },
-    {
-      "name": "Holzfasern",
-      "path": "Holzfasern/index.json"
+      "name": "Dämmelemente",
+      "path": "Dämmelemente/index.json"
     },
     {
       "name": "Holzwolleplatten",
@@ -55,52 +35,72 @@
       "path": "Kautschuk/index.json"
     },
     {
-      "name": "Melaminharz",
-      "path": "Melaminharz/index.json"
-    },
-    {
-      "name": "Mineralwolle",
-      "path": "Mineralwolle/index.json"
-    },
-    {
       "name": "Ortschaum",
       "path": "Ortschaum/index.json"
-    },
-    {
-      "name": "Phenolharz-Hartschaum (PF)",
-      "path": "Phenolharz-Hartschaum_(PF)/index.json"
     },
     {
       "name": "Polyethylen",
       "path": "Polyethylen/index.json"
     },
     {
+      "name": "Phenolharz-Hartschaum (PF)",
+      "path": "Phenolharz-Hartschaum_(PF)/index.json"
+    },
+    {
+      "name": "Extrudiertes Polystyrol (XPS)",
+      "path": "Extrudiertes_Polystyrol_(XPS)/index.json"
+    },
+    {
+      "name": "Zellulosefaser",
+      "path": "Zellulosefaser/index.json"
+    },
+    {
+      "name": "Baumwolle",
+      "path": "Baumwolle/index.json"
+    },
+    {
+      "name": "Mineralwolle",
+      "path": "Mineralwolle/index.json"
+    },
+    {
       "name": "Polyurethan-Hartschaum (PU)",
       "path": "Polyurethan-Hartschaum_(PU)/index.json"
-    },
-    {
-      "name": "Schaumbeton",
-      "path": "Schaumbeton/index.json"
-    },
-    {
-      "name": "Schaumglas",
-      "path": "Schaumglas/index.json"
-    },
-    {
-      "name": "Siliziumdioxid-basiert",
-      "path": "Siliziumdioxid-basiert/index.json"
-    },
-    {
-      "name": "Stroh",
-      "path": "Stroh/index.json"
     },
     {
       "name": "Wärmedämmverbundsystem",
       "path": "Wärmedämmverbundsystem/index.json"
     },
     {
-      "name": "Zellulosefaser",
-      "path": "Zellulosefaser/index.json"
+      "name": "Expandierter Kork",
+      "path": "Expandierter_Kork/index.json"
+    },
+    {
+      "name": "Blähperlit",
+      "path": "Blähperlit/index.json"
+    },
+    {
+      "name": "Schaumglas",
+      "path": "Schaumglas/index.json"
+    },
+    {
+      "name": "Flachsfaser",
+      "path": "Flachsfaser/index.json"
+    },
+    {
+      "name": "Schaumbeton",
+      "path": "Schaumbeton/index.json"
+    },
+    {
+      "name": "Hanffaser",
+      "path": "Hanffaser/index.json"
+    },
+    {
+      "name": "Melaminharz",
+      "path": "Melaminharz/index.json"
+    },
+    {
+      "name": "Harnstoff-Formaldehydharz",
+      "path": "Harnstoff-Formaldehydharz/index.json"
     }
   ]
 }

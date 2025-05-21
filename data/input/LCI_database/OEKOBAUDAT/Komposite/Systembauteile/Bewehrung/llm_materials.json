@@ -1,16 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "EPD reinforcing and fastening systems  - solidian GmbH - solidian ANTICRACK",
-      "Density [kg/m³]": 1640.0
-    },
-    {
-      "Name": "Reinforcement and fastening system - solidian GmbH - solidian REBAR",
-      "Density [kg/m³]": 2.14
-    },
-    {
-      "Name": "Reinforcement and fastening system - solidian GmbH - solidian GRID Q85-CCE-21-E5 (2022)",
-      "Density [kg/m³]": 1.28
-    }
+    "EPD reinforcing and fastening systems  - solidian GmbH - solidian ANTICRACK",
+    "Reinforcement and fastening system - solidian GmbH - solidian GRID Q85-CCE-21-E5 (2022)",
+    "Reinforcement and fastening system - solidian GmbH - solidian REBAR"
   ]
 }

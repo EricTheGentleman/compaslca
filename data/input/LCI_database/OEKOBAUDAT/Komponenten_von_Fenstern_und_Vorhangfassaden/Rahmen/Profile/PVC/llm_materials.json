@@ -1,16 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "VELUX frame extension LGI"
-    },
-    {
-      "Name": "Window sash PVC-U"
-    },
-    {
-      "Name": "VELUX insulated installation frame BGX"
-    },
-    {
-      "Name": "Window frame PVC-U"
-    }
+    "VELUX frame extension LGI",
+    "VELUX insulated installation frame BGX",
+    "Window frame PVC-U",
+    "Window sash PVC-U"
   ]
 }

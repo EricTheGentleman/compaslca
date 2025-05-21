@@ -1,98 +1,25 @@
 {
   "Material Options": [
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "connecting technology - Viega - Megapress Stainless 316"
-    },
-    {
-      "Name": "connecting technology - Viega - MegaPress FKM (USA)"
-    },
-    {
-      "Name": "connecting technology - Viega - MegaPress 316 FKM (USA)"
-    },
-    {
-      "Name": "connecting technology - Viega - MegaPress CuNiFe (USA)"
-    },
-    {
-      "Name": "EEW Structural pipe",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "connecting technology - Viega - Prestabo LF"
-    },
-    {
-      "Name": "Connecting technology - Viega GmbH & Co. KG - Valves (US)"
-    },
-    {
-      "Name": "connecting technology - Viega - Megapress S"
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "Seamless steel tubes of voestalpine Tubulars GmbH & Co KG",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "connecting technology - Viega - MegaPress G (USA)"
-    },
-    {
-      "Name": "Rain drain pipe SML"
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "connecting technology - Viega - Megapress"
-    },
-    {
-      "Name": "connecting technology - Viega - Megapress G"
-    },
-    {
-      "Name": "Ductile iron pipes",
-      "Density [kg/m³]": 20.0
-    },
-    {
-      "Name": "Grey cast iron part"
-    },
-    {
-      "Name": "Connecting technology - Viega GmbH & Co. KG - Gas valves"
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "connecting technology - Viega - MegaPress 304 FKM (USA)"
-    },
-    {
-      "Name": "connecting technology - Viega - MegaPress 316 (USA)"
-    },
-    {
-      "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
-    },
-    {
-      "Name": "Connecting technology - Viega GmbH & Co. KG - Easytop system faucets"
-    },
-    {
-      "Name": "Steel forging part",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "connecting technology - Viega - MegaPress (USA)"
-    }
+    "Connecting technology - Viega GmbH & Co. KG - Easytop system faucets",
+    "Connecting technology - Viega GmbH & Co. KG - Gas valves",
+    "Connecting technology - Viega GmbH & Co. KG - Valves (US)",
+    "Ductile iron pipes",
+    "EEW Structural pipe",
+    "Grey cast iron part",
+    "Rain drain pipe SML",
+    "Seamless steel tubes of voestalpine Tubulars GmbH & Co KG",
+    "Steel forging part",
+    "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6",
+    "connecting technology - Viega - MegaPress (USA)",
+    "connecting technology - Viega - MegaPress 304 FKM (USA)",
+    "connecting technology - Viega - MegaPress 316 (USA)",
+    "connecting technology - Viega - MegaPress 316 FKM (USA)",
+    "connecting technology - Viega - MegaPress CuNiFe (USA)",
+    "connecting technology - Viega - MegaPress FKM (USA)",
+    "connecting technology - Viega - MegaPress G (USA)",
+    "connecting technology - Viega - Megapress G",
+    "connecting technology - Viega - Megapress S",
+    "connecting technology - Viega - Megapress Stainless 316",
+    "connecting technology - Viega - Prestabo LF"
   ]
 }

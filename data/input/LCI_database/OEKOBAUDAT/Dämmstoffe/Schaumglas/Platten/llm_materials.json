@@ -1,38 +1,12 @@
 {
   "Material Options": [
-    {
-      "Name": "GLAPOR cellular glass boards",
-      "Density [kg/m³]": 120.0
-    },
-    {
-      "Name": "FOAMGLAS® T3+",
-      "Density [kg/m³]": 100.0
-    },
-    {
-      "Name": "Foam glass insulation material",
-      "Density [kg/m³]": 165.0
-    },
-    {
-      "Name": "StoSilent Board 205 C"
-    },
-    {
-      "Name": "StoSilent Board 100 S, 105 C, 110 S"
-    },
-    {
-      "Name": "FOAMGLAS® T4+",
-      "Density [kg/m³]": 115.0
-    },
-    {
-      "Name": "FOAMGLAS® S3",
-      "Density [kg/m³]": 130.0
-    },
-    {
-      "Name": "FOAMGLAS® F",
-      "Density [kg/m³]": 165.0
-    },
-    {
-      "Name": "FOAMGLAS® T3+",
-      "Density [kg/m³]": 100.0
-    }
+    "FOAMGLAS® F",
+    "FOAMGLAS® S3",
+    "FOAMGLAS® T3+",
+    "FOAMGLAS® T4+",
+    "Foam glass insulation material",
+    "GLAPOR cellular glass boards",
+    "StoSilent Board 100 S, 105 C, 110 S",
+    "StoSilent Board 205 C"
   ]
 }

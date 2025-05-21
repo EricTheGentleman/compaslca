@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "Armaturen"
-    },
-    {
-      "name": "Dusch- und Badewannen"
-    },
-    {
-      "name": "Sanitärkeramik"
-    }
+    "Dusch- und Badewannen",
+    "Armaturen",
+    "Sanitärkeramik"
   ]
 }

@@ -15,12 +15,24 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
     database = database_config.get("database")
 
     # Get variables
-    category_prompt_variables = config.get("category_prompt_variables", {})
-    lng = category_prompt_variables.get("language")
-    cot_bool = category_prompt_variables.get("chain_of_thought")
-    etr_bool = category_prompt_variables.get("extract_then_reason")
-    isr_bool = category_prompt_variables.get("iterative_self_refinement")
-    exp_bool = category_prompt_variables.get("include_examples")
+    material_prompt_variables = config.get("material_prompt_variables", {})
+    lng = material_prompt_variables.get("language")
+    cot_bool = material_prompt_variables.get("chain_of_thought")
+    etr_bool = material_prompt_variables.get("extract_then_reason")
+    isr_bool = material_prompt_variables.get("iterative_self_refinement")
+    exp_bool = material_prompt_variables.get("include_examples")
+    matching_strictness = material_prompt_variables.get("matching_strictness")
+    prio_sustainability = material_prompt_variables.get("prioritize_sustainability")
+
+    print("\n[DEBUG] material_prompt_variables:")
+    print(f"  language:                 {lng}")
+    print(f"  chain_of_thought:        {cot_bool}")
+    print(f"  extract_then_reason:     {etr_bool}")
+    print(f"  iterative_self_refinement: {isr_bool}")
+    print(f"  include_examples:        {exp_bool}")
+    print(f"  matching_strictness:     {matching_strictness}")
+    print(f"  prioritize_sustainability: {prio_sustainability}")
+
 
     # ============================================
     # English Prompt Lines
@@ -32,6 +44,19 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
         cot = material_prompt_components["chain_of_thought"] if cot_bool else ""
         etr = material_prompt_components["extract_then_reason"] if etr_bool else ""
         isr = material_prompt_components["iterative_self_refinement"] if isr_bool else ""
+        prs = material_prompt_components["prio_sustainability"] if prio_sustainability else ""
+
+        # assign task framing prompt 
+        if matching_strictness == "Mid":
+            task_fr_1 = material_prompt_components["task_fr_mid_1"]
+            task_fr_2 = material_prompt_components["task_fr_mid_2"]
+        elif matching_strictness == "High":
+            task_fr_1 = material_prompt_components["task_fr_high_1"]
+            task_fr_2 = material_prompt_components["task_fr_high_2"]
+        else: # Low is default fallback
+            task_fr_1 = material_prompt_components["task_fr_low_1"]
+            task_fr_2 = material_prompt_components["task_fr_low_1"]
+
 
         # construct dynamic output block
         output_format_map = {
@@ -98,8 +123,8 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
             "- You will receive two inputs:",
             f"  1. The first input describes {descriptor_1}.",
             "  2. The second input file contains a list of 'Material Options' from an LCA database.",
-            f"- Identify all 'Material Options' that are **viable matches** for the {descriptor_2} from the first file.",
-            "- Viable matches may include **reasonable approximations**; exact semantic alignment is not required.",
+            f"{task_fr_1} for the {descriptor_2} from the first file.",
+            f"{task_fr_2}",
             "- If no viable matches are found, don't assign any materials.",
             "- Base your decision on **all relevant contextual clues** in the first input (e.g., material data, element name, element type, psets)."
         ]
@@ -129,6 +154,18 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
         cot = material_prompt_components_ger["chain_of_thought"] if cot_bool else ""
         etr = material_prompt_components_ger["extract_then_reason"] if etr_bool else ""
         isr = material_prompt_components_ger["iterative_self_refinement"] if isr_bool else ""
+        prs = material_prompt_components_ger["prio_sustainability"] if prio_sustainability else ""
+
+        # assign task framing prompt 
+        if matching_strictness == "Mid":
+            task_fr_1 = material_prompt_components_ger["task_fr_mid_1"]
+            task_fr_2 = material_prompt_components_ger["task_fr_mid_2"]
+        elif matching_strictness == "High":
+            task_fr_1 = material_prompt_components_ger["task_fr_high_1"]
+            task_fr_2 = material_prompt_components_ger["task_fr_high_2"]
+        else:
+            task_fr_1 = material_prompt_components_ger["task_fr_low_1"]
+            task_fr_2 = material_prompt_components_ger["task_fr_low_1"]
 
         # construct dynamic output block
         output_format_map = {
@@ -198,8 +235,8 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
             "- Du erhälst zwei Eingaben:",
             f"  1. Die erste Eingabe beschreibt {descriptor_1}.",
             "  2. Die zweite Eingabe enthält eine Liste von 'material_options' aus einer LCA-Datenbank.",
-            f"- Identifiziere alle 'material_options', die **geeignete Entsprechungen** für {descriptor_2} aus der ersten Eingabe darstellen. ",
-            "- Geeignete Entsprechungen können **plausible Annäherungen** einschließen; eine exakte semantische Übereinstimmung ist nicht erforderlich.",
+            f"{task_fr_1} für {descriptor_2} aus der ersten Eingabe darstellen. ",
+            f"{task_fr_2}",
             "- Falls keine geeigneten Entsprechungen gefunden werden, ordne keine Materialien zu.",
             "- Stütze deine Entscheidung auf **alle relevanten Kontextinformationen** aus der ersten Eingabe (z.B. material data, element name, element type, psets)."
         ]
@@ -221,6 +258,7 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
 
     # Include optional blocks (with dynamic spacing)
     dynamic_lines = [
+        prs,
         concrete_instruct,
         window_instruct,
         cot,

@@ -3,14 +3,20 @@
   "path": "Kunststoffe / Dachbahnen / EVA-Dachbahnen (Etylen-Vinylacetat)",
   "items": [
     {
-      "UUID": "d1ab548a-3626-4667-9690-baff659e10d5",
+      "ID": "d1ab548a-3626-4667-9690-baff659e10d5",
       "Name": "EVA roof sheets",
-      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
-      "Country Code": "DE",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
       "Declaration owner": "Sphera Solutions GmbH",
-      "Reference Quantity": "1",
+      "Bezugsgroesse": "1",
       "Reference": "qm",
-      "Area Weight (kg/m2)": "2.0"
+      "Flaechengewicht (kg/m2)": "2.0",
+      "GWPtotal (A1-A3)": "5.8805416",
+      "GWPtotal (C2)": "0.007428",
+      "GWPtotal (C3)": "7.9639834",
+      "GWPbiogenic": "0.0686592",
+      "GWPfossil": "13.782111",
+      "GWPtotal": "13.851953"
     }
   ]
 }

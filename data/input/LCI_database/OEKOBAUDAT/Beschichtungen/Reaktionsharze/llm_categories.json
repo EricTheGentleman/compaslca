@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "Reaktionsharze auf Epoxidharzbasis"
-    },
-    {
-      "name": "Reaktionsharze auf Methacrylatbasis"
-    },
-    {
-      "name": "Reaktionsharze auf PU-Basis"
-    }
+    "Reaktionsharze auf PU-Basis",
+    "Reaktionsharze auf Methacrylatbasis",
+    "Reaktionsharze auf Epoxidharzbasis"
   ]
 }

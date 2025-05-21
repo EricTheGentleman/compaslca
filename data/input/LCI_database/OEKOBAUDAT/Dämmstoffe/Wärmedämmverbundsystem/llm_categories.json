@@ -1,10 +1,6 @@
 {
   "Material Categories": [
-    {
-      "name": "Wärmedämmverbundsystem"
-    },
-    {
-      "name": "WDVS-Dübel"
-    }
+    "Wärmedämmverbundsystem",
+    "WDVS-Dübel"
   ]
 }

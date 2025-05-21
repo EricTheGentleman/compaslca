@@ -1,34 +1,14 @@
 {
   "Material Options": [
-    {
-      "Name": "Dr. Schutz® PU Sealer"
-    },
-    {
-      "Name": "5.1.01. Dispersion plaster"
-    },
-    {
-      "Name": "Waterproof, flexible protective layer under ceramic coverings"
-    },
-    {
-      "Name": "Dr. Schutz® UV PU Sealer"
-    },
-    {
-      "Name": "Application primer emulsion, dispersion paint"
-    },
-    {
-      "Name": "Dr. Schutz® PU Resin Sealer"
-    },
-    {
-      "Name": "Application primer emulsion, silicate dispersion paint"
-    },
-    {
-      "Name": "Dr. Schutz® PU Anticolor"
-    },
-    {
-      "Name": "Passive Purple"
-    },
-    {
-      "Name": "Dr. Schutz® PU Color"
-    }
+    "5.1.01. Dispersion plaster",
+    "Application primer emulsion, dispersion paint",
+    "Application primer emulsion, silicate dispersion paint",
+    "Dr. Schutz® PU Anticolor",
+    "Dr. Schutz® PU Color",
+    "Dr. Schutz® PU Resin Sealer",
+    "Dr. Schutz® PU Sealer",
+    "Dr. Schutz® UV PU Sealer",
+    "Passive Purple",
+    "Waterproof, flexible protective layer under ceramic coverings"
   ]
 }

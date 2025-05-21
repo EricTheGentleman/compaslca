@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "Feuer-/Rauchschutzsysteme"
-    },
-    {
-      "name": "Fingerschutzsysteme"
-    },
-    {
-      "name": "Sonnenschutzsysteme"
-    }
+    "Fingerschutzsysteme",
+    "Feuer-/Rauchschutzsysteme",
+    "Sonnenschutzsysteme"
   ]
 }

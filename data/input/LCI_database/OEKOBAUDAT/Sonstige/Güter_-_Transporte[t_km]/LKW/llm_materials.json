@@ -1,16 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Truck-trailer"
-    },
-    {
-      "Name": "Delivery Van"
-    },
-    {
-      "Name": "Small truck"
-    },
-    {
-      "Name": "Truck"
-    }
+    "Delivery Van",
+    "Small truck",
+    "Truck",
+    "Truck-trailer"
   ]
 }

@@ -1,32 +1,12 @@
 {
   "Material Options": [
-    {
-      "Name": "EFA-Füller®"
-    },
-    {
-      "Name": "EFA-Füller® S-MA"
-    },
-    {
-      "Name": "Furnace bottom ash",
-      "Density [kg/m³]": 1300.0
-    },
-    {
-      "Name": "Crane® Spheres 10",
-      "Density [kg/m³]": 2300.0
-    },
-    {
-      "Name": "Grobalith®"
-    },
-    {
-      "Name": "Slag-tap granulate"
-    },
-    {
-      "Name": "Hard coal fly ash",
-      "Density [kg/m³]": 2250.0
-    },
-    {
-      "Name": "Crane® Spheres 20",
-      "Density [kg/m³]": 2300.0
-    }
+    "Crane® Spheres 10",
+    "Crane® Spheres 20",
+    "EFA-Füller®",
+    "EFA-Füller® S-MA",
+    "Furnace bottom ash",
+    "Grobalith®",
+    "Hard coal fly ash",
+    "Slag-tap granulate"
   ]
 }

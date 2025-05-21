@@ -1,27 +1,10 @@
 {
   "Material Options": [
-    {
-      "Name": "Pumice gravel"
-    },
-    {
-      "Name": "Lava granulate",
-      "Density [kg/m³]": 1100.0
-    },
-    {
-      "Name": "Pumice sand",
-      "Density [kg/m³]": 800.0
-    },
-    {
-      "Name": "Dry leveling fill - Dr. Carl Riffer Baustoffe GmbH & Co. KG - Rotocell",
-      "Density [kg/m³]": 390.0
-    },
-    {
-      "Name": "Dry leveling fill - Dr. Carl Riffer Baustoffe GmbH & Co. KG - Rotocell PLUS",
-      "Density [kg/m³]": 400.0
-    },
-    {
-      "Name": "Washed pumice",
-      "Density [kg/m³]": 800.0
-    }
+    "Dry leveling fill - Dr. Carl Riffer Baustoffe GmbH & Co. KG - Rotocell",
+    "Dry leveling fill - Dr. Carl Riffer Baustoffe GmbH & Co. KG - Rotocell PLUS",
+    "Lava granulate",
+    "Pumice gravel",
+    "Pumice sand",
+    "Washed pumice"
   ]
 }

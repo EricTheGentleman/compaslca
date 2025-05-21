@@ -1,146 +1,41 @@
 {
   "Material Options": [
-    {
-      "Name": "Structural Steel: Heavy Plates",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "SilicaproofX® 1"
-    },
-    {
-      "Name": "Metal Ceiling Membranes (0.7 mm, without acoustic infill)",
-      "Density [kg/m³]": 6.7
-    },
-    {
-      "Name": "Electrical steel strip - semi-processed"
-    },
-    {
-      "Name": "Cold-rolled sheet made from scrap-based electrical steel",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "EasyproofX® 1"
-    },
-    {
-      "Name": "Zinc coated and painted steel structures",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Metal Ceiling Membranes (0.7 mm, with acoustic fleece)",
-      "Density [kg/m³]": 5.48
-    },
-    {
-      "Name": "Steel structures, pallets and platform gratings + coating (optional)",
-      "Density [kg/m³]": 7.85
-    },
-    {
-      "Name": "Organic-coated steel strip",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Hot-dip galvanised cold-rolled sheet incl. StronSal® made from scrap-based electrical steel",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Metal waterstop"
-    },
-    {
-      "Name": "Hot-formed press-hardened steel components (\"phs-ultraform\")"
-    },
-    {
-      "Name": "Unpickled hot-rolled wide strip made from scrap-based electrical steel",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Hot dip galvanized steel sheet"
-    },
-    {
-      "Name": "Metal Ceiling Membranes (0.6 mm, without acoustic infill)",
-      "Density [kg/m³]": 5.76
-    },
-    {
-      "Name": "Hot-rolled coil"
-    },
-    {
-      "Name": "Heavy plates",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Pickled hot-rolled wide strip",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Mesh Ceiling Membranes (1 mm)",
-      "Density [kg/m³]": 4.05
-    },
-    {
-      "Name": "Steel sheet (20µm hot dip galvanized)",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Steel sheet (0.3-30mm)",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Mesh Ceiling Membranes (1.5 mm)",
-      "Density [kg/m³]": 4.28
-    },
-    {
-      "Name": "AquaproofX® 1"
-    },
-    {
-      "Name": "Unpickled hot-rolled wide strip",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Profiled sheets made of steel for roof, wall, deck and ceiling constructions"
-    },
-    {
-      "Name": "Primed and painted steel structures",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Heavy Plate",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Zinc coated steel structures",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Hot-dip galvanised cold-rolled sheet incl. StronSal®",
-      "Density [kg/m³]": 7850.0
-    },
-    {
-      "Name": "Electrical steel strip - fully processed"
-    },
-    {
-      "Name": "Metal Ceiling Membranes (0.5 mm, without acoustic infill)",
-      "Density [kg/m³]": 4.25
-    },
-    {
-      "Name": "Metal Ceiling Membranes (1 mm, with acoustic fleece)",
-      "Density [kg/m³]": 7.81
-    },
-    {
-      "Name": "XCarb® Recycled and Renewably Produced hot dip galvanized steel with Magnelis® coating",
-      "Density [kg/m³]": 7828.0
-    },
-    {
-      "Name": "Metal Ceiling Membranes (0.6 mm, with acoustic fleece)",
-      "Density [kg/m³]": 4.73
-    },
-    {
-      "Name": "Metal Ceiling Membranes (0.5 mm, with acoustic fleece)",
-      "Density [kg/m³]": 3.62
-    },
-    {
-      "Name": "Metal Ceiling Membranes (1 mm, without acoustic infill)",
-      "Density [kg/m³]": 9.85
-    },
-    {
-      "Name": "Steel sheet hot dip galvanized (2-20mm)",
-      "Density [kg/m³]": 7850.0
-    }
+    "AquaproofX® 1",
+    "Cold-rolled sheet made from scrap-based electrical steel",
+    "EasyproofX® 1",
+    "Electrical steel strip - fully processed",
+    "Electrical steel strip - semi-processed",
+    "Heavy Plate",
+    "Heavy plates",
+    "Hot dip galvanized steel sheet",
+    "Hot-dip galvanised cold-rolled sheet incl. StronSal®",
+    "Hot-dip galvanised cold-rolled sheet incl. StronSal® made from scrap-based electrical steel",
+    "Hot-formed press-hardened steel components (\"phs-ultraform\")",
+    "Hot-rolled coil",
+    "Mesh Ceiling Membranes (1 mm)",
+    "Mesh Ceiling Membranes (1.5 mm)",
+    "Metal Ceiling Membranes (0.5 mm, with acoustic fleece)",
+    "Metal Ceiling Membranes (0.5 mm, without acoustic infill)",
+    "Metal Ceiling Membranes (0.6 mm, with acoustic fleece)",
+    "Metal Ceiling Membranes (0.6 mm, without acoustic infill)",
+    "Metal Ceiling Membranes (0.7 mm, with acoustic fleece)",
+    "Metal Ceiling Membranes (0.7 mm, without acoustic infill)",
+    "Metal Ceiling Membranes (1 mm, with acoustic fleece)",
+    "Metal Ceiling Membranes (1 mm, without acoustic infill)",
+    "Metal waterstop",
+    "Organic-coated steel strip",
+    "Pickled hot-rolled wide strip",
+    "Primed and painted steel structures",
+    "Profiled sheets made of steel for roof, wall, deck and ceiling constructions",
+    "SilicaproofX® 1",
+    "Steel sheet (0.3-30mm)",
+    "Steel sheet (20µm hot dip galvanized)",
+    "Steel sheet hot dip galvanized (2-20mm)",
+    "Steel structures, pallets and platform gratings + coating (optional)",
+    "Structural Steel: Heavy Plates",
+    "Unpickled hot-rolled wide strip",
+    "Unpickled hot-rolled wide strip made from scrap-based electrical steel",
+    "XCarb® Recycled and Renewably Produced hot dip galvanized steel with Magnelis® coating",
+    "Zinc coated and painted steel structures"
   ]
 }

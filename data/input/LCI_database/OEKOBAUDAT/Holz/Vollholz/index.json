@@ -3,16 +3,8 @@
   "path": "Holz / Vollholz",
   "items": [
     {
-      "name": "Balkenschichtholz (Duo-Triobalken)",
-      "path": "Balkenschichtholz_(Duo-Triobalken)/index.json"
-    },
-    {
       "name": "Bau-Schnittholz",
       "path": "Bau-Schnittholz/index.json"
-    },
-    {
-      "name": "Brettschichtholz (BSH)",
-      "path": "Brettschichtholz_(BSH)/index.json"
     },
     {
       "name": "Brettschichtholzplatte",
@@ -21,6 +13,14 @@
     {
       "name": "Konstruktionsvollholz",
       "path": "Konstruktionsvollholz/index.json"
+    },
+    {
+      "name": "Brettschichtholz (BSH)",
+      "path": "Brettschichtholz_(BSH)/index.json"
+    },
+    {
+      "name": "Balkenschichtholz (Duo-Triobalken)",
+      "path": "Balkenschichtholz_(Duo-Triobalken)/index.json"
     }
   ]
 }

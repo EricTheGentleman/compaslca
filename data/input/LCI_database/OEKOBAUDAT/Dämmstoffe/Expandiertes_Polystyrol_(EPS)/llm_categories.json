@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "EPS grau-weiß"
-    },
-    {
-      "name": "EPS grau"
-    },
-    {
-      "name": "EPS weiß"
-    }
+    "EPS weiß",
+    "EPS grau-weiß",
+    "EPS grau"
   ]
 }

@@ -1,39 +1,14 @@
 {
   "Material Options": [
-    {
-      "Name": "Tectofin RG",
-      "Density [kg/m³]": 1266.7
-    },
-    {
-      "Name": "Sikaplan G"
-    },
-    {
-      "Name": "Sikaplan SGmA"
-    },
-    {
-      "Name": "BauderTHERMOFOL"
-    },
-    {
-      "Name": "Cosmofin/Monarplan",
-      "Density [kg/m³]": 1266.7
-    },
-    {
-      "Name": "Tectofin RV plus, Tectofin SK",
-      "Density [kg/m³]": 2.4
-    },
-    {
-      "Name": "PVC roofing membrane"
-    },
-    {
-      "Name": "Sikaplan VGWT"
-    },
-    {
-      "Name": "Wolfin IB",
-      "Density [kg/m³]": 1.5
-    },
-    {
-      "Name": "Wolfin GWSK",
-      "Density [kg/m³]": 1173.9
-    }
+    "BauderTHERMOFOL",
+    "Cosmofin/Monarplan",
+    "PVC roofing membrane",
+    "Sikaplan G",
+    "Sikaplan SGmA",
+    "Sikaplan VGWT",
+    "Tectofin RG",
+    "Tectofin RV plus, Tectofin SK",
+    "Wolfin GWSK",
+    "Wolfin IB"
   ]
 }

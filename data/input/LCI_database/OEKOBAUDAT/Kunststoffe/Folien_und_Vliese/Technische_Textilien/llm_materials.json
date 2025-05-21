@@ -1,87 +1,31 @@
 {
   "Material Options": [
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX160"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX180"
-    },
-    {
-      "Name": "Vinyplan 6813ECO"
-    },
-    {
-      "Name": "1m² of Type II technical textile"
-    },
-    {
-      "Name": "Enka®Grip&Drain"
-    },
-    {
-      "Name": "Vinyplan 6319"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX150"
-    },
-    {
-      "Name": "ACEFormer?"
-    },
-    {
-      "Name": "Vinyplan H900 6770"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX7"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX130S"
-    },
-    {
-      "Name": "ACETube®"
-    },
-    {
-      "Name": "Polytetrafluoroethylene foil (PTFE)",
-      "Density [kg/m³]": 2200.0
-    },
-    {
-      "Name": "EnkaDrain® and Enka®Break"
-    },
-    {
-      "Name": "Sun protection (textile)"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX5"
-    },
-    {
-      "Name": "VOTEC PP Geosynthetics Vlies",
-      "Density [kg/m³]": 1.0
-    },
-    {
-      "Name": "ACEMat?"
-    },
-    {
-      "Name": "ACEGrid®"
-    },
-    {
-      "Name": "EnkaSolutions and XeroFlor vegetation carriers (Freudenberg Performance Materials B.V.)"
-    },
-    {
-      "Name": "ACETex® PP"
-    },
-    {
-      "Name": "Geocomposite"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX140"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX170"
-    },
-    {
-      "Name": "ACETex® PET"
-    },
-    {
-      "Name": "Tensar® TriAx® geogrid ? TX190L"
-    },
-    {
-      "Name": "Enka®Grip"
-    }
+    "1m² of Type II technical textile",
+    "ACEFormer?",
+    "ACEGrid®",
+    "ACEMat?",
+    "ACETex® PET",
+    "ACETex® PP",
+    "ACETube®",
+    "EnkaDrain® and Enka®Break",
+    "EnkaSolutions and XeroFlor vegetation carriers (Freudenberg Performance Materials B.V.)",
+    "Enka®Grip",
+    "Enka®Grip&Drain",
+    "Geocomposite",
+    "Polytetrafluoroethylene foil (PTFE)",
+    "Sun protection (textile)",
+    "Tensar® TriAx® geogrid ? TX130S",
+    "Tensar® TriAx® geogrid ? TX140",
+    "Tensar® TriAx® geogrid ? TX150",
+    "Tensar® TriAx® geogrid ? TX160",
+    "Tensar® TriAx® geogrid ? TX170",
+    "Tensar® TriAx® geogrid ? TX180",
+    "Tensar® TriAx® geogrid ? TX190L",
+    "Tensar® TriAx® geogrid ? TX5",
+    "Tensar® TriAx® geogrid ? TX7",
+    "VOTEC PP Geosynthetics Vlies",
+    "Vinyplan 6319",
+    "Vinyplan 6813ECO",
+    "Vinyplan H900 6770"
   ]
 }

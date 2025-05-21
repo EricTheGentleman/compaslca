@@ -3,28 +3,28 @@
   "path": "Metalle / Stahl und Eisen",
   "items": [
     {
-      "name": "Befestigungsmittel",
-      "path": "Befestigungsmittel/index.json"
-    },
-    {
-      "name": "Betonstabstahl",
-      "path": "Betonstabstahl/index.json"
-    },
-    {
-      "name": "Betonstahlmatten",
-      "path": "Betonstahlmatten/index.json"
-    },
-    {
-      "name": "Guss- und Schmiedeteile aus Stahl und Eisen",
-      "path": "Guss-_und_Schmiedeteile_aus_Stahl_und_Eisen/index.json"
+      "name": "Stahlprofile",
+      "path": "Stahlprofile/index.json"
     },
     {
       "name": "Stahlbleche",
       "path": "Stahlbleche/index.json"
     },
     {
-      "name": "Stahlprofile",
-      "path": "Stahlprofile/index.json"
+      "name": "Betonstabstahl",
+      "path": "Betonstabstahl/index.json"
+    },
+    {
+      "name": "Befestigungsmittel",
+      "path": "Befestigungsmittel/index.json"
+    },
+    {
+      "name": "Guss- und Schmiedeteile aus Stahl und Eisen",
+      "path": "Guss-_und_Schmiedeteile_aus_Stahl_und_Eisen/index.json"
+    },
+    {
+      "name": "Betonstahlmatten",
+      "path": "Betonstahlmatten/index.json"
     }
   ]
 }

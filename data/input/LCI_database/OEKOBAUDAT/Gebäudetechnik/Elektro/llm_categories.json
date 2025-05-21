@@ -1,19 +1,9 @@
 {
   "Material Categories": [
-    {
-      "name": "Batteriespeicher"
-    },
-    {
-      "name": "Beleuchtung"
-    },
-    {
-      "name": "Kabel"
-    },
-    {
-      "name": "Schalter und Steckdosen"
-    },
-    {
-      "name": "Sicherungs- und Schaltschränke"
-    }
+    "Beleuchtung",
+    "Kabel",
+    "Schalter und Steckdosen",
+    "Sicherungs- und Schaltschränke",
+    "Batteriespeicher"
   ]
 }

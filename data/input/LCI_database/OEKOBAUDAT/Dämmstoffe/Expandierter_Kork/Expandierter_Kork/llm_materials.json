@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Expanded cork",
-      "Density [kg/m³]": 80.0
-    }
+    "Expanded cork"
   ]
 }

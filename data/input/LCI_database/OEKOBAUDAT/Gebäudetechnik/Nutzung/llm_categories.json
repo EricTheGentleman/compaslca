@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Nutzung Beförderungstechnik"
-    },
-    {
-      "name": "Nutzung Beleuchtung"
-    },
-    {
-      "name": "Nutzung Lüftung und Klimatechnik"
-    },
-    {
-      "name": "Nutzung Wärmeerzeuger (EnEV)"
-    }
+    "Nutzung Beförderungstechnik",
+    "Nutzung Wärmeerzeuger (EnEV)",
+    "Nutzung Beleuchtung",
+    "Nutzung Lüftung und Klimatechnik"
   ]
 }

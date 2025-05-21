@@ -1,18 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Aluminium sheet",
-      "Density [kg/m³]": 2700.0
-    },
-    {
-      "Name": "ALPOLIC?  Composites"
-    },
-    {
-      "Name": "Profiled sheets made of aluminium for roof, wall and ceiling constructions"
-    },
-    {
-      "Name": "Perforated aluminum sheet with surface finish (Dillinger Fabrik Gelochter Bleche GmbH)",
-      "Density [kg/m³]": 2698.9
-    }
+    "ALPOLIC?  Composites",
+    "Aluminium sheet",
+    "Perforated aluminum sheet with surface finish (Dillinger Fabrik Gelochter Bleche GmbH)",
+    "Profiled sheets made of aluminium for roof, wall and ceiling constructions"
   ]
 }

@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "Sonstige Fassaden"
-    },
-    {
-      "name": "Vorhangfassade - Element-Fassaden"
-    },
-    {
-      "name": "Vorhangfassade - Pfosten-Riegel-Fassaden"
-    }
+    "Sonstige Fassaden",
+    "Vorhangfassade - Element-Fassaden",
+    "Vorhangfassade - Pfosten-Riegel-Fassaden"
   ]
 }

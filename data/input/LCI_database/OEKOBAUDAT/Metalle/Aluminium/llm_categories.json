@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Aluminiumbleche"
-    },
-    {
-      "name": "Aluminiumfolie"
-    },
-    {
-      "name": "Aluminiumprofil"
-    },
-    {
-      "name": "Gussteile aus Aluminium"
-    }
+    "Gussteile aus Aluminium",
+    "Aluminiumbleche",
+    "Aluminiumprofil",
+    "Aluminiumfolie"
   ]
 }

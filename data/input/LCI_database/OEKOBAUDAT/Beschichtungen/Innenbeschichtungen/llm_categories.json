@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "Dispersionsklebstoffe"
-    },
-    {
-      "name": "Innenfarben"
-    },
-    {
-      "name": "Wand- und Deckenbeläge"
-    }
+    "Innenfarben",
+    "Wand- und Deckenbeläge",
+    "Dispersionsklebstoffe"
   ]
 }

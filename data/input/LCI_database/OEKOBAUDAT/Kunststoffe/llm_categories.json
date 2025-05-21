@@ -1,25 +1,11 @@
 {
   "Material Categories": [
-    {
-      "name": "Bodenbeläge"
-    },
-    {
-      "name": "Dachbahnen"
-    },
-    {
-      "name": "Dichtmassen"
-    },
-    {
-      "name": "Folien und Vliese"
-    },
-    {
-      "name": "Kunststoffprofile elastisch"
-    },
-    {
-      "name": "Profile"
-    },
-    {
-      "name": "Rohre"
-    }
+    "Folien und Vliese",
+    "Bodenbeläge",
+    "Profile",
+    "Dichtmassen",
+    "Rohre",
+    "Dachbahnen",
+    "Kunststoffprofile elastisch"
   ]
 }

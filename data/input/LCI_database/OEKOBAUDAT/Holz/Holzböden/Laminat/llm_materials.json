@@ -1,14 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "3.3.01. Laminate (DPL)"
-    },
-    {
-      "Name": "DPL laminate flooring",
-      "Density [kg/m³]": 1000.0
-    },
-    {
-      "Name": "Kronospan Laminate Flooring"
-    }
+    "3.3.01. Laminate (DPL)",
+    "DPL laminate flooring",
+    "Kronospan Laminate Flooring"
   ]
 }

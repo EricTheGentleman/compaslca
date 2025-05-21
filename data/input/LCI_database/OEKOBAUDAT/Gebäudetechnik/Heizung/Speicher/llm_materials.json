@@ -1,73 +1,27 @@
 {
   "Material Options": [
-    {
-      "Name": "Buffer storage (steel)"
-    },
-    {
-      "Name": "Oil tank PE-HD (1000l)"
-    },
-    {
-      "Name": "Oil tank polyamide (1500l)"
-    },
-    {
-      "Name": "Buffer storage (stainless steel)"
-    },
-    {
-      "Name": "Liquefied gas tank 4850 l / 2,1 t (above ground)"
-    },
-    {
-      "Name": "Liquefied gas tank 4850 l / 2,1 t (underground)"
-    },
-    {
-      "Name": "Oil tank PE-HD (1500l)"
-    },
-    {
-      "Name": "Liquefied gas tank 6400 l / 2,9 t (above ground)"
-    },
-    {
-      "Name": "Circulating pump < 50W"
-    },
-    {
-      "Name": "Circulating pump 250-1000W"
-    },
-    {
-      "Name": "Liquefied gas tank 2700 l / 1,2 t (above ground)"
-    },
-    {
-      "Name": "Oil tank steel/PE-HD (double wall tank, 1000l)"
-    },
-    {
-      "Name": "Chimney polypropylene (PP)"
-    },
-    {
-      "Name": "Liquefied gas tank 6400 l / 2,9 t (underground)"
-    },
-    {
-      "Name": "Oil tank polyamide (750l)"
-    },
-    {
-      "Name": "Oil tank polyamide (1000l)"
-    },
-    {
-      "Name": "Liquefied gas tank 2700 l / 1,2 t (underground)"
-    },
-    {
-      "Name": "Oil tank PE-HD (750l)"
-    },
-    {
-      "Name": "Brick chimney single-duct"
-    },
-    {
-      "Name": "Oil tank steel/PE-HD (double wall tank, 750l)"
-    },
-    {
-      "Name": "Circulating pump 50-250W"
-    },
-    {
-      "Name": "Brick chimney double-duct"
-    },
-    {
-      "Name": "Chimney stainless steel (single wall)"
-    }
+    "Brick chimney double-duct",
+    "Brick chimney single-duct",
+    "Buffer storage (stainless steel)",
+    "Buffer storage (steel)",
+    "Chimney polypropylene (PP)",
+    "Chimney stainless steel (single wall)",
+    "Circulating pump 250-1000W",
+    "Circulating pump 50-250W",
+    "Circulating pump < 50W",
+    "Liquefied gas tank 2700 l / 1,2 t (above ground)",
+    "Liquefied gas tank 2700 l / 1,2 t (underground)",
+    "Liquefied gas tank 4850 l / 2,1 t (above ground)",
+    "Liquefied gas tank 4850 l / 2,1 t (underground)",
+    "Liquefied gas tank 6400 l / 2,9 t (above ground)",
+    "Liquefied gas tank 6400 l / 2,9 t (underground)",
+    "Oil tank PE-HD (1000l)",
+    "Oil tank PE-HD (1500l)",
+    "Oil tank PE-HD (750l)",
+    "Oil tank polyamide (1000l)",
+    "Oil tank polyamide (1500l)",
+    "Oil tank polyamide (750l)",
+    "Oil tank steel/PE-HD (double wall tank, 1000l)",
+    "Oil tank steel/PE-HD (double wall tank, 750l)"
   ]
 }

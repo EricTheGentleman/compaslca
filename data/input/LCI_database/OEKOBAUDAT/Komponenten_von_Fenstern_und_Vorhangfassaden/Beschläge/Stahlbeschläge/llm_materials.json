@@ -1,41 +1,16 @@
 {
   "Material Options": [
-    {
-      "Name": "BEST EHD9000"
-    },
-    {
-      "Name": "Door closer TS 92 Contur"
-    },
-    {
-      "Name": "The lift & slide drives are installed in the timber, PVC and aluminum lift & slide elements."
-    },
-    {
-      "Name": "ASSA ABLOY PULSE",
-      "Density [kg/m³]": 0.249
-    },
-    {
-      "Name": "BEST HD8000"
-    },
-    {
-      "Name": "Mortise Lock Saflok Quantum Pixel"
-    },
-    {
-      "Name": "Steel window fitting"
-    },
-    {
-      "Name": "Mortise Lock - DL Series 2xxx-9xxx"
-    },
-    {
-      "Name": "Electromechanical locks and striking plates - SIEGENIA-AUBI KG - Mechatronic drive unit for entrance doors and access control systems"
-    },
-    {
-      "Name": "Locks and hardware for windows, doors and gates - SIEGENIA-AUBI KG - Mechanical window hardware for aluminum tilt and turn windows"
-    },
-    {
-      "Name": "Locks and fittings for windows, doors and gates - SIEGENIA-AUBI KG - Multi-point locks"
-    },
-    {
-      "Name": "DL 200/300"
-    }
+    "ASSA ABLOY PULSE",
+    "BEST EHD9000",
+    "BEST HD8000",
+    "DL 200/300",
+    "Door closer TS 92 Contur",
+    "Electromechanical locks and striking plates - SIEGENIA-AUBI KG - Mechatronic drive unit for entrance doors and access control systems",
+    "Locks and fittings for windows, doors and gates - SIEGENIA-AUBI KG - Multi-point locks",
+    "Locks and hardware for windows, doors and gates - SIEGENIA-AUBI KG - Mechanical window hardware for aluminum tilt and turn windows",
+    "Mortise Lock - DL Series 2xxx-9xxx",
+    "Mortise Lock Saflok Quantum Pixel",
+    "Steel window fitting",
+    "The lift & slide drives are installed in the timber, PVC and aluminum lift & slide elements."
   ]
 }

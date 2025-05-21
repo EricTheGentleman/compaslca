@@ -3,48 +3,48 @@
   "path": "",
   "items": [
     {
-      "name": "Beschichtungen",
-      "path": "Beschichtungen/index.json"
-    },
-    {
-      "name": "Dämmstoffe",
-      "path": "Dämmstoffe/index.json"
-    },
-    {
-      "name": "End of Life",
-      "path": "End_of_Life/index.json"
-    },
-    {
-      "name": "Gebäudetechnik",
-      "path": "Gebäudetechnik/index.json"
-    },
-    {
-      "name": "Holz",
-      "path": "Holz/index.json"
-    },
-    {
-      "name": "Komponenten von Fenstern und Vorhangfassaden",
-      "path": "Komponenten_von_Fenstern_und_Vorhangfassaden/index.json"
-    },
-    {
-      "name": "Komposite",
-      "path": "Komposite/index.json"
+      "name": "Mineralische Baustoffe",
+      "path": "Mineralische_Baustoffe/index.json"
     },
     {
       "name": "Kunststoffe",
       "path": "Kunststoffe/index.json"
     },
     {
+      "name": "Dämmstoffe",
+      "path": "Dämmstoffe/index.json"
+    },
+    {
+      "name": "Holz",
+      "path": "Holz/index.json"
+    },
+    {
       "name": "Metalle",
       "path": "Metalle/index.json"
     },
     {
-      "name": "Mineralische Baustoffe",
-      "path": "Mineralische_Baustoffe/index.json"
+      "name": "Beschichtungen",
+      "path": "Beschichtungen/index.json"
+    },
+    {
+      "name": "Komponenten von Fenstern und Vorhangfassaden",
+      "path": "Komponenten_von_Fenstern_und_Vorhangfassaden/index.json"
+    },
+    {
+      "name": "Gebäudetechnik",
+      "path": "Gebäudetechnik/index.json"
+    },
+    {
+      "name": "Komposite",
+      "path": "Komposite/index.json"
     },
     {
       "name": "Sonstige",
       "path": "Sonstige/index.json"
+    },
+    {
+      "name": "End of Life",
+      "path": "End_of_Life/index.json"
     }
   ]
 }

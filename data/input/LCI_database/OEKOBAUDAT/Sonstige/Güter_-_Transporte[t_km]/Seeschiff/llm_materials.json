@@ -1,13 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "Bulk carrier ocean"
-    },
-    {
-      "Name": "Bulk carrier coast"
-    },
-    {
-      "Name": "Container ship"
-    }
+    "Bulk carrier coast",
+    "Bulk carrier ocean",
+    "Container ship"
   ]
 }

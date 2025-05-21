@@ -1,22 +1,10 @@
 {
   "Material Categories": [
-    {
-      "name": "Bituminöse Anstriche"
-    },
-    {
-      "name": "Fassadenfarben"
-    },
-    {
-      "name": "Grundierungen"
-    },
-    {
-      "name": "Innenbeschichtungen"
-    },
-    {
-      "name": "Lacke und Lasuren"
-    },
-    {
-      "name": "Reaktionsharze"
-    }
+    "Grundierungen",
+    "Bituminöse Anstriche",
+    "Reaktionsharze",
+    "Fassadenfarben",
+    "Lacke und Lasuren",
+    "Innenbeschichtungen"
   ]
 }

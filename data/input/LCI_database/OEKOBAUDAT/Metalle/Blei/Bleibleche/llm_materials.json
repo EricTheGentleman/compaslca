@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Lead sheets",
-      "Density [kg/m³]": 11342.0
-    }
+    "Lead sheets"
   ]
 }

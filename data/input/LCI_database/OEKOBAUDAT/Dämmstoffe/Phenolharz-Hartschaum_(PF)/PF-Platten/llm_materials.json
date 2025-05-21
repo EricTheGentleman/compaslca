@@ -1,56 +1,17 @@
 {
   "Material Options": [
-    {
-      "Name": "Kooltherm® K15 C",
-      "Density [kg/m³]": 35.0
-    },
-    {
-      "Name": "Kooltherm® K17",
-      "Density [kg/m³]": 103.1
-    },
-    {
-      "Name": "Kooltherm® K8",
-      "Density [kg/m³]": 35.0
-    },
-    {
-      "Name": "Phenolic resin foam",
-      "Density [kg/m³]": 40.0
-    },
-    {
-      "Name": "Kooltherm® K3",
-      "Density [kg/m³]": 35.0
-    },
-    {
-      "Name": "Kooltherm® K12",
-      "Density [kg/m³]": 35.0
-    },
-    {
-      "Name": "Kooltherm® K8 Plus",
-      "Density [kg/m³]": 34.1
-    },
-    {
-      "Name": "Kooltherm® K10",
-      "Density [kg/m³]": 35.0
-    },
-    {
-      "Name": "Kooltherm® K15",
-      "Density [kg/m³]": 35.0
-    },
-    {
-      "Name": "Kooltherm® K8 D Plus",
-      "Density [kg/m³]": 34.1
-    },
-    {
-      "Name": "Austrotherm Resolution® Facade",
-      "Density [kg/m³]": 37.5
-    },
-    {
-      "Name": "Kooltherm® K8 D",
-      "Density [kg/m³]": 35.0
-    },
-    {
-      "Name": "Kooltherm® K20",
-      "Density [kg/m³]": 35.0
-    }
+    "Austrotherm Resolution® Facade",
+    "Kooltherm® K10",
+    "Kooltherm® K12",
+    "Kooltherm® K15",
+    "Kooltherm® K15 C",
+    "Kooltherm® K17",
+    "Kooltherm® K20",
+    "Kooltherm® K3",
+    "Kooltherm® K8",
+    "Kooltherm® K8 D",
+    "Kooltherm® K8 D Plus",
+    "Kooltherm® K8 Plus",
+    "Phenolic resin foam"
   ]
 }

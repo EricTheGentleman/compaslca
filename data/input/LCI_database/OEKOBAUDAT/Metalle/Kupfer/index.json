@@ -3,16 +3,16 @@
   "path": "Metalle / Kupfer",
   "items": [
     {
-      "name": "Kupferbleche",
-      "path": "Kupferbleche/index.json"
+      "name": "Schmiede- und Gussteile aus Kupfer und Messing",
+      "path": "Schmiede-_und_Gussteile_aus_Kupfer_und_Messing/index.json"
     },
     {
       "name": "Kupferrohre",
       "path": "Kupferrohre/index.json"
     },
     {
-      "name": "Schmiede- und Gussteile aus Kupfer und Messing",
-      "path": "Schmiede-_und_Gussteile_aus_Kupfer_und_Messing/index.json"
+      "name": "Kupferbleche",
+      "path": "Kupferbleche/index.json"
     }
   ]
 }

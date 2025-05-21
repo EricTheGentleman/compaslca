@@ -1,10 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Expanded clay granulate"
-    },
-    {
-      "Name": "1.2.04Expanded clay sand"
-    }
+    "1.2.04Expanded clay sand",
+    "Expanded clay granulate"
   ]
 }

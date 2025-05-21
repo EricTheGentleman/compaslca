@@ -1,10 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "c-lever pro"
-    },
-    {
-      "Name": "Cencon ATM Cash Vault Security System"
-    }
+    "Cencon ATM Cash Vault Security System",
+    "c-lever pro"
   ]
 }

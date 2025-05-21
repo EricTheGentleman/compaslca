@@ -1,58 +1,22 @@
 {
   "Material Options": [
-    {
-      "Name": "Polyfleece SX® 1000"
-    },
-    {
-      "Name": "Tyvek® 2506B"
-    },
-    {
-      "Name": "Tyvek® Monolayer 70 (1570B)"
-    },
-    {
-      "Name": "PE foil, dimpled"
-    },
-    {
-      "Name": "Polyfleece SX® 100"
-    },
-    {
-      "Name": "Tyvek® 2508B"
-    },
-    {
-      "Name": "Polyfleece SX® 1000 Radon"
-    },
-    {
-      "Name": "Polyfleece SX® 1000 Wall"
-    },
-    {
-      "Name": "PVB film (Trosifol®)"
-    },
-    {
-      "Name": "Tyvek® 2507B"
-    },
-    {
-      "Name": "Tyvek® Monolayer 60 (1060B, 1560B, 2460B)"
-    },
-    {
-      "Name": "Radon barrier_Alpha Fugt og Radonspærre"
-    },
-    {
-      "Name": "Tyvek® Monolayer 80 (1580B, 2480B)"
-    },
-    {
-      "Name": "Tyvek® 2524B"
-    },
-    {
-      "Name": "PE-HD with PP fleece for sealing"
-    },
-    {
-      "Name": "LIP Folie G3"
-    },
-    {
-      "Name": "Bostik Tätskiktsfolie Pro LX"
-    },
-    {
-      "Name": "Radon barrier"
-    }
+    "Bostik Tätskiktsfolie Pro LX",
+    "LIP Folie G3",
+    "PE foil, dimpled",
+    "PE-HD with PP fleece for sealing",
+    "PVB film (Trosifol®)",
+    "Polyfleece SX® 100",
+    "Polyfleece SX® 1000",
+    "Polyfleece SX® 1000 Radon",
+    "Polyfleece SX® 1000 Wall",
+    "Radon barrier",
+    "Radon barrier_Alpha Fugt og Radonspærre",
+    "Tyvek® 2506B",
+    "Tyvek® 2507B",
+    "Tyvek® 2508B",
+    "Tyvek® 2524B",
+    "Tyvek® Monolayer 60 (1060B, 1560B, 2460B)",
+    "Tyvek® Monolayer 70 (1570B)",
+    "Tyvek® Monolayer 80 (1580B, 2480B)"
   ]
 }

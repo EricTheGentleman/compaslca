@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Befestigungsmittel"
-    },
-    {
-      "name": "Edelstahl Trinkwasserrohre"
-    },
-    {
-      "name": "Edelstahlbleche"
-    },
-    {
-      "name": "Edelstahlprofile"
-    }
+    "Edelstahl Trinkwasserrohre",
+    "Befestigungsmittel",
+    "Edelstahlprofile",
+    "Edelstahlbleche"
   ]
 }

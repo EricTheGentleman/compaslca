@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Holzböden"
-    },
-    {
-      "name": "Holzwerkstoffe"
-    },
-    {
-      "name": "Modifiziertes Holz"
-    },
-    {
-      "name": "Vollholz"
-    }
+    "Holzwerkstoffe",
+    "Holzböden",
+    "Modifiziertes Holz",
+    "Vollholz"
   ]
 }

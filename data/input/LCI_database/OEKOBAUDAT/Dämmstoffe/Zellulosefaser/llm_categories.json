@@ -1,10 +1,6 @@
 {
   "Material Categories": [
-    {
-      "name": "Zellulose-Einblas-Dämmstoff"
-    },
-    {
-      "name": "Zelluloseplatten"
-    }
+    "Zellulose-Einblas-Dämmstoff",
+    "Zelluloseplatten"
   ]
 }

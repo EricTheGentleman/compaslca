@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Melamin resin foam",
-      "Density [kg/m³]": 10.0
-    }
+    "Melamin resin foam"
   ]
 }

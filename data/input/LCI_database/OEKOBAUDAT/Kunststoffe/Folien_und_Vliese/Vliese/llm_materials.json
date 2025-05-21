@@ -1,14 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "PE/PP fleece"
-    },
-    {
-      "Name": "designed acoustic ceiling 24 mm",
-      "Density [kg/m³]": 130.0
-    },
-    {
-      "Name": "Glass fibre fleece"
-    }
+    "Glass fibre fleece",
+    "PE/PP fleece",
+    "designed acoustic ceiling 24 mm"
   ]
 }

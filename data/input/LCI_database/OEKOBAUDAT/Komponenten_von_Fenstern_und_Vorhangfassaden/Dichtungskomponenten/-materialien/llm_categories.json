@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "Dichtprofile"
-    },
-    {
-      "name": "Elastomer-Fugenbänder"
-    },
-    {
-      "name": "Fugendichtungsbänder"
-    }
+    "Dichtprofile",
+    "Elastomer-Fugenbänder",
+    "Fugendichtungsbänder"
   ]
 }

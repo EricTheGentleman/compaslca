@@ -3,24 +3,41 @@
   "path": "Gebäudetechnik / Brandschutz / Schutzsysteme zur Kabel- und Rohrabschottung",
   "items": [
     {
-      "UUID": "7175573d-ee7f-4dd2-996f-9d4232ed43da",
+      "ID": "7175573d-ee7f-4dd2-996f-9d4232ed43da",
       "Name": "Fire protection element - EAS Technischer Brandschutz GmbH - Fire protection housing",
-      "Standard Conformity": "'EN 15804+A2'",
-      "Country Code": "DE",
+      "Conformity": "'EN 15804+A2'",
+      "Laenderkennung": "DE",
       "Declaration owner": "EAS Technischer Brandschutz GmbH",
-      "Register Number": "EPD-RBE-83.0",
-      "Reference Quantity": "1",
-      "Reference": "kg"
+      "Registrierungsnummer": "EPD-RBE-83.0",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "biogener Kohlenstoffgehalt in kg": "1.85e-05",
+      "GWPtotal (A1-A3)": "0.3",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.00895",
+      "GWPtotal (C3)": "0.12",
+      "GWPtotal (C4)": "0.0153",
+      "GWPbiogenic": "-0.0262217",
+      "GWPfossil": "0.45433",
+      "GWPtotal": "0.44425"
     },
     {
-      "UUID": "e1252a7f-ea97-4045-b93f-0a9269969e74",
+      "ID": "e1252a7f-ea97-4045-b93f-0a9269969e74",
       "Name": "Fire protection element - EAS Technischer Brandschutz GmbH - Revision closures",
-      "Standard Conformity": "'EN 15804+A2'",
-      "Country Code": "DE",
+      "Conformity": "'EN 15804+A2'",
+      "Laenderkennung": "DE",
       "Declaration owner": "EAS Technischer Brandschutz GmbH",
-      "Register Number": "EPD-RBE-83.0",
-      "Reference Quantity": "1",
-      "Reference": "kg"
+      "Registrierungsnummer": "EPD-RBE-83.0",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "0.27",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.00895",
+      "GWPtotal (C3)": "0.12",
+      "GWPtotal (C4)": "0.0153",
+      "GWPbiogenic": "-0.6183217",
+      "GWPfossil": "1.01433",
+      "GWPtotal": "0.41425"
     }
   ]
 }

@@ -4,8 +4,7 @@ from methods.utils import load_yaml_config
 from methods.prompt_builder_category import build_category_prompt
 
 master_config_path = Path("config/master_config.yaml")
-master_config = load_yaml_config(master_config_path)
-config = master_config.get("material_prompt_variables", {})
+config = load_yaml_config(master_config_path)
 output_path = Path("data/output/prompt_preview/category_prompt_preview.txt")
 
 def preview_prompt():

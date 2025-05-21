@@ -3,12 +3,12 @@
   "path": "Dämmstoffe / Dämmelemente",
   "items": [
     {
-      "name": "Isokörbe",
-      "path": "Isokörbe/index.json"
-    },
-    {
       "name": "Tragende Wärmedämmelemente",
       "path": "Tragende_Wärmedämmelemente/index.json"
+    },
+    {
+      "name": "Isokörbe",
+      "path": "Isokörbe/index.json"
     }
   ]
 }

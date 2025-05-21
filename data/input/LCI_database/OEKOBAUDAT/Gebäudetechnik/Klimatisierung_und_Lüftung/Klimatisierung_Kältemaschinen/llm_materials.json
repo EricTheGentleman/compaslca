@@ -1,16 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Chiller (500kW)"
-    },
-    {
-      "Name": "Air conditioning system (per 1 kW)"
-    },
-    {
-      "Name": "Blue e, 1 kW"
-    },
-    {
-      "Name": "Blue e+S, 1 kW"
-    }
+    "Air conditioning system (per 1 kW)",
+    "Blue e+S, 1 kW",
+    "Blue e, 1 kW",
+    "Chiller (500kW)"
   ]
 }

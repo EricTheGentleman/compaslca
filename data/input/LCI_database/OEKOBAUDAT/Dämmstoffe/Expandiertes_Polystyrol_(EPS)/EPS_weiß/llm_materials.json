@@ -1,32 +1,11 @@
 {
   "Material Options": [
-    {
-      "Name": "2.2.01. EPS rigid foam insulation",
-      "Density [kg/m³]": 25.0
-    },
-    {
-      "Name": "Expanded Polystyrene (EPS) Foam Insulation (density 15 kg/m³)",
-      "Density [kg/m³]": 15.0
-    },
-    {
-      "Name": "Expanded Polystyrene (EPS) Foam Insulation (density 30 kg/m³)",
-      "Density [kg/m³]": 30.0
-    },
-    {
-      "Name": "Expanded Polystyrene (EPS) Foam Insulation (density 20 kg/m³)",
-      "Density [kg/m³]": 20.0
-    },
-    {
-      "Name": "Polystyrene foam filling (cement bound)",
-      "Density [kg/m³]": 350.0
-    },
-    {
-      "Name": "Expanded Polystyrene (EPS) Foam Insulation (density 25 kg/m³)",
-      "Density [kg/m³]": 25.0
-    },
-    {
-      "Name": "Polystyrene foam filling (without binder)",
-      "Density [kg/m³]": 15.0
-    }
+    "2.2.01. EPS rigid foam insulation",
+    "Expanded Polystyrene (EPS) Foam Insulation (density 15 kg/m³)",
+    "Expanded Polystyrene (EPS) Foam Insulation (density 20 kg/m³)",
+    "Expanded Polystyrene (EPS) Foam Insulation (density 25 kg/m³)",
+    "Expanded Polystyrene (EPS) Foam Insulation (density 30 kg/m³)",
+    "Polystyrene foam filling (cement bound)",
+    "Polystyrene foam filling (without binder)"
   ]
 }

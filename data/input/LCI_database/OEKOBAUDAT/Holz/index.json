@@ -3,12 +3,12 @@
   "path": "Holz",
   "items": [
     {
-      "name": "Holzböden",
-      "path": "Holzböden/index.json"
-    },
-    {
       "name": "Holzwerkstoffe",
       "path": "Holzwerkstoffe/index.json"
+    },
+    {
+      "name": "Holzböden",
+      "path": "Holzböden/index.json"
     },
     {
       "name": "Modifiziertes Holz",

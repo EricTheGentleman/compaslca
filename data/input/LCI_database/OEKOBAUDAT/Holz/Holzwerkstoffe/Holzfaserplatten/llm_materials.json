@@ -1,44 +1,14 @@
 {
   "Material Options": [
-    {
-      "Name": "Unilin Medium Density Fiberboard",
-      "Density [kg/m³]": 637.0
-    },
-    {
-      "Name": "PerfectSense Lacquered Chipboards",
-      "Density [kg/m³]": 655.0
-    },
-    {
-      "Name": "EGGER DHF",
-      "Density [kg/m³]": 615.0
-    },
-    {
-      "Name": "Medium density fibreboard (German average)",
-      "Density [kg/m³]": 737.5
-    },
-    {
-      "Name": "best wood FLEX 50",
-      "Density [kg/m³]": 50.0
-    },
-    {
-      "Name": "High Density Fibreboard (HDF)",
-      "Density [kg/m³]": 889.3
-    },
-    {
-      "Name": "EGGER Eurodekor - Laminated MDF boards",
-      "Density [kg/m³]": 13.22
-    },
-    {
-      "Name": "Medium Density Fibreboard (MDF)",
-      "Density [kg/m³]": 716.7
-    },
-    {
-      "Name": "PerfectSense lacquered boards",
-      "Density [kg/m³]": 754.3
-    },
-    {
-      "Name": "High density fibreboard (German average)",
-      "Density [kg/m³]": 849.92
-    }
+    "EGGER DHF",
+    "EGGER Eurodekor - Laminated MDF boards",
+    "High Density Fibreboard (HDF)",
+    "High density fibreboard (German average)",
+    "Medium Density Fibreboard (MDF)",
+    "Medium density fibreboard (German average)",
+    "PerfectSense Lacquered Chipboards",
+    "PerfectSense lacquered boards",
+    "Unilin Medium Density Fiberboard",
+    "best wood FLEX 50"
   ]
 }

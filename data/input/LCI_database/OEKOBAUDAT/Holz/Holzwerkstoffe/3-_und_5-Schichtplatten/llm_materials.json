@@ -1,20 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "3- and 5-layer solid wood panel (German average)",
-      "Density [kg/m³]": 510.45
-    },
-    {
-      "Name": "Five-layer laminated timber board (generic)",
-      "Density [kg/m³]": 472.0
-    },
-    {
-      "Name": "Nordpan ? Solid wood panels (Update)",
-      "Density [kg/m³]": 493.0
-    },
-    {
-      "Name": "Three layer laminated timber board (generic)",
-      "Density [kg/m³]": 472.0
-    }
+    "3- and 5-layer solid wood panel (German average)",
+    "Five-layer laminated timber board (generic)",
+    "Nordpan ? Solid wood panels (Update)",
+    "Three layer laminated timber board (generic)"
   ]
 }

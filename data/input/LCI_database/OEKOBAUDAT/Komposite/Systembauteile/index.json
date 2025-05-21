@@ -7,8 +7,16 @@
       "path": "Aussenwände/index.json"
     },
     {
+      "name": "Decken",
+      "path": "Decken/index.json"
+    },
+    {
       "name": "Bewehrung",
       "path": "Bewehrung/index.json"
+    },
+    {
+      "name": "Innenwände",
+      "path": "Innenwände/index.json"
     },
     {
       "name": "Böden",
@@ -17,14 +25,6 @@
     {
       "name": "Dachaufbauten",
       "path": "Dachaufbauten/index.json"
-    },
-    {
-      "name": "Decken",
-      "path": "Decken/index.json"
-    },
-    {
-      "name": "Innenwände",
-      "path": "Innenwände/index.json"
     }
   ]
 }

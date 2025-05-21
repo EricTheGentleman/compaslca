@@ -1,10 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Application top coating water based (facade)"
-    },
-    {
-      "Name": "Application coating water based glaze (facade)"
-    }
+    "Application coating water based glaze (facade)",
+    "Application top coating water based (facade)"
   ]
 }

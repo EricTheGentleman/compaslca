@@ -1,10 +1,6 @@
 {
   "Material Categories": [
-    {
-      "name": "Kunststoffprofile elastisch"
-    },
-    {
-      "name": "Kunststoffprofile hart"
-    }
+    "Kunststoffprofile elastisch",
+    "Kunststoffprofile hart"
   ]
 }

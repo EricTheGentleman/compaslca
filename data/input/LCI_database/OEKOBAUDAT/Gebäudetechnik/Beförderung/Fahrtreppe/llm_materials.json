@@ -1,10 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Escalator basic component (independent of lifting height)"
-    },
-    {
-      "Name": "Escalator basic component (dependent on lifting height)"
-    }
+    "Escalator basic component (dependent on lifting height)",
+    "Escalator basic component (independent of lifting height)"
   ]
 }

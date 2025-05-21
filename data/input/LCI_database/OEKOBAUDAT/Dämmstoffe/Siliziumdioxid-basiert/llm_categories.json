@@ -1,10 +1,6 @@
 {
   "Material Categories": [
-    {
-      "name": "Hydrophobe Platten"
-    },
-    {
-      "name": "Vakuumisolationspaneele"
-    }
+    "Vakuumisolationspaneele",
+    "Hydrophobe Platten"
   ]
 }

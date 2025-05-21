@@ -1,13 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "Inert matter landfill"
-    },
-    {
-      "Name": "Construction rubble landfill"
-    },
-    {
-      "Name": "Construction rubble processing"
-    }
+    "Construction rubble landfill",
+    "Construction rubble processing",
+    "Inert matter landfill"
   ]
 }

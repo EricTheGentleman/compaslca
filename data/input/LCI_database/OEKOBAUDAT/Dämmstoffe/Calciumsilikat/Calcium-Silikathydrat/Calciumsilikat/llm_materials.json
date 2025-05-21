@@ -1,36 +1,12 @@
 {
   "Material Options": [
-    {
-      "Name": "PROMATECT®?H",
-      "Density [kg/m³]": 1058.0
-    },
-    {
-      "Name": "PROMATECT®-H RWS/HCM",
-      "Density [kg/m³]": 1095.0
-    },
-    {
-      "Name": "WINDPANEL Standard and WINDPANEL Premium",
-      "Density [kg/m³]": 1078.0
-    },
-    {
-      "Name": "Promatect-MST®, Promatect-MT®, Promarine 450T®, Promarine 640T®, Supalux M1®, Vermiculux T®, Promatect-MLT®, Promasil® 1100 Super and Promasil® 1000L",
-      "Density [kg/m³]": 750.0
-    },
-    {
-      "Name": "MASTERBOARD®",
-      "Density [kg/m³]": 1078.0
-    },
-    {
-      "Name": "SUPALUX®",
-      "Density [kg/m³]": 1073.0
-    },
-    {
-      "Name": "Microporous calcium silicate thermal insulation",
-      "Density [kg/m³]": 259.0
-    },
-    {
-      "Name": "Calcium silicate board",
-      "Density [kg/m³]": 225.0
-    }
+    "Calcium silicate board",
+    "MASTERBOARD®",
+    "Microporous calcium silicate thermal insulation",
+    "PROMATECT®-H RWS/HCM",
+    "PROMATECT®?H",
+    "Promatect-MST®, Promatect-MT®, Promarine 450T®, Promarine 640T®, Supalux M1®, Vermiculux T®, Promatect-MLT®, Promasil® 1100 Super and Promasil® 1000L",
+    "SUPALUX®",
+    "WINDPANEL Standard and WINDPANEL Premium"
   ]
 }

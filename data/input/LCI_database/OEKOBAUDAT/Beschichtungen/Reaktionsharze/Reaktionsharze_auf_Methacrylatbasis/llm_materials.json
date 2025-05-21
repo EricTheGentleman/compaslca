@@ -1,27 +1,10 @@
 {
   "Material Options": [
-    {
-      "Name": "Reactive resin based on methacrylate resin"
-    },
-    {
-      "Name": "HUS4-MAX and KHC",
-      "Density [kg/m³]": 1124.0
-    },
-    {
-      "Name": "HVU2",
-      "Density [kg/m³]": 2950.0
-    },
-    {
-      "Name": "HIT-HY 200-A V3",
-      "Density [kg/m³]": 1830.0
-    },
-    {
-      "Name": "HIT-MM PLUS",
-      "Density [kg/m³]": 1710.0
-    },
-    {
-      "Name": "HIT-CT 100",
-      "Density [kg/m³]": 1845.0
-    }
+    "HIT-CT 100",
+    "HIT-HY 200-A V3",
+    "HIT-MM PLUS",
+    "HUS4-MAX and KHC",
+    "HVU2",
+    "Reactive resin based on methacrylate resin"
   ]
 }

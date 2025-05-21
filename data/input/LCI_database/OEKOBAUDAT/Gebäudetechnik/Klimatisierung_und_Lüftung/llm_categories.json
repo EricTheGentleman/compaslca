@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Kältemittel"
-    },
-    {
-      "name": "Klimatisierung/Kältemaschinen"
-    },
-    {
-      "name": "Lüftungsanlagen"
-    },
-    {
-      "name": "Zubehör"
-    }
+    "Klimatisierung/Kältemaschinen",
+    "Zubehör",
+    "Kältemittel",
+    "Lüftungsanlagen"
   ]
 }

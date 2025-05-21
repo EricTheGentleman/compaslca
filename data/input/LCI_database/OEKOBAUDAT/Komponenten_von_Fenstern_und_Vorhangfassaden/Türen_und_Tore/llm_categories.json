@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Aluminium"
-    },
-    {
-      "name": "Holz"
-    },
-    {
-      "name": "Kunststoff"
-    },
-    {
-      "name": "Stahl"
-    }
+    "Stahl",
+    "Holz",
+    "Aluminium",
+    "Kunststoff"
   ]
 }

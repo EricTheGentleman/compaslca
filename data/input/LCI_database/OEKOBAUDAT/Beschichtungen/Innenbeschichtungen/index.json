@@ -3,16 +3,16 @@
   "path": "Beschichtungen / Innenbeschichtungen",
   "items": [
     {
-      "name": "Dispersionsklebstoffe",
-      "path": "Dispersionsklebstoffe/index.json"
-    },
-    {
       "name": "Innenfarben",
       "path": "Innenfarben/index.json"
     },
     {
       "name": "Wand- und Deckenbeläge",
       "path": "Wand-_und_Deckenbeläge/index.json"
+    },
+    {
+      "name": "Dispersionsklebstoffe",
+      "path": "Dispersionsklebstoffe/index.json"
     }
   ]
 }

@@ -1,197 +1,44 @@
 {
   "Material Options": [
-    {
-      "Name": "Tetile floor covering - Kugelgarn - Reval®",
-      "Density [kg/m³]": 355.0
-    },
-    {
-      "Name": "Tufted tiles, 100% recycled polyamide 6 with a maximum total pile weight of 780 g/m2 , EcoFlex Echo backing"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PP pile material and textile backing, LC1"
-    },
-    {
-      "Name": "Continuously dyed tufted tiles, 100% rec PA 6, a CQuest Bio Sone backing",
-      "Density [kg/m³]": 507.0
-    },
-    {
-      "Name": "Tufted tiles, 75% rec. PA 6.6 with a maximum total pile weight of 1000 g/m2 , CQuest Bio Sone+ backing",
-      "Density [kg/m³]": 422.0
-    },
-    {
-      "Name": "Tufted tiles, Polyamid 6 with a maximum total pile weight of 592 g/m2 , a CQuest Bio heavy backing and a PET acoustic cover Sone",
-      "Density [kg/m³]": 474.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet, 95% recycled polyamide 6 with a maximum total pile weight of 1215 g/m2 and a foam backing"
-    },
-    {
-      "Name": "Superfloor II, Needled tiles with a total pile weight of 521 g/m2 and a CQuest Bio backing",
-      "Density [kg/m³]": 586.0
-    },
-    {
-      "Name": "Carpet floor covering (1400 g/m²)"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC3"
-    },
-    {
-      "Name": "Woven broadloom carpet, pile material solution-dyed polyamide 6.0 with a woven textile or a \"Silent Bac\" backing, both backings with recycled content,  maximum total pile weight 400 g/m²",
-      "Density [kg/m³]": 540.0
-    },
-    {
-      "Name": "Tufted carpet tiles with 100% recycled PA6 pile material and bitumen-based heavy backing, LC1",
-      "Density [kg/m³]": 705.0
-    },
-    {
-      "Name": "Woven carpet tiles, pile material solution-dyed polyamide 6.0 with a TEXtiles heavy backing with recycled content, maximum total pile weight 400 g/m²",
-      "Density [kg/m³]": 690.0
-    },
-    {
-      "Name": "Tufted tiles, Polyamid 6 with a maximum total pile weight 720 g/m2, EcoFlex Statera backing"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC5"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with a pile material of PA 6 Econyl® with 100% recycled content and a felt backing of 120 g/m2 PET"
-    },
-    {
-      "Name": "PILOTE 3D NRB - tufted carpet tiles",
-      "Density [kg/m³]": 479.0
-    },
-    {
-      "Name": "Woven broadloom carpet, total pile material max. 800 g/m² PA 6.6, aqueous dyeing method"
-    },
-    {
-      "Name": "INFINI COLORS - tufted carpet tiles",
-      "Density [kg/m³]": 639.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PP backing and a pile material of PA 6 Econyl® with 100% recycled content"
-    },
-    {
-      "Name": "MACRO MICRO HD / CARRE COUTURE - tufted carpet tiles",
-      "Density [kg/m³]": 537.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet, 95% recycled polyamide 6 with a maximum total pile weight of 1215 g/m2 and a textile backing"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with a pile material of PA 6 Econyl® with 100% recycled content and a felt backing of 280 g/m2 PET"
-    },
-    {
-      "Name": "Tufted tiles, Polyamid 6 with a maximum total pile weight of 720 g/m2, EcoFlex Echo backing"
-    },
-    {
-      "Name": "SERENITE - tufted carpet",
-      "Density [kg/m³]": 248.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet, polypropylene with a maximum total pile weight of 1275 g/m2 and a foam backing"
-    },
-    {
-      "Name": "Superflor II, Needled tiles with a total pile weight of 521 g/m² and a CQuest Bio backing",
-      "Density [kg/m³]": 586.0
-    },
-    {
-      "Name": "Needled carpet tiles, yarn mixture of 80% polypropylene, 20% polyester and an NSF foam backing"
-    },
-    {
-      "Name": "Tufted tiles, 100% recycled Polyamid 6 with a maximum total pile weight of 1500 g/m2, a CQuest Bio Sone+ backing",
-      "Density [kg/m³]": 416.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC3"
-    },
-    {
-      "Name": "TOP DESIGN 1100 ECO - tufted carpet",
-      "Density [kg/m³]": 284.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC1"
-    },
-    {
-      "Name": "Tufted tiles, polyamide 6 with a maximum total pile weight of 1300 g/m2, back2back or comfortback"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PP pile material and textile backing, LC3"
-    },
-    {
-      "Name": "Woven carpet tiles, pile material PET, print design, maximum total pile weight 700 g/m², TEXtile backing",
-      "Density [kg/m³]": 680.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PP pile material and textile backing, LC2"
-    },
-    {
-      "Name": "Needled carpet tiles, yarn mixture of 80% polypropylene, 20% polyester and a bitumen heavy backing"
-    },
-    {
-      "Name": "Tufted carpet tiles, total pile material max. 1010 g/m² PA 6 with 100% recycled content, print design, Comfort Lite®/Plus® recycled cushion back",
-      "Density [kg/m³]": 440.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC2"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PP pile material and textile backing, LC5"
-    },
-    {
-      "Name": "EcoWorx® Carpet Tile (US Made UK Market) with EcoSolution Q®, Solution Q®, or Solution Q Extreme® Face Fibre"
-    },
-    {
-      "Name": "Tufted tiles, 100% recycled polyamide 6 with a maximum total pile weight of 1300 g/m2 back2back or comfortback backing"
-    },
-    {
-      "Name": "Tufted tiles, 75% recycled Polyamid 6.6 with a maximum total pile weight of 1000 g/m2 , CQuest Bio backing, Sone acoustic cover",
-      "Density [kg/m³]": 438.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with a pile material of PA 6 Econyl® with 100% recycled content and a felt backing of 550 g/m2 PET"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC2"
-    },
-    {
-      "Name": "Tufted carpet tiles with 100% recycled PA6 pile material and bitumen-based heavy backing, LC2",
-      "Density [kg/m³]": 600.0
-    },
-    {
-      "Name": "Tetile floor covering - Kugelgarn - Reval® Modul",
-      "Density [kg/m³]": 372.0
-    },
-    {
-      "Name": "Tufted tiles, 100% recycled Polyamid 6 with a maximum total pile weight of 1500 g/m2, a CQuest Bio Sone+ backing",
-      "Density [kg/m³]": 416.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC4"
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with a pile material of PA 6 Econyl® with 100% recycled content and a felt backing of 600 g/m2 PET"
-    },
-    {
-      "Name": "Tufted tiles, 100% rec. Polyamid 6, maximum total pile weight 1500 g/m2, CQuest Bio backing, Sone acoustic cover",
-      "Density [kg/m³]": 430.0
-    },
-    {
-      "Name": "FRENCH COUTURE - tufted carpet",
-      "Density [kg/m³]": 308.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC4"
-    },
-    {
-      "Name": "Tufted carpet tiles, total pile material max. 900 g/m² PA 6 with 20% recycled content, Comfort Lite®/Plus® recycled cushion back",
-      "Density [kg/m³]": 440.0
-    },
-    {
-      "Name": "Tufted carpet tiles with 100% recycled PA6 pile material and bitumen-based heavy backing, LC3",
-      "Density [kg/m³]": 525.0
-    },
-    {
-      "Name": "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC1"
-    }
+    "Carpet floor covering (1400 g/m²)",
+    "Continuously dyed tufted tiles, 100% rec PA 6, a CQuest Bio Sone backing",
+    "EcoWorx® Carpet Tile (US Made UK Market) with EcoSolution Q®, Solution Q®, or Solution Q Extreme® Face Fibre",
+    "FRENCH COUTURE - tufted carpet",
+    "INFINI COLORS - tufted carpet tiles",
+    "MACRO MICRO HD / CARRE COUTURE - tufted carpet tiles",
+    "Needled carpet tiles, yarn mixture of 80% polypropylene, 20% polyester and a bitumen heavy backing",
+    "Needled carpet tiles, yarn mixture of 80% polypropylene, 20% polyester and an NSF foam backing",
+    "PILOTE 3D NRB - tufted carpet tiles",
+    "SERENITE - tufted carpet",
+    "Superfloor II, Needled tiles with a total pile weight of 521 g/m2 and a CQuest Bio backing",
+    "Superflor II, Needled tiles with a total pile weight of 521 g/m² and a CQuest Bio backing",
+    "TOP DESIGN 1100 ECO - tufted carpet",
+    "Tetile floor covering - Kugelgarn - Reval®",
+    "Tetile floor covering - Kugelgarn - Reval® Modul",
+    "Tufted carpet tiles with 100% recycled PA6 pile material and bitumen-based heavy backing, LC1",
+    "Tufted carpet tiles with 100% recycled PA6 pile material and bitumen-based heavy backing, LC2",
+    "Tufted carpet tiles with 100% recycled PA6 pile material and bitumen-based heavy backing, LC3",
+    "Tufted carpet tiles, total pile material max. 1010 g/m² PA 6 with 100% recycled content, print design, Comfort Lite®/Plus® recycled cushion back",
+    "Tufted carpet tiles, total pile material max. 900 g/m² PA 6 with 20% recycled content, Comfort Lite®/Plus® recycled cushion back",
+    "Tufted tiles, 100% rec. Polyamid 6, maximum total pile weight 1500 g/m2, CQuest Bio backing, Sone acoustic cover",
+    "Tufted tiles, 100% recycled Polyamid 6 with a maximum total pile weight of 1500 g/m2, a CQuest Bio Sone+ backing",
+    "Tufted tiles, 100% recycled polyamide 6 with a maximum total pile weight of 1300 g/m2 back2back or comfortback backing",
+    "Tufted tiles, 100% recycled polyamide 6 with a maximum total pile weight of 780 g/m2 , EcoFlex Echo backing",
+    "Tufted tiles, 75% rec. PA 6.6 with a maximum total pile weight of 1000 g/m2 , CQuest Bio Sone+ backing",
+    "Tufted tiles, 75% recycled Polyamid 6.6 with a maximum total pile weight of 1000 g/m2 , CQuest Bio backing, Sone acoustic cover",
+    "Tufted tiles, Polyamid 6 with a maximum total pile weight 720 g/m2, EcoFlex Statera backing",
+    "Tufted tiles, Polyamid 6 with a maximum total pile weight of 592 g/m2 , a CQuest Bio heavy backing and a PET acoustic cover Sone",
+    "Tufted tiles, Polyamid 6 with a maximum total pile weight of 720 g/m2, EcoFlex Echo backing",
+    "Tufted tiles, polyamide 6 with a maximum total pile weight of 1300 g/m2, back2back or comfortback",
+    "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC1",
+    "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC2",
+    "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC3",
+    "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC4",
+    "Tufted wall-to-wall carpet with 100% recycled PA6 pile material and textile backing, LC5",
+    "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC1",
+    "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC2",
+    "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC3",
+    "Tufted wall-to-wall carpet with PA6 pile material and textile backing, LC4",
+    "Tufted wall-to-wall carpet with PP backing and a pile material of PA 6 Econyl® with 100% recycled content"
   ]
 }

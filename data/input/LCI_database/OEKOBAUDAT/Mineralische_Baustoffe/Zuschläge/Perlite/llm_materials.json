@@ -1,10 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Perlites 0-1"
-    },
-    {
-      "Name": "Perlites 0-3"
-    }
+    "Perlites 0-1",
+    "Perlites 0-3"
   ]
 }

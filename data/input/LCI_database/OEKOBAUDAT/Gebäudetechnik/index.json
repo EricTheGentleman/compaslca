@@ -3,6 +3,22 @@
   "path": "Gebäudetechnik",
   "items": [
     {
+      "name": "Heizung",
+      "path": "Heizung/index.json"
+    },
+    {
+      "name": "Elektro",
+      "path": "Elektro/index.json"
+    },
+    {
+      "name": "Sanitär",
+      "path": "Sanitär/index.json"
+    },
+    {
+      "name": "Klimatisierung und Lüftung",
+      "path": "Klimatisierung_und_Lüftung/index.json"
+    },
+    {
       "name": "Beförderung",
       "path": "Beförderung/index.json"
     },
@@ -11,24 +27,8 @@
       "path": "Brandschutz/index.json"
     },
     {
-      "name": "Elektro",
-      "path": "Elektro/index.json"
-    },
-    {
-      "name": "Heizung",
-      "path": "Heizung/index.json"
-    },
-    {
-      "name": "Klimatisierung und Lüftung",
-      "path": "Klimatisierung_und_Lüftung/index.json"
-    },
-    {
       "name": "Nutzung",
       "path": "Nutzung/index.json"
-    },
-    {
-      "name": "Sanitär",
-      "path": "Sanitär/index.json"
     }
   ]
 }

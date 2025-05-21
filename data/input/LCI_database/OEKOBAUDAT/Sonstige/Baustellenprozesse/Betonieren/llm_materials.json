@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Pumping of 1 m3 concrete",
-      "Density [kg/m³]": 2365.0
-    }
+    "Pumping of 1 m3 concrete"
   ]
 }

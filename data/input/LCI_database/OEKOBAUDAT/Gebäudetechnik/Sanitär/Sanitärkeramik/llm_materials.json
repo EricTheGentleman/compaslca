@@ -1,17 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "Toilet seat/cover (Duroplast)"
-    },
-    {
-      "Name": "Sanitary ceramic"
-    },
-    {
-      "Name": "Sanitary ceramic"
-    },
-    {
-      "Name": "Ceramic Fine Fireclay ISI",
-      "Density [kg/m³]": 2.35
-    }
+    "Ceramic Fine Fireclay ISI",
+    "Sanitary ceramic",
+    "Toilet seat/cover (Duroplast)"
   ]
 }

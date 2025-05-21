@@ -1,36 +1,12 @@
 {
   "Material Options": [
-    {
-      "Name": "AF/ArmaFlex Evo insulation for industrial and building installation",
-      "Density [kg/m³]": 52.5
-    },
-    {
-      "Name": "SH/ArmaFlex insulation for industrial and building installation",
-      "Density [kg/m³]": 47.5
-    },
-    {
-      "Name": "AF/ArmaFlex Class O insulation for industrial and building installation",
-      "Density [kg/m³]": 52.5
-    },
-    {
-      "Name": "NH/ArmaFlex Smart insulation for industrial and building installation",
-      "Density [kg/m³]": 62.5
-    },
-    {
-      "Name": "NH/ArmaFlex insulation for industrial and building installation",
-      "Density [kg/m³]": 62.5
-    },
-    {
-      "Name": "AF/ArmaFlex insulation for industrial and building installation",
-      "Density [kg/m³]": 52.5
-    },
-    {
-      "Name": "ArmaFlex Ultima insulation for industrial and building installation",
-      "Density [kg/m³]": 57.5
-    },
-    {
-      "Name": "HT/ArmaFlex insulation for industrial and building installation",
-      "Density [kg/m³]": 75.0
-    }
+    "AF/ArmaFlex Class O insulation for industrial and building installation",
+    "AF/ArmaFlex Evo insulation for industrial and building installation",
+    "AF/ArmaFlex insulation for industrial and building installation",
+    "ArmaFlex Ultima insulation for industrial and building installation",
+    "HT/ArmaFlex insulation for industrial and building installation",
+    "NH/ArmaFlex Smart insulation for industrial and building installation",
+    "NH/ArmaFlex insulation for industrial and building installation",
+    "SH/ArmaFlex insulation for industrial and building installation"
   ]
 }

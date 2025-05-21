@@ -1,30 +1,11 @@
 {
   "Material Options": [
-    {
-      "Name": "Fibrolith® 2-layer panels made of mineral-bonded wood wool and mineral wool insulation"
-    },
-    {
-      "Name": "Heradesign acoustic panels Euroclass A2"
-    },
-    {
-      "Name": "Fibrolith® mineral-bonded wood wool panels (mono-panels of building materials class B1)",
-      "Density [kg/m³]": 350.8
-    },
-    {
-      "Name": "Lightweight wood fibre panel",
-      "Density [kg/m³]": 360.0
-    },
-    {
-      "Name": "2.7.01. Melamine-coated lightweight board",
-      "Density [kg/m³]": 643.0
-    },
-    {
-      "Name": "Fibrolith® mineral-bonded wood wool panels (mono-panels of building materials class A2)",
-      "Density [kg/m³]": 494.4
-    },
-    {
-      "Name": "Fibrolith® lightweight panels/stable ventilation panels",
-      "Density [kg/m³]": 350.8
-    }
+    "2.7.01. Melamine-coated lightweight board",
+    "Fibrolith® 2-layer panels made of mineral-bonded wood wool and mineral wool insulation",
+    "Fibrolith® lightweight panels/stable ventilation panels",
+    "Fibrolith® mineral-bonded wood wool panels (mono-panels of building materials class A2)",
+    "Fibrolith® mineral-bonded wood wool panels (mono-panels of building materials class B1)",
+    "Heradesign acoustic panels Euroclass A2",
+    "Lightweight wood fibre panel"
   ]
 }

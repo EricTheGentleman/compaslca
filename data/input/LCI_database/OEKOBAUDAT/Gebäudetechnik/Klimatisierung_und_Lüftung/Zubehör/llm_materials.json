@@ -1,17 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Electromechanical accessories - SIEGENIA-AUBI KG - Smarter Sensor"
-    },
-    {
-      "Name": "Air ventilation duct (zinc coated steel plate)"
-    },
-    {
-      "Name": "GreenWeave textile-based ventilation duct",
-      "Density [kg/m³]": 500.0
-    },
-    {
-      "Name": "EKM90 smoke control damper"
-    }
+    "Air ventilation duct (zinc coated steel plate)",
+    "EKM90 smoke control damper",
+    "Electromechanical accessories - SIEGENIA-AUBI KG - Smarter Sensor",
+    "GreenWeave textile-based ventilation duct"
   ]
 }

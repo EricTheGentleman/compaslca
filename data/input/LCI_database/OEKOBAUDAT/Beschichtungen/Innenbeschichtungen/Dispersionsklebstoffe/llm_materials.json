@@ -1,25 +1,11 @@
 {
   "Material Options": [
-    {
-      "Name": "Dispersion-based products, group 2"
-    },
-    {
-      "Name": "Fabric Tape"
-    },
-    {
-      "Name": "Dispersion-based products, group 1"
-    },
-    {
-      "Name": "Dispersion-based products, group 3"
-    },
-    {
-      "Name": "Dispersion-based products, group 4"
-    },
-    {
-      "Name": "Skirting Tapes"
-    },
-    {
-      "Name": "Film Tapes"
-    }
+    "Dispersion-based products, group 1",
+    "Dispersion-based products, group 2",
+    "Dispersion-based products, group 3",
+    "Dispersion-based products, group 4",
+    "Fabric Tape",
+    "Film Tapes",
+    "Skirting Tapes"
   ]
 }

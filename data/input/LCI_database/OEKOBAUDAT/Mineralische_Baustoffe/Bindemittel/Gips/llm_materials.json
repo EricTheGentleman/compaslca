@@ -1,28 +1,10 @@
 {
   "Material Options": [
-    {
-      "Name": "Mixed inert NHL-based mortar: T LIVEL ECO, STONE COVER",
-      "Density [kg/m³]": 1855.0
-    },
-    {
-      "Name": "gypsum fibre board",
-      "Density [kg/m³]": 1180.0
-    },
-    {
-      "Name": "Gypsum (CaSO4 beta hemihydrate)"
-    },
-    {
-      "Name": "Anhydrite (CaSO4)"
-    },
-    {
-      "Name": "Gypsum stone (CaSO4-Dihydrate)"
-    },
-    {
-      "Name": "Gypsum (CaSO4 alpha semihydrate)"
-    },
-    {
-      "Name": "flooring elements",
-      "Density [kg/m³]": 1180.0
-    }
+    "Anhydrite (CaSO4)",
+    "Gypsum (CaSO4 alpha semihydrate)",
+    "Gypsum (CaSO4 beta hemihydrate)",
+    "Gypsum stone (CaSO4-Dihydrate)",
+    "Mixed inert NHL-based mortar: T LIVEL ECO, STONE COVER",
+    "flooring elements"
   ]
 }

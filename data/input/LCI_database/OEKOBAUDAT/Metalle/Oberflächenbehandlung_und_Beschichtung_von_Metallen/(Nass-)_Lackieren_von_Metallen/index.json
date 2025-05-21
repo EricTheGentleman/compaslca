@@ -3,24 +3,36 @@
   "path": "Metalle / Oberflächenbehandlung und Beschichtung von Metallen / (Nass-) Lackieren von Metallen",
   "items": [
     {
-      "UUID": "4c02661d-8255-489e-91e7-f23191539ed9",
-      "Name": "Application top coat on metals (water based)",
-      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
-      "Country Code": "DE",
+      "ID": "d65bcb46-9e34-4e5a-ae09-c5d427674522",
+      "Name": "Application top coat on metals (solvent based)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
       "Declaration owner": "Sphera Solutions GmbH",
-      "Reference Quantity": "1",
+      "Bezugsgroesse": "1",
       "Reference": "qm",
-      "Area Weight (kg/m2)": "0.29"
+      "Flaechengewicht (kg/m2)": "0.21",
+      "GWPtotal (A1-A3)": "2.3683619",
+      "GWPtotal (C2)": "0.0007799",
+      "GWPtotal (C3)": "0.1436064",
+      "GWPbiogenic": "-0.0112463",
+      "GWPfossil": "2.5235322",
+      "GWPtotal": "2.5127482"
     },
     {
-      "UUID": "d65bcb46-9e34-4e5a-ae09-c5d427674522",
-      "Name": "Application top coat on metals (solvent based)",
-      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
-      "Country Code": "DE",
+      "ID": "4c02661d-8255-489e-91e7-f23191539ed9",
+      "Name": "Application top coat on metals (water based)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
       "Declaration owner": "Sphera Solutions GmbH",
-      "Reference Quantity": "1",
+      "Bezugsgroesse": "1",
       "Reference": "qm",
-      "Area Weight (kg/m2)": "0.21"
+      "Flaechengewicht (kg/m2)": "0.29",
+      "GWPtotal (A1-A3)": "2.0875268",
+      "GWPtotal (C2)": "0.0010771",
+      "GWPtotal (C3)": "0.2477764",
+      "GWPbiogenic": "-0.0440006",
+      "GWPfossil": "2.3797205",
+      "GWPtotal": "2.3363802"
     }
   ]
 }

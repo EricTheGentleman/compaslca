@@ -1,42 +1,16 @@
 {
   "Material Options": [
-    {
-      "Name": "connecting technology - Viega - PureFlow Crimp"
-    },
-    {
-      "Name": "connecting technology - Viega - Geopress G"
-    },
-    {
-      "Name": "connecting technology - Viega - Viega Smartpress press connector"
-    },
-    {
-      "Name": "connecting technology - Viega - Megapress"
-    },
-    {
-      "Name": "connecting technology - Viega - Sanpress"
-    },
-    {
-      "Name": "connecting technology - Viega - Geopress K / K Gas"
-    },
-    {
-      "Name": "Red brass part"
-    },
-    {
-      "Name": "connecting technology - Viega - SeaPress"
-    },
-    {
-      "Name": "Different brass valves family constituted by full bore ball valves, gate valves and fixed-orifice balancing valves",
-      "Density [kg/m³]": 84600.0
-    },
-    {
-      "Name": "connecting technology - Viega - Geopress"
-    },
-    {
-      "Name": "connecting technology - Viega - Raxofix press connector"
-    },
-    {
-      "Name": "Brass component",
-      "Density [kg/m³]": 8750.0
-    }
+    "Brass component",
+    "Different brass valves family constituted by full bore ball valves, gate valves and fixed-orifice balancing valves",
+    "Red brass part",
+    "connecting technology - Viega - Geopress",
+    "connecting technology - Viega - Geopress G",
+    "connecting technology - Viega - Geopress K / K Gas",
+    "connecting technology - Viega - Megapress",
+    "connecting technology - Viega - PureFlow Crimp",
+    "connecting technology - Viega - Raxofix press connector",
+    "connecting technology - Viega - Sanpress",
+    "connecting technology - Viega - SeaPress",
+    "connecting technology - Viega - Viega Smartpress press connector"
   ]
 }

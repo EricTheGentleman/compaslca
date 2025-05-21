@@ -1,29 +1,11 @@
 {
   "Material Options": [
-    {
-      "Name": "Sewer pipe GFK"
-    },
-    {
-      "Name": "Sewer pipe PP"
-    },
-    {
-      "Name": "AWASCHACHT nevoPP",
-      "Density [kg/m³]": 900.0
-    },
-    {
-      "Name": "Sewer pipe PVC"
-    },
-    {
-      "Name": "AWADUKT PP",
-      "Density [kg/m³]": 900.0
-    },
-    {
-      "Name": "Sewer pipe ABS",
-      "Density [kg/m³]": 1050.0
-    },
-    {
-      "Name": "Sewer pipe PE-HD",
-      "Density [kg/m³]": 950.0
-    }
+    "AWADUKT PP",
+    "AWASCHACHT nevoPP",
+    "Sewer pipe ABS",
+    "Sewer pipe GFK",
+    "Sewer pipe PE-HD",
+    "Sewer pipe PP",
+    "Sewer pipe PVC"
   ]
 }

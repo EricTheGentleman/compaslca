@@ -1,3 +1,5 @@
+import copy
+
 import os
 import json
 import time
@@ -5,6 +7,7 @@ from methods.utils import load_json
 from methods.llm_interface import category_inference, material_inference
 
 def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, mode, config, step=1, path_trace=None):
+
     path_trace = path_trace or []
 
     category_file = os.path.join(current_dir, "llm_categories.json")
@@ -27,7 +30,7 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
         processing_time = round(end_time - start_time, 3)
 
         # Get match name
-        category_name = llm_response.get("Matched Material Category")
+        category_name = llm_response.get("Matched Category")
         if category_name in [None, "None", "", []]:
             category_name = None
 
@@ -82,12 +85,14 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
             return result
 
         next_dir = os.path.join(current_dir, os.path.dirname(match["path"]))
+
         return traverse_lci_hierarchy(
             bim_element=bim_element,
             current_dir=next_dir,
             lci_base_dir=lci_base_dir,
             results_dir=results_dir,
             mode=mode,
+            config=copy.deepcopy(config),
             step=step + 1,
             path_trace=path_trace + [category_name]
         )
@@ -104,7 +109,7 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
         end_time = time.time()
         processing_time = round(end_time - start_time, 3)
 
-        matched_name = llm_response.get("Matched Material Name")
+        matched_name = llm_response.get("Matched Materials")
         if matched_name in [None, "None", "", []]:
             matched_name = None
 

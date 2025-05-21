@@ -3,20 +3,20 @@
   "path": "Gebäudetechnik / Klimatisierung und Lüftung",
   "items": [
     {
-      "name": "Kältemittel",
-      "path": "Kältemittel/index.json"
-    },
-    {
       "name": "Klimatisierung/Kältemaschinen",
       "path": "Klimatisierung_Kältemaschinen/index.json"
     },
     {
-      "name": "Lüftungsanlagen",
-      "path": "Lüftungsanlagen/index.json"
-    },
-    {
       "name": "Zubehör",
       "path": "Zubehör/index.json"
+    },
+    {
+      "name": "Kältemittel",
+      "path": "Kältemittel/index.json"
+    },
+    {
+      "name": "Lüftungsanlagen",
+      "path": "Lüftungsanlagen/index.json"
     }
   ]
 }

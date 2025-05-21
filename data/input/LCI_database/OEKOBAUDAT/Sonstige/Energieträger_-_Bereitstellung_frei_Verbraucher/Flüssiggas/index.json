@@ -3,13 +3,17 @@
   "path": "Sonstige / Energieträger - Bereitstellung frei Verbraucher / Flüssiggas",
   "items": [
     {
-      "UUID": "ac476639-0ef2-4485-bb73-d446948eb7c6",
+      "ID": "ac476639-0ef2-4485-bb73-d446948eb7c6",
       "Name": "Liquefied petroleum gas (LPG)",
-      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
-      "Country Code": "DE",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
       "Declaration owner": "Sphera Solutions GmbH",
-      "Reference Quantity": "1",
-      "Reference": "kg"
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (B6)": "1.010569",
+      "GWPbiogenic": "0.005315",
+      "GWPfossil": "1.0050737",
+      "GWPtotal": "1.010569"
     }
   ]
 }

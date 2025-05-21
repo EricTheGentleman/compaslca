@@ -1,22 +1,10 @@
 {
   "Material Categories": [
-    {
-      "name": "Bauschutt"
-    },
-    {
-      "name": "Gebäudetechnik"
-    },
-    {
-      "name": "Hausmüll"
-    },
-    {
-      "name": "Holz"
-    },
-    {
-      "name": "Kunststoffe"
-    },
-    {
-      "name": "Metalle"
-    }
+    "Bauschutt",
+    "Metalle",
+    "Gebäudetechnik",
+    "Hausmüll",
+    "Kunststoffe",
+    "Holz"
   ]
 }

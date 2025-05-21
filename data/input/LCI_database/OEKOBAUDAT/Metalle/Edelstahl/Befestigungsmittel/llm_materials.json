@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Stainless Steel screws",
-      "Density [kg/m³]": 1.0
-    }
+    "Stainless Steel screws"
   ]
 }

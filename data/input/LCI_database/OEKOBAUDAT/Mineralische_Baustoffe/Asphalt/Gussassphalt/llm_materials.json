@@ -1,12 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Mastic asphalt",
-      "Density [kg/m³]": 2400.0
-    },
-    {
-      "Name": "Mastic asphalt screed",
-      "Density [kg/m³]": 2400.0
-    }
+    "Mastic asphalt",
+    "Mastic asphalt screed"
   ]
 }

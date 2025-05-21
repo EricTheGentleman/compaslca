@@ -3,22 +3,30 @@
   "path": "Sonstige / Baustellenprozesse / Bagger/Aushub",
   "items": [
     {
-      "UUID": "0e4230ed-86d7-4230-bba1-1ab3dd05b09b",
-      "Name": "Excavator15 kW",
-      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
-      "Country Code": "DE",
+      "ID": "6abf619b-9e1e-4c1d-996b-0458137d3303",
+      "Name": "Excavator 100kW",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
       "Declaration owner": "Sphera Solutions GmbH",
-      "Reference Quantity": "1",
-      "Reference": "m3"
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "GWPtotal (A5)": "1.3727043",
+      "GWPbiogenic": "-0.0315964",
+      "GWPfossil": "1.3788562",
+      "GWPtotal": "1.3727043"
     },
     {
-      "UUID": "6abf619b-9e1e-4c1d-996b-0458137d3303",
-      "Name": "Excavator 100kW",
-      "Standard Conformity": "'EN 15804+A2 (EF 3.1)'",
-      "Country Code": "DE",
+      "ID": "0e4230ed-86d7-4230-bba1-1ab3dd05b09b",
+      "Name": "Excavator15 kW",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
       "Declaration owner": "Sphera Solutions GmbH",
-      "Reference Quantity": "1",
-      "Reference": "m3"
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "GWPtotal (A5)": "1.3682069",
+      "GWPbiogenic": "-0.030097",
+      "GWPfossil": "1.3731961",
+      "GWPtotal": "1.3682069"
     }
   ]
 }

@@ -1,15 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "Rammed earth wall",
-      "Density [kg/m³]": 2000.0
-    },
-    {
-      "Name": "Adobe",
-      "Density [kg/m³]": 1200.0
-    },
-    {
-      "Name": "Clay panel"
-    }
+    "Adobe",
+    "Clay panel",
+    "Rammed earth wall"
   ]
 }

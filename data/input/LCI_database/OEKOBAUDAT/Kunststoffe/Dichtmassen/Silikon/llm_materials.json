@@ -1,17 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Silicone-based products, group 3"
-    },
-    {
-      "Name": "Silicone-based products, group 2"
-    },
-    {
-      "Name": "Silicone sealing compound",
-      "Density [kg/m³]": 1100.0
-    },
-    {
-      "Name": "Silicone-based products, group 1"
-    }
+    "Silicone sealing compound",
+    "Silicone-based products, group 1",
+    "Silicone-based products, group 2",
+    "Silicone-based products, group 3"
   ]
 }

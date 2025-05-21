@@ -1,16 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "ROCKWOOL Mineral-wool insulation (low bulk density range)",
-      "Density [kg/m³]": 24.0
-    },
-    {
-      "Name": "ROCKWOOL Mineral-wool insulation (high bulk density range)",
-      "Density [kg/m³]": 24.0
-    },
-    {
-      "Name": "ROCKWOOL Mineral-wool insulation (medium bulk density range)",
-      "Density [kg/m³]": 24.0
-    }
+    "ROCKWOOL Mineral-wool insulation (high bulk density range)",
+    "ROCKWOOL Mineral-wool insulation (low bulk density range)",
+    "ROCKWOOL Mineral-wool insulation (medium bulk density range)"
   ]
 }

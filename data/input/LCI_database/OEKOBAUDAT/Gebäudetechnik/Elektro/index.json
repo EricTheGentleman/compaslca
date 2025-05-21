@@ -3,10 +3,6 @@
   "path": "Gebäudetechnik / Elektro",
   "items": [
     {
-      "name": "Batteriespeicher",
-      "path": "Batteriespeicher/index.json"
-    },
-    {
       "name": "Beleuchtung",
       "path": "Beleuchtung/index.json"
     },
@@ -21,6 +17,10 @@
     {
       "name": "Sicherungs- und Schaltschränke",
       "path": "Sicherungs-_und_Schaltschränke/index.json"
+    },
+    {
+      "name": "Batteriespeicher",
+      "path": "Batteriespeicher/index.json"
     }
   ]
 }

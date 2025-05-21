@@ -1,7 +1,5 @@
 from methods.prompt_builder_category import build_category_prompt
-from methods.prompt_builder_category_ger import build_category_prompt_ger
 from methods.prompt_builder_material import build_material_prompt
-from methods.prompt_builder_material_ger import build_material_prompt_ger
 from openai import OpenAI
 import json
 import re
@@ -11,19 +9,12 @@ import re
 # category llm interface
 def category_inference(bim_element, category_data, mode, config):
 
-    # Get language settings from config and build the prompt for category inference
-    category_prompt_variables = config.get("category_prompt_variables", {})
-    language = category_prompt_variables.get("language")
-
-    if language == "en":
-        prompt = build_category_prompt(bim_element, category_data, mode, config)
-    else:
-        prompt = build_category_prompt_ger(bim_element, category_data, mode, config)
+    prompt = build_category_prompt(bim_element, category_data, mode, config)
 
     # Get model settings metadata for category inference
     category_config = config.get("category_inference_config", {})
     company_category_inference = category_config.get("company")
-    key_category_inference = category_config.get("key")
+    key_category_inference = category_config.get("api_key")
     model_category_inference = category_config.get("model")
     temperature_category_inference = category_config.get("temperature")
     max_tokens_category_inference = category_config.get("max_tokens")
@@ -54,12 +45,12 @@ def category_inference(bim_element, category_data, mode, config):
 def material_inference(bim_element, material_data, mode, config, category=None):
 
     # Build the prompt for material inference
-    prompt = build_material_prompt(bim_element, material_data, mode, config, category)
+    prompt = build_material_prompt(bim_element, material_data, mode, category, config)
 
     # Get model settings metadata for material inference
     material_config = config.get("material_inference_config", {})
     company_material_inference = material_config.get("company")
-    key_material_inference = material_config.get("key")
+    key_material_inference = material_config.get("api_key")
     model_material_inference = material_config.get("model")
     temperature_material_inference = material_config.get("temperature")
     max_tokens_material_inference = material_config.get("max_tokens")

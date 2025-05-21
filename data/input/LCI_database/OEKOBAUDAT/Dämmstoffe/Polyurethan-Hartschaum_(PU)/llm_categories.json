@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "PIR-Hartschaum"
-    },
-    {
-      "name": "PU Blockschaum"
-    },
-    {
-      "name": "PU mit Aluminium"
-    },
-    {
-      "name": "PU mit Mineralvlies"
-    }
+    "PU Blockschaum",
+    "PIR-Hartschaum",
+    "PU mit Aluminium",
+    "PU mit Mineralvlies"
   ]
 }

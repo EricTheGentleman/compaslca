@@ -1,12 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Glued solid timber (German average)",
-      "Density [kg/m³]": 500.36
-    },
-    {
-      "Name": "Laminated wood beam softwood (generic)",
-      "Density [kg/m³]": 515.2
-    }
+    "Glued solid timber (German average)",
+    "Laminated wood beam softwood (generic)"
   ]
 }

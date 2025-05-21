@@ -1,20 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Sand 0/2 (dried)",
-      "Density [kg/m³]": 1350.0
-    },
-    {
-      "Name": "Sand 0/2",
-      "Density [kg/m³]": 1350.0
-    },
-    {
-      "Name": "Gravel 2/32 (dried)",
-      "Density [kg/m³]": 1850.0
-    },
-    {
-      "Name": "Gravel (Grain size 2/32)",
-      "Density [kg/m³]": 1850.0
-    }
+    "Gravel (Grain size 2/32)",
+    "Gravel 2/32 (dried)",
+    "Sand 0/2",
+    "Sand 0/2 (dried)"
   ]
 }

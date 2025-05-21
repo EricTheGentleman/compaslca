@@ -1,20 +1,9 @@
 {
   "Material Options": [
-    {
-      "Name": "Polyfin® 3020 roofing and sealing membranes"
-    },
-    {
-      "Name": "BauderTHERMOPLEX"
-    },
-    {
-      "Name": "TPO/FPO Dach-und Dichtungsbahn",
-      "Density [kg/m³]": 1.505
-    },
-    {
-      "Name": "BauderTHERMOPLAN"
-    },
-    {
-      "Name": "BauderTHERMOFIN"
-    }
+    "BauderTHERMOFIN",
+    "BauderTHERMOPLAN",
+    "BauderTHERMOPLEX",
+    "Polyfin® 3020 roofing and sealing membranes",
+    "TPO/FPO Dach-und Dichtungsbahn"
   ]
 }

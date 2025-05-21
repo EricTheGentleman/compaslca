@@ -3,20 +3,20 @@
   "path": "Metalle / Aluminium",
   "items": [
     {
-      "name": "Aluminiumbleche",
-      "path": "Aluminiumbleche/index.json"
+      "name": "Gussteile aus Aluminium",
+      "path": "Gussteile_aus_Aluminium/index.json"
     },
     {
-      "name": "Aluminiumfolie",
-      "path": "Aluminiumfolie/index.json"
+      "name": "Aluminiumbleche",
+      "path": "Aluminiumbleche/index.json"
     },
     {
       "name": "Aluminiumprofil",
       "path": "Aluminiumprofil/index.json"
     },
     {
-      "name": "Gussteile aus Aluminium",
-      "path": "Gussteile_aus_Aluminium/index.json"
+      "name": "Aluminiumfolie",
+      "path": "Aluminiumfolie/index.json"
     }
   ]
 }

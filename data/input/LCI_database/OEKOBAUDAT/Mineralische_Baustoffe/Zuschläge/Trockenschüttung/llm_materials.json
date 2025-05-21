@@ -1,12 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Dry fill - Cemwood GmbH - Leveling fill CW",
-      "Density [kg/m³]": 320.0
-    },
-    {
-      "Name": "Mineral-modified dry filling material",
-      "Density [kg/m³]": 360.0
-    }
+    "Dry fill - Cemwood GmbH - Leveling fill CW",
+    "Mineral-modified dry filling material"
   ]
 }

@@ -1,8 +1,5 @@
 {
   "Material Options": [
-    {
-      "Name": "Stainless steel sheet",
-      "Density [kg/m³]": 7900.0
-    }
+    "Stainless steel sheet"
   ]
 }

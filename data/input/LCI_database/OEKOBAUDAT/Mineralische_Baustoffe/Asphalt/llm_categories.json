@@ -1,16 +1,8 @@
 {
   "Material Categories": [
-    {
-      "name": "Asphaltbinder"
-    },
-    {
-      "name": "Gussassphalt"
-    },
-    {
-      "name": "Splittmastixasphalt"
-    },
-    {
-      "name": "Tragschichten"
-    }
+    "Asphaltbinder",
+    "Tragschichten",
+    "Gussassphalt",
+    "Splittmastixasphalt"
   ]
 }

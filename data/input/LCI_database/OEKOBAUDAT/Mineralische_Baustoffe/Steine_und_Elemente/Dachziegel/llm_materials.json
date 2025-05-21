@@ -1,11 +1,6 @@
 {
   "Material Options": [
-    {
-      "Name": "Roof tile"
-    },
-    {
-      "Name": "Roofing tiles (including accessories)",
-      "Density [kg/m³]": 2020.0
-    }
+    "Roof tile",
+    "Roofing tiles (including accessories)"
   ]
 }

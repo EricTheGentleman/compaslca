@@ -1,63 +1,22 @@
 {
   "Material Options": [
-    {
-      "Name": "PERFORATED PLASTERBOARD / Tool",
-      "Density [kg/m³]": 680.0
-    },
-    {
-      "Name": "PLASTERBOARD / Tool",
-      "Density [kg/m³]": 680.0
-    },
-    {
-      "Name": "Gypsum fibre board (10 mm)"
-    },
-    {
-      "Name": "Knauf Safeboard GKF"
-    },
-    {
-      "Name": "gypsum fibre board"
-    },
-    {
-      "Name": "Hartgipsplatte EN / Tool"
-    },
-    {
-      "Name": "IMPREGNATED PLASTERBOARD / Tool",
-      "Density [kg/m³]": 680.0
-    },
-    {
-      "Name": "Gypsum plaster board (fire protection, 12.5 mm)"
-    },
-    {
-      "Name": "Massive gypsum blocks according to DIN EN 12859 / Tool",
-      "Density [kg/m³]": 850.0
-    },
-    {
-      "Name": "Knauf GIFAfloor DB 36 green"
-    },
-    {
-      "Name": "GRG board EN / Tool"
-    },
-    {
-      "Name": "Gypsum wallboard (100 mm)"
-    },
-    {
-      "Name": "Knauf GIFAfloor DB 40 green"
-    },
-    {
-      "Name": "Knauf Silentboard GKF"
-    },
-    {
-      "Name": "Gypsum plaster board (impregnated, 12.5 mm)"
-    },
-    {
-      "Name": "Knauf GIFAfloor DB 30 green"
-    },
-    {
-      "Name": "Gypsum plaster board (perforated, 12.5 mm)"
-    },
-    {
-      "Name": "FIRE-RESISTANT PLASTERBOARD / Tool",
-      "Density [kg/m³]": 800.0
-    }
+    "FIRE-RESISTANT PLASTERBOARD / Tool",
+    "GRG board EN / Tool",
+    "Gypsum fibre board (10 mm)",
+    "Gypsum plaster board (fire protection, 12.5 mm)",
+    "Gypsum plaster board (impregnated, 12.5 mm)",
+    "Gypsum plaster board (perforated, 12.5 mm)",
+    "Gypsum wallboard (100 mm)",
+    "Hartgipsplatte EN / Tool",
+    "IMPREGNATED PLASTERBOARD / Tool",
+    "Knauf GIFAfloor DB 30 green",
+    "Knauf GIFAfloor DB 36 green",
+    "Knauf GIFAfloor DB 40 green",
+    "Knauf Safeboard GKF",
+    "Knauf Silentboard GKF",
+    "Massive gypsum blocks according to DIN EN 12859 / Tool",
+    "PERFORATED PLASTERBOARD / Tool",
+    "PLASTERBOARD / Tool",
+    "gypsum fibre board"
   ]
 }

@@ -1,52 +1,16 @@
 {
   "Material Options": [
-    {
-      "Name": "Masonry Mortar - Thin-bed Mortar/Mortar With Special Properties",
-      "Density [kg/m³]": 1300.0
-    },
-    {
-      "Name": "Cement mortar: RENOVA TIXO, T LIVEL MAX, RENOVA FLUID, GUNITASS, TRAV, FORTE BETON, T FLASH COR, BETONTASS, T POWER, FUGASASS",
-      "Density [kg/m³]": 1955.0
-    },
-    {
-      "Name": "NHL injection mortar: FORTE FLUID, DUOMO FLUID",
-      "Density [kg/m³]": 1725.0
-    },
-    {
-      "Name": "NHL mortar: CALCE SETA, OPUS COCCIO, FORTE RASO, PAVI COCCIO, DOMUS PAN",
-      "Density [kg/m³]": 1735.0
-    },
-    {
-      "Name": "NHL light mortar: DRY SOFT, ARMIS BFLUID CONNECT",
-      "Density [kg/m³]": 1700.0
-    },
-    {
-      "Name": "StoLevell Evo",
-      "Density [kg/m³]": 1600.0
-    },
-    {
-      "Name": "NHL heavy mortar: T A01, T A02, T A04, T A FIBRO, DUOMO RINOVA, OPUS RIN, T 20V, FORTE CALCE, COCCIO VIVO, CALCE FINE, CALCE MEDIA, CALCE DILAVATO, ECO BUILD, OPUS, OPUS MEC, NURAGHE, DUOMO, DRY RIN, DRY IDRO, PAVI ECO, ÖKOFAST",
-      "Density [kg/m³]": 1910.0
-    },
-    {
-      "Name": "Cement mortar",
-      "Density [kg/m³]": 2000.0
-    },
-    {
-      "Name": "Waterproof NHL mortar: NURAGHE RASO",
-      "Density [kg/m³]": 1500.0
-    },
-    {
-      "Name": "Lime cement mortar",
-      "Density [kg/m³]": 1800.0
-    },
-    {
-      "Name": "Heavy cement mortar: PAVI RAPID, PAVI RAPID LOW, PAVI PRONTO, T BLOCK, T SPAN, T CREAM, PAVI TEKNO, DRAINMASS, BETONTASS DE",
-      "Density [kg/m³]": 1865.0
-    },
-    {
-      "Name": "Masonry Mortar - Standard Masonry Mortar",
-      "Density [kg/m³]": 1500.0
-    }
+    "Cement mortar",
+    "Cement mortar: RENOVA TIXO, T LIVEL MAX, RENOVA FLUID, GUNITASS, TRAV, FORTE BETON, T FLASH COR, BETONTASS, T POWER, FUGASASS",
+    "Heavy cement mortar: PAVI RAPID, PAVI RAPID LOW, PAVI PRONTO, T BLOCK, T SPAN, T CREAM, PAVI TEKNO, DRAINMASS, BETONTASS DE",
+    "Lime cement mortar",
+    "Masonry Mortar - Standard Masonry Mortar",
+    "Masonry Mortar - Thin-bed Mortar/Mortar With Special Properties",
+    "NHL heavy mortar: T A01, T A02, T A04, T A FIBRO, DUOMO RINOVA, OPUS RIN, T 20V, FORTE CALCE, COCCIO VIVO, CALCE FINE, CALCE MEDIA, CALCE DILAVATO, ECO BUILD, OPUS, OPUS MEC, NURAGHE, DUOMO, DRY RIN, DRY IDRO, PAVI ECO, ÖKOFAST",
+    "NHL injection mortar: FORTE FLUID, DUOMO FLUID",
+    "NHL light mortar: DRY SOFT, ARMIS BFLUID CONNECT",
+    "NHL mortar: CALCE SETA, OPUS COCCIO, FORTE RASO, PAVI COCCIO, DOMUS PAN",
+    "StoLevell Evo",
+    "Waterproof NHL mortar: NURAGHE RASO"
   ]
 }

@@ -7,16 +7,16 @@
       "path": "Asphaltbinder/index.json"
     },
     {
+      "name": "Tragschichten",
+      "path": "Tragschichten/index.json"
+    },
+    {
       "name": "Gussassphalt",
       "path": "Gussassphalt/index.json"
     },
     {
       "name": "Splittmastixasphalt",
       "path": "Splittmastixasphalt/index.json"
-    },
-    {
-      "name": "Tragschichten",
-      "path": "Tragschichten/index.json"
     }
   ]
 }

@@ -7,16 +7,16 @@
       "path": "Gips/index.json"
     },
     {
+      "name": "Zement",
+      "path": "Zement/index.json"
+    },
+    {
       "name": "Kalk",
       "path": "Kalk/index.json"
     },
     {
       "name": "Lehm",
       "path": "Lehm/index.json"
-    },
-    {
-      "name": "Zement",
-      "path": "Zement/index.json"
     }
   ]
 }

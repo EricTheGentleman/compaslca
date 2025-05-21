@@ -1,37 +1,13 @@
 {
   "Material Options": [
-    {
-      "Name": "Plastic profile SBR",
-      "Density [kg/m³]": 400.0
-    },
-    {
-      "Name": "Plastic profile CR (chloroprene-rubber)"
-    },
-    {
-      "Name": "Plastic profile EPDM",
-      "Density [kg/m³]": 400.0
-    },
-    {
-      "Name": "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPP molded part",
-      "Density [kg/m³]": 150.0
-    },
-    {
-      "Name": "Plastic profile silicone"
-    },
-    {
-      "Name": "6.4.02. Polypropylene plastic profile with glass fibre components"
-    },
-    {
-      "Name": "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPS molded part",
-      "Density [kg/m³]": 70.0
-    },
-    {
-      "Name": "Injection moulded polypropylene products",
-      "Density [kg/m³]": 0.9
-    },
-    {
-      "Name": "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPE molded part",
-      "Density [kg/m³]": 70.0
-    }
+    "6.4.02. Polypropylene plastic profile with glass fibre components",
+    "Injection moulded polypropylene products",
+    "Plastic profile CR (chloroprene-rubber)",
+    "Plastic profile EPDM",
+    "Plastic profile SBR",
+    "Plastic profile silicone",
+    "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPE molded part",
+    "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPP molded part",
+    "semi-finished products - Kunststoffwerke Katzbach GmbH & Co. KG - EPS molded part"
   ]
 }

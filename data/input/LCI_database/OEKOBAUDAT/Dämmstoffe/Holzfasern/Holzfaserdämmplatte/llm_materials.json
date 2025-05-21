@@ -1,35 +1,9 @@
 {
   "Material Options": [
-    {
-      "Name": "best wood wood fibre insulation boards",
-      "Density [kg/m³]": 160.0
-    },
-    {
-      "Name": "2.10.01 Loose wood-fiber insulation",
-      "Density [kg/m³]": 70.0
-    },
-    {
-      "Name": "Wood fiber insulation - dry process (German average)",
-      "Density [kg/m³]": 162.337528085062
-    },
-    {
-      "Name": "Wood fiber insulation - dry process (German average)"
-    },
-    {
-      "Name": "PAVATEX Dry process wood fibre insulation 110-200 kg/m³",
-      "Density [kg/m³]": 200.0
-    },
-    {
-      "Name": "best wood wood fibre insulation boards",
-      "Density [kg/m³]": 160.0
-    },
-    {
-      "Name": "Wood fibre board (wet process)",
-      "Density [kg/m³]": 160.0
-    },
-    {
-      "Name": "Wood fiber insulation - dry process (German average)",
-      "Density [kg/m³]": 50.0
-    }
+    "2.10.01 Loose wood-fiber insulation",
+    "PAVATEX Dry process wood fibre insulation 110-200 kg/m³",
+    "Wood fiber insulation - dry process (German average)",
+    "Wood fibre board (wet process)",
+    "best wood wood fibre insulation boards"
   ]
 }

@@ -3,20 +3,16 @@
   "path": "Kunststoffe / Folien und Vliese",
   "items": [
     {
-      "name": "Baupappen",
-      "path": "Baupappen/index.json"
-    },
-    {
-      "name": "Dampfbremse",
-      "path": "Dampfbremse/index.json"
+      "name": "Technische Textilien",
+      "path": "Technische_Textilien/index.json"
     },
     {
       "name": "Folien zur Abdichtung",
       "path": "Folien_zur_Abdichtung/index.json"
     },
     {
-      "name": "Technische Textilien",
-      "path": "Technische_Textilien/index.json"
+      "name": "Dampfbremse",
+      "path": "Dampfbremse/index.json"
     },
     {
       "name": "Unterspannbahn",
@@ -25,6 +21,10 @@
     {
       "name": "Vliese",
       "path": "Vliese/index.json"
+    },
+    {
+      "name": "Baupappen",
+      "path": "Baupappen/index.json"
     }
   ]
 }

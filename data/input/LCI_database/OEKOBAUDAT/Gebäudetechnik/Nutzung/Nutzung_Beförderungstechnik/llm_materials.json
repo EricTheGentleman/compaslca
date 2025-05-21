@@ -1,16 +1,8 @@
 {
   "Material Options": [
-    {
-      "Name": "Usage - elevator high usage (400.000 rides/a)"
-    },
-    {
-      "Name": "Usage - elevator low usage (100.000 rides/a)"
-    },
-    {
-      "Name": "Kerberos Tripod Barrier-E01"
-    },
-    {
-      "Name": "Usage - elevator average usage (200.000 rides/a)"
-    }
+    "Kerberos Tripod Barrier-E01",
+    "Usage - elevator average usage (200.000 rides/a)",
+    "Usage - elevator high usage (400.000 rides/a)",
+    "Usage - elevator low usage (100.000 rides/a)"
   ]
 }

@@ -1,39 +1,13 @@
 {
   "Material Options": [
-    {
-      "Name": "Aluminum slugs",
-      "Density [kg/m³]": 2699.0
-    },
-    {
-      "Name": "Semi-finished products in the form of bars, tubes and profiles (unprocessed)",
-      "Density [kg/m³]": 2699.0
-    },
-    {
-      "Name": "Aluminium extrusion billets",
-      "Density [kg/m³]": 2700.0
-    },
-    {
-      "Name": "Components (profiles processed)",
-      "Density [kg/m³]": 2699.0
-    },
-    {
-      "Name": "connecting technology - Viega - PureFlow Press"
-    },
-    {
-      "Name": "Aluminium billets",
-      "Density [kg/m³]": 2700.0
-    },
-    {
-      "Name": "4.3.03 Aluminium die-cast parts",
-      "Density [kg/m³]": 2700.0
-    },
-    {
-      "Name": "Forging stock",
-      "Density [kg/m³]": 2699.0
-    },
-    {
-      "Name": "Aluminum slugs from circuit boards",
-      "Density [kg/m³]": 2699.0
-    }
+    "4.3.03 Aluminium die-cast parts",
+    "Aluminium billets",
+    "Aluminium extrusion billets",
+    "Aluminum slugs",
+    "Aluminum slugs from circuit boards",
+    "Components (profiles processed)",
+    "Forging stock",
+    "Semi-finished products in the form of bars, tubes and profiles (unprocessed)",
+    "connecting technology - Viega - PureFlow Press"
   ]
 }

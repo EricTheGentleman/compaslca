@@ -1,13 +1,7 @@
 {
   "Material Options": [
-    {
-      "Name": "Exterior door - VFF - PVC exterior door with light cut-out"
-    },
-    {
-      "Name": "Door - Hörmann KG Brockhagen - Industrial sectional doors in polyurethane"
-    },
-    {
-      "Name": "Exterior door - VFF - PVC exterior door without light cut-out"
-    }
+    "Door - Hörmann KG Brockhagen - Industrial sectional doors in polyurethane",
+    "Exterior door - VFF - PVC exterior door with light cut-out",
+    "Exterior door - VFF - PVC exterior door without light cut-out"
   ]
 }

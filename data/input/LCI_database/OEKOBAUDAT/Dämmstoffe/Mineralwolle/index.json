@@ -3,12 +3,12 @@
   "path": "Dämmstoffe / Mineralwolle",
   "items": [
     {
-      "name": "Glaswolle",
-      "path": "Glaswolle/index.json"
-    },
-    {
       "name": "Mineralwolle",
       "path": "Mineralwolle/index.json"
+    },
+    {
+      "name": "Glaswolle",
+      "path": "Glaswolle/index.json"
     },
     {
       "name": "Steinwolle",

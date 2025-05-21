@@ -3,32 +3,32 @@
   "path": "Kunststoffe",
   "items": [
     {
-      "name": "Bodenbeläge",
-      "path": "Bodenbeläge/index.json"
-    },
-    {
-      "name": "Dachbahnen",
-      "path": "Dachbahnen/index.json"
-    },
-    {
-      "name": "Dichtmassen",
-      "path": "Dichtmassen/index.json"
-    },
-    {
       "name": "Folien und Vliese",
       "path": "Folien_und_Vliese/index.json"
     },
     {
-      "name": "Kunststoffprofile elastisch",
-      "path": "Kunststoffprofile_elastisch/index.json"
+      "name": "Bodenbeläge",
+      "path": "Bodenbeläge/index.json"
     },
     {
       "name": "Profile",
       "path": "Profile/index.json"
     },
     {
+      "name": "Dichtmassen",
+      "path": "Dichtmassen/index.json"
+    },
+    {
       "name": "Rohre",
       "path": "Rohre/index.json"
+    },
+    {
+      "name": "Dachbahnen",
+      "path": "Dachbahnen/index.json"
+    },
+    {
+      "name": "Kunststoffprofile elastisch",
+      "path": "Kunststoffprofile_elastisch/index.json"
     }
   ]
 }

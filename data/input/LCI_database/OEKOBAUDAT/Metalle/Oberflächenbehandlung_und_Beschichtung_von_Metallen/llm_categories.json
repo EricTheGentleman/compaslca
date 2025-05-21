@@ -1,13 +1,7 @@
 {
   "Material Categories": [
-    {
-      "name": "(Nass-) Lackieren von Metallen"
-    },
-    {
-      "name": "Anodisieren von Aluminium"
-    },
-    {
-      "name": "Pulverbeschichten"
-    }
+    "Anodisieren von Aluminium",
+    "(Nass-) Lackieren von Metallen",
+    "Pulverbeschichten"
   ]
 }

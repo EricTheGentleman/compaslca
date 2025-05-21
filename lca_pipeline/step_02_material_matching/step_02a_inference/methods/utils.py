@@ -29,61 +29,6 @@ def create_inference_folders(input_dir, output_dir):
         element_folder_path = os.path.join(output_dir, element_id)
         os.makedirs(element_folder_path, exist_ok=True)
 
-# This method simplifies the index.json lists into simple LLM-friendly lists of category/material choices.
-def simplify_lci_lists(base_dir, include_density=False):
-    processed_paths = []
-
-    for root, dirs, files in os.walk(base_dir):
-        if "index.json" not in files:
-            continue
-
-        index_path = os.path.join(root, "index.json")
-        try:
-            with open(index_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-        except Exception as e:
-            continue
-
-        index_type = data.get("type")
-        items = data.get("items", [])
-
-        if index_type == "materials":
-            
-            # OpenAI's models maximum context length is 8192 tokens
-            # By hardcoding a maximum of available materials, this breaking point is prevented
-            MAX_MATERIALS = 40
-
-            material_entries = []
-            for item in items:
-                name = item.get("Name")
-                if not name:
-                    continue
-                entry = {"Name": name}
-                if include_density:
-                    density = item.get("Density (kg/m3)")
-                    if density:
-                        try:
-                            entry["Density [kg/m³]"] = float(density)
-                        except ValueError:
-                            entry["Density [kg/m³]"] = density
-                material_entries.append(entry)
-
-            llm_data = {"Material Options": material_entries[:MAX_MATERIALS]}
-            output_path = os.path.join(root, "llm_materials.json")
-            with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(llm_data, f, indent=2, ensure_ascii=False)
-            processed_paths.append(output_path)
-
-        elif index_type in ("categories", "mixed"):
-            category_entries = [{"name": item.get("name")} for item in items if "name" in item]
-            llm_data = {"Material Categories": category_entries}
-            output_path = os.path.join(root, "llm_categories.json")
-            with open(output_path, 'w', encoding='utf-8') as f:
-                json.dump(llm_data, f, indent=2, ensure_ascii=False)
-            processed_paths.append(output_path)
-
-    return processed_paths
-
 
 
 # Extracts a simplified, Pythonic list of material categories
@@ -104,9 +49,6 @@ def simplify_category_list(category_index_path):
         json.dump({"categories": category_names}, f, indent=2, ensure_ascii=False)
 
     return category_names
-
-
-
 
 # Recursively traverses the material database and returns/writes a flat list of material names
 def simplify_material_lists(base_dir):
@@ -133,6 +75,7 @@ def simplify_material_lists(base_dir):
         ]
 
         material_names = sorted(set(material_names), key=str.casefold)
+        material_names = material_names[:40] # Limit to 40 such that token limit not exceeded
 
         try:
             with open(output_path, 'w', encoding='utf-8') as out_f:
@@ -150,7 +93,7 @@ def simplify_material_lists_density(base_dir):
     processed_paths = []
 
     for root, dirs, files in os.walk(base_dir):
-        # Skip folders that contain other subfolders — we only process leaf folders
+        # Skip folders that contain other subfolders — only process leaf folders
         if dirs:
             continue
         if "index.json" not in files:
@@ -177,6 +120,7 @@ def simplify_material_lists_density(base_dir):
                 except ValueError:
                     entry["Density [kg/m³]"] = density
             material_entries.append(entry)
+        material_entries = material_entries[:30] # Limit to 30 such that token limit not exceeded, less than without density (since more tokens)
         llm_data = {"Material Options": material_entries}
         try:
             with open(llm_output_path, 'w', encoding='utf-8') as out_f:
@@ -184,4 +128,61 @@ def simplify_material_lists_density(base_dir):
             processed_paths.append(root)
         except Exception:
             pass
+    return processed_paths
+
+
+
+
+def simplify_lci_lists_oekobaudat(base_dir, include_density=False):
+    processed_paths = []
+
+    for root, dirs, files in os.walk(base_dir):
+        if "index.json" not in files:
+            continue
+
+        index_path = os.path.join(root, "index.json")
+        try:
+            with open(index_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        except Exception:
+            continue
+
+        index_type = data.get("type")
+        items = data.get("items", [])
+
+        if index_type == "materials":
+            MAX_MATERIALS = 40 if not include_density else 30
+
+            material_entries = []
+            for item in items:
+                name = item.get("Name")
+                if not name:
+                    continue
+
+                if include_density:
+                    entry = {"Name": name}
+                    density = item.get("Density (kg/m3)")
+                    if density:
+                        try:
+                            entry["Density [kg/m³]"] = float(density)
+                        except ValueError:
+                            entry["Density [kg/m³]"] = density
+                    material_entries.append(entry)
+                else:
+                    material_entries.append(name)
+
+            llm_data = {"Material Options": material_entries[:MAX_MATERIALS]}
+            output_path = os.path.join(root, "llm_materials.json")
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(llm_data, f, indent=2, ensure_ascii=False)
+            processed_paths.append(output_path)
+
+        elif index_type in ("categories", "mixed"):
+            category_entries = [item["name"] for item in items if "name" in item]
+            llm_data = {"Material Categories": category_entries}
+            output_path = os.path.join(root, "llm_categories.json")
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(llm_data, f, indent=2, ensure_ascii=False)
+            processed_paths.append(output_path)
+
     return processed_paths

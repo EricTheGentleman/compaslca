@@ -3,20 +3,20 @@
   "path": "Komponenten von Fenstern und Vorhangfassaden / Türen und Tore",
   "items": [
     {
-      "name": "Aluminium",
-      "path": "Aluminium/index.json"
+      "name": "Stahl",
+      "path": "Stahl/index.json"
     },
     {
       "name": "Holz",
       "path": "Holz/index.json"
     },
     {
-      "name": "Kunststoff",
-      "path": "Kunststoff/index.json"
+      "name": "Aluminium",
+      "path": "Aluminium/index.json"
     },
     {
-      "name": "Stahl",
-      "path": "Stahl/index.json"
+      "name": "Kunststoff",
+      "path": "Kunststoff/index.json"
     }
   ]
 }

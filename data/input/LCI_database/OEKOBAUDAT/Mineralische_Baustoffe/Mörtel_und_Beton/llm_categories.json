@@ -1,22 +1,10 @@
 {
   "Material Categories": [
-    {
-      "name": "Beton"
-    },
-    {
-      "name": "Betonzusatzmittel"
-    },
-    {
-      "name": "Estrich trocken"
-    },
-    {
-      "name": "Kleber und Klebemörtel"
-    },
-    {
-      "name": "Mauermörtel"
-    },
-    {
-      "name": "Putz und Putzmörtel"
-    }
+    "Kleber und Klebemörtel",
+    "Putz und Putzmörtel",
+    "Beton",
+    "Estrich trocken",
+    "Mauermörtel",
+    "Betonzusatzmittel"
   ]
 }

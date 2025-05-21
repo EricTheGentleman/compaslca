@@ -1,19 +1,9 @@
 {
   "Material Categories": [
-    {
-      "name": "Balkenschichtholz (Duo-Triobalken)"
-    },
-    {
-      "name": "Bau-Schnittholz"
-    },
-    {
-      "name": "Brettschichtholz (BSH)"
-    },
-    {
-      "name": "Brettschichtholzplatte"
-    },
-    {
-      "name": "Konstruktionsvollholz"
-    }
+    "Bau-Schnittholz",
+    "Brettschichtholzplatte",
+    "Konstruktionsvollholz",
+    "Brettschichtholz (BSH)",
+    "Balkenschichtholz (Duo-Triobalken)"
   ]
 }

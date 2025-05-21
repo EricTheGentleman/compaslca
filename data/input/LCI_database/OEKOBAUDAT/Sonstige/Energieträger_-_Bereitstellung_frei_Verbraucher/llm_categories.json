@@ -1,31 +1,13 @@
 {
   "Material Categories": [
-    {
-      "name": "Biogas"
-    },
-    {
-      "name": "Erdgas"
-    },
-    {
-      "name": "Fernwärme"
-    },
-    {
-      "name": "Flüssiggas"
-    },
-    {
-      "name": "Heizöl"
-    },
-    {
-      "name": "Holz-Pellets"
-    },
-    {
-      "name": "Pflanzenölkraftstoff"
-    },
-    {
-      "name": "Strom"
-    },
-    {
-      "name": "Trinkwasser"
-    }
+    "Biogas",
+    "Fernwärme",
+    "Trinkwasser",
+    "Strom",
+    "Heizöl",
+    "Flüssiggas",
+    "Erdgas",
+    "Pflanzenölkraftstoff",
+    "Holz-Pellets"
   ]
 }
