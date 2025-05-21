@@ -7,7 +7,8 @@
       "Name": "Silicone-based products, group 2"
     },
     {
-      "Name": "Silicone sealing compound"
+      "Name": "Silicone sealing compound",
+      "Density [kg/m³]": 1100.0
     },
     {
       "Name": "Silicone-based products, group 1"

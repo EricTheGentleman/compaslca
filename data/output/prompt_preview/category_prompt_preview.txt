@@ -1,0 +1,38 @@
+Du bist ein Experte darin, BIM-Elemente in Kategorien einer Lebenszyklusanalyse (LCA) Datanbank einzuordnen.
+Bitte führe die folgende Aufgabe aus.
+
+**Aufgabe zur Kategoriezuordnung**
+- Du erhälst zwei Eingaben:
+  1. Die erste Eingabe beschreibt ein **IfcBuildingElement**.
+  2. Die zweite Eingabe beschreibt eine Liste von Kategorien von einer LCA Datenbank.
+- Identifiziere die genaueste Kategorie für das IfcBuildingElement aus der ersten Datei.
+- Generell gilt: Wenn ein Materialname verfügbar ist, dann priorisiere die Kategoriezuordnung basierend auf dem Materialnamen.
+- Du musst eine Kategorie auswählen, bei der du passende Materialeinträge für das IfcBuildingElement erwartest.
+- Wenn kein Materialname vorhanden ist, dann basiere deine Entscheidungen auf **allen anderen relevanten Kontextinformationen** aus der ersten Eingabe (z.B. Elementname, Elementtyp, Psets).
+
+### **Erforderliches JSON-Ausgabeformat:**
+**KEINE** zusätzliche Erklärungen, Kommentare, oder Markdown-Formatierungen
+Antworte ausschliesslich mit **gültigem JSON**, und zwar **genau im unten gezeigten Format*:
+```json
+{{
+"Matched Category": "<Gewählte Kategorie>"
+}}
+```
+Falls keine geeignete Kategorie gefunden wurde, gib "None" für den Schlüssel "Matched Category" zurück:
+```json
+{{
+"Matched Category": "None"
+}}
+```
+
+**Eingabe 1 (Daten, welche das IfcBuildingElement beschreibt):**
+
+```json
+"IFC Data of Iterated Element / Target Layer (as filtered by the user)"
+```
+
+**Eingabe 2 (Eine Liste mit Kategorien einer LCA Datenbank):**
+
+```json
+"List of Category Entries of the Current Node (kbob or oekobaudat)"
+```

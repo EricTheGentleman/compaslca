@@ -10,7 +10,8 @@
       "Name": "Jumpax® Top"
     },
     {
-      "Name": "Amorim Wise Cork Pure UV"
+      "Name": "Amorim Wise Cork Pure UV",
+      "Density [kg/m³]": 542.0
     },
     {
       "Name": "Jumpax® Nature"
@@ -25,19 +26,23 @@
       "Name": "Admonter solid timber multi-layer products"
     },
     {
-      "Name": "DISANO design floor"
+      "Name": "DISANO design floor",
+      "Density [kg/m³]": 905.0
     },
     {
-      "Name": "Modular ONE design flooring"
+      "Name": "Modular ONE design flooring",
+      "Density [kg/m³]": 777.5
     },
     {
       "Name": "Jumpax® Classic"
     },
     {
-      "Name": "Amorim Wise Cork Pure PU PF"
+      "Name": "Amorim Wise Cork Pure PU PF",
+      "Density [kg/m³]": 525.0
     },
     {
-      "Name": "EGGER Comfort Flooring"
+      "Name": "EGGER Comfort Flooring",
+      "Density [kg/m³]": 7.82
     },
     {
       "Name": "Jumpax® Strong"
@@ -49,16 +54,20 @@
       "Name": "Marathon Premium®"
     },
     {
-      "Name": "Lindura® wood flooring"
+      "Name": "Lindura® wood flooring",
+      "Density [kg/m³]": 946.0
     },
     {
-      "Name": "Veneered, wood flooring with HDF carrier (10 mm)"
+      "Name": "Veneered, wood flooring with HDF carrier (10 mm)",
+      "Density [kg/m³]": 850.0
     },
     {
-      "Name": "EGGER Design Flooring"
+      "Name": "EGGER Design Flooring",
+      "Density [kg/m³]": 6.85
     },
     {
-      "Name": "Veneered, wood flooring with HDF carrier and cork backing (10-12 mm)"
+      "Name": "Veneered, wood flooring with HDF carrier and cork backing (10-12 mm)",
+      "Density [kg/m³]": 850.0
     }
   ]
 }

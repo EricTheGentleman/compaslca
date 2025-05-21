@@ -1,10 +1,12 @@
 {
   "Material Options": [
     {
-      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH - Tile wall panel with galvanized support panel"
+      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH - Tile wall panel with galvanized support panel",
+      "Density [kg/m³]": 2880.48
     },
     {
-      "Name": "PROMATECT®-100 / PROMATECT®-200 / PROMATECT®-250 / PROMAXON® Typ A"
+      "Name": "PROMATECT®-100 / PROMATECT®-200 / PROMATECT®-250 / PROMAXON® Typ A",
+      "Density [kg/m³]": 854.0
     },
     {
       "Name": "Soft Cells Tracks 25mm (aluminium frame)"
@@ -13,28 +15,34 @@
       "Name": "Wall system - HT Labor + Hospitaltechnik GmbH - Steel sheet wall panel, galvanized, powder-coated"
     },
     {
-      "Name": "PROMATECT®-L / PROMATECT®-L500 / PROMATECT®-AD / VERMICULUX-S"
+      "Name": "PROMATECT®-L / PROMATECT®-L500 / PROMATECT®-AD / VERMICULUX-S",
+      "Density [kg/m³]": 490.0
     },
     {
       "Name": "PURE Sonos"
     },
     {
-      "Name": "Fundermax m.look high pressure laminate panels"
+      "Name": "Fundermax m.look high pressure laminate panels",
+      "Density [kg/m³]": 1800.0
     },
     {
       "Name": "KSC Broadline"
     },
     {
-      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH -Steel sheet wall panel, galvanized, coated with foil"
+      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH -Steel sheet wall panel, galvanized, coated with foil",
+      "Density [kg/m³]": 3237.17
     },
     {
-      "Name": "PROMATECT®-LS"
+      "Name": "PROMATECT®-LS",
+      "Density [kg/m³]": 502.0
     },
     {
-      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH - Glass wall panel with galvanized support panel"
+      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH - Glass wall panel with galvanized support panel",
+      "Density [kg/m³]": 2946.18
     },
     {
-      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH - Stainless steel wall panel"
+      "Name": "Wall system - HT Labor + Hospitaltechnik GmbH - Stainless steel wall panel",
+      "Density [kg/m³]": 3237.17
     }
   ]
 }

@@ -1,13 +1,15 @@
 {
   "Material Options": [
     {
-      "Name": "FiAM Plus"
+      "Name": "FiAM Plus",
+      "Density [kg/m³]": 1.68
     },
     {
       "Name": "Acrylate sealing compound"
     },
     {
-      "Name": "FFB-ES Plus"
+      "Name": "FFB-ES Plus",
+      "Density [kg/m³]": 1.57
     }
   ]
 }

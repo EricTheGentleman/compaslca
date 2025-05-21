@@ -79,7 +79,8 @@
       "Name": "Door - Teckentrup GmbH & Co. KG - Multifunctional doors"
     },
     {
-      "Name": "Medallion Door"
+      "Name": "Medallion Door",
+      "Density [kg/m³]": 1.0
     },
     {
       "Name": "Tubular frame door - Hörmann Legnica - Fire door"
@@ -88,7 +89,8 @@
       "Name": "Crane Manual Revolving Door - SS 2000/3000"
     },
     {
-      "Name": "Kentaur"
+      "Name": "Kentaur",
+      "Density [kg/m³]": 418.4
     },
     {
       "Name": "Door - EFAFLEX Tor- und Sicherheitssysteme GmbH & Co. KG - High-speed spiral door steel"

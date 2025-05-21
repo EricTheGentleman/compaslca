@@ -1,28 +1,34 @@
 {
   "Material Options": [
     {
-      "Name": "QuadCore insulating panels (ems-isolier QuadCore EM and KS EM QuadCore)"
+      "Name": "QuadCore insulating panels (ems-isolier QuadCore EM and KS EM QuadCore)",
+      "Density [kg/m³]": 38.0
     },
     {
-      "Name": "Duripanel A2"
+      "Name": "Duripanel A2",
+      "Density [kg/m³]": 1373.0
     },
     {
-      "Name": "QuadCore insulating panels (ems-isolier QuadCore EMV and KS AWP-C)"
+      "Name": "QuadCore insulating panels (ems-isolier QuadCore EMV and KS AWP-C)",
+      "Density [kg/m³]": 38.0
     },
     {
-      "Name": "StoVentec Carrier Board S"
+      "Name": "StoVentec Carrier Board S",
+      "Density [kg/m³]": 535.0
     },
     {
       "Name": "StoVentec Glass A"
     },
     {
-      "Name": "Duripanel B1"
+      "Name": "Duripanel B1",
+      "Density [kg/m³]": 1263.0
     },
     {
       "Name": "Texlon®-System"
     },
     {
-      "Name": "AQUAPANEL® Cement Board Outdoor - Site Volos"
+      "Name": "AQUAPANEL® Cement Board Outdoor - Site Volos",
+      "Density [kg/m³]": 1150.0
     }
   ]
 }

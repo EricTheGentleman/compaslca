@@ -4,7 +4,8 @@
       "Name": "Roof tile"
     },
     {
-      "Name": "Roofing tiles (including accessories)"
+      "Name": "Roofing tiles (including accessories)",
+      "Density [kg/m³]": 2020.0
     }
   ]
 }

@@ -37,7 +37,8 @@
       "Name": "ACETube®"
     },
     {
-      "Name": "Polytetrafluoroethylene foil (PTFE)"
+      "Name": "Polytetrafluoroethylene foil (PTFE)",
+      "Density [kg/m³]": 2200.0
     },
     {
       "Name": "EnkaDrain® and Enka®Break"
@@ -49,7 +50,8 @@
       "Name": "Tensar® TriAx® geogrid ? TX5"
     },
     {
-      "Name": "VOTEC PP Geosynthetics Vlies"
+      "Name": "VOTEC PP Geosynthetics Vlies",
+      "Density [kg/m³]": 1.0
     },
     {
       "Name": "ACEMat?"

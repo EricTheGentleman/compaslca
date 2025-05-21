@@ -1,19 +1,23 @@
 {
   "Material Options": [
     {
-      "Name": "PURAPRESS® & PURAFIT®, Lead Free Silicon Bronze Fittings (SANHA GmbH)"
+      "Name": "PURAPRESS® & PURAFIT®, Lead Free Silicon Bronze Fittings (SANHA GmbH)",
+      "Density [kg/m³]": 9000.0
     },
     {
       "Name": "Connecting technology - Viega GmbH & Co. KG - Profipress/ProPress"
     },
     {
-      "Name": "SANCO-tube semi hard"
+      "Name": "SANCO-tube semi hard",
+      "Density [kg/m³]": 8940.0
     },
     {
-      "Name": "Copper tubes"
+      "Name": "Copper tubes",
+      "Density [kg/m³]": 8940.0
     },
     {
-      "Name": "SANHA®-Press | Copper Press Fittings"
+      "Name": "SANHA®-Press | Copper Press Fittings",
+      "Density [kg/m³]": 8940.0
     }
   ]
 }

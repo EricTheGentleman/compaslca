@@ -1,22 +1,28 @@
 {
   "Material Options": [
     {
-      "Name": "Structural finger jointed solid timber"
+      "Name": "Structural finger jointed solid timber",
+      "Density [kg/m³]": 465.0
     },
     {
-      "Name": "Solid construction timber (generic, 15% moisture / 13% H2O content)"
+      "Name": "Solid construction timber (generic, 15% moisture / 13% H2O content)",
+      "Density [kg/m³]": 529.0
     },
     {
-      "Name": "Structural finger jointed solid timber & GLT® ? Girder Longitudinally Tensiletested"
+      "Name": "Structural finger jointed solid timber & GLT® ? Girder Longitudinally Tensiletested",
+      "Density [kg/m³]": 470.0
     },
     {
-      "Name": "KVH structural timber (German average)"
+      "Name": "KVH structural timber (German average)",
+      "Density [kg/m³]": 492.92
     },
     {
-      "Name": "Cross-laminated timber"
+      "Name": "Cross-laminated timber",
+      "Density [kg/m³]": 470.0
     },
     {
-      "Name": "holzius ? solid wood slab elements"
+      "Name": "holzius ? solid wood slab elements",
+      "Density [kg/m³]": 495.0
     }
   ]
 }

@@ -7,19 +7,24 @@
       "Name": "Strip parquet (generic)"
     },
     {
-      "Name": "Multi-layered engineered wood flooring"
+      "Name": "Multi-layered engineered wood flooring",
+      "Density [kg/m³]": 539.0
     },
     {
-      "Name": "Multi-layer parquet"
+      "Name": "Multi-layer parquet",
+      "Density [kg/m³]": 410.0
     },
     {
-      "Name": "Longlife parquet"
+      "Name": "Longlife parquet",
+      "Density [kg/m³]": 500.0
     },
     {
-      "Name": "Solid wood parquet (German average)"
+      "Name": "Solid wood parquet (German average)",
+      "Density [kg/m³]": 665.34
     },
     {
-      "Name": "Multi-layer parquet (German average)"
+      "Name": "Multi-layer parquet (German average)",
+      "Density [kg/m³]": 667.67
     }
   ]
 }

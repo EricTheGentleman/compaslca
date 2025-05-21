@@ -1,19 +1,24 @@
 {
   "Material Options": [
     {
-      "Name": "Hilti CFS-F FX"
+      "Name": "Hilti CFS-F FX",
+      "Density [kg/m³]": 1260.0
     },
     {
-      "Name": "flexen® PE-Stabil"
+      "Name": "flexen® PE-Stabil",
+      "Density [kg/m³]": 26.7
     },
     {
-      "Name": "ArmaPET® Eco50"
+      "Name": "ArmaPET® Eco50",
+      "Density [kg/m³]": 50.0
     },
     {
-      "Name": "Polyethylene foam"
+      "Name": "Polyethylene foam",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "flexen® Exzenterblock Compact"
+      "Name": "flexen® Exzenterblock Compact",
+      "Density [kg/m³]": 34.3
     }
   ]
 }

@@ -10,7 +10,8 @@
       "Name": "Sanitary ceramic"
     },
     {
-      "Name": "Ceramic Fine Fireclay ISI"
+      "Name": "Ceramic Fine Fireclay ISI",
+      "Density [kg/m³]": 2.35
     }
   ]
 }

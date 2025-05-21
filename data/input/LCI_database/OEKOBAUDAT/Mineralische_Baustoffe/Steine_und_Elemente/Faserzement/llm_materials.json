@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "Fibre cement facade panel"
+      "Name": "Fibre cement facade panel",
+      "Density [kg/m³]": 1300.0
     },
     {
-      "Name": "Cedral Sidings"
+      "Name": "Cedral Sidings",
+      "Density [kg/m³]": 1300.0
     },
     {
-      "Name": "Cementex/Cementex Extreme"
+      "Name": "Cementex/Cementex Extreme",
+      "Density [kg/m³]": 1200.0
     }
   ]
 }

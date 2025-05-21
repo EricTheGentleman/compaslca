@@ -4,13 +4,16 @@
       "Name": "Calcium hydroxide (Ca(OH)2, dry, slaked lime)"
     },
     {
-      "Name": "NHL light plaster: PAVI ECO LIGHT, TERMOARENINO, VOLCALITE"
+      "Name": "NHL light plaster: PAVI ECO LIGHT, TERMOARENINO, VOLCALITE",
+      "Density [kg/m³]": 900.0
     },
     {
-      "Name": "NHL-based light plaster: INTOCALX LIGHT, FORTE LIGHT"
+      "Name": "NHL-based light plaster: INTOCALX LIGHT, FORTE LIGHT",
+      "Density [kg/m³]": 1485.0
     },
     {
-      "Name": "Natural Hydraulic Lime (NHL): FENIX"
+      "Name": "Natural Hydraulic Lime (NHL): FENIX",
+      "Density [kg/m³]": 1100.0
     },
     {
       "Name": "Lime (CaO, Finelime)"

@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "Sand-lime brick"
+      "Name": "Sand-lime brick",
+      "Density [kg/m³]": 2000.0
     },
     {
-      "Name": "Sand-lime brick"
+      "Name": "Sand-lime brick",
+      "Density [kg/m³]": 1800.0
     },
     {
-      "Name": "Steam-hardened building material - UNIKA GmbH - UNIKA ecobluu plane elements"
+      "Name": "Steam-hardened building material - UNIKA GmbH - UNIKA ecobluu plane elements",
+      "Density [kg/m³]": 1914.0
     }
   ]
 }

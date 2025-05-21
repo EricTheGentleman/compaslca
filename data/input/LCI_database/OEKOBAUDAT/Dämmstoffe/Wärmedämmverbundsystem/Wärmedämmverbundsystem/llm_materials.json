@@ -16,7 +16,8 @@
       "Name": "ETICS gluing and coating mineral lightweight plaster"
     },
     {
-      "Name": "SN 40.01 - Modified flour"
+      "Name": "SN 40.01 - Modified flour",
+      "Density [kg/m³]": 530.0
     },
     {
       "Name": "ETICS gluing and coating silcate dispersion plaster"

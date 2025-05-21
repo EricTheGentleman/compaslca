@@ -7,7 +7,8 @@
       "Name": "floor and path surfaces - GreenWorld Products - TerraWay organic 30mm"
     },
     {
-      "Name": "Vegetation substrate"
+      "Name": "Vegetation substrate",
+      "Density [kg/m³]": 1400.0
     },
     {
       "Name": "floor and path surfaces - GreenWorld Products - TerraWay 50mm"

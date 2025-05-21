@@ -1,31 +1,40 @@
 {
   "Material Options": [
     {
-      "Name": "Expanded Polystyrene (EPS) Foam Insulation (grey, density 20 to 25 kg/m³)"
+      "Name": "Expanded Polystyrene (EPS) Foam Insulation (grey, density 20 to 25 kg/m³)",
+      "Density [kg/m³]": 20.94
     },
     {
-      "Name": "blaugelb insulation panel EPS"
+      "Name": "blaugelb insulation panel EPS",
+      "Density [kg/m³]": 150.0
     },
     {
-      "Name": "VARTDAL BIOPOR® HVIT"
+      "Name": "VARTDAL BIOPOR® HVIT",
+      "Density [kg/m³]": 15.0
     },
     {
-      "Name": "blaugelb sill connection profile EPS"
+      "Name": "blaugelb sill connection profile EPS",
+      "Density [kg/m³]": 150.0
     },
     {
-      "Name": "blaugelb insulation panel MultiPro EPS"
+      "Name": "blaugelb insulation panel MultiPro EPS",
+      "Density [kg/m³]": 150.0
     },
     {
-      "Name": "VARTDAL BIOPOR® GRÅ"
+      "Name": "VARTDAL BIOPOR® GRÅ",
+      "Density [kg/m³]": 15.25
     },
     {
-      "Name": "blaugelb Triotherm+ Profiles"
+      "Name": "blaugelb Triotherm+ Profiles",
+      "Density [kg/m³]": 150.0
     },
     {
-      "Name": "blaugelb plinth thermal insulation profile EPS"
+      "Name": "blaugelb plinth thermal insulation profile EPS",
+      "Density [kg/m³]": 150.0
     },
     {
-      "Name": "Expanded Polystyrene (EPS) Foam Insulation (grey, density 15 kg/m³)"
+      "Name": "Expanded Polystyrene (EPS) Foam Insulation (grey, density 15 kg/m³)",
+      "Density [kg/m³]": 15.0
     }
   ]
 }

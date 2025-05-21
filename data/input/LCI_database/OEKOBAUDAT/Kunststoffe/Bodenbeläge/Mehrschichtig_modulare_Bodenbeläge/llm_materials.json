@@ -16,7 +16,8 @@
       "Name": "Micodur - Resilient Floor Covering"
     },
     {
-      "Name": "Vinyl design flooring with HDF core board"
+      "Name": "Vinyl design flooring with HDF core board",
+      "Density [kg/m³]": 950.0
     },
     {
       "Name": "STS Carpet Tile with Nylon Face Fibre"

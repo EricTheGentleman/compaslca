@@ -2,10 +2,10 @@
 import os
 import json
 from pathlib import Path
-from methods.utils import create_inference_folders, load_yaml_config, simplify_lci_lists, simplify_category_list, simplify_material_lists
+from methods.utils import create_inference_folders, load_yaml_config, simplify_lci_lists, simplify_category_list, simplify_material_lists, simplify_material_lists_density
 from methods.traverse import traverse_lci_hierarchy
 
-def match_bim_files(input_dir, output_dir, lci_base_dir, mode_label):
+def match_bim_files(input_dir, output_dir, lci_base_dir, mode_label, config):
     for filename in os.listdir(input_dir):
         if not filename.endswith(".json"):
             continue
@@ -22,7 +22,9 @@ def match_bim_files(input_dir, output_dir, lci_base_dir, mode_label):
             lci_base_dir=lci_base_dir,
             mode=mode_label,
             results_dir=results_dir,
-            step=1
+            config=config,
+            step=1,
+            path_trace = None
         )
 
 
@@ -48,21 +50,27 @@ def material_matcher():
         lci_base_dir = Path("data/input/LCI_database/KBOB")
         category_index_path = Path("data/input/LCI_database/KBOB/index.json")
         simplify_category_list(category_index_path) # make LLM friendly (minimize tokens)
-        simplify_material_lists(lci_base_dir) # make LLM friendly (customizable, with include_density)
+        if var_include_density: 
+            simplify_material_lists_density(lci_base_dir)
+        else:
+            simplify_material_lists(lci_base_dir) # make LLM friendly (customizable, with include_density)
 
     else:
         lci_base_dir = Path("data/input/LCI_database/OEKOBAUDAT")
         category_index_path = Path("data/input/LCI_database/OEKOBAUDAT/index.json")
-        simplify_lci_lists(lci_base_dir)
-        #simplify_category_list(category_index_path) # make LLM friendly (minimize tokens)
-        #simplify_material_lists(lci_base_dir, var_include_density) # make LLM friendly (customizable, with include_density) 
+        if var_include_density: 
+            simplify_material_lists_density(lci_base_dir)
+        else:
+            simplify_material_lists(lci_base_dir) # make LLM friendly (customizable, with include_density)        
+        # simplify_lci_lists(lci_base_dir) # requires different logic and needs a cap to minimize tokens 
 
     # Match elements
     match_bim_files(
         input_dir=input_elements,
         output_dir=inference_elements_folders,
         lci_base_dir=lci_base_dir,
-        mode_label="element"
+        mode_label="element",
+        config = master_config
     )
 
     # Match target layers
@@ -70,7 +78,8 @@ def material_matcher():
         input_dir=input_target_layers,
         output_dir=inference_target_layers_folders,
         lci_base_dir=lci_base_dir,
-        mode_label="layer"
+        mode_label="layer",
+        config = master_config
     )
 
 if __name__ == "__main__":

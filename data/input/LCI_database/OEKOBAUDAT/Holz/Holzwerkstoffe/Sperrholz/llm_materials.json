@@ -1,16 +1,20 @@
 {
   "Material Options": [
     {
-      "Name": "Veneer plywood (German average)"
+      "Name": "Veneer plywood (German average)",
+      "Density [kg/m³]": 823.93
     },
     {
-      "Name": "best wood CLT BOX"
+      "Name": "best wood CLT BOX",
+      "Density [kg/m³]": 200.58
     },
     {
-      "Name": "Plywood board (generic)"
+      "Name": "Plywood board (generic)",
+      "Density [kg/m³]": 490.6
     },
     {
-      "Name": "best wood CLT"
+      "Name": "best wood CLT",
+      "Density [kg/m³]": 430.0
     }
   ]
 }

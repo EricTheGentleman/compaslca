@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "GLAPOR cellular glass gravel"
+      "Name": "GLAPOR cellular glass gravel",
+      "Density [kg/m³]": 138.5
     }
   ]
 }

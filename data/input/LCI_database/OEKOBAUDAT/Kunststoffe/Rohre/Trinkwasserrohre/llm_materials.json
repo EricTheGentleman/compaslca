@@ -16,7 +16,8 @@
       "Name": "Drinking water pipe PE-X-Alu"
     },
     {
-      "Name": "Polyethylene piping systems for supply and disposal, industrial applications and cable protection applications"
+      "Name": "Polyethylene piping systems for supply and disposal, industrial applications and cable protection applications",
+      "Density [kg/m³]": 950.0
     },
     {
       "Name": "Drinking water pipe PB"
@@ -25,7 +26,8 @@
       "Name": "Drinking water pipe PE-X"
     },
     {
-      "Name": "RAUTITAN flex"
+      "Name": "RAUTITAN flex",
+      "Density [kg/m³]": 950.0
     },
     {
       "Name": "Drinking water pipe PE X-Alu-PE X"

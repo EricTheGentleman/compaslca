@@ -1,43 +1,56 @@
 {
   "Material Options": [
     {
-      "Name": "Timber pine (generic, 12% moisture / 10.7% H2O content)"
+      "Name": "Timber pine (generic, 12% moisture / 10.7% H2O content)",
+      "Density [kg/m³]": 548.8
     },
     {
-      "Name": "Rubner Sawn Timber, Rubner Sawn Timber kiln dried, Rubner Sawn Timber machine graded"
+      "Name": "Rubner Sawn Timber, Rubner Sawn Timber kiln dried, Rubner Sawn Timber machine graded",
+      "Density [kg/m³]": 459.0
     },
     {
-      "Name": "EGGER timber"
+      "Name": "EGGER timber",
+      "Density [kg/m³]": 365.0
     },
     {
-      "Name": "Timber oak (generic, 12% moisture / 10.7% H2O content)"
+      "Name": "Timber oak (generic, 12% moisture / 10.7% H2O content)",
+      "Density [kg/m³]": 716.8
     },
     {
-      "Name": "Coniferous lumber - kiln dried (German average)"
+      "Name": "Coniferous lumber - kiln dried (German average)",
+      "Density [kg/m³]": 484.51
     },
     {
-      "Name": "Planed coniferous lumber (German average)"
+      "Name": "Planed coniferous lumber (German average)",
+      "Density [kg/m³]": 485.31
     },
     {
-      "Name": "Timber beech (generic, 12% moisture / 10.7% H2O content)"
+      "Name": "Timber beech (generic, 12% moisture / 10.7% H2O content)",
+      "Density [kg/m³]": 739.2
     },
     {
-      "Name": "Timber cedar (generic, 12% moisture / 10.7% H2O content)"
+      "Name": "Timber cedar (generic, 12% moisture / 10.7% H2O content)",
+      "Density [kg/m³]": 571.0
     },
     {
-      "Name": "Sapelli Kiln Dried Timber"
+      "Name": "Sapelli Kiln Dried Timber",
+      "Density [kg/m³]": 690.0
     },
     {
-      "Name": "Timber larch (generic, 12% moisture / 10.7% H2O content)"
+      "Name": "Timber larch (generic, 12% moisture / 10.7% H2O content)",
+      "Density [kg/m³]": 660.8
     },
     {
-      "Name": "Coniferous lumber - fresh (German average)"
+      "Name": "Coniferous lumber - fresh (German average)",
+      "Density [kg/m³]": 674.74
     },
     {
-      "Name": "Hardwood lumber - kiln dried (German average)"
+      "Name": "Hardwood lumber - kiln dried (German average)",
+      "Density [kg/m³]": 761.6
     },
     {
-      "Name": "Timber spruce (generic, 12% moisture / 10.7% H2O content)"
+      "Name": "Timber spruce (generic, 12% moisture / 10.7% H2O content)",
+      "Density [kg/m³]": 481.6
     }
   ]
 }

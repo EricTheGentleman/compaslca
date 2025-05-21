@@ -4,13 +4,16 @@
       "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW100 (EN 15804+A2)"
     },
     {
-      "Name": "Structural Steel: Sections and merchant bars"
+      "Name": "Structural Steel: Sections and merchant bars",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Drawn Wire - Prestressing Wire and Strand"
+      "Name": "Drawn Wire - Prestressing Wire and Strand",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Rolled wire rod"
+      "Name": "Rolled wire rod",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - ceiling profile galvanized Hutdecke 98 (EN 15804+A2)"
@@ -19,25 +22,31 @@
       "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW125 (EN 15804+A2)"
     },
     {
-      "Name": "Rail expansion joint - superstructure"
+      "Name": "Rail expansion joint - superstructure",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Ceiling profile corrosion resistant Hutdecek 98 (EN 15804+A2)"
     },
     {
-      "Name": "Drawn Wire ? Cold Heading Wire"
+      "Name": "Drawn Wire ? Cold Heading Wire",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Galvanized steel profile (electric arc furnace route, high scrap content)"
+      "Name": "Galvanized steel profile (electric arc furnace route, high scrap content)",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "XCarb® recycled and renewably produced organic coated steel coils Granite® and Estetic®"
+      "Name": "XCarb® recycled and renewably produced organic coated steel coils Granite® and Estetic®",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Shaped Wire"
+      "Name": "Shaped Wire",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "PregyMetal AquaBoard - AZ150 galvanized steel profiles with 0,6mm thickness"
+      "Name": "PregyMetal AquaBoard - AZ150 galvanized steel profiles with 0,6mm thickness",
+      "Density [kg/m³]": 7500.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW125 (EN 15804+A2)"
@@ -46,16 +55,19 @@
       "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW50 (EN 15804+A2)"
     },
     {
-      "Name": "ReUse-Steel"
+      "Name": "ReUse-Steel",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Ceiling profile galvanized CD60/27 (EN 15804+A2)"
     },
     {
-      "Name": "Refit-Steel"
+      "Name": "Refit-Steel",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Galvanized Structural Steel"
+      "Name": "Galvanized Structural Steel",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW75 (EN 15804+A2)"
@@ -64,49 +76,59 @@
       "Name": "Profiled steel panels for roof, wall and ceiling structures"
     },
     {
-      "Name": "Steel section"
+      "Name": "Steel section",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW150 (EN 15804+A2)"
     },
     {
-      "Name": "Welded and zinc coated steel structures"
+      "Name": "Welded and zinc coated steel structures",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "continuous cast steel bloom"
+      "Name": "continuous cast steel bloom",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Zinc coated steel structures"
+      "Name": "Zinc coated steel structures",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW150 (EN 15804+A2)"
     },
     {
-      "Name": "PregyMetal - Z100 galvanized steel profiles 1mm thickness"
+      "Name": "PregyMetal - Z100 galvanized steel profiles 1mm thickness",
+      "Density [kg/m³]": 7500.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Wall profile galvanized CW75 (EN 15804+A2)"
     },
     {
-      "Name": "Painted Structural Steel"
+      "Name": "Painted Structural Steel",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Ceiling profile corrosion resistant CD60/27 (EN 15804+A2)"
     },
     {
-      "Name": "Welded and painted steel structures - beams and box beams"
+      "Name": "Welded and painted steel structures - beams and box beams",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Annealed wire rod"
+      "Name": "Annealed wire rod",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Surface treated wire rod"
+      "Name": "Surface treated wire rod",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "anchor rail"
     },
     {
-      "Name": "PregyMetal - Z100 galvanized steel profiles 0,6 mm thickness"
+      "Name": "PregyMetal - Z100 galvanized steel profiles 0,6 mm thickness",
+      "Density [kg/m³]": 7500.0
     },
     {
       "Name": "Profile - König GmbH & Co. KG - Ceiling profile corrosion resistant UD28/48 (EN 15804+A2)"
@@ -115,10 +137,37 @@
       "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW50 (EN 15804+A2)"
     },
     {
-      "Name": "Welded and painted steel structures - other steel structures"
+      "Name": "Welded and painted steel structures - other steel structures",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "microZINQ(R) hot-dip galvanized steel"
+      "Name": "microZINQ(R) hot-dip galvanized steel",
+      "Density [kg/m³]": 7850.0
+    },
+    {
+      "Name": "Profile - König GmbH & Co. KG - Ceiling profile galvanized UD28/48 (EN 15804+A2)"
+    },
+    {
+      "Name": "Profile - König GmbH & Co. KG - Wall profile corrosion resistant CW100 (EN 15804+A2)"
+    },
+    {
+      "Name": "Painted steel structures",
+      "Density [kg/m³]": 7850.0
+    },
+    {
+      "Name": "duroZINQ(R) hot-dip galvanized steel",
+      "Density [kg/m³]": 7850.0
+    },
+    {
+      "Name": "voestalpine rails (update)",
+      "Density [kg/m³]": 7874.0
+    },
+    {
+      "Name": "Flanges and butt welded fittings"
+    },
+    {
+      "Name": "Hot-dip galvanised steel",
+      "Density [kg/m³]": 7850.0
     }
   ]
 }

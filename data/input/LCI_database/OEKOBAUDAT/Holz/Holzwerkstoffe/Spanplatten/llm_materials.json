@@ -4,28 +4,36 @@
       "Name": "Chipboard (generic)"
     },
     {
-      "Name": "Cement bound particle board (generic)"
+      "Name": "Cement bound particle board (generic)",
+      "Density [kg/m³]": 1200.0
     },
     {
-      "Name": "Tubular particle board (German average)"
+      "Name": "Tubular particle board (German average)",
+      "Density [kg/m³]": 272.0
     },
     {
-      "Name": "Medium density fibreboard (MDF), uncoated"
+      "Name": "Medium density fibreboard (MDF), uncoated",
+      "Density [kg/m³]": 800.0
     },
     {
-      "Name": "Particleboard, coated"
+      "Name": "Particleboard, coated",
+      "Density [kg/m³]": 650.0
     },
     {
-      "Name": "EGGER Eurodekor - Melamine Faced Chipboard"
+      "Name": "EGGER Eurodekor - Melamine Faced Chipboard",
+      "Density [kg/m³]": 655.0
     },
     {
-      "Name": "Eurospan Raw Chipboard"
+      "Name": "Eurospan Raw Chipboard",
+      "Density [kg/m³]": 655.0
     },
     {
-      "Name": "Particle board - raw (German average)"
+      "Name": "Particle board - raw (German average)",
+      "Density [kg/m³]": 633.31
     },
     {
-      "Name": "Particle board - melamine coated (German average)"
+      "Name": "Particle board - melamine coated (German average)",
+      "Density [kg/m³]": 633.29
     }
   ]
 }

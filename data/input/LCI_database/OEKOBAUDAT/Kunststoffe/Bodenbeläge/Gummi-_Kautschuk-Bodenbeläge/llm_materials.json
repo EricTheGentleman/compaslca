@@ -7,25 +7,30 @@
       "Name": "6.2.02. Tufted carpet tiles (PA 6), LC3"
     },
     {
-      "Name": "norament® 928 ed"
+      "Name": "norament® 928 ed",
+      "Density [kg/m³]": 4.8
     },
     {
       "Name": "Rubber floor covering with foam coating EN 1816 (4 mm)"
     },
     {
-      "Name": "noraplan® ed"
+      "Name": "noraplan® ed",
+      "Density [kg/m³]": 2.95
     },
     {
-      "Name": "noraplan® acoustic"
+      "Name": "noraplan® acoustic",
+      "Density [kg/m³]": 3.94
     },
     {
-      "Name": "noraplan® ultra grip"
+      "Name": "noraplan® ultra grip",
+      "Density [kg/m³]": 3.36
     },
     {
       "Name": "Rubber floor covering profiled EN 12199 (3,55 mm)"
     },
     {
-      "Name": "noraplan® uni"
+      "Name": "noraplan® uni",
+      "Density [kg/m³]": 3.36
     }
   ]
 }

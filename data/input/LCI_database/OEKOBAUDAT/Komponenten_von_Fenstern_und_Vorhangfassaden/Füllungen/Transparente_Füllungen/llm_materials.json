@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Glass - Guardian Europe S.à r.l. - Coated flat glass"
+      "Name": "Glass - Guardian Europe S.à r.l. - Coated flat glass",
+      "Density [kg/m³]": 2500.0
     },
     {
       "Name": "Flat glass - Bundesverband Flachglas e.V - Insulating glass unit double structure"
@@ -19,7 +20,8 @@
       "Name": "Transparent building elements - Rodeca GmbH - Light building element 40mm"
     },
     {
-      "Name": "Glass - Guardian Europe S.à r.l. - Laminated safety glass"
+      "Name": "Glass - Guardian Europe S.à r.l. - Laminated safety glass",
+      "Density [kg/m³]": 2500.0
     },
     {
       "Name": "Multi- pane insulating glass (MIG, 3-pane structure) ? PRESS GLASS Holding SA ? Glass"
@@ -55,7 +57,8 @@
       "Name": "Flat glass - Bundesverband Flachglas e.V - Float glass"
     },
     {
-      "Name": "Glass - Guardian Europe S.à r.l. - Uncoated flat glass"
+      "Name": "Glass - Guardian Europe S.à r.l. - Uncoated flat glass",
+      "Density [kg/m³]": 2500.0
     },
     {
       "Name": "Flat glass - Bundesverband Flachglas e.V - Laminated safety glass"

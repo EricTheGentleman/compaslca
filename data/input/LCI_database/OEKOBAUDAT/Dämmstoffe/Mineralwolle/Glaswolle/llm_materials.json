@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "SAGLAN glass wool, bonded with bio-based adhesive +A2"
+      "Name": "SAGLAN glass wool, bonded with bio-based adhesive +A2",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "PIPELANE pipe sections +A2"
+      "Name": "PIPELANE pipe sections +A2",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "SAGLAN glass wool, bonded with phenolic resin +A2"
+      "Name": "SAGLAN glass wool, bonded with phenolic resin +A2",
+      "Density [kg/m³]": 30.0
     }
   ]
 }

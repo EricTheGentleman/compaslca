@@ -1,64 +1,84 @@
 {
   "Material Options": [
     {
-      "Name": "Wire rod"
+      "Name": "Wire rod",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "SAS 835/1035"
+      "Name": "SAS 835/1035",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Reinforcing stabilized three and seven-wire strands with and without dents with a nominal tensile strength of 1670÷1860 N /mm2 with a diameter of 6.5÷15.7 mm (PC-strand)"
+      "Name": "Reinforcing stabilized three and seven-wire strands with and without dents with a nominal tensile strength of 1670÷1860 N /mm2 with a diameter of 6.5÷15.7 mm (PC-strand)",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Reinforcing steel in coils"
+      "Name": "Reinforcing steel in coils",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Steel fiber: waved(undulated), with hooked ends, with flattened ends"
+      "Name": "Steel fiber: waved(undulated), with hooked ends, with flattened ends",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Hot Rolled concrete reinforcing bars"
+      "Name": "Hot Rolled concrete reinforcing bars",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Reinforcing steel bars"
+      "Name": "Reinforcing steel bars",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Weldable hot rolled reinforcing steel bars"
+      "Name": "Weldable hot rolled reinforcing steel bars",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Hot Rolled Concrete Reinforcing Coils"
+      "Name": "Hot Rolled Concrete Reinforcing Coils",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Wire Rods"
+      "Name": "Wire Rods",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Reinforcing steel in bars"
+      "Name": "Reinforcing steel in bars",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "SAS thread bar (SAS E360, SAS 450/700, SAS 650/800, SAS 670/800, SAS 750/875 FS, SAS 900/1100 FA, SAS 900/1100 FX, SAS 950/1050, SAS 1100/1320)"
+      "Name": "SAS thread bar (SAS E360, SAS 450/700, SAS 650/800, SAS 670/800, SAS 750/875 FS, SAS 900/1100 FA, SAS 900/1100 FX, SAS 950/1050, SAS 1100/1320)",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Reinforcing Steel Coils & Bars"
+      "Name": "Reinforcing Steel Coils & Bars",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Hot rolled concrete reinforcing stretched coils"
+      "Name": "Hot rolled concrete reinforcing stretched coils",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "COMAX Reinforcement Continuity System"
+      "Name": "COMAX Reinforcement Continuity System",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "SAS thread bar (SAS 500/550, SAS 500/600 ULTS, SAS 500/700, SAS 550/620, SAS 555/700, SAS 670/800, SAS 800/950 FL, SAS 900/1050 FC, SAS 900/1050 SN)"
+      "Name": "SAS thread bar (SAS 500/550, SAS 500/600 ULTS, SAS 500/700, SAS 550/620, SAS 555/700, SAS 670/800, SAS 800/950 FL, SAS 900/1050 FC, SAS 900/1050 SN)",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Wire Rod"
+      "Name": "Wire Rod",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Steel rebar B500B/ K500C-T/ K500B-T/ B500NC"
+      "Name": "Steel rebar B500B/ K500C-T/ K500B-T/ B500NC",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Hot Rolled concrete reinforcing coils"
+      "Name": "Hot Rolled concrete reinforcing coils",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Wire rod"
+      "Name": "Wire rod",
+      "Density [kg/m³]": 7850.0
     }
   ]
 }

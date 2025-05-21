@@ -4,16 +4,20 @@
       "Name": "Zinc sheet"
     },
     {
-      "Name": "NedZink NOVA, NedZink NEO, NedZink NOIR"
+      "Name": "NedZink NOVA, NedZink NEO, NedZink NOIR",
+      "Density [kg/m³]": 7200.0
     },
     {
-      "Name": "NedZink Naturel"
+      "Name": "NedZink Naturel",
+      "Density [kg/m³]": 7200.0
     },
     {
-      "Name": "RHEINZINK-prePATINA® blue-grey and graphite-grey"
+      "Name": "RHEINZINK-prePATINA® blue-grey and graphite-grey",
+      "Density [kg/m³]": 7200.0
     },
     {
-      "Name": "RHEINZINK-CLASSIC® bright-rolled"
+      "Name": "RHEINZINK-CLASSIC® bright-rolled",
+      "Density [kg/m³]": 7200.0
     }
   ]
 }

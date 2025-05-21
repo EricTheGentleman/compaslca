@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "StoColor Lotusan®"
+      "Name": "StoColor Lotusan®",
+      "Density [kg/m³]": 1500.0
     },
     {
       "Name": "Applicationpaint emulsion, dispersion paint"

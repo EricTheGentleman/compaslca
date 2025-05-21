@@ -13,7 +13,8 @@
       "Name": "MAGNA3 65-40/60 (Stainless Steel)"
     },
     {
-      "Name": "Zehnder Charleston Multicolumn Radiator"
+      "Name": "Zehnder Charleston Multicolumn Radiator",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "MAGNA3 40-120/150/180 (Stainless Steel)"
@@ -25,7 +26,8 @@
       "Name": "Underfloor heating system PP (100mm distance)"
     },
     {
-      "Name": "Steel pipe"
+      "Name": "Steel pipe",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "Polybutadiene pipe"
@@ -37,7 +39,8 @@
       "Name": "Underfloor heating system copper (200mm distance)"
     },
     {
-      "Name": "Mineral wool insulation panel"
+      "Name": "Mineral wool insulation panel",
+      "Density [kg/m³]": 146.4
     },
     {
       "Name": "MAGNA 3 D 65-40/60 (Cast Iron)"
@@ -49,7 +52,8 @@
       "Name": "MAGNA3 D 65-80/100/120 (Cast Iron)"
     },
     {
-      "Name": "Steel radiator"
+      "Name": "Steel radiator",
+      "Density [kg/m³]": 30.66
     },
     {
       "Name": "ALPHA2, ALPHA1, ALPHA2 L, ALPHA1.1, ALPHA2.1, ALPHA2.2 (Cast Iron)"
@@ -88,13 +92,15 @@
       "Name": "Underfloor heating system PEX (200mm distance)"
     },
     {
-      "Name": "EPDM foam (pipe insulation)"
+      "Name": "EPDM foam (pipe insulation)",
+      "Density [kg/m³]": 55.0
     },
     {
       "Name": "MAGNA 3 D 100-80/100/120 (Cast Iron)"
     },
     {
-      "Name": "Mineral wool pipe jacket"
+      "Name": "Mineral wool pipe jacket",
+      "Density [kg/m³]": 151.0
     },
     {
       "Name": "MAGNA3 D 50-40/60/80 (Cast Iron)"

@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Flax fibre fleece"
+      "Name": "Flax fibre fleece",
+      "Density [kg/m³]": 38.0
     }
   ]
 }

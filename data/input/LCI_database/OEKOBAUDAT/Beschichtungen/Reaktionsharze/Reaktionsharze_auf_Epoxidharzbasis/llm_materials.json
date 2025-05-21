@@ -16,10 +16,12 @@
       "Name": "Products based on epoxy-resin, group 5"
     },
     {
-      "Name": "HIT-RE 500 V3"
+      "Name": "HIT-RE 500 V3",
+      "Density [kg/m³]": 1420.0
     },
     {
-      "Name": "HIT-RE 500 V4"
+      "Name": "HIT-RE 500 V4",
+      "Density [kg/m³]": 1420.0
     }
   ]
 }

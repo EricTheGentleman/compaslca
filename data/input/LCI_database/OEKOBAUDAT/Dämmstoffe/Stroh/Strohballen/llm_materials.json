@@ -1,10 +1,12 @@
 {
   "Material Options": [
     {
-      "Name": "FASBA e.V. Baustroh 100 kg/m³ GaBi - 2024"
+      "Name": "FASBA e.V. Baustroh 100 kg/m³ GaBi - 2024",
+      "Density [kg/m³]": 100.0
     },
     {
-      "Name": "2.23.01. Straw insulation"
+      "Name": "2.23.01. Straw insulation",
+      "Density [kg/m³]": 100.0
     }
   ]
 }

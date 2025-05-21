@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "Cross laminated timber"
+      "Name": "Cross laminated timber",
+      "Density [kg/m³]": 461.0
     },
     {
-      "Name": "TILLY solid wood panel"
+      "Name": "TILLY solid wood panel",
+      "Density [kg/m³]": 473.0
     },
     {
-      "Name": "Cross laminated timber (German average)"
+      "Name": "Cross laminated timber (German average)",
+      "Density [kg/m³]": 489.41
     }
   ]
 }

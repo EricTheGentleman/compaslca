@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "MICROTHERM® Flexible panels range: (Semi-)Overstitched Panels, (Semi-)Quilted Panels, Slatted Panels, Aeroguard (>160 kg/m3) and Slimflex"
+      "Name": "MICROTHERM® Flexible panels range: (Semi-)Overstitched Panels, (Semi-)Quilted Panels, Slatted Panels, Aeroguard (>160 kg/m3) and Slimflex",
+      "Density [kg/m³]": 220.0
     }
   ]
 }

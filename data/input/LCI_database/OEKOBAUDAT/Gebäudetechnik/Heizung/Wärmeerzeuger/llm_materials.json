@@ -119,6 +119,24 @@
     },
     {
       "Name": "Gas heat pump (air) 20-70 kW"
+    },
+    {
+      "Name": "Electric heat pump (brine-water, geothermal collector) 10 kW"
+    },
+    {
+      "Name": "Oil condensing boiler < 20 kW (upright unit)"
+    },
+    {
+      "Name": "Gas condensing boiler < 20 kW (upright unit)"
+    },
+    {
+      "Name": "Oil condensing boiler 20-120 kW (upright unit)"
+    },
+    {
+      "Name": "Vacuum solar tube"
+    },
+    {
+      "Name": "Gas condensing boiler120-400 kW (upright unit)"
     }
   ]
 }

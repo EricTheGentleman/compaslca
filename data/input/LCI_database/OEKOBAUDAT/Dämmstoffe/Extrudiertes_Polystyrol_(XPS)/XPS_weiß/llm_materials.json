@@ -1,25 +1,32 @@
 {
   "Material Options": [
     {
-      "Name": "Bachl ReXPS - Extruded Polystyrene (XPS) foam board"
+      "Name": "Bachl ReXPS - Extruded Polystyrene (XPS) foam board",
+      "Density [kg/m³]": 32.7
     },
     {
-      "Name": "Bachl ReXPS - Extruded Polystyrene (XPS) foam board"
+      "Name": "Bachl ReXPS - Extruded Polystyrene (XPS) foam board",
+      "Density [kg/m³]": 32.7
     },
     {
-      "Name": "Austrotherm UNIPLATTE®"
+      "Name": "Austrotherm UNIPLATTE®",
+      "Density [kg/m³]": 28.0
     },
     {
-      "Name": "RAVATHERM? XPS (X) extruded polystyrene foam insulation with non-halogenated blowing agents"
+      "Name": "RAVATHERM? XPS (X) extruded polystyrene foam insulation with non-halogenated blowing agents",
+      "Density [kg/m³]": 34.4
     },
     {
-      "Name": "Extruded polystyrene (XPS)"
+      "Name": "Extruded polystyrene (XPS)",
+      "Density [kg/m³]": 32.0
     },
     {
-      "Name": "JACKODUR EVO"
+      "Name": "JACKODUR EVO",
+      "Density [kg/m³]": 34.37
     },
     {
-      "Name": "RAVATHERM XPS (X) PLUS/ULTRA"
+      "Name": "RAVATHERM XPS (X) PLUS/ULTRA",
+      "Density [kg/m³]": 41.9
     }
   ]
 }

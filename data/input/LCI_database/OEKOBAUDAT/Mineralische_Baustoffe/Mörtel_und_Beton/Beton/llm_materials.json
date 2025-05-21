@@ -1,124 +1,188 @@
 {
   "Material Options": [
     {
-      "Name": "Ready-mix concrete C50/60"
+      "Name": "Ready-mix concrete C50/60",
+      "Density [kg/m³]": 2316.6
     },
     {
-      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37 ground granulated blast furnace slag"
+      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37 ground granulated blast furnace slag",
+      "Density [kg/m³]": 2360.0
     },
     {
-      "Name": "FIS EM Plus"
+      "Name": "FIS EM Plus",
+      "Density [kg/m³]": 1.54
     },
     {
-      "Name": "FIS V Zero"
+      "Name": "FIS V Zero",
+      "Density [kg/m³]": 1.75
     },
     {
-      "Name": "Betonrezeptur C45/55 selbstverdichtend (Concrete recipe C45/55 self-compacting)"
+      "Name": "Betonrezeptur C45/55 selbstverdichtend (Concrete recipe C45/55 self-compacting)",
+      "Density [kg/m³]": 2500.0
     },
     {
-      "Name": "Concrete C60/75"
+      "Name": "Concrete C60/75",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Cement light mortar: T MIM"
+      "Name": "Cement light mortar: T MIM",
+      "Density [kg/m³]": 1310.0
     },
     {
-      "Name": "Recycling ready-mix concrete C30/37"
+      "Name": "Recycling ready-mix concrete C30/37",
+      "Density [kg/m³]": 2306.0
     },
     {
-      "Name": "Concrete paving stone"
+      "Name": "Concrete paving stone",
+      "Density [kg/m³]": 2350.0
     },
     {
-      "Name": "Concrete C30/37, Type number 988899192"
+      "Name": "Concrete C30/37, Type number 988899192",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37"
+      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37",
+      "Density [kg/m³]": 2390.0
     },
     {
-      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37 fly ash"
+      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37 fly ash",
+      "Density [kg/m³]": 2387.0
     },
     {
-      "Name": "Concrete C40/50, Type number 988429096"
+      "Name": "Concrete C40/50, Type number 988429096",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Concrete C50/60"
+      "Name": "Concrete C50/60",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Recycling ready- mix concrete C25/30"
+      "Name": "Recycling ready- mix concrete C25/30",
+      "Density [kg/m³]": 2300.0
     },
     {
-      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37 blast furnace cement"
+      "Name": "Building products made of concrete and concrete elements - Firmengruppe Max Bögl - Concrete C30/37 blast furnace cement",
+      "Density [kg/m³]": 2371.0
     },
     {
-      "Name": "Structural concrete M6582A09 (C30/37, F4, 16, XC4, XF1, XA1, XD1, WA, slow)"
+      "Name": "Structural concrete M6582A09 (C30/37, F4, 16, XC4, XF1, XA1, XD1, WA, slow)",
+      "Density [kg/m³]": 2380.0
     },
     {
-      "Name": "Recycling ready- mix concrete C50/60"
+      "Name": "Recycling ready- mix concrete C50/60",
+      "Density [kg/m³]": 2317.0
     },
     {
-      "Name": "Paving stone of 85% FCN-Klimabeton®"
+      "Name": "Paving stone of 85% FCN-Klimabeton®",
+      "Density [kg/m³]": 2375.0
     },
     {
-      "Name": "Paving stone of 100% FCN-Klimabeton®"
+      "Name": "Paving stone of 100% FCN-Klimabeton®",
+      "Density [kg/m³]": 2375.0
     },
     {
-      "Name": "Concrete turnout sleeper, TSF-A"
+      "Name": "Concrete turnout sleeper, TSF-A",
+      "Density [kg/m³]": 2550.0
     },
     {
-      "Name": "Concrete C25/30"
+      "Name": "Concrete C25/30",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Concrete C8/10"
+      "Name": "Concrete C8/10",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Recycling ready-mix concrete C20/25"
+      "Name": "Recycling ready-mix concrete C20/25",
+      "Density [kg/m³]": 2297.0
     },
     {
-      "Name": "Concrete paving stone Stonecycle® with over 40% recycled aggregates"
+      "Name": "Concrete paving stone Stonecycle® with over 40% recycled aggregates",
+      "Density [kg/m³]": 2300.0
     },
     {
-      "Name": "Concrete C35/45"
+      "Name": "Concrete C35/45",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Concrete C40/50, Type number 988429091"
+      "Name": "Concrete C40/50, Type number 988429091",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Betonsorte 16345450"
+      "Name": "Betonsorte 16345450",
+      "Density [kg/m³]": 2380.0
     },
     {
-      "Name": "Concrete C40/50, Type number 988429196"
+      "Name": "Concrete C40/50, Type number 988429196",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Concrete C55/67"
+      "Name": "Concrete C55/67",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Ready-mix concrete C25/30"
+      "Name": "Ready-mix concrete C25/30",
+      "Density [kg/m³]": 2300.0
     },
     {
-      "Name": "Betonrezeptur C50/60 nicht selbstverdichtend (Concrete recipe C50/60 not self-compacting)"
+      "Name": "Betonrezeptur C50/60 nicht selbstverdichtend (Concrete recipe C50/60 not self-compacting)",
+      "Density [kg/m³]": 2500.0
     },
     {
-      "Name": "Concrete C30/37"
+      "Name": "Concrete C30/37",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Concrete pipe and concrete shaft C40/50 - Bundesfachverband Betonkanalsysteme"
+      "Name": "Concrete pipe and concrete shaft C40/50 - Bundesfachverband Betonkanalsysteme",
+      "Density [kg/m³]": 2350.0
     },
     {
-      "Name": "Concrete - 118 C25/30 XC4, XF1"
+      "Name": "Concrete - 118 C25/30 XC4, XF1",
+      "Density [kg/m³]": 2355.4
     },
     {
-      "Name": "R-concrete (Betonwerk Büscher)"
+      "Name": "R-concrete (Betonwerk Büscher)",
+      "Density [kg/m³]": 2000.0
     },
     {
-      "Name": "Autoclaved Aerated Concrete Reinforced Panel"
+      "Name": "Autoclaved Aerated Concrete Reinforced Panel",
+      "Density [kg/m³]": 550.0
     },
     {
-      "Name": "Concrete C20/25"
+      "Name": "Concrete C20/25",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Ready-mix concrete C30/37"
+      "Name": "Ready-mix concrete C30/37",
+      "Density [kg/m³]": 2360.0
     },
     {
-      "Name": "Concrete C12/15"
+      "Name": "Concrete C12/15",
+      "Density [kg/m³]": 2400.0
+    },
+    {
+      "Name": "Reinforced concrete pipe and reinforced concrete shaft C40/50 - Bundesfachverband Betonkanalsysteme",
+      "Density [kg/m³]": 2350.0
+    },
+    {
+      "Name": "Ready-mix concrete C20/25",
+      "Density [kg/m³]": 2360.0
+    },
+    {
+      "Name": "Betonrezeptur C50/60 selbstverdichtend (Concrete recipe C50/60 self-compacting)",
+      "Density [kg/m³]": 2500.0
+    },
+    {
+      "Name": "Concrete turnout sleeper, voestalpine",
+      "Density [kg/m³]": 2550.0
+    },
+    {
+      "Name": "Concrete C45/55",
+      "Density [kg/m³]": 2400.0
+    },
+    {
+      "Name": "Concrete C16/20",
+      "Density [kg/m³]": 2400.0
     }
   ]
 }

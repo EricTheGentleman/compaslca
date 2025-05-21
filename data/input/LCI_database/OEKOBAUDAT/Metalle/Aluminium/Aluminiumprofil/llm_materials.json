@@ -1,31 +1,38 @@
 {
   "Material Options": [
     {
-      "Name": "Aluminum profile, mill finish"
+      "Name": "Aluminum profile, mill finish",
+      "Density [kg/m³]": 2700.0
     },
     {
       "Name": "Metawall® A2"
     },
     {
-      "Name": "Aluminium section"
+      "Name": "Aluminium section",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "Schüco Low Carbon Aluminium Profile"
+      "Name": "Schüco Low Carbon Aluminium Profile",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (raw)"
+      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (raw)",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "semi-finished products - EMERUS d.o.o. - electrostatic powder-coated aluminium profile"
+      "Name": "semi-finished products - EMERUS d.o.o. - electrostatic powder-coated aluminium profile",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (Electrostatically powder-coated)"
+      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (Electrostatically powder-coated)",
+      "Density [kg/m³]": 2700.0
     },
     {
       "Name": "Aluminium Standing Seam Roofing and Wall Cladding System - Kalzip®"
     },
     {
-      "Name": "Schüco Ultra Low Carbon Aluminium Profile"
+      "Name": "Schüco Ultra Low Carbon Aluminium Profile",
+      "Density [kg/m³]": 2700.0
     },
     {
       "Name": "Metawell® ceiling/wall panel"
@@ -34,22 +41,28 @@
       "Name": "Metawall® B1"
     },
     {
-      "Name": "semi-finished products - EMERUS d.o.o. - anodized aluminium profile"
+      "Name": "semi-finished products - EMERUS d.o.o. - anodized aluminium profile",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "Schüco Aluminium Profile"
+      "Name": "Schüco Aluminium Profile",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "Aluminium profiles"
+      "Name": "Aluminium profiles",
+      "Density [kg/m³]": 2.7
     },
     {
-      "Name": "Aluminium FC Facade System - Kalzip®"
+      "Name": "Aluminium FC Facade System - Kalzip®",
+      "Density [kg/m³]": 2720.0
     },
     {
-      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (Anodized)"
+      "Name": "Semi-finished products - EMERUS d.o.o. -  EMERUS ultra low-carbon aluminium profile (Anodized)",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "semi-finished products - EMERUS d.o.o. - aluminium profile (blank)"
+      "Name": "semi-finished products - EMERUS d.o.o. - aluminium profile (blank)",
+      "Density [kg/m³]": 2700.0
     }
   ]
 }

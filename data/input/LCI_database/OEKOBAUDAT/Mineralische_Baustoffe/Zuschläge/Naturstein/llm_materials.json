@@ -4,25 +4,31 @@
       "Name": "Crushed stone 2/15 (dried)"
     },
     {
-      "Name": "Crushed stone 0/2"
+      "Name": "Crushed stone 0/2",
+      "Density [kg/m³]": 1320.0
     },
     {
-      "Name": "magmatic rocks"
+      "Name": "magmatic rocks",
+      "Density [kg/m³]": 2603.33
     },
     {
-      "Name": "Crushed stone 16/32 (dried)"
+      "Name": "Crushed stone 16/32 (dried)",
+      "Density [kg/m³]": 1400.0
     },
     {
-      "Name": "sedimentary rocks"
+      "Name": "sedimentary rocks",
+      "Density [kg/m³]": 2325.0
     },
     {
-      "Name": "Crushed stone 0/2 (dried)"
+      "Name": "Crushed stone 0/2 (dried)",
+      "Density [kg/m³]": 1350.0
     },
     {
       "Name": "Natural aggregates (Näppi T & N Oy)"
     },
     {
-      "Name": "Crushed stone 16/32"
+      "Name": "Crushed stone 16/32",
+      "Density [kg/m³]": 1400.0
     },
     {
       "Name": "Crushed stone 2/15"

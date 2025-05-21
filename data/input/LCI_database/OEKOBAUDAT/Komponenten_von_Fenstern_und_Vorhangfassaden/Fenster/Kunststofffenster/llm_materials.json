@@ -7,7 +7,8 @@
       "Name": "Windows - TMP Fenster+Türen GmbH- plastic french doors"
     },
     {
-      "Name": "VELUX PUR roof windows (triple glazing configuration)"
+      "Name": "VELUX PUR roof windows (triple glazing configuration)",
+      "Density [kg/m³]": 50.0
     },
     {
       "Name": "EPD plastic roof window - Roto Frank DST - Designo acoustic glazing"
@@ -16,10 +17,12 @@
       "Name": "EPD plastic roof window - Roto Frank DST - Designo triple glazing"
     },
     {
-      "Name": "VELUX PUR roof windows (62 triple glazing configuration)"
+      "Name": "VELUX PUR roof windows (62 triple glazing configuration)",
+      "Density [kg/m³]": 57.7
     },
     {
-      "Name": "VELUX PUR roof windows (double glazing configuration)"
+      "Name": "VELUX PUR roof windows (double glazing configuration)",
+      "Density [kg/m³]": 44.2
     },
     {
       "Name": "VELUX Modular Skylight (triple glazing configuration)"

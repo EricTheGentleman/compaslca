@@ -1,16 +1,20 @@
 {
   "Material Options": [
     {
-      "Name": "ARDEX X 90"
+      "Name": "ARDEX X 90",
+      "Density [kg/m³]": 1600.0
     },
     {
-      "Name": "HIT-HY 200-R V3"
+      "Name": "HIT-HY 200-R V3",
+      "Density [kg/m³]": 1830.0
     },
     {
-      "Name": "HIT-RE 500 V4"
+      "Name": "HIT-RE 500 V4",
+      "Density [kg/m³]": 1420.0
     },
     {
-      "Name": "Adhesive for gypsum board"
+      "Name": "Adhesive for gypsum board",
+      "Density [kg/m³]": 1000.0
     },
     {
       "Name": "1.4.05. Dispersion-based tile adhesives"
@@ -19,31 +23,39 @@
       "Name": "1.4.05. Epoxy resin mortar"
     },
     {
-      "Name": "HIT-FP 700-R"
+      "Name": "HIT-FP 700-R",
+      "Density [kg/m³]": 2270.0
     },
     {
-      "Name": "Mixed inert NHL mortar: T A00, T FIX ECO"
+      "Name": "Mixed inert NHL mortar: T A00, T FIX ECO",
+      "Density [kg/m³]": 1630.0
     },
     {
-      "Name": "Tile adhesive"
+      "Name": "Tile adhesive",
+      "Density [kg/m³]": 1500.0
     },
     {
-      "Name": "ARDEX K 22 F"
+      "Name": "ARDEX K 22 F",
+      "Density [kg/m³]": 1900.0
     },
     {
       "Name": "1.4.05. Fibre-reinforced filling compound"
     },
     {
-      "Name": "Reinforcement (synthetic resin trowel)"
+      "Name": "Reinforcement (synthetic resin trowel)",
+      "Density [kg/m³]": 1550.0
     },
     {
-      "Name": "HIT-HY 170"
+      "Name": "HIT-HY 170",
+      "Density [kg/m³]": 1710.0
     },
     {
-      "Name": "Ready-mixed compounds"
+      "Name": "Ready-mixed compounds",
+      "Density [kg/m³]": 1.8
     },
     {
-      "Name": "HIT-HY 270"
+      "Name": "HIT-HY 270",
+      "Density [kg/m³]": 1670.0
     }
   ]
 }

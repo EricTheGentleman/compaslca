@@ -7,10 +7,12 @@
       "Name": "Luxury Vinyl Tiles (LVT)"
     },
     {
-      "Name": "Vinyl design flooring with SPC core board, vinyl for gluing, vinyl made of solid material"
+      "Name": "Vinyl design flooring with SPC core board, vinyl for gluing, vinyl made of solid material",
+      "Density [kg/m³]": 1900.0
     },
     {
-      "Name": "Luxury Vinyl Tiles (LVT) FlexForm?/FlexForm? Sound"
+      "Name": "Luxury Vinyl Tiles (LVT) FlexForm?/FlexForm? Sound",
+      "Density [kg/m³]": 1600.0
     },
     {
       "Name": "PVC floor covering"

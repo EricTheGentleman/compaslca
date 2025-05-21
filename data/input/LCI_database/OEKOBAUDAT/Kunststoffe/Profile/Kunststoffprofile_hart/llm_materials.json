@@ -4,19 +4,24 @@
       "Name": "Cable duct PVC, rigid"
     },
     {
-      "Name": "RAUKANTEX PP"
+      "Name": "RAUKANTEX PP",
+      "Density [kg/m³]": 960.2
     },
     {
-      "Name": "Polyester resin laminated part (GFRP, 30% glass fibres)"
+      "Name": "Polyester resin laminated part (GFRP, 30% glass fibres)",
+      "Density [kg/m³]": 1400.0
     },
     {
-      "Name": "RAUKANTEX PP eco"
+      "Name": "RAUKANTEX PP eco",
+      "Density [kg/m³]": 960.2
     },
     {
-      "Name": "Nylon part (PA 6.6)"
+      "Name": "Nylon part (PA 6.6)",
+      "Density [kg/m³]": 1070.0
     },
     {
-      "Name": "Polycarbonate slab"
+      "Name": "Polycarbonate slab",
+      "Density [kg/m³]": 1200.0
     }
   ]
 }

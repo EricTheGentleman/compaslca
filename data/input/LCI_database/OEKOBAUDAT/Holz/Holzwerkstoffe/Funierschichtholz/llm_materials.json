@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "Laminated veneer board (generic)"
+      "Name": "Laminated veneer board (generic)",
+      "Density [kg/m³]": 465.7
     },
     {
-      "Name": "Pollmeier LVL"
+      "Name": "Pollmeier LVL",
+      "Density [kg/m³]": 540.0
     },
     {
-      "Name": "BauBuche"
+      "Name": "BauBuche",
+      "Density [kg/m³]": 800.0
     }
   ]
 }

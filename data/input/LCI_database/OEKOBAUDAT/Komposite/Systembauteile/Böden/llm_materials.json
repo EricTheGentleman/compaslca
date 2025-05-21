@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Green Roof System"
+      "Name": "Green Roof System",
+      "Density [kg/m³]": 102.7035
     }
   ]
 }

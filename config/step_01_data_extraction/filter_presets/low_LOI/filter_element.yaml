@@ -102,8 +102,8 @@ Element Geometry Data:
 
 # === Properties ===
 Element Property Sets:
-  Psets Element: false
-  Psets Object Type: false
+  Psets Element: true
+  Psets Object Type: true
 
 # === Relationships ===
 Element Relationships:

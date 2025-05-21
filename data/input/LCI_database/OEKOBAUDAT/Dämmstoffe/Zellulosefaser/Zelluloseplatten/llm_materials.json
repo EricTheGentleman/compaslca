@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Cellulose fibre board"
+      "Name": "Cellulose fibre board",
+      "Density [kg/m³]": 80.0
     }
   ]
 }

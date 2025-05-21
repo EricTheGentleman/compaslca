@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Shower hoses"
+      "Name": "Shower hoses",
+      "Density [kg/m³]": 0.374
     },
     {
       "Name": "Drainage technology - Viega GmbH & Co. KG - Accessories"

@@ -1,55 +1,69 @@
 {
   "Material Options": [
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 36,5/5 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 36,5/5 with integrated EPS insulation",
+      "Density [kg/m³]": 238.0
     },
     {
       "Name": "Pre-stressed carbon fibre-reinforced concrete element CPC 40-2-2"
     },
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 36,5/10,5 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 36,5/10,5 with integrated EPS insulation",
+      "Density [kg/m³]": 191.0
     },
     {
-      "Name": "Beton-Pflastersteine"
+      "Name": "Beton-Pflastersteine",
+      "Density [kg/m³]": 2.4
     },
     {
-      "Name": "A2-Betonpflaster- Standardstein grau mit Vorsatz"
+      "Name": "A2-Betonpflaster- Standardstein grau mit Vorsatz",
+      "Density [kg/m³]": 2300.0
     },
     {
-      "Name": "Shafts and pipes, unreinforced, compressive strength class C40/50"
+      "Name": "Shafts and pipes, unreinforced, compressive strength class C40/50",
+      "Density [kg/m³]": 2431.0
     },
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks Expert 43/15 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks Expert 43/15 with integrated EPS insulation",
+      "Density [kg/m³]": 238.0
     },
     {
-      "Name": "Isospan 1 GaBi Wood-chip concrete shuttering blocks ÖKOPUR and Öko-Expert with integrated wood fibre insulation 43/20"
+      "Name": "Isospan 1 GaBi Wood-chip concrete shuttering blocks ÖKOPUR and Öko-Expert with integrated wood fibre insulation 43/20",
+      "Density [kg/m³]": 218.0
     },
     {
-      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N22"
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N22",
+      "Density [kg/m³]": 276.0
     },
     {
-      "Name": "Concrete paving stone 6 cm anthracite"
+      "Name": "Concrete paving stone 6 cm anthracite",
+      "Density [kg/m³]": 2410.0
     },
     {
       "Name": "Precast concrete part, stairs, (1,1 m wide, 9 steps each 16 cm)"
     },
     {
-      "Name": "Concrete pipe, non-reinforced"
+      "Name": "Concrete pipe, non-reinforced",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N18"
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N18",
+      "Density [kg/m³]": 272.0
     },
     {
       "Name": "Pre-stressed carbon fibre-reinforced concrete element CPC 70-4-4"
     },
     {
-      "Name": "Concrete paving stone 6 cm multicoloured"
+      "Name": "Concrete paving stone 6 cm multicoloured",
+      "Density [kg/m³]": 2406.0
     },
     {
-      "Name": "Concrete masonry brick"
+      "Name": "Concrete masonry brick",
+      "Density [kg/m³]": 2000.0
     },
     {
-      "Name": "Concrete paving stone 8 cm anthracite"
+      "Name": "Concrete paving stone 8 cm anthracite",
+      "Density [kg/m³]": 2404.0
     },
     {
       "Name": "Concrete paving stones/slabs"
@@ -58,55 +72,68 @@
       "Name": "Concrete products, multicolored with a surface layer"
     },
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 30/5 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 30/5 with integrated EPS insulation",
+      "Density [kg/m³]": 231.0
     },
     {
       "Name": "Concrete paving stone"
     },
     {
-      "Name": "Isospan 1 GaBi Wood-chip concrete shuttering blocks ÖKOPUR and Öko-Expert with integrated wood fibre insulation 36,5/16,5"
+      "Name": "Isospan 1 GaBi Wood-chip concrete shuttering blocks ÖKOPUR and Öko-Expert with integrated wood fibre insulation 36,5/16,5",
+      "Density [kg/m³]": 218.0
     },
     {
       "Name": "Precast concrete slab, ceiling, thickness 20cm"
     },
     {
-      "Name": "Isospan 3 GaBi Wood-chip concrete shuttering blocks ISOPUR with integrated PU insulation 36,5/16,5"
+      "Name": "Isospan 3 GaBi Wood-chip concrete shuttering blocks ISOPUR with integrated PU insulation 36,5/16,5",
+      "Density [kg/m³]": 182.0
     },
     {
-      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N20"
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N20",
+      "Density [kg/m³]": 311.0
     },
     {
-      "Name": "Precast concrete elements for walls, pillars and beams (Based on the concrete recipe type 44b)"
+      "Name": "Precast concrete elements for walls, pillars and beams (Based on the concrete recipe type 44b)",
+      "Density [kg/m³]": 2440.9
     },
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks Expert 43/16,5 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks Expert 43/16,5 with integrated EPS insulation",
+      "Density [kg/m³]": 238.0
     },
     {
       "Name": "Concrete paving stone"
     },
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 25/6 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 25/6 with integrated EPS insulation",
+      "Density [kg/m³]": 238.0
     },
     {
-      "Name": "Isospan 3 GaBi Wood-chip concrete shuttering blocks ISOPUR with integrated PU insulation 36,5/16,5"
+      "Name": "Isospan 3 GaBi Wood-chip concrete shuttering blocks ISOPUR with integrated PU insulation 36,5/16,5",
+      "Density [kg/m³]": 182.0
     },
     {
       "Name": "Büscher wall (Betonwerk Büscher)"
     },
     {
-      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N15"
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N15",
+      "Density [kg/m³]": 393.0
     },
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks Expert 43/20 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks Expert 43/20 with integrated EPS insulation",
+      "Density [kg/m³]": 238.0
     },
     {
-      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 30/9 with integrated EPS insulation"
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 30/9 with integrated EPS insulation",
+      "Density [kg/m³]": 234.0
     },
     {
-      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein IW 25"
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein IW 25",
+      "Density [kg/m³]": 311.0
     },
     {
-      "Name": "Isospan 1 GaBi Wood-chip concrete shuttering blocks ÖKOPUR and Öko-Expert with integrated wood fibre insulation 43/23"
+      "Name": "Isospan 1 GaBi Wood-chip concrete shuttering blocks ÖKOPUR and Öko-Expert with integrated wood fibre insulation 43/23",
+      "Density [kg/m³]": 218.0
     },
     {
       "Name": "Concrete paving stones/ slabs (average product) (Baustoffwerk LIMEX-VENUSBERG GmbH)"
@@ -115,10 +142,60 @@
       "Name": "Precast concrete wall, thickness 12cm"
     },
     {
-      "Name": "Concrete paving stone 8 cm grey"
+      "Name": "Concrete paving stone 8 cm grey",
+      "Density [kg/m³]": 2404.0
     },
     {
-      "Name": "Precast concrete elements for walls, pillars and beams (Based on the concrete recipe type 44)"
+      "Name": "Precast concrete elements for walls, pillars and beams (Based on the concrete recipe type 44)",
+      "Density [kg/m³]": 2418.8
+    },
+    {
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 36,5/16,5 with integrated EPS insulation",
+      "Density [kg/m³]": 175.0
+    },
+    {
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 36,5/13,5 with integrated EPS insulation",
+      "Density [kg/m³]": 186.0
+    },
+    {
+      "Name": "Precast concrete elements for walls, pillars and beams Based on the concrete recipe Type 66b",
+      "Density [kg/m³]": 2417.1
+    },
+    {
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein N25",
+      "Density [kg/m³]": 312.0
+    },
+    {
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks Expert 43/23 with integrated EPS insulation",
+      "Density [kg/m³]": 238.0
+    },
+    {
+      "Name": "Isospan 2 GaBi Wood-chip concrete shuttering blocks SILVER S 30/7 with integrated EPS insulation",
+      "Density [kg/m³]": 236.0
+    },
+    {
+      "Name": "Concrete pipe, reinforced",
+      "Density [kg/m³]": 2400.0
+    },
+    {
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein TW30",
+      "Density [kg/m³]": 351.0
+    },
+    {
+      "Name": "Beton-Pflastersteine mit bis zu  40 % Recyclinganteil",
+      "Density [kg/m³]": 2.4
+    },
+    {
+      "Name": "Isospan 4 GaBi Wood-chip concrete shuttering blocks Normalstein IW 30",
+      "Density [kg/m³]": 274.0
+    },
+    {
+      "Name": "Concrete paving stone 8 cm multi-coloured",
+      "Density [kg/m³]": 2404.0
+    },
+    {
+      "Name": "Precast concrete elements for walls, pillars and beams (Based on the concrete recipe type 5)",
+      "Density [kg/m³]": 2407.5
     }
   ]
 }

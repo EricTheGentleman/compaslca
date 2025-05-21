@@ -4,13 +4,15 @@
       "Name": "connecting technology - Viega - Prestabo"
     },
     {
-      "Name": "NiroSan® & NiroTherm® | Stainless Steel Fittings (SANHA GmbH)"
+      "Name": "NiroSan® & NiroTherm® | Stainless Steel Fittings (SANHA GmbH)",
+      "Density [kg/m³]": 8000.0
     },
     {
       "Name": "connecting technology - Viega - Sanpress Inox LF press connector"
     },
     {
-      "Name": "Stainless steel drinking water pipe"
+      "Name": "Stainless steel drinking water pipe",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "connecting technology - Viega - Sanpress Inox press connector"

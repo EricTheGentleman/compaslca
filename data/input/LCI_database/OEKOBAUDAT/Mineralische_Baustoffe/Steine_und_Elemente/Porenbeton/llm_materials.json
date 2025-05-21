@@ -1,28 +1,36 @@
 {
   "Material Options": [
     {
-      "Name": "Aerated concrete granulate"
+      "Name": "Aerated concrete granulate",
+      "Density [kg/m³]": 400.0
     },
     {
-      "Name": "Hebel autoclaved aerated concrete, reinforced"
+      "Name": "Hebel autoclaved aerated concrete, reinforced",
+      "Density [kg/m³]": 528.0
     },
     {
-      "Name": "Aerated concrete P4 05 reinforced"
+      "Name": "Aerated concrete P4 05 reinforced",
+      "Density [kg/m³]": 500.0
     },
     {
-      "Name": "partition kits made of autoclaved aerated concrete"
+      "Name": "partition kits made of autoclaved aerated concrete",
+      "Density [kg/m³]": 528.0
     },
     {
-      "Name": "reinforced elements made of autoclaved aerated concrete"
+      "Name": "reinforced elements made of autoclaved aerated concrete",
+      "Density [kg/m³]": 550.0
     },
     {
-      "Name": "Aerated concrete P2 04 non-reinforced"
+      "Name": "Aerated concrete P2 04 non-reinforced",
+      "Density [kg/m³]": 380.0
     },
     {
-      "Name": "autoclaved aerated concrete units"
+      "Name": "autoclaved aerated concrete units",
+      "Density [kg/m³]": 428.0
     },
     {
-      "Name": "Aerated concrete P4 05 non-reinforced"
+      "Name": "Aerated concrete P4 05 non-reinforced",
+      "Density [kg/m³]": 472.0
     }
   ]
 }

@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Expanded shale"
+      "Name": "Expanded shale",
+      "Density [kg/m³]": 600.0
     }
   ]
 }

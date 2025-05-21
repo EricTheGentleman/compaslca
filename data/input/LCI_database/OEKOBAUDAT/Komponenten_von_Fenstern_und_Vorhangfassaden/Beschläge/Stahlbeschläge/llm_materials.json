@@ -10,7 +10,8 @@
       "Name": "The lift & slide drives are installed in the timber, PVC and aluminum lift & slide elements."
     },
     {
-      "Name": "ASSA ABLOY PULSE"
+      "Name": "ASSA ABLOY PULSE",
+      "Density [kg/m³]": 0.249
     },
     {
       "Name": "BEST HD8000"

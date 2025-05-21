@@ -1,16 +1,20 @@
 {
   "Material Options": [
     {
-      "Name": "Transparent board PVC"
+      "Name": "Transparent board PVC",
+      "Density [kg/m³]": 1220.0
     },
     {
-      "Name": "Transparent board PMMA, extruded"
+      "Name": "Transparent board PMMA, extruded",
+      "Density [kg/m³]": 1190.0
     },
     {
-      "Name": "Transparent board PC"
+      "Name": "Transparent board PC",
+      "Density [kg/m³]": 1200.0
     },
     {
-      "Name": "Transparent board PMMA, cast"
+      "Name": "Transparent board PMMA, cast",
+      "Density [kg/m³]": 1190.0
     }
   ]
 }

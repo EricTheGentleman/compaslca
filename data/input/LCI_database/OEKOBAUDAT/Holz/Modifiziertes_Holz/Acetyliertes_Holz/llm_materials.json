@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Acetylated wood (1 m3, 510 kg/m3)"
+      "Name": "Acetylated wood (1 m3, 510 kg/m3)",
+      "Density [kg/m³]": 510.0
     }
   ]
 }

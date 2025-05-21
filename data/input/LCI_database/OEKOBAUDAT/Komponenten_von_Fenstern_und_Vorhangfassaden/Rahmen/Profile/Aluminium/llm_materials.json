@@ -1,19 +1,22 @@
 {
   "Material Options": [
     {
-      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for doors (anodized)"
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for doors (anodized)",
+      "Density [kg/m³]": 726.06
     },
     {
       "Name": "Roof flashing - Roto Frank - Designo roof flashing for recessed installation"
     },
     {
-      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for windows (anodized)"
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for windows (anodized)",
+      "Density [kg/m³]": 2700.0
     },
     {
       "Name": "Roof flashing - Roto Frank - Designo roof flashing for standard installation"
     },
     {
-      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for windows (blank)"
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for windows (blank)",
+      "Density [kg/m³]": 2700.0
     },
     {
       "Name": "Aluminium wing sash profile, powder coated"
@@ -25,7 +28,8 @@
       "Name": "ALWI-S Profile System"
     },
     {
-      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for facades (anodized)"
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for facades (anodized)",
+      "Density [kg/m³]": 2700.0
     },
     {
       "Name": "Roof flashing - Roto Frank - RotoQ roof flashing for recessed installation"
@@ -34,7 +38,8 @@
       "Name": "Aluminium frame profile, powder coated"
     },
     {
-      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for facades (blank)"
+      "Name": "Aluminium profiles for windows, doors, and facades - FEAL d.o.o. - Aluminium profiles for facades (blank)",
+      "Density [kg/m³]": 2700.0
     },
     {
       "Name": "ST PRO Green RC"

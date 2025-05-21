@@ -22,16 +22,19 @@
       "Name": "Ventilation centralized per 30000 m3/h"
     },
     {
-      "Name": "MultiWeave textile-based ventilation duct"
+      "Name": "MultiWeave textile-based ventilation duct",
+      "Density [kg/m³]": 500.0
     },
     {
-      "Name": "BKP-EN"
+      "Name": "BKP-EN",
+      "Density [kg/m³]": 7.53
     },
     {
       "Name": "Ventilation decentralized (wall, ceiling) 60 m3/h"
     },
     {
-      "Name": "Fire Damper BSK-RPR"
+      "Name": "Fire Damper BSK-RPR",
+      "Density [kg/m³]": 6.827
     },
     {
       "Name": "Ventilation decentralized with heat recovery (wall, ceiling) 60 m3/h"

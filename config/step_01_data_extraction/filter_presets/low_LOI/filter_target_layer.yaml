@@ -80,7 +80,7 @@ Building Element Context:
     Primary Object Axis (Cardinal Direction): true
 
   Element Property Sets:
-    _include: false
+    _include: true
     Psets Element: true
     Psets Object Type: true
 

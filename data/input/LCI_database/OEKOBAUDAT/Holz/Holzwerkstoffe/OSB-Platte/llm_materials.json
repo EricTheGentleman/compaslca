@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "Oriented Strand Board (OSB)"
+      "Name": "Oriented Strand Board (OSB)",
+      "Density [kg/m³]": 630.0
     },
     {
-      "Name": "Oriented Strand Board"
+      "Name": "Oriented Strand Board",
+      "Density [kg/m³]": 600.0
     },
     {
-      "Name": "Oriented Strand Board (German average)"
+      "Name": "Oriented Strand Board (German average)",
+      "Density [kg/m³]": 600.0
     }
   ]
 }

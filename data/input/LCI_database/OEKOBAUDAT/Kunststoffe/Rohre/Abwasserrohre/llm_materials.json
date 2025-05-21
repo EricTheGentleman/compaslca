@@ -7,19 +7,23 @@
       "Name": "Sewer pipe PP"
     },
     {
-      "Name": "AWASCHACHT nevoPP"
+      "Name": "AWASCHACHT nevoPP",
+      "Density [kg/m³]": 900.0
     },
     {
       "Name": "Sewer pipe PVC"
     },
     {
-      "Name": "AWADUKT PP"
+      "Name": "AWADUKT PP",
+      "Density [kg/m³]": 900.0
     },
     {
-      "Name": "Sewer pipe ABS"
+      "Name": "Sewer pipe ABS",
+      "Density [kg/m³]": 1050.0
     },
     {
-      "Name": "Sewer pipe PE-HD"
+      "Name": "Sewer pipe PE-HD",
+      "Density [kg/m³]": 950.0
     }
   ]
 }

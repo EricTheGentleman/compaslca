@@ -12,7 +12,7 @@ from . import helpers_location as loc
 from . import helpers_file_metadata as file_meta
 
 
-def extractor(brep_toggle, brep_timeout, input_file, model, out_directory_elements, out_directory_compositions, out_directory_boq, max_elements, config):
+def extractor(brep_toggle, brep_timeout, ifc_input_file, model, out_directory_elements, out_directory_compositions, out_directory_boq, entity_config, entity_bool=True):
 
     # Initialize counters for single and composition elements & bill of quantities rows
     count_single_elements = 0
@@ -43,21 +43,18 @@ def extractor(brep_toggle, brep_timeout, input_file, model, out_directory_elemen
     group_relationships = model.get_entities_by_type("IfcRelAssignsToGroup")
 
     # Get File Metadata for overview sheet
-    file_metadata = file_meta.get_file_metadata(input_file, model, formatted_units)
+    file_metadata = file_meta.get_file_metadata(ifc_input_file, model, formatted_units)
 
     # Some IFC files have identical names for elements. Keep track of used names
     used_names = {}
 
     # Iterate over all IfcBuildingElements
     for element in elements:
-        if max_elements is not None and (count_single_elements + count_composition_elements) >= max_elements:
-            break
 
         # Get entity and skip based on config/1_extraction_config.yaml
         element_type = meta.entity(element)
-        include_all = config.get("Include All IfcBuildingElement Entities", True)
-        if not include_all:
-            if not config.get(element_type, False):
+        if entity_bool == False:
+            if not entity_config.get(element_type, False):
                 count_skipped_elements += 1
                 continue # Skip this element
 
@@ -103,7 +100,6 @@ def extractor(brep_toggle, brep_timeout, input_file, model, out_directory_elemen
                             "Name": meta.name(element),
                             "GlobalId": meta.globalid(element)
                         })
-                        # add future finished and effective break
             element_data["Element Geometry Data"] = geometry_data
 
             # --- PROPERTY SETS ---

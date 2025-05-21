@@ -4,7 +4,8 @@
       "Name": "Woven glass fibre wall covering"
     },
     {
-      "Name": "EGGER Laminate"
+      "Name": "EGGER Laminate",
+      "Density [kg/m³]": 1373.0
     },
     {
       "Name": "Nonwoven glass fibre wall covering"
@@ -16,10 +17,12 @@
       "Name": "Omniguard 110NP"
     },
     {
-      "Name": "HPL (Decorative High-Pressure Laminates)"
+      "Name": "HPL (Decorative High-Pressure Laminates)",
+      "Density [kg/m³]": 1350.0
     },
     {
-      "Name": "EGGER Laminate Micro"
+      "Name": "EGGER Laminate Micro",
+      "Density [kg/m³]": 1360.0
     },
     {
       "Name": "Wallcoverings on cellulose fibre base"
@@ -28,7 +31,8 @@
       "Name": "Vinyl wallcoverings on non-woven backing"
     },
     {
-      "Name": "EGGER Laminate Flammex"
+      "Name": "EGGER Laminate Flammex",
+      "Density [kg/m³]": 1491.4
     },
     {
       "Name": "Wallcoverings on non-woven base"
@@ -40,7 +44,8 @@
       "Name": "Vinyl wallcoverings on woven textile backing"
     },
     {
-      "Name": "HPL Compact Laminates"
+      "Name": "HPL Compact Laminates",
+      "Density [kg/m³]": 1350.0
     }
   ]
 }

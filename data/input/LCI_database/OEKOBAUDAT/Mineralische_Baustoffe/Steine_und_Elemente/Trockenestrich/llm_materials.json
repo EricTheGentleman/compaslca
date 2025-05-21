@@ -10,7 +10,8 @@
       "Name": "Dry floor screed (gypsum plaster board, 25 mm)"
     },
     {
-      "Name": "DRY SCREED PLASTERBOARD / Tool"
+      "Name": "DRY SCREED PLASTERBOARD / Tool",
+      "Density [kg/m³]": 680.0
     }
   ]
 }

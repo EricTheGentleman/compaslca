@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "HPL board"
+      "Name": "HPL board",
+      "Density [kg/m³]": 1400.0
     }
   ]
 }

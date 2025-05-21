@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "AQUAPANEL® Cement Board Rooftop 12,5 mm"
+      "Name": "AQUAPANEL® Cement Board Rooftop 12,5 mm",
+      "Density [kg/m³]": 1150.0
     },
     {
       "Name": "Ceiling system - HT Labor + Hospitaltechnik GmbH - Ceiling for wet room steel sheet, galvanized, powder-coated acoustics"
@@ -37,7 +38,8 @@
       "Name": "ETFE-Membrane"
     },
     {
-      "Name": "AQUAPANEL® Cement Board Rooftop 6 mm"
+      "Name": "AQUAPANEL® Cement Board Rooftop 6 mm",
+      "Density [kg/m³]": 1250.0
     }
   ]
 }

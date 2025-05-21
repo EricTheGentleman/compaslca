@@ -1,37 +1,44 @@
 {
   "Material Options": [
     {
-      "Name": "HUMID Module"
+      "Name": "HUMID Module",
+      "Density [kg/m³]": 1700.0
     },
     {
       "Name": "THERMATEX Basic & Standard"
     },
     {
-      "Name": "WEM Climate Panel"
+      "Name": "WEM Climate Panel",
+      "Density [kg/m³]": 1560.0
     },
     {
-      "Name": "TOPIQ Prime Hygena ? Board"
+      "Name": "TOPIQ Prime Hygena ? Board",
+      "Density [kg/m³]": 110.0
     },
     {
       "Name": "Bioguard Plain, ANF"
     },
     {
-      "Name": "Wet Felt Laminated Mineral Ceiling Tiles (GR)"
+      "Name": "Wet Felt Laminated Mineral Ceiling Tiles (GR)",
+      "Density [kg/m³]": 4.66
     },
     {
-      "Name": "TOPIQ Efficient pro Hygena"
+      "Name": "TOPIQ Efficient pro Hygena",
+      "Density [kg/m³]": 140.0
     },
     {
       "Name": "Fine Fissured Hi NRC"
     },
     {
-      "Name": "THERMATEX Acoustic"
+      "Name": "THERMATEX Acoustic",
+      "Density [kg/m³]": 4.31
     },
     {
       "Name": "Mineral fibre ceiling board (15 mm)"
     },
     {
-      "Name": "AMF THERMATEX & ARMSTRONG Acoustic Range (Pontarlier)"
+      "Name": "AMF THERMATEX & ARMSTRONG Acoustic Range (Pontarlier)",
+      "Density [kg/m³]": 2.84
     },
     {
       "Name": "Bioguard Acoustic, Ultima"
@@ -40,22 +47,28 @@
       "Name": "Classic Max"
     },
     {
-      "Name": "TOPIQ Prime ? Tegular"
+      "Name": "TOPIQ Prime ? Tegular",
+      "Density [kg/m³]": 140.0
     },
     {
-      "Name": "Wet Felt Mineral Ceiling Tiles (GR)"
+      "Name": "Wet Felt Mineral Ceiling Tiles (GR)",
+      "Density [kg/m³]": 3.61
     },
     {
-      "Name": "TOPIQ Prime Hygena ? Tegular"
+      "Name": "TOPIQ Prime Hygena ? Tegular",
+      "Density [kg/m³]": 140.0
     },
     {
-      "Name": "AMF ECOMIN & ARMSTRONG Basic Range, AMF THERMATEX & ARMSTRONG Standard Range (Pontalier)"
+      "Name": "AMF ECOMIN & ARMSTRONG Basic Range, AMF THERMATEX & ARMSTRONG Standard Range (Pontalier)",
+      "Density [kg/m³]": 3.25
     },
     {
-      "Name": "Wet Felt Mineral Ceiling Tiles (PT)"
+      "Name": "Wet Felt Mineral Ceiling Tiles (PT)",
+      "Density [kg/m³]": 3.67
     },
     {
-      "Name": "TOPIQ Prime ? Board"
+      "Name": "TOPIQ Prime ? Board",
+      "Density [kg/m³]": 110.0
     },
     {
       "Name": "Dune Max"
@@ -64,10 +77,12 @@
       "Name": "THERMATEX Acoustic Medical, THERMATEX Acoustic"
     },
     {
-      "Name": "Wet Felt Laminated Mineral Ceiling Tiles (PT)"
+      "Name": "Wet Felt Laminated Mineral Ceiling Tiles (PT)",
+      "Density [kg/m³]": 3.08
     },
     {
-      "Name": "TOPIQ Efficient pro"
+      "Name": "TOPIQ Efficient pro",
+      "Density [kg/m³]": 140.0
     }
   ]
 }

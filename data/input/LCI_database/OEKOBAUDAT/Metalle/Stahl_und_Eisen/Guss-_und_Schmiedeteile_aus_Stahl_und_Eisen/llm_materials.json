@@ -16,7 +16,8 @@
       "Name": "connecting technology - Viega - MegaPress CuNiFe (USA)"
     },
     {
-      "Name": "EEW Structural pipe"
+      "Name": "EEW Structural pipe",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
@@ -37,7 +38,8 @@
       "Name": "TRM-Tiroler Rohre Piling systems Typ 118 - 10.6"
     },
     {
-      "Name": "Seamless steel tubes of voestalpine Tubulars GmbH & Co KG"
+      "Name": "Seamless steel tubes of voestalpine Tubulars GmbH & Co KG",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "connecting technology - Viega - MegaPress G (USA)"
@@ -61,7 +63,8 @@
       "Name": "connecting technology - Viega - Megapress G"
     },
     {
-      "Name": "Ductile iron pipes"
+      "Name": "Ductile iron pipes",
+      "Density [kg/m³]": 20.0
     },
     {
       "Name": "Grey cast iron part"
@@ -85,7 +88,8 @@
       "Name": "Connecting technology - Viega GmbH & Co. KG - Easytop system faucets"
     },
     {
-      "Name": "Steel forging part"
+      "Name": "Steel forging part",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "connecting technology - Viega - MegaPress (USA)"

@@ -1,43 +1,56 @@
 {
   "Material Options": [
     {
-      "Name": "Therma? TW50 / Therma? TW50 EUR"
+      "Name": "Therma? TW50 / Therma? TW50 EUR",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Therma? TR20 / Therma? TT40"
+      "Name": "Therma? TR20 / Therma? TT40",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Stiferite Class SK120"
+      "Name": "Stiferite Class SK120",
+      "Density [kg/m³]": 34.24
     },
     {
-      "Name": "PIR high-density foam"
+      "Name": "PIR high-density foam",
+      "Density [kg/m³]": 250.0
     },
     {
-      "Name": "Kingspan Sauna-Satu®"
+      "Name": "Kingspan Sauna-Satu®",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Therma? TP10"
+      "Name": "Therma? TP10",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Sandwich elements with a top layer of steel on both sides and a core of polyurethane foam"
+      "Name": "Sandwich elements with a top layer of steel on both sides and a core of polyurethane foam",
+      "Density [kg/m³]": 38.0
     },
     {
-      "Name": "Therma? TR27 / Therma? TT47"
+      "Name": "Therma? TR27 / Therma? TT47",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Stiferite FIRE B average thick panel"
+      "Name": "Stiferite FIRE B average thick panel",
+      "Density [kg/m³]": 38.6
     },
     {
-      "Name": "Therma? TW55"
+      "Name": "Therma? TW55",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Therma? TR24"
+      "Name": "Therma? TR24",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Stiferite CLASS SK average thick panel"
+      "Name": "Stiferite CLASS SK average thick panel",
+      "Density [kg/m³]": 34.7
     },
     {
-      "Name": "Therma? TF70"
+      "Name": "Therma? TF70",
+      "Density [kg/m³]": 30.0
     }
   ]
 }

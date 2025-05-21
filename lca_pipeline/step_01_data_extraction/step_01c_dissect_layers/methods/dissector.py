@@ -155,27 +155,32 @@ def load_material_descriptors(elements_directory):
         if not id_key:
             continue  # Skip if no ID
 
-        material_name = "Unknown"  # Default fallback
+        material_name = "Unknown"
+        thickness = None
 
         material_data = data.get("Element Material Data", "Not defined")
 
         if isinstance(material_data, list):
-            # It's a list, either LayerSetUsage or Material
             for mat in material_data:
                 if mat.get("IfcEntity") in ("IfcMaterialLayerSetUsage", "IfcMaterialLayerSet"):
                     layers = mat.get("Layers", [])
                     if layers and isinstance(layers, list):
-                        material_name = layers[0].get("Material Name", "Unknown")
+                        first_layer = layers[0]
+                        material_name = first_layer.get("Material Name", "Unknown")
+                        thickness = first_layer.get("Thickness")  # May be None
                         break
                 elif mat.get("IfcEntity") == "IfcMaterial":
                     material_name = mat.get("Material Name", "Unknown")
+                    # No thickness for single material entity
                     break
-        elif material_data == "Not defined":
-            material_name = "Unknown"
 
-        mapping[id_key] = material_name
+        mapping[id_key] = {
+            "Material Name": material_name,
+            "Thickness": thickness
+        }
 
     return mapping
+
 
 
 # Method to load all dissected target layer JSONs and build a mapping for BOQ reference.
@@ -245,6 +250,7 @@ def load_dissected_layers(target_layer_directory):
 def split_row_by_layers(row, layers_info):
     id_ = row["Id"]
     base_name = row["Name"]
+    entity = row["Entity"]
     length = float(row["Length [m]"])
     area = float(row["Largest Surface Area [m^2]"])
     volume = float(row["Volume [m^3]"])
@@ -262,13 +268,15 @@ def split_row_by_layers(row, layers_info):
         split_rows.append({
             "Id": f"{id_}_L{layer_num}",
             "Name": f"{base_name} (L{layer_num})",
+            "Entity": entity,
             "Length [m]": round(length, 4),
             "Largest Surface Area [m^2]": round(area, 4),
             "Volume [m^3]": round(volume * ratio, 4),
             "Compiled": compiled,
             "Elements Compiled": compilation_count,
             "Layer Number": layer_num,
-            "Material Descriptor": layer.get("Material Name", "Unknown")
+            "Material Descriptor": layer.get("Material Name", "Unknown"),
+            "Layer Thickness [m]": layer.get("Thickness") if layer.get("Thickness") else 0
         })
 
     else:
@@ -281,13 +289,15 @@ def split_row_by_layers(row, layers_info):
             split_rows.append({
                 "Id": f"{id_}_L{layer_num}",
                 "Name": f"{base_name} (L{layer_num})",
+                "Entity": entity,
                 "Length [m]": round(length, 4),
                 "Largest Surface Area [m^2]": round(area, 4),
                 "Volume [m^3]": round(volume * ratio, 4),
                 "Compiled": compiled,
                 "Elements Compiled": compilation_count,
                 "Layer Number": layer_num,
-                "Material Descriptor": layer.get("Material Name", "Unknown")
+                "Material Descriptor": layer.get("Material Name", "Unknown"),
+                "Layer Thickness [m]": layer.get("Thickness") if layer.get("Thickness") else 0
             })
 
     return split_rows
@@ -324,8 +334,10 @@ def dissector_boq(compiled_boq_path, target_layer_directory, elements_directory,
         else:
             # No split needed
             row["Layer Number"] = 0
-            material_descriptor = non_dissected_elements.get(id_, "Unknown")
+            material_descriptor = non_dissected_elements.get(id_, {}).get("Material Name", "Unknown")
+            thickness = non_dissected_elements.get(id_, {}).get("Thickness", 0)
             row["Material Descriptor"] = material_descriptor
+            row["Layer Thickness [m]"] = thickness
             final_rows.append(row)
 
     # Ensure output folder exists
@@ -333,12 +345,14 @@ def dissector_boq(compiled_boq_path, target_layer_directory, elements_directory,
 
     # Write to output CSV
     output_fieldnames = [
-        "Id", 
-        "Name",
-        "Material Descriptor", 
+        "Id",
         "Compiled", 
         "Elements Compiled", 
+        "Name",
+        "Entity",
+        "Material Descriptor", 
         "Layer Number", 
+        "Layer Thickness [m]",
         "Length [m]", 
         "Largest Surface Area [m^2]", 
         "Volume [m^3]"

@@ -1,25 +1,32 @@
 {
   "Material Options": [
     {
-      "Name": "Expanded clay hollow concrete block partition wall"
+      "Name": "Expanded clay hollow concrete block partition wall",
+      "Density [kg/m³]": 1601.0
     },
     {
-      "Name": "klimaVER lightweight concrete wall"
+      "Name": "klimaVER lightweight concrete wall",
+      "Density [kg/m³]": 450.0
     },
     {
-      "Name": "Expanded clay concrete block outer wall"
+      "Name": "Expanded clay concrete block outer wall",
+      "Density [kg/m³]": 501.0
     },
     {
-      "Name": "Granulated slag brick"
+      "Name": "Granulated slag brick",
+      "Density [kg/m³]": 1400.0
     },
     {
-      "Name": "Pumice stone (SFK-4)"
+      "Name": "Pumice stone (SFK-4)",
+      "Density [kg/m³]": 900.0
     },
     {
-      "Name": "Expanded clay concrete block inner wall"
+      "Name": "Expanded clay concrete block inner wall",
+      "Density [kg/m³]": 701.0
     },
     {
-      "Name": "Lightweight concrete block from 100% natural pumice"
+      "Name": "Lightweight concrete block from 100% natural pumice",
+      "Density [kg/m³]": 500.0
     }
   ]
 }

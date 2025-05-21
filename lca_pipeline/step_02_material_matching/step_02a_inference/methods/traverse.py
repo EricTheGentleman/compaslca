@@ -4,7 +4,7 @@ import time
 from methods.utils import load_json
 from methods.llm_interface import category_inference, material_inference
 
-def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, mode, step=1, path_trace=None):
+def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, mode, config, step=1, path_trace=None):
     path_trace = path_trace or []
 
     category_file = os.path.join(current_dir, "llm_categories.json")
@@ -22,7 +22,7 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
 
         # Actual inference
         start_time = time.time()
-        llm_response, token_usage = category_inference(bim_element, lci_data, mode)
+        llm_response, token_usage = category_inference(bim_element, lci_data, mode, config)
         end_time = time.time()
         processing_time = round(end_time - start_time, 3)
 
@@ -30,6 +30,24 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
         category_name = llm_response.get("Matched Material Category")
         if category_name in [None, "None", "", []]:
             category_name = None
+
+        # Token usage and cost calculation
+        token_data = token_usage.to_dict()
+        prompt_tokens = token_data.get("prompt_tokens", 0)
+        completion_tokens = token_data.get("completion_tokens", 0)
+
+        # Apply modular logic here later, this is only for GPT-4o
+        cost_per_1k_prompt = 0.005
+        cost_per_1k_completion = 0.02
+        total_cost = round(
+            (prompt_tokens * cost_per_1k_prompt / 1000) +
+            (completion_tokens * cost_per_1k_completion / 1000), 6
+        )
+
+        # Get model settings metadata from config
+        category_config = config.get("category_inference_config", {})
+        company_category_inference = category_config.get("company")
+        model_category_inference = category_config.get("model")
 
         # Append metadata
         metadata = {
@@ -39,7 +57,10 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
             "trace": path_trace,
             "message": "Match successful" if category_name else "No match found",
             "token_usage": token_usage.to_dict(),
-            "processing_time": processing_time
+            "processing_time": processing_time,
+            "company": company_category_inference,
+            "model": model_category_inference,
+            "inference_cost_usd": total_cost
         }
 
         result = {
@@ -75,14 +96,35 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
     elif os.path.exists(materials_file):
         lci_data = load_json(materials_file)
 
+        # Load the last "trace", which is the last category name. With this, conditionals can be set for context-aware examples on material nodes
+        category = path_trace[-1] if path_trace else None
+
         start_time = time.time()
-        llm_response, token_usage = material_inference(bim_element, lci_data, mode)
+        llm_response, token_usage = material_inference(bim_element, lci_data, mode, config, category)
         end_time = time.time()
         processing_time = round(end_time - start_time, 3)
 
         matched_name = llm_response.get("Matched Material Name")
         if matched_name in [None, "None", "", []]:
             matched_name = None
+
+        # Token usage and cost calculation
+        token_data = token_usage.to_dict()
+        prompt_tokens = token_data.get("prompt_tokens", 0)
+        completion_tokens = token_data.get("completion_tokens", 0)
+
+        # Apply modular logic here later, this is only for GPT-4o
+        cost_per_1k_prompt = 0.005
+        cost_per_1k_completion = 0.02
+        total_cost = round(
+            (prompt_tokens * cost_per_1k_prompt / 1000) +
+            (completion_tokens * cost_per_1k_completion / 1000), 6
+        )
+
+        # Get model settings metadata from config
+        material_config = config.get("material_inference_config", {})
+        company_material_inference = material_config.get("company")
+        model_material_inference = material_config.get("model")
 
         # Append metadata
         metadata = {
@@ -92,7 +134,10 @@ def traverse_lci_hierarchy(bim_element, current_dir, lci_base_dir, results_dir, 
             "trace": path_trace,
             "message": "Match successful" if matched_name else "No match found",
             "token_usage": token_usage.to_dict(),
-            "processing_time": processing_time
+            "processing_time": processing_time,
+            "company": company_material_inference,
+            "model": model_material_inference,
+            "inference_cost_usd": total_cost
         }
 
         result = {

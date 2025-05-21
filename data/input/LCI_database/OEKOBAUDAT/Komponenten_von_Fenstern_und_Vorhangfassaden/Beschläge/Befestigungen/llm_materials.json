@@ -43,7 +43,8 @@
       "Name": "BEST T Deadbolt Series"
     },
     {
-      "Name": "Stainless steel screws"
+      "Name": "Stainless steel screws",
+      "Density [kg/m³]": 7850.0
     },
     {
       "Name": "TS 91"

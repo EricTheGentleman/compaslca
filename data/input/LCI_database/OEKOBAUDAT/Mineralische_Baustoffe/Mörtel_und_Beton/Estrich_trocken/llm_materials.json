@@ -1,19 +1,24 @@
 {
   "Material Options": [
     {
-      "Name": "Calcium sulfate screed"
+      "Name": "Calcium sulfate screed",
+      "Density [kg/m³]": 1500.0
     },
     {
-      "Name": "Synthetic resin screed"
+      "Name": "Synthetic resin screed",
+      "Density [kg/m³]": 1800.0
     },
     {
-      "Name": "Cement screed"
+      "Name": "Cement screed",
+      "Density [kg/m³]": 2400.0
     },
     {
-      "Name": "Light screed floor: PAVI LIGHT"
+      "Name": "Light screed floor: PAVI LIGHT",
+      "Density [kg/m³]": 680.0
     },
     {
-      "Name": "Screed Mortar - Calcium Sulphate Screed"
+      "Name": "Screed Mortar - Calcium Sulphate Screed",
+      "Density [kg/m³]": 1500.0
     },
     {
       "Name": "CALCIUM SULPHATE FLOWING SCREED AND CONVENTIONAL CALCIUM SULPHATE SCREED"

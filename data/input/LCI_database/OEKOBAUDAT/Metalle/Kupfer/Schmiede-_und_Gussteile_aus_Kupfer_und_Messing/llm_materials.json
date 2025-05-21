@@ -25,7 +25,8 @@
       "Name": "connecting technology - Viega - SeaPress"
     },
     {
-      "Name": "Different brass valves family constituted by full bore ball valves, gate valves and fixed-orifice balancing valves"
+      "Name": "Different brass valves family constituted by full bore ball valves, gate valves and fixed-orifice balancing valves",
+      "Density [kg/m³]": 84600.0
     },
     {
       "Name": "connecting technology - Viega - Geopress"
@@ -34,7 +35,8 @@
       "Name": "connecting technology - Viega - Raxofix press connector"
     },
     {
-      "Name": "Brass component"
+      "Name": "Brass component",
+      "Density [kg/m³]": 8750.0
     }
   ]
 }

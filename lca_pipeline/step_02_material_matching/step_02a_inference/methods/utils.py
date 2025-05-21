@@ -144,9 +144,9 @@ def simplify_material_lists(base_dir):
     return processed_paths
 
 
-# ====IMPORTANT: UPDATE BRANCH LOGIC LATER!!!====
-# Recursively traverses a material database directory structure and creates LLM-friendly list of material entries from an index.json
-def simplify_material_lists_density(base_dir, include_density=False):
+
+# Recursively traverses a material database directory structure and creates dictionary of material entries with densities from an index.json
+def simplify_material_lists_density(base_dir):
     processed_paths = []
 
     for root, dirs, files in os.walk(base_dir):
@@ -160,7 +160,7 @@ def simplify_material_lists_density(base_dir, include_density=False):
         try:
             with open(index_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-        except Exception as e:
+        except Exception:
             continue
         material_entries = []
         for item in data.get("items", []):
@@ -170,19 +170,18 @@ def simplify_material_lists_density(base_dir, include_density=False):
             entry = {
                 "Name": name
             }
-            if include_density:
-                density = item.get("Density (kg/m3)")
-                if density:
-                    try:
-                        entry["Density [kg/m³]"] = float(density)
-                    except ValueError:
-                        entry["Density [kg/m³]"] = density  # fallback
+            density = item.get("Density (kg/m3)")
+            if density:
+                try:
+                    entry["Density [kg/m³]"] = float(density)
+                except ValueError:
+                    entry["Density [kg/m³]"] = density
             material_entries.append(entry)
         llm_data = {"Material Options": material_entries}
         try:
             with open(llm_output_path, 'w', encoding='utf-8') as out_f:
                 json.dump(llm_data, out_f, indent=2, ensure_ascii=False)
             processed_paths.append(root)
-        except Exception as e:
+        except Exception:
             pass
     return processed_paths

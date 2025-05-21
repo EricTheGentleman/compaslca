@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Drinking water"
+      "Name": "Drinking water",
+      "Density [kg/m³]": 1000.0
     }
   ]
 }

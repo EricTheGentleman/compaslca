@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "Dalmatiner EPS Boards 032"
+      "Name": "Dalmatiner EPS Boards 032",
+      "Density [kg/m³]": 14.5
     },
     {
-      "Name": "SAGEX expanded polystyrene"
+      "Name": "SAGEX expanded polystyrene",
+      "Density [kg/m³]": 20.0
     },
     {
-      "Name": "Dalmatiner EPS Boards 034"
+      "Name": "Dalmatiner EPS Boards 034",
+      "Density [kg/m³]": 14.5
     }
   ]
 }

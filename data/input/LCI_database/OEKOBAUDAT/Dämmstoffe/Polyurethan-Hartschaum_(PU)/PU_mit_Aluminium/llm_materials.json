@@ -1,13 +1,16 @@
 {
   "Material Options": [
     {
-      "Name": "Therma? TW56"
+      "Name": "Therma? TW56",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Therma? TR26 / Therma? TT46"
+      "Name": "Therma? TR26 / Therma? TT46",
+      "Density [kg/m³]": 30.0
     },
     {
-      "Name": "Therma? TW58"
+      "Name": "Therma? TW58",
+      "Density [kg/m³]": 30.0
     }
   ]
 }

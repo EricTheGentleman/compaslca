@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Asphalt supporting layer"
+      "Name": "Asphalt supporting layer",
+      "Density [kg/m³]": 2350.0
     },
     {
       "Name": "Asphalt surface layer"

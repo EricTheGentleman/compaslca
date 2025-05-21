@@ -178,6 +178,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
     for row in rows:
         globalid = row["GlobalId"]
         name = row["Name"]
+        entity = row["Entity"]
         key = (globalid, name)
 
         # Parse numeric values safely
@@ -205,6 +206,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
             ungrouped_data.append({
                 "Id": globalid,
                 "Name": name,
+                "Entity": entity,
                 "Length [m]": length,
                 "Largest Surface Area [m^2]": area,
                 "Volume [m^3]": volume,
@@ -228,6 +230,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
         final_rows.append({
             "Id": group_id,
             "Name": name,
+            "Entity": entity,
             "Length [m]": round(sums["Length [m]"], 4),
             "Largest Surface Area [m^2]": round(sums["Largest Surface Area [m^2]"], 4),
             "Volume [m^3]": round(sums["Volume [m^3]"], 4),
@@ -239,7 +242,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
     final_rows.extend(ungrouped_data)
 
     # Write to new CSV
-    output_fieldnames = ["Id", "Name", "Length [m]", "Largest Surface Area [m^2]", "Volume [m^3]", "Compiled", "Elements Compiled"]
+    output_fieldnames = ["Id", "Name", "Entity", "Length [m]", "Largest Surface Area [m^2]", "Volume [m^3]", "Compiled", "Elements Compiled"]
     
     # Define output file name
     output_filename = "BoQ_step_01b.csv"

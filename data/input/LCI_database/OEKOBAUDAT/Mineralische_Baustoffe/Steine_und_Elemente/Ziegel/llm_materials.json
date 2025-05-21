@@ -1,40 +1,52 @@
 {
   "Material Options": [
     {
-      "Name": "Clinker"
+      "Name": "Clinker",
+      "Density [kg/m³]": 1925.0
     },
     {
-      "Name": "Facing bricks"
+      "Name": "Facing bricks",
+      "Density [kg/m³]": 1700.0
     },
     {
-      "Name": "Wienerberger-02-Protected bricks and ceiling tiles"
+      "Name": "Wienerberger-02-Protected bricks and ceiling tiles",
+      "Density [kg/m³]": 1600.0
     },
     {
-      "Name": "Facing brick"
+      "Name": "Facing brick",
+      "Density [kg/m³]": 1800.0
     },
     {
-      "Name": "Facade clinker"
+      "Name": "Facade clinker",
+      "Density [kg/m³]": 2000.0
     },
     {
-      "Name": "Urban cladding tile"
+      "Name": "Urban cladding tile",
+      "Density [kg/m³]": 1770.0
     },
     {
-      "Name": "Brick (unfilled)"
+      "Name": "Brick (unfilled)",
+      "Density [kg/m³]": 575.0
     },
     {
-      "Name": "Recycling-clinker"
+      "Name": "Recycling-clinker",
+      "Density [kg/m³]": 1925.0
     },
     {
-      "Name": "Brick Slips"
+      "Name": "Brick Slips",
+      "Density [kg/m³]": 2100.0
     },
     {
-      "Name": "1.3.02. Plan bricks (filled with polystyrene)"
+      "Name": "1.3.02. Plan bricks (filled with polystyrene)",
+      "Density [kg/m³]": 605.0
     },
     {
-      "Name": "Brick (filled with insulating material)"
+      "Name": "Brick (filled with insulating material)",
+      "Density [kg/m³]": 575.0
     },
     {
-      "Name": "Pavers"
+      "Name": "Pavers",
+      "Density [kg/m³]": 2000.0
     }
   ]
 }

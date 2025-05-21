@@ -4,13 +4,16 @@
       "Name": "End of Life stainless steel"
     },
     {
-      "Name": "End of Life of Aluminium"
+      "Name": "End of Life of Aluminium",
+      "Density [kg/m³]": 2700.0
     },
     {
-      "Name": "End of Life steel profile"
+      "Name": "End of Life steel profile",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "End of Life steel sheet galvanized"
+      "Name": "End of Life steel sheet galvanized",
+      "Density [kg/m³]": 7850.0
     }
   ]
 }

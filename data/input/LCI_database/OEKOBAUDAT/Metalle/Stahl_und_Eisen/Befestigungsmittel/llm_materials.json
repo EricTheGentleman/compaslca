@@ -1,16 +1,20 @@
 {
   "Material Options": [
     {
-      "Name": "Steel Screws"
+      "Name": "Steel Screws",
+      "Density [kg/m³]": 7900.0
     },
     {
-      "Name": "Combar®"
+      "Name": "Combar®",
+      "Density [kg/m³]": 2200.0
     },
     {
-      "Name": "KRINNER Ground Screws"
+      "Name": "KRINNER Ground Screws",
+      "Density [kg/m³]": 7850.0
     },
     {
-      "Name": "Knauf Ceiling Solutions Suspension System & Accessories"
+      "Name": "Knauf Ceiling Solutions Suspension System & Accessories",
+      "Density [kg/m³]": 0.266
     }
   ]
 }

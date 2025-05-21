@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Foam concrete insulation boards"
+      "Name": "Foam concrete insulation boards",
+      "Density [kg/m³]": 80.0
     }
   ]
 }

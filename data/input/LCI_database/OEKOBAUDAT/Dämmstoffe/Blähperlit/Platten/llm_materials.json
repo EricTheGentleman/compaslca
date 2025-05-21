@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Expanded perlite insulation boards for interior use"
+      "Name": "Expanded perlite insulation boards for interior use",
+      "Density [kg/m³]": 140.0
     }
   ]
 }

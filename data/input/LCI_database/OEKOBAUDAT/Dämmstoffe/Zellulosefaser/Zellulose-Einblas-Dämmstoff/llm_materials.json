@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Cellulose fibre blowing insulation material"
+      "Name": "Cellulose fibre blowing insulation material",
+      "Density [kg/m³]": 45.0
     }
   ]
 }

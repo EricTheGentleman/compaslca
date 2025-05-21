@@ -1,16 +1,19 @@
 {
   "Material Options": [
     {
-      "Name": "Hybrid Powder Coating"
+      "Name": "Hybrid Powder Coating",
+      "Density [kg/m³]": 1.45
     },
     {
       "Name": "Water based lacquer, white"
     },
     {
-      "Name": "Coating powder IGP-DURA@xal 4201"
+      "Name": "Coating powder IGP-DURA@xal 4201",
+      "Density [kg/m³]": 1450.0
     },
     {
-      "Name": "Epoxy Powder Coating"
+      "Name": "Epoxy Powder Coating",
+      "Density [kg/m³]": 1.45
     },
     {
       "Name": "Powder coating (outdoor use, white)"
@@ -19,7 +22,8 @@
       "Name": "Solvent based lacquer, white"
     },
     {
-      "Name": "Coating powder IGP-DURA®face, series 58"
+      "Name": "Coating powder IGP-DURA®face, series 58",
+      "Density [kg/m³]": 1450.0
     }
   ]
 }

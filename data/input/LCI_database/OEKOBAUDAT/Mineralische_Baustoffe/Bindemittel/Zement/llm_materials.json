@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Cement"
+      "Name": "Cement",
+      "Density [kg/m³]": 3100.0
     },
     {
       "Name": "Cement (CEM II 32,5)"
@@ -16,13 +17,15 @@
       "Name": "NEODUR HE 3 green"
     },
     {
-      "Name": "CEM I 52,5 R (ft)"
+      "Name": "CEM I 52,5 R (ft)",
+      "Density [kg/m³]": 3.01
     },
     {
       "Name": "Cement (CEM II/B)"
     },
     {
-      "Name": "CEM II/A-LL 32,5 R"
+      "Name": "CEM II/A-LL 32,5 R",
+      "Density [kg/m³]": 3.01
     },
     {
       "Name": "Cement (CEM IV 42,5)"
@@ -31,55 +34,67 @@
       "Name": "Cement (CEM IV 32,5)"
     },
     {
-      "Name": "CEM II/B-LL 32,5 R (Sackware)"
+      "Name": "CEM II/B-LL 32,5 R (Sackware)",
+      "Density [kg/m³]": 3.01
     },
     {
-      "Name": "CEM II/B-S 42,5 N"
+      "Name": "CEM II/B-S 42,5 N",
+      "Density [kg/m³]": 3.01
     },
     {
       "Name": "Portland cement CEM I"
     },
     {
-      "Name": "TECNIRAPID"
+      "Name": "TECNIRAPID",
+      "Density [kg/m³]": 2250.0
     },
     {
-      "Name": "CEM III/B 42,5 L"
+      "Name": "CEM III/B 42,5 L",
+      "Density [kg/m³]": 3.01
     },
     {
       "Name": "Portland Cement CEM I 52,5 R"
     },
     {
-      "Name": "Mixed inert cement mortar: T FIX HP, T FIX HP FLEX, T LIVEL LOW"
+      "Name": "Mixed inert cement mortar: T FIX HP, T FIX HP FLEX, T LIVEL LOW",
+      "Density [kg/m³]": 2100.0
     },
     {
       "Name": "Cement (CEM III 42,5)"
     },
     {
-      "Name": "CEM I 42,5 N (st)"
+      "Name": "CEM I 42,5 N (st)",
+      "Density [kg/m³]": 3.01
     },
     {
-      "Name": "CEM I 42,5 R (na)"
+      "Name": "CEM I 42,5 R (na)",
+      "Density [kg/m³]": 3.01
     },
     {
       "Name": "Cement (CEM II/A)"
     },
     {
-      "Name": "CEM II/C-M (S-LL) 42,5 N \"CZ\""
+      "Name": "CEM II/C-M (S-LL) 42,5 N \"CZ\"",
+      "Density [kg/m³]": 3.01
     },
     {
-      "Name": "CEM II/C-M (S-LL) 42,5 N-NA \"CZ\""
+      "Name": "CEM II/C-M (S-LL) 42,5 N-NA \"CZ\"",
+      "Density [kg/m³]": 3.01
     },
     {
-      "Name": "Siliceous inert cement mortar: RENOVA FINISH"
+      "Name": "Siliceous inert cement mortar: RENOVA FINISH",
+      "Density [kg/m³]": 1750.0
     },
     {
       "Name": "Cement (CEM III 52,5)"
     },
     {
-      "Name": "CEM III/A 32,5 N-LH (na)"
+      "Name": "CEM III/A 32,5 N-LH (na)",
+      "Density [kg/m³]": 3.01
     },
     {
-      "Name": "Mixed inert heavy cement mortar: T FIX, HYDRO STOP, RENOVA"
+      "Name": "Mixed inert heavy cement mortar: T FIX, HYDRO STOP, RENOVA",
+      "Density [kg/m³]": 1600.0
     },
     {
       "Name": "average cement D"
@@ -91,10 +106,12 @@
       "Name": "Cement (CEM II 52,5)"
     },
     {
-      "Name": "Blastfurnace cement CEM III/A 42,5 N (na)"
+      "Name": "Blastfurnace cement CEM III/A 42,5 N (na)",
+      "Density [kg/m³]": 2.96
     },
     {
-      "Name": "Blastfurnace cement CEM III/B 42,5 L-LH/SR (na)"
+      "Name": "Blastfurnace cement CEM III/B 42,5 L-LH/SR (na)",
+      "Density [kg/m³]": 2.96
     }
   ]
 }

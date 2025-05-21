@@ -1,7 +1,8 @@
 {
   "Material Options": [
     {
-      "Name": "Therma? TW55 R"
+      "Name": "Therma? TW55 R",
+      "Density [kg/m³]": 30.0
     }
   ]
 }
