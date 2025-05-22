@@ -39,6 +39,7 @@ def extract_all():
             out_directory_boq, entity_config, entity_bool
             )
 
+
         # Append elements to to BoQ
         extractor_boq(out_directory_elements, out_directory_boq)
 

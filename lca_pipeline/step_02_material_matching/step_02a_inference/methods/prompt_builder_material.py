@@ -24,15 +24,6 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
     matching_strictness = material_prompt_variables.get("matching_strictness")
     prio_sustainability = material_prompt_variables.get("prioritize_sustainability")
 
-    print("\n[DEBUG] material_prompt_variables:")
-    print(f"  language:                 {lng}")
-    print(f"  chain_of_thought:        {cot_bool}")
-    print(f"  extract_then_reason:     {etr_bool}")
-    print(f"  iterative_self_refinement: {isr_bool}")
-    print(f"  include_examples:        {exp_bool}")
-    print(f"  matching_strictness:     {matching_strictness}")
-    print(f"  prioritize_sustainability: {prio_sustainability}")
-
 
     # ============================================
     # English Prompt Lines
@@ -55,7 +46,7 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
             task_fr_2 = material_prompt_components["task_fr_high_2"]
         else: # Low is default fallback
             task_fr_1 = material_prompt_components["task_fr_low_1"]
-            task_fr_2 = material_prompt_components["task_fr_low_1"]
+            task_fr_2 = material_prompt_components["task_fr_low_2"]
 
 
         # construct dynamic output block
@@ -165,7 +156,7 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
             task_fr_2 = material_prompt_components_ger["task_fr_high_2"]
         else:
             task_fr_1 = material_prompt_components_ger["task_fr_low_1"]
-            task_fr_2 = material_prompt_components_ger["task_fr_low_1"]
+            task_fr_2 = material_prompt_components_ger["task_fr_low_2"]
 
         # construct dynamic output block
         output_format_map = {

@@ -100,10 +100,14 @@ def dissector_element(source_dirs, elements_directory, target_layer_directory, m
                         "Building Element Context": building_element_context
                     }
 
-                    if "CompilationGroupID" in data:
-                        output_data["CompilationGroupID"] = data["CompilationGroupID"]
-
                     layer_number = idx + 1
+                    if "CompilationGroupID" in data:
+                        output_data["CompilationGroupID"] = f"{data['CompilationGroupID']}_L{layer_number}"
+                    elif "Element Metadata" in data and "GlobalId" in data["Element Metadata"]:
+                        # Inject modified GlobalId inside nested metadata
+                        output_data.setdefault("Building Element Context", {}).setdefault("Element Metadata", {})
+                        output_data["Building Element Context"]["Element Metadata"]["GlobalId"] = f"{data['Element Metadata']['GlobalId']}_L{layer_number}"
+
                     output_filename = f"{base_filename}_L{layer_number}.json"
                     output_path = os.path.join(target_layer_directory, output_filename)
 
@@ -202,14 +206,16 @@ def load_dissected_layers(target_layer_directory):
         except json.JSONDecodeError:
             continue
 
-        # Extract IDs
         group_id = data.get("CompilationGroupID")
         if not group_id:
-            # Fallback to GlobalId inside Building Element Context
             group_id = data.get("Building Element Context", {}).get("Element Metadata", {}).get("GlobalId")
 
         if not group_id:
             continue  # Skip if neither available
+
+        # Extract base ID (strip layer suffix like _L1)
+        base_id = group_id.rsplit("_L", 1)[0]
+
 
         # Extract target layer thickness
         target_layer = data.get("Target Layer of Material Inference", {})
@@ -227,15 +233,16 @@ def load_dissected_layers(target_layer_directory):
         # Now compute total thickness
         total_thickness = (target_thickness or 0.0) + other_thickness_sum
 
-        if group_id not in mapping:
-            mapping[group_id] = {"layers": [], "total_thickness": 0.0}
+        if base_id not in mapping:
+            mapping[base_id] = {"layers": [], "total_thickness": 0.0}
 
-        mapping[group_id]["layers"].append({
+        mapping[base_id]["layers"].append({
             "Layer Number": layer_number,
             "Thickness": target_thickness,
             "Material Name": material_name
         })
-        mapping[group_id]["total_thickness"] = total_thickness  # Always set total thickness based on full material structure
+        mapping[base_id]["total_thickness"] = total_thickness
+
 
     # Sort layers by Layer Number for consistency
     for group_info in mapping.values():
@@ -251,6 +258,7 @@ def split_row_by_layers(row, layers_info):
     id_ = row["Id"]
     base_name = row["Name"]
     entity = row["Entity"]
+    object_type = row["ObjectType"]
     length = float(row["Length [m]"])
     area = float(row["Largest Surface Area [m^2]"])
     volume = float(row["Volume [m^3]"])
@@ -269,6 +277,7 @@ def split_row_by_layers(row, layers_info):
             "Id": f"{id_}_L{layer_num}",
             "Name": f"{base_name} (L{layer_num})",
             "Entity": entity,
+            "ObjectType": object_type,
             "Length [m]": round(length, 4),
             "Largest Surface Area [m^2]": round(area, 4),
             "Volume [m^3]": round(volume * ratio, 4),
@@ -290,6 +299,7 @@ def split_row_by_layers(row, layers_info):
                 "Id": f"{id_}_L{layer_num}",
                 "Name": f"{base_name} (L{layer_num})",
                 "Entity": entity,
+                "ObjectType": object_type,
                 "Length [m]": round(length, 4),
                 "Largest Surface Area [m^2]": round(area, 4),
                 "Volume [m^3]": round(volume * ratio, 4),
@@ -350,6 +360,7 @@ def dissector_boq(compiled_boq_path, target_layer_directory, elements_directory,
         "Elements Compiled", 
         "Name",
         "Entity",
+        "ObjectType",
         "Material Descriptor", 
         "Layer Number", 
         "Layer Thickness [m]",

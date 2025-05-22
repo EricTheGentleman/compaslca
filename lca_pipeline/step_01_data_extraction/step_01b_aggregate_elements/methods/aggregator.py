@@ -179,6 +179,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
         globalid = row["GlobalId"]
         name = row["Name"]
         entity = row["Entity"]
+        objecttype = row["ObjectType"]
         key = (globalid, name)
 
         # Parse numeric values safely
@@ -207,6 +208,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
                 "Id": globalid,
                 "Name": name,
                 "Entity": entity,
+                "ObjectType": objecttype,
                 "Length [m]": length,
                 "Largest Surface Area [m^2]": area,
                 "Volume [m^3]": volume,
@@ -231,6 +233,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
             "Id": group_id,
             "Name": name,
             "Entity": entity,
+            "ObjectType": groupid_to_compiled_objecttype[group_id],
             "Length [m]": round(sums["Length [m]"], 4),
             "Largest Surface Area [m^2]": round(sums["Largest Surface Area [m^2]"], 4),
             "Volume [m^3]": round(sums["Volume [m^3]"], 4),
@@ -242,7 +245,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
     final_rows.extend(ungrouped_data)
 
     # Write to new CSV
-    output_fieldnames = ["Id", "Name", "Entity", "Length [m]", "Largest Surface Area [m^2]", "Volume [m^3]", "Compiled", "Elements Compiled"]
+    output_fieldnames = ["Id", "Name", "Entity", "ObjectType", "Length [m]", "Largest Surface Area [m^2]", "Volume [m^3]", "Compiled", "Elements Compiled"]
     
     # Define output file name
     output_filename = "BoQ_step_01b.csv"
@@ -268,7 +271,7 @@ def aggregator_metadata(metadata_path, groups_count, total_compiled_elements, to
 
     # Add the new aggregation data
     metadata["Module 01: Data Extraction"]["Module 01b: Aggregate Elements"] = {
-        "Total individual elements aggregated": total_compiled_elements,
+        "Total individual elements aggregated (due to shared ObjectType and IfcMaterials)": total_compiled_elements,
         "Total aggregation groups generated (and representative elements for inference)": groups_count,
         "Total individual elements identified as unique": total_unique_elements
     }

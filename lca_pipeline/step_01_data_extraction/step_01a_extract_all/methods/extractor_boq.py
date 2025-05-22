@@ -39,6 +39,7 @@ def extractor_boq(out_directory_elements, out_directory_boq):
                     "GlobalId": element_metadata.get("GlobalId", "Unknown"),
                     "Name": element_metadata.get("Name", "Unknown"),
                     "Entity": element_entity,
+                    "ObjectType": element_metadata.get("ObjectType", "Unknown"),
                     "Length [m]": length or 0,
                     "Length Source": length_source,
                     "Largest Surface Area [m^2]": area or 0,
@@ -54,7 +55,7 @@ def extractor_boq(out_directory_elements, out_directory_boq):
 
     # Export the Bill of Quantities to a CSV file
     boq_output_path = os.path.join(out_directory_boq, "BoQ_step_01a.csv")
-    boq_fieldnames = ["GlobalId", "Name", "Entity", "Length [m]", "Length Source", "Largest Surface Area [m^2]", "Area Source", "Volume [m^3]", "Volume Source"]
+    boq_fieldnames = ["GlobalId", "Name", "Entity", "ObjectType", "Length [m]", "Length Source", "Largest Surface Area [m^2]", "Area Source", "Volume [m^3]", "Volume Source"]
 
     with open(boq_output_path, "w", newline='', encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=boq_fieldnames)

@@ -5,9 +5,9 @@ from methods.prompt_builder_material import build_material_prompt
 
 master_config_path = Path("config/master_config.yaml")
 config = load_yaml_config(master_config_path)
-output_path = Path("data/output/prompt_preview/material_prompt_preview.txt")
+output_path = Path("data/output/prompt_preview/material_prompt.txt")
 
-def preview_prompt():
+def preview_material_prompt():
 
     # Set dummy
     mode = "element"
@@ -29,4 +29,10 @@ def preview_prompt():
     output_file.write_text(prompt, encoding="utf-8")
 
 if __name__ == "__main__":
-    preview_prompt()
+    preview_material_prompt()
+    print("\n")
+    print("=================================")
+    print("Material prompt preview saved to:")
+    print(output_path)
+    print("=================================")
+    print("\n")

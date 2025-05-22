@@ -1,5 +1,6 @@
 from methods.utils import append_id
 from methods.summarize_results import summarize_inferences
+from methods.update_metadata_file import update_metadata
 from pathlib import Path
 
 # Master config path
@@ -17,6 +18,10 @@ source_root_target_layers = Path("data/pipeline/step_01_data_extraction/step_01c
 output_elements = Path("data/pipeline/step_02_material_matching/step_02b_bookkeeping/Elements")
 output_target_layers = Path("data/pipeline/step_02_material_matching/step_02b_bookkeeping/Target_Layers")
 
+# Metadata file path
+metadata_file_path = Path("data/pipeline/step_01_data_extraction/step_01c_dissect_layers/metadata_step_01c.json")
+metadata_output_path = Path("data/pipeline/step_02_material_matching/step_02b_bookkeeping")
+
 def bookkeeper():
 
     # summarize inferences
@@ -27,7 +32,12 @@ def bookkeeper():
     append_id(output_elements, source_root_elements)
     append_id(output_target_layers, source_root_target_layers)
 
+    # update metadata file with totals and LLM metadata
+    update_metadata(
+        metadata_input_path=metadata_file_path,
+        directories_to_scan=[output_elements, output_target_layers],
+        metadata_output_path=metadata_output_path,
+        config=master_config)
+
 if __name__ == "__main__":
     bookkeeper()
-
-# IMPORTANT: APPEND MODEL AND PARAMETERS USED!!!

@@ -2,14 +2,27 @@
 # COMPAS-LCA Master Configuration File #
 ########################################
 
+# =================================================================
+# This is the master configuration file for the COMPAS-LCA pipeline
+# If it is too overwhelming, you can just use the default settings
+# You MUST specify the api_key for the LLM inferences
+# Also the database choice determines the output significantly
+# =================================================================
+
+
 # === Database Settings ===
+# Choose the LCA database that should be used for the material matching & LCA calculation
+# Do not change this setting when executing the modules separately!
 database_config:
 
   # Which database should be used for the material matching & LCA calculation?
+  # KBOB is a smaller database with specifc materials for the Swiss environment
+  # Oekobaudat is more comprehensive, but requires more token usage and is more expensive (by a factor of 2-3)
   database: "kbob" # ("kbob"/"oekobaudat")
 
 
 # === Category Inference Settings ===
+# These are the settings for the LLM-based LCA database category inference
 category_inference_config:
 
   company: "OpenAI"
@@ -24,6 +37,7 @@ category_inference_config:
 
 
 # === Material Inference Settings ===
+# These are the settings for the LLM-based LCA database material entries inference
 material_inference_config:
 
   company: "OpenAI"
@@ -39,55 +53,75 @@ material_inference_config:
 
 
 # === Category Prompt Variables ===
+# Specifiy your prompt variables for the LLM-based category inference
+# Due to the modular nature of the prompt, and with some programming knowledge, you can add variables to your liking
+# Just add the text in the category prompt component template and load them with the new key in the category prompt builder file (in english AND german)
 category_prompt_variables:
 
-  # Expert Reasoning
-  include_expert_reasoning: false #(false/true)
+  # Language
+  language: "en" #("en"/"de")
 
-  # Chain of Thought Reasoning
-  include_cot: false #(false/true)
+  # Should the LLM produce a summary through Chain of Thought Reasoning
+  chain_of_thought: false
 
-  # Specify if the LLM should justify its decision in the output
-  decision_justification: false #(false/true)
+  # Specify if the LLM should first identify specific information, and then use that information to logically decduce an answer.
+  extract_then_reason: false
+
+  # Should the LLM output something first, and then evaluate it / improve upon its answer?
+  iterative_self_refinement: false
+
+  # Should context-aware examples be included.
+  # The examples are not yet avaialble in the Oekobaudat (if set to true when choosing Oekobaudat, the examples in the prompt will be empty)
+  include_examples: false
 
 
 # === Material Prompt Variables ===
+# Specifiy your prompt variables for the LLM-based material entries inference
+# Due to the modular nature of the prompt, and with some programming knowledge, you can add variables to your liking
+# Just add the text in the material prompt component template and load them with the new key in the material prompt builder file (in english AND german)
 material_prompt_variables:
-
-  # Matching Strictness Phrasing. Specifies how many materials entries the LLM should try to match
-  matching_strictness: "Mid" #("Low"/"Mid"/"High")
-
-  # This boolean includes the instruction to prioritize the suistainable materials that would fit the IfcBuildingElement / Target Layer
-  prioritize_suistainability: false #(false/true)
 
   # decide if the density (if available) of a material entry should be included in the LCI database passed to the LLM
   # Can increase token usage, especially for large material lists like in the Oekobaudat!
   include_density: false #(false/true)
 
-  # Expert Reasoning
-  include_expert_reasoning: false #(false/true)
+  # Matching Strictness Phrasing. Specifies how many materials entries the LLM should try to match
+  matching_strictness: "low" #("Low"/"Mid"/"High")
 
-  # Chain of Thought Reasoning
-  include_cot: false #(false/true)
+  # This boolean instructs the LLM to prioritize the materials that the LLM thinks are sustainable and that would fit the IfcBuildingElement / Target Layer
+  prioritize_sustainability: false #(false/true)
 
-  # Specify if the LLM should justify its decision in the output
-  decision_justification: false #(false/true)
+  # Language
+  language: "en" #("en"/"de")
 
+  # Should the LLM produce a summary through Chain of Thought Reasoning
+  chain_of_thought: false
 
+  # Specify if the LLM should first identify specific information, and then use that information to logically decduce an answer.
+  extract_then_reason: false
+
+  # Should the LLM output something first, and then evaluate it / improve upon its answer?
+  iterative_self_refinement: false
+
+  # Should context-aware examples be included.
+  # The examples are not yet avaialble in the Oekobaudat (if set to true when choosing Oekobaudat, the examples in the prompt will be empty)
+  include_examples: false
 
 
 
 # === Extraction Settings ===
 # Depending on the availability of the IFC quantities, the BREP calculation can be disabeled
-# It would also mean that any bounding-box, geometric complexity and ratios are not included
+# It would also mean that any bounding-box, geometric complexity and ratios are not included for the LLM inference
 # It is recommended to enable the brep calculation, but specify brep calculation timeout for high complexity elements
 extraction_config:
 
-  # If the IFC entities should be specified, refer to following YAML config file:
-  entity_config_path: config/step_01_data_extraction/extraction_config.yaml
+  # If this is set to true, all subtypes of IfcBuildingElement will be included in the extraction
+  # If set to false, you can adjust the selection of IFC entities in the file found in entity_config_path
+  include_all_entities: true
 
-  # Specify maximum elements that should be extracted (null for all elements)
-  max_elements: null
+  # If the IFC entities should be specified, refer to following YAML config file
+  # Do not change the path!
+  entity_config_path: config/step_01_data_extraction/extraction_config.yaml
 
   # Calculate BREP related quantities (area, volume) with compas_occ
   brep_enabled: true
@@ -98,35 +132,42 @@ extraction_config:
 
 
 # === IfcBuilding Element Data Filtering ===
-# The software package extracts all "possibly" relevant data from each BIM element.
-# In order to minimize tokens & navigate the LLM inference, these data sheets can be altered.
-# The settings below allow for filtering the JSON files / IFC data sheets.
+# The filter submodule (step_01d_filter_data) is used to customize the data sheets that are passed to the LLM
+# This is important to minimize token usage and to ensure that the LLM is not overloaded with data
+# The settings below allow for filtering the JSON files / IFC data sheets. Recommended preset settings are included
 filter_config:
 
-  # Only include the psets in the list config/step_01_data_extraction/pset_selection.py (can be altered!)
-  # This minimizes token usage alot, but the list of psets is very tailored (specific) to the sampeled IFC models!
-  # If there is no prior knowledge of exact pset key names (or relevancy for inference), set to false
-  use_pset_filter: true
-
-  # Path to the pset key file if use_pset_filter: true (can add and remove keys!)
-  pset_key_file: "config/step_01_data_extraction/pset_selection.py"
+  # Used to remove "empty" or "unknown" key-value pairs (minimizes tokens). Set to "false" to maintain.
+  # It is recommended to set this to "true" for the LLM inference, as it reduces token usage, and empty key-value pairs are not relevant for the LLM
+  remove_empty_values: true
 
   # Choose either "custom" or "preset". Custom allows for user-based configuration of what should be included.
+  # Important: the pset_filter is independentent of the mode (i.e., custom/preset)
   mode: "preset"
 
   # Choose data Level of Information (LOI) preset. Used only if mode is "preset"; must be one of: low_LOI, medium_LOI, high_LOI
   preset: "medium_LOI"
 
-  # Used only if mode is "custom"; this is the folder that contains both customizable YAML files
+  # Used only if mode is "custom"; this is the folder that contains both YAML files where you can fully customize the Element and Target Layer data sheets
+  # Only use custom if you know exactly what you want or don't want to pass to the LLM.
   custom_path: "config/step_01_data_extraction/filter_custom"
 
-  # Used to remove "empty" or "unknown" key-value pairs (minimizes tokens). Set to "false" to maintain.
-  remove_empty_values: true
+  # If "use_pset_filter" is set to true, only psets included list "config/step_01_data_extraction/pset_selection.py" are passed to the LLM
+  # This minimizes token usage alot, especially if there are a lot of unimportant psets (such as costs, quantities, etc.)
+  # Please inspect the JSON datas in the folders data/pipeline/step_01c_dissect_layers and determine which presets have important material and functional data.
+  # If there is no prior knowledge of exact pset key names (or relevancy for inference), set to false
+  use_pset_filter: true
+
+  # Path to the pset key file if use_pset_filter: true (can add and remove keys!)
+  # In this file you can add and remove keys that are used for the PSET filtering of the JSON data sheets
+  # The pset_key_file already has an exhaustive list of keys based on empirical knowledge of case study IFC files
+  # Do not change the path!
+  pset_key_file: "config/step_01_data_extraction/pset_selection.py"
+
 
   # Reordering of keys. Maintain the name and the indent, only change order!
-  # LLMs can be sensitive to the order of data. Especially data in the "middle" tends to get lost, according to some academic literature.
+  # LLMs can be sensitive to the order of data. Especially data in the "middle" tends to get lost, according to some literature.
   # The presets below are a good basis (i.e., you can also just leave as-is)
-
   # Key order for the "IfcBuildingElement" data sheets
   element_key_order:
     - Element Metadata
@@ -152,12 +193,6 @@ filter_config:
     - Element Property Sets
     - Element Relationships
     - Element Location
-
-
-
-
-
-
 
 
 
