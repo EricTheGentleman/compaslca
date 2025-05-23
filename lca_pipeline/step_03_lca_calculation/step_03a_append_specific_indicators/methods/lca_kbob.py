@@ -55,7 +55,8 @@ def extract_kbob_data(input_dirs, output_base_dir, selected_keys=None):
                 step for step in data.get("inference_steps", [])
                 if step.get("matched_type") == "material"
             ]
-            output_file = output_dir / file_path.name
+            new_filename = file_path.name.replace("_inference.json", "_indicators.json")
+            output_file = output_dir / new_filename
 
             if not material_steps:
                 output_json["Matched Materials with KBOB Indicators"].append({"Name": "None"})

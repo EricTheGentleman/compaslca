@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 from collections import OrderedDict
 
-def append_quantities(json_dirs, boq_path):
+def append_quantities(json_dirs, boq_path, database):
     # Load CSV data into a dictionary keyed by ID
     boq_data = {}
     with open(boq_path, "r", encoding="utf-8") as f:
@@ -33,10 +33,17 @@ def append_quantities(json_dirs, boq_path):
             if not json_id or json_id not in boq_data:
                 continue
 
-            # Inject BOQ values before the materials list
-            insert_before_key = "Matched Materials with KBOB Indicators"
-            new_data = OrderedDict()
-            inserted = False
+            if database == "kbob":
+                # Inject BOQ values before the materials list
+                insert_before_key = "Matched Materials with KBOB Indicators"
+                new_data = OrderedDict()
+                inserted = False
+            else:
+                # Inject BOQ values before the materials list
+                insert_before_key = "Matched Materials with OEKOBAUDAT Indicators"
+                new_data = OrderedDict()
+                inserted = False
+
 
             for key, value in data.items():
                 # Inject BOQ fields before the target key
