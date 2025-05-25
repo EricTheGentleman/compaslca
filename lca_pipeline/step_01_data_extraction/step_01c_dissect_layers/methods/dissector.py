@@ -371,7 +371,7 @@ def dissector_boq(compiled_boq_path, target_layer_directory, elements_directory,
     output_filename = "BoQ_step_01c.csv"
     output_path = os.path.join(output_folder, output_filename)
 
-    with open(output_path, "w", newline='', encoding="utf-8") as outf:
+    with open(output_path, "w", newline='', encoding="utf-8-sig") as outf:
         writer = csv.DictWriter(outf, fieldnames=output_fieldnames)
         writer.writeheader()
         writer.writerows(final_rows)

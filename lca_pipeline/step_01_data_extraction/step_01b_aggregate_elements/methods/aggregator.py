@@ -255,7 +255,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
     # Combine directory + filename
     output_path = os.path.join(data_folder, output_filename)
 
-    with open(output_path, "w", newline='', encoding="utf-8") as outf:
+    with open(output_path, "w", newline='', encoding="utf-8-sig") as outf:
         writer = csv.DictWriter(outf, fieldnames=output_fieldnames)
         writer.writeheader()
         writer.writerows(final_rows)
