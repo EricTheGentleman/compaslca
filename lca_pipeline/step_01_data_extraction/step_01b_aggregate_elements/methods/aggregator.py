@@ -172,7 +172,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
             rows.append(row)
 
     # Prepare output data
-    grouped_data = defaultdict(lambda: {"Length [m]": 0.0, "Largest Surface Area [m^2]": 0.0, "Volume [m^3]": 0.0, "Count": 0})
+    grouped_data = defaultdict(lambda: {"Length [m]": 0.0, "Largest Surface Area [m^2]": 0.0, "Volume [m^3]": 0.0, "Count": 0, "Entity": None})
     ungrouped_data = []
 
     for row in rows:
@@ -202,6 +202,8 @@ def aggregator_boq(boq_path, overview_path, data_folder):
             grouped_data[group_id]["Largest Surface Area [m^2]"] += area
             grouped_data[group_id]["Volume [m^3]"] += volume
             grouped_data[group_id]["Count"] += 1
+            if grouped_data[group_id]["Entity"] is None:
+                grouped_data[group_id]["Entity"] = entity
         else:
             # Save ungrouped row
             ungrouped_data.append({
@@ -232,7 +234,7 @@ def aggregator_boq(boq_path, overview_path, data_folder):
         final_rows.append({
             "Id": group_id,
             "Name": name,
-            "Entity": entity,
+            "Entity": sums["Entity"],
             "ObjectType": groupid_to_compiled_objecttype[group_id],
             "Length [m]": round(sums["Length [m]"], 4),
             "Largest Surface Area [m^2]": round(sums["Largest Surface Area [m^2]"], 4),

@@ -73,6 +73,9 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
         # Category before concrete leaf node for both oekobaudat and kbob is "beton", so load specifc instruction
         if category == "Beton":
             concrete_instruct = "- For structural concrete, ignore reinforcement. Just match all viable generic and specifc concretes, and consider the appropriate cement mix for the element type."
+        if category == "Fenster, Sonnenschutz, Fassadenplatten":
+            window_instruct = "- For IfcWindow entities, just match the glazing and don't match the frame options."
+
 
         # Load context-aware few-shot examples
         exp = ""
@@ -87,7 +90,6 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
                 exp = material_prompt_components["examples_dichtungsbahnen"]
             elif category == "Fenster, Sonnenschutz, Fassadenplatten":
                 exp = material_prompt_components["examples_fenster"]
-                window_instruct = "- For IfcWindow entities, just match the glazing and don't match the frame options."
             elif category == "Holz und Holzwerkstoffe":
                 exp = material_prompt_components["examples_holz"]
             elif category == "Kunststoffe":
@@ -182,6 +184,8 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
         # Category before concrete leaf node for both oekobaudat and kbob is "beton", so load specifc instruction
         if category == "Beton":
             concrete_instruct = "- Falls tragender Beton, die Bewehrung ignorieren. Einfach alle geeigneten generischen und spezifischen Betone zuordnen und die passende Zementmischung für die Funktion des Elements berücksichtigen."
+        if category == "Fenster, Sonnenschutz, Fassadenplatten":
+            window_instruct = "- Bei IfcWindow-Elementen nur die Verglasung zuordnen und keine Rahmenoptionen berücksichtigen."
 
         # Load context-aware few-shot examples
         exp = ""
@@ -196,7 +200,6 @@ def build_material_prompt(bim_element, material_entries, mode, category, config)
                 exp = material_prompt_components_ger["examples_dichtungsbahnen"]
             elif category == "Fenster, Sonnenschutz, Fassadenplatten":
                 exp = material_prompt_components_ger["examples_fenster"]
-                window_instruct = "- Bei IfcWindow-Elementen nur die Verglasung zuordnen und keine Rahmenoptionen berücksichtigen."
             elif category == "Holz und Holzwerkstoffe":
                 exp = material_prompt_components_ger["examples_holz"]
             elif category == "Kunststoffe":
